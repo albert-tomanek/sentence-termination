@@ -1,0 +1,316 @@
+1
+00:00:01,220 --> 00:00:03,220
+Emotion recognition spytech.
+
+2
+00:00:03,220 --> 00:00:06,590
+It’s China’s newest mass surveillance
+craze
+
+3
+00:00:06,590 --> 00:00:09,440
+But there’s a big problem
+
+4
+00:00:15,240 --> 00:00:16,510
+Welcome back to China Uncensored.
+
+5
+00:00:16,510 --> 00:00:17,990
+I'm Chris Chappell.
+
+6
+00:00:17,990 --> 00:00:19,160
+Forget facial recognition,
+
+7
+00:00:19,160 --> 00:00:20,160
+eye tracking,
+
+8
+00:00:20,160 --> 00:00:21,570
+and crowd analysis.
+
+9
+00:00:21,570 --> 00:00:24,099
+China’s hottest new surveillance craze
+
+10
+00:00:24,099 --> 00:00:27,060
+is emotion recognition.
+
+11
+00:00:27,060 --> 00:00:28,060
+Emotion recognition:
+
+12
+00:00:28,060 --> 00:00:30,890
+the thing all my ex girlfriends wish I had.
+
+13
+00:00:30,890 --> 00:00:33,980
+Here’s how the computerized version works.
+
+14
+00:00:33,980 --> 00:00:36,980
+The idea is that software algorithms can tell
+how
+
+15
+00:00:36,980 --> 00:00:41,800
+you’re feeling by analyzing real time video
+of your face.
+
+16
+00:00:41,800 --> 00:00:42,800
+For a long time,
+
+17
+00:00:42,800 --> 00:00:43,830
+China’s internal security
+
+18
+00:00:43,830 --> 00:00:46,420
+has used facial recognition software
+
+19
+00:00:46,420 --> 00:00:48,690
+that analyzes your facial dimensions,
+
+20
+00:00:48,690 --> 00:00:50,880
+hair color and skin color.
+
+21
+00:00:50,880 --> 00:00:53,100
+And they’ve discovered that that most crimes
+in China
+
+22
+00:00:53,100 --> 00:00:56,840
+are committed by people with...black... hair.
+
+23
+00:00:56,840 --> 00:00:57,870
+Arrest all the Party officials!
+
+24
+00:00:57,870 --> 00:01:01,500
+Haha, you’ll have to wait till after the
+revolution.
+
+25
+00:01:01,500 --> 00:01:05,159
+But soon China’s 200 million surveillance
+cameras
+
+26
+00:01:05,159 --> 00:01:08,570
+could start recording and analyzing people’s
+emotions
+
+27
+00:01:08,570 --> 00:01:11,610
+to figure out if they’re likely to commit
+a crime.
+
+28
+00:01:11,610 --> 00:01:13,970
+If the system spots certain indicators—
+
+29
+00:01:13,970 --> 00:01:16,000
+say you’ve had a bad day and are scowling
+
+30
+00:01:16,000 --> 00:01:17,930
+on your way home from the office—
+
+31
+00:01:17,930 --> 00:01:19,190
+up goes a red flag
+
+32
+00:01:19,190 --> 00:01:21,260
+and a possible police interception.
+
+33
+00:01:21,260 --> 00:01:23,290
+The trouble is,
+
+34
+00:01:23,290 --> 00:01:25,590
+experts say emotion recognition technology
+
+35
+00:01:25,590 --> 00:01:27,630
+is actually “pretty bogus.”
+
+36
+00:01:27,630 --> 00:01:29,320
+This recent study found that
+
+37
+00:01:29,320 --> 00:01:31,750
+while facial expression recognition systems
+
+38
+00:01:31,750 --> 00:01:35,409
+are up to 97% accurate in the lab,
+
+39
+00:01:35,409 --> 00:01:38,400
+that accuracy rate drops to around 50%
+
+40
+00:01:38,400 --> 00:01:39,400
+in the real-world.
+
+41
+00:01:39,400 --> 00:01:42,170
+But never mind that it’s only right half
+the time.
+
+42
+00:01:42,170 --> 00:01:43,750
+The Communist Party has no qualms
+
+43
+00:01:43,750 --> 00:01:45,930
+about arresting innocent people.
+
+44
+00:01:45,930 --> 00:01:47,030
+And the Party has already begun
+
+45
+00:01:47,030 --> 00:01:49,600
+experimenting with emotion recognition
+
+46
+00:01:49,600 --> 00:01:52,860
+to target China’s most vulnerable population.
+
+47
+00:01:52,860 --> 00:01:54,670
+A Financial Times reporter
+
+48
+00:01:54,670 --> 00:01:57,140
+went to a spytech expo in Shenzhen.
+
+49
+00:01:57,140 --> 00:02:00,000
+She tweeted that a “policing expert and
+party cadre
+
+50
+00:02:00,000 --> 00:02:02,730
+from Xinjiang’s public security bureau”
+
+51
+00:02:02,730 --> 00:02:05,740
+told her they’re already using emotion recognition
+
+52
+00:02:05,740 --> 00:02:07,450
+to target people there.
+
+53
+00:02:07,450 --> 00:02:09,289
+Xinjiang is in western China.
+
+54
+00:02:09,289 --> 00:02:12,150
+It’s the testing ground for the latest in
+spytech.
+
+55
+00:02:12,150 --> 00:02:13,410
+That’s where the Communist Party
+
+56
+00:02:13,410 --> 00:02:15,900
+is putting people in concentration camps.
+
+57
+00:02:15,900 --> 00:02:17,740
+“The Chinese Communist Party is detaining
+
+58
+00:02:17,740 --> 00:02:20,240
+and abusing more than 1 million Uighur Muslims
+
+59
+00:02:20,240 --> 00:02:22,910
+in internment camps in Xinjiang,
+
+60
+00:02:22,910 --> 00:02:25,020
+the western region of China.
+
+61
+00:02:26,520 --> 00:02:28,720
+The pages of George Orwell’s 1984
+
+62
+00:02:28,720 --> 00:02:30,920
+are coming to life there.”
+
+63
+00:02:30,920 --> 00:02:35,200
+It’s 1984, with 2019 technology.
+
+64
+00:02:35,200 --> 00:02:38,360
+But experts say it’s still early days.
+
+65
+00:02:38,360 --> 00:02:39,620
+More testing needs to be done
+
+66
+00:02:39,620 --> 00:02:41,260
+In emotion recognition technology
+
+67
+00:02:41,260 --> 00:02:43,730
+is adopted widely across China.
+
+68
+00:02:43,730 --> 00:02:46,570
+But in Xinjiang, better safe than sorry.
+
+69
+00:02:46,570 --> 00:02:49,030
+If you’re having a bad day...
+
+70
+00:02:49,030 --> 00:02:50,030
+Smile!
+
+71
+00:02:50,030 --> 00:02:53,599
+Because anything less can get you into a lot
+of trouble.
+
+72
+00:02:53,599 --> 00:02:55,290
+So what do you think about China’s security
+
+73
+00:02:55,290 --> 00:02:58,569
+using emotion recognition to target its citizens?
+
+74
+00:02:58,569 --> 00:03:00,500
+Leave your comments below.
+
+75
+00:03:00,500 --> 00:03:01,690
+Once again, I’m Chris Chappell.
+
+76
+00:03:01,690 --> 00:03:02,640
+See you next time.
+

@@ -1,0 +1,876 @@
+1
+00:00:00,149 --> 00:00:01,900
+On this episode of China Uncensored,
+
+2
+00:00:01,900 --> 00:00:03,170
+it turns out that lending money
+
+3
+00:00:03,170 --> 00:00:05,110
+to strangers on the internet
+
+4
+00:00:05,110 --> 00:00:06,420
+can be kind of risky.
+
+5
+00:00:10,900 --> 00:00:12,260
+Hi, welcome back to China Uncensored.
+
+6
+00:00:12,260 --> 00:00:13,820
+I’m your host, Chris Chappell.
+
+7
+00:00:13,820 --> 00:00:16,520
+It’s scarier than Jurassic Park.
+
+8
+00:00:16,529 --> 00:00:18,740
+More terrifying than Jaws.
+
+9
+00:00:18,740 --> 00:00:21,560
+And way more...serious than The MEG.
+
+10
+00:00:23,840 --> 00:00:26,660
+It’s the peer-to-peer loan crisis in China.
+
+11
+00:00:26,660 --> 00:00:28,550
+And it’s worse than Jason Statham
+
+12
+00:00:28,550 --> 00:00:30,830
+trying to stretch his acting range.
+
+13
+00:00:30,830 --> 00:00:33,180
+P2P lending is also called crowdlending.
+
+14
+00:00:33,180 --> 00:00:36,350
+It’s one part of China’s shadow banking
+industry—
+
+15
+00:00:36,350 --> 00:00:39,520
+a kind of parallel dimension of debt financing
+
+16
+00:00:39,520 --> 00:00:43,330
+that conjures up images of back alley loan
+sharks.
+
+17
+00:00:43,330 --> 00:00:45,530
+Shadow banking is all the lending and borrowing
+
+18
+00:00:45,530 --> 00:00:49,290
+that’s done outside the highly regulated
+banking industry.
+
+19
+00:00:49,290 --> 00:00:52,520
+And in China, shadow banking is big business.
+
+20
+00:00:52,520 --> 00:00:53,950
+It includes includes everything
+
+21
+00:00:53,950 --> 00:00:56,780
+from high-risk exotic investment products,
+
+22
+00:00:56,780 --> 00:00:59,520
+to pawnshop and loan shark operations,
+
+23
+00:00:59,520 --> 00:01:02,370
+to online peer-to-peer loans.
+
+24
+00:01:02,370 --> 00:01:05,610
+Shadow banking has been crucial to China’s
+economy
+
+25
+00:01:05,610 --> 00:01:08,820
+because it provides much-needed loans to small
+businesses
+
+26
+00:01:08,820 --> 00:01:13,010
+and individuals that might not qualify for
+regular bank loans.
+
+27
+00:01:13,010 --> 00:01:15,460
+Local governments have even used shadow banking
+loans
+
+28
+00:01:15,460 --> 00:01:17,530
+to make up shortfalls.
+
+29
+00:01:17,530 --> 00:01:21,550
+Shadow banking in China is a 10 trillion dollar
+a year industry.
+
+30
+00:01:21,550 --> 00:01:25,250
+This slice—about 9%—is the crowdlending
+sector.
+
+31
+00:01:25,250 --> 00:01:28,130
+The P2P lending may seem like a small slice,
+
+32
+00:01:28,130 --> 00:01:30,120
+but there’s more P2P lending in China
+
+33
+00:01:30,120 --> 00:01:32,580
+than everywhere else in the world combined.
+
+34
+00:01:32,580 --> 00:01:35,850
+It’s got 50 million registered users,
+
+35
+00:01:35,850 --> 00:01:39,520
+and outstanding loans of around $200 billion
+dollars.
+
+36
+00:01:39,520 --> 00:01:42,570
+P2P lending is a bit like like Tinder.
+
+37
+00:01:42,570 --> 00:01:45,210
+But instead of going on a date with a stranger,
+
+38
+00:01:45,210 --> 00:01:48,049
+you enter into a financial partnership with
+a stranger.
+
+39
+00:01:48,049 --> 00:01:49,300
+In both cases,
+
+40
+00:01:49,300 --> 00:01:51,590
+if the person has face tattoos,
+
+41
+00:01:51,590 --> 00:01:52,720
+swipe left.
+
+42
+00:01:52,720 --> 00:01:55,460
+Okay, seriously P2P lending is less like Tinder
+
+43
+00:01:55,460 --> 00:01:57,460
+and more like Kickstarter.
+
+44
+00:01:57,460 --> 00:01:58,920
+Only instead of funding a company
+
+45
+00:01:58,920 --> 00:02:00,650
+and getting an underwater drone,
+
+46
+00:02:00,650 --> 00:02:03,100
+or a high-tech watergun, or a....
+
+47
+00:02:03,100 --> 00:02:05,799
+giant Lionel Richie head...ok,
+
+48
+00:02:05,799 --> 00:02:07,190
+instead of a product,
+
+49
+00:02:07,190 --> 00:02:10,310
+you fund a company and earn interest from
+your loan
+
+50
+00:02:10,310 --> 00:02:12,499
+after a certain period of time.
+
+51
+00:02:12,499 --> 00:02:14,810
+By cutting out the bank as a middleman,
+
+52
+00:02:14,810 --> 00:02:17,569
+crowdlending platforms promise high returns
+to lenders,
+
+53
+00:02:17,569 --> 00:02:19,549
+and cheaper loans to borrowers.
+
+54
+00:02:19,549 --> 00:02:22,719
+Some platforms promised as much as a 12% return,
+
+55
+00:02:22,719 --> 00:02:25,690
+which is way higher than you could get from
+anywhere else.
+
+56
+00:02:25,690 --> 00:02:26,690
+
+
+57
+00:02:26,690 --> 00:02:27,690
+Win win, it would seem.
+
+58
+00:02:27,690 --> 00:02:30,659
+Except that these platforms have spread like
+wildfire
+
+59
+00:02:30,659 --> 00:02:33,650
+pretty much without any regulatory oversight,
+
+60
+00:02:33,650 --> 00:02:36,209
+and a lot of times the loans are risky.
+
+61
+00:02:36,209 --> 00:02:39,750
+Like, you might think you’re funding the
+underwater drone,
+
+62
+00:02:39,750 --> 00:02:41,939
+when it turns out you’ve actually funded
+
+63
+00:02:41,939 --> 00:02:44,189
+the giant Lionel Richie head.
+
+64
+00:02:44,189 --> 00:02:46,709
+And there’s no way to pull your money out.
+
+65
+00:02:46,709 --> 00:02:50,349
+And a lot of times, lenders don’t get paid
+back.
+
+66
+00:02:50,349 --> 00:02:52,599
+Also, the lack of oversight means that
+
+67
+00:02:52,599 --> 00:02:54,879
+even P2P companies themselves
+
+68
+00:02:54,879 --> 00:02:57,629
+can cheat investors over a long period of
+time.
+
+69
+00:02:57,629 --> 00:02:59,879
+For example eZuBao.
+
+70
+00:02:59,879 --> 00:03:04,140
+It was once the golden child of P2P lending
+in China.
+
+71
+00:03:04,140 --> 00:03:07,950
+But it was shut down in 2016 after cheating
+investors
+
+72
+00:03:07,950 --> 00:03:13,340
+out of $7.6 billion dollars in an elaborate
+Ponzi scheme.
+
+73
+00:03:13,340 --> 00:03:14,340
+How elaborate?
+
+74
+00:03:14,340 --> 00:03:16,309
+Well, according to the New York Times,
+
+75
+00:03:16,309 --> 00:03:18,810
+eZuBao duped about a million investors
+
+76
+00:03:18,810 --> 00:03:21,760
+by offering fake investment products.
+
+77
+00:03:21,760 --> 00:03:23,200
+And to hide their trail,
+
+78
+00:03:23,200 --> 00:03:25,870
+the bosses buried 1200 documents
+
+79
+00:03:25,870 --> 00:03:29,889
+in 80 bags 20 feet underground that took police
+
+80
+00:03:29,889 --> 00:03:33,499
+a whole day to dig up with two excavators.
+
+81
+00:03:33,499 --> 00:03:35,590
+That’s crazy!
+
+82
+00:03:35,590 --> 00:03:37,809
+Did no one tell them about paper shredders?
+
+83
+00:03:37,809 --> 00:03:39,639
+Or a bonfire?
+
+84
+00:03:39,639 --> 00:03:42,230
+And it goes way beyond just peer-to-peer lending.
+
+85
+00:03:42,230 --> 00:03:44,730
+The entire shadow banking sector in China
+
+86
+00:03:44,730 --> 00:03:47,779
+has been gripped by a regulatory shakedown
+
+87
+00:03:47,779 --> 00:03:51,629
+in order to reduce leverage, curb crazy levels
+of risk,
+
+88
+00:03:51,629 --> 00:03:54,999
+and hopefully prevent a financial meltdown.
+
+89
+00:03:54,999 --> 00:03:58,400
+Since regulators took P2P lending into their
+crosshairs,
+
+90
+00:03:58,400 --> 00:04:01,900
+these platforms have started dropping like
+flies.
+
+91
+00:04:01,900 --> 00:04:03,689
+According to the South China Morning Post,
+
+92
+00:04:03,689 --> 00:04:06,029
+the total number of P2P lending platforms
+
+93
+00:04:06,029 --> 00:04:09,640
+that have failed is over 4 and a half thousand,
+
+94
+00:04:09,640 --> 00:04:12,269
+with more than 200 in July alone.
+
+95
+00:04:12,269 --> 00:04:15,569
+Yes, there are more than four thousand lending
+companies
+
+96
+00:04:15,569 --> 00:04:16,570
+that have failed,
+
+97
+00:04:16,570 --> 00:04:19,220
+taking people’s money down with them.
+
+98
+00:04:19,220 --> 00:04:21,880
+The head of the Shenzhen Internet Financial
+Association
+
+99
+00:04:21,880 --> 00:04:25,440
+warns that “The industry might enter a great
+recession.”
+
+100
+00:04:25,440 --> 00:04:28,629
+Everybody’s on edge, he says, as some companies
+shut down
+
+101
+00:04:28,629 --> 00:04:32,759
+because of bad loans, fraud, or asset freezes
+by inspectors.
+
+102
+00:04:32,759 --> 00:04:35,780
+A total of 165 lending platforms
+
+103
+00:04:35,780 --> 00:04:39,090
+stopped allowing investor withdrawals in July,
+
+104
+00:04:39,090 --> 00:04:42,039
+locking up tens of billions of dollars in
+capital.
+
+105
+00:04:42,039 --> 00:04:45,419
+On top of that, hundreds of P2P lending platform
+owners
+
+106
+00:04:45,419 --> 00:04:49,190
+have simply run away with investors’ money!
+
+107
+00:04:49,190 --> 00:04:51,620
+So obviously, a lot of people are upset.
+
+108
+00:04:51,620 --> 00:04:53,910
+They want the government to bail them out.
+
+109
+00:04:53,910 --> 00:04:55,310
+Or to hold the companies accountable.
+
+110
+00:04:55,310 --> 00:04:59,669
+But in the government’s view, it’s the
+investors’ own fault.
+
+111
+00:04:59,669 --> 00:05:03,210
+People knew it was risky, and invested their
+money anyway.
+
+112
+00:05:03,210 --> 00:05:05,189
+Besides, government bailouts are only for
+
+113
+00:05:05,189 --> 00:05:08,240
+rich corporations that are too big to fail.
+
+114
+00:05:08,240 --> 00:05:10,910
+So a lot of angry people decided to undermine
+
+115
+00:05:10,910 --> 00:05:13,560
+China’s harmonious society by traveling
+to Beijing
+
+116
+00:05:13,560 --> 00:05:16,180
+to petition the appropriate government office.
+
+117
+00:05:16,180 --> 00:05:18,310
+Don’t see any protesters?
+
+118
+00:05:18,310 --> 00:05:21,310
+That’s because no protest took place.
+
+119
+00:05:21,310 --> 00:05:22,900
+“Last Monday,
+
+120
+00:05:22,900 --> 00:05:26,229
+many wanted to demand a P2P bailout from the
+government,
+
+121
+00:05:26,229 --> 00:05:28,100
+and organized themselves online.
+
+122
+00:05:28,100 --> 00:05:31,360
+However, any challenge to stability is sensitive
+in China
+
+123
+00:05:31,360 --> 00:05:34,479
+and those who managed to make it to the protest
+area were detained.
+
+124
+00:05:34,479 --> 00:05:37,680
+An investor told Reuters this video shows
+they were forced
+
+125
+00:05:37,680 --> 00:05:41,400
+onto buses and carted away to a holding center.”
+
+126
+00:05:41,400 --> 00:05:45,410
+Some petitioners didn’t even make it all
+the way to Beijing.
+
+127
+00:05:45,410 --> 00:05:48,199
+According to Reuters, many would-be protesters
+were removed
+
+128
+00:05:48,199 --> 00:05:51,090
+from Beijing-bound trains ahead of the protests,
+
+129
+00:05:51,090 --> 00:05:54,830
+forced to give fingerprints and even blood
+samples.
+
+130
+00:05:54,830 --> 00:05:56,270
+Turns out it’s not just banks
+
+131
+00:05:56,270 --> 00:05:58,660
+that are the bloodsuckers in this story.
+
+132
+00:05:58,660 --> 00:05:59,759
+Now to be fair,
+
+133
+00:05:59,759 --> 00:06:01,690
+Chinese authorities didn’t only crack down
+on
+
+134
+00:06:01,690 --> 00:06:04,250
+investors who lost their life savings.
+
+135
+00:06:04,250 --> 00:06:06,850
+They also cracked down on people who borrowed
+money,
+
+136
+00:06:06,850 --> 00:06:09,810
+and had trouble paying back their P2P loans.
+
+137
+00:06:09,810 --> 00:06:12,469
+Authorities put them on a social credit rating
+blacklist.
+
+138
+00:06:12,469 --> 00:06:16,030
+It’s just one of the 10 delightful new measures
+
+139
+00:06:16,030 --> 00:06:19,130
+China’s regulators have come up with to
+minimize risk.
+
+140
+00:06:19,130 --> 00:06:22,599
+And to make sure that no one goes unpunished.
+
+141
+00:06:22,599 --> 00:06:25,919
+Others measures include “strictly banning”
+local authorities
+
+142
+00:06:25,919 --> 00:06:29,409
+from allowing any new P2P lending platforms
+to be set up,
+
+143
+00:06:29,409 --> 00:06:31,879
+and setting up so-called “communication
+windows”
+
+144
+00:06:31,879 --> 00:06:34,919
+where people who’ve lost money can vent
+their grievances
+
+145
+00:06:34,919 --> 00:06:36,500
+outside the public eye,
+
+146
+00:06:36,500 --> 00:06:38,879
+where someone no power to help them,
+
+147
+00:06:38,879 --> 00:06:40,849
+can pretend to listen.
+
+148
+00:06:40,849 --> 00:06:42,410
+Now it’s good that the Chinese government
+
+149
+00:06:42,410 --> 00:06:46,199
+is finally trying to regulate this P2P lending
+industry.
+
+150
+00:06:46,199 --> 00:06:48,220
+But as for the individual investors
+
+151
+00:06:48,220 --> 00:06:50,849
+who have already lost their life savings?
+
+152
+00:06:50,849 --> 00:06:52,219
+They now understand just how
+
+153
+00:06:52,219 --> 00:06:54,849
+the Chinese Communist Party maintains stability:
+
+154
+00:06:54,849 --> 00:06:57,879
+There’s a serious financial problem that
+threatens
+
+155
+00:06:57,879 --> 00:06:59,919
+the livelihoods of millions of people.
+
+156
+00:06:59,919 --> 00:07:01,749
+But instead of allowing protests,
+
+157
+00:07:01,749 --> 00:07:03,999
+they figure out a way to keep protesters quiet,
+
+158
+00:07:03,999 --> 00:07:06,419
+and sweep the whole thing under the rug.
+
+159
+00:07:06,419 --> 00:07:09,569
+Or under a giant Lionel Richie head.
+
+160
+00:07:09,569 --> 00:07:13,340
+So what do you think China should bail out
+P2P lenders?
+
+161
+00:07:13,340 --> 00:07:14,620
+And what do you think about China
+
+162
+00:07:14,620 --> 00:07:16,719
+clamping down on protesters?
+
+163
+00:07:16,719 --> 00:07:19,950
+And what’s the weirdest kickstarter you’ve
+ever funded?
+
+164
+00:07:19,950 --> 00:07:21,780
+Leave your comments below.
+
+165
+00:07:21,780 --> 00:07:22,780
+And before we go,
+
+166
+00:07:22,780 --> 00:07:24,669
+it’s time for a question from one of our
+fans
+
+167
+00:07:24,669 --> 00:07:28,439
+who supports China Uncensored on Patreon.
+
+168
+00:07:28,439 --> 00:07:29,729
+James Kelton asks:
+
+169
+00:07:29,729 --> 00:07:32,479
+“Is there anything happening in China at
+the moment
+
+170
+00:07:32,479 --> 00:07:34,620
+that isn't a prelude to the Apocalypse?
+
+171
+00:07:34,620 --> 00:07:37,169
+It all seems rather gloomy of late...”
+
+172
+00:07:37,169 --> 00:07:38,169
+Nope!
+
+173
+00:07:38,169 --> 00:07:39,530
+It’s all gloom and doom.
+
+174
+00:07:39,530 --> 00:07:40,530
+Sorry, James.
+
+175
+00:07:40,530 --> 00:07:41,879
+I’m just kidding.
+
+176
+00:07:41,879 --> 00:07:43,699
+There are good things happening in China.
+
+177
+00:07:43,699 --> 00:07:45,639
+For example, in northern China,
+
+178
+00:07:45,639 --> 00:07:46,970
+there’s a project underway
+
+179
+00:07:46,970 --> 00:07:49,879
+to turn desert into arable farmland.
+
+180
+00:07:49,879 --> 00:07:51,460
+Although, the part they leave out is
+
+181
+00:07:51,460 --> 00:07:55,199
+how seven decades of bad environmental policy
+
+182
+00:07:55,199 --> 00:07:58,370
+resulted in massive desertification.
+
+183
+00:07:58,370 --> 00:08:00,129
+So yes there are good things.
+
+184
+00:08:00,129 --> 00:08:01,259
+But I generally don’t tell you
+
+185
+00:08:01,259 --> 00:08:02,970
+about them on China Uncensored,
+
+186
+00:08:02,970 --> 00:08:04,710
+since Chinese state-run media is doing
+
+187
+00:08:04,710 --> 00:08:07,229
+a perfectly good job of that.
+
+188
+00:08:07,229 --> 00:08:09,279
+China Uncensored is here to tell you about
+the things
+
+189
+00:08:09,279 --> 00:08:11,730
+state-run media keeps censored.
+
+190
+00:08:11,730 --> 00:08:14,340
+And those are not the positive things.
+
+191
+00:08:14,340 --> 00:08:16,250
+Thanks for your question, James.
+
+192
+00:08:16,250 --> 00:08:17,599
+And for everyone else watching,
+
+193
+00:08:17,599 --> 00:08:20,439
+China Uncensored relies on viewer support.
+
+194
+00:08:20,439 --> 00:08:22,020
+So click the link below to visit us
+
+195
+00:08:22,020 --> 00:08:24,180
+on the crowdfunding website Patreon,
+
+196
+00:08:24,180 --> 00:08:26,960
+and contribute a dollar or more per episode—
+
+197
+00:08:26,960 --> 00:08:30,009
+and I might answer your question next.
+
+198
+00:08:30,009 --> 00:08:31,360
+Once again, I’m Chris Chappell.
+
+199
+00:08:31,360 --> 00:08:33,420
+Thanks for watching China Uncensored.
+
+200
+00:08:35,900 --> 00:08:38,520
+Click the orange button to visit Patreon.com
+
+201
+00:08:38,520 --> 00:08:40,230
+and if you can, support China Uncensored.
+
+202
+00:08:40,230 --> 00:08:42,120
+You’ll get all sorts of cool perks,
+
+203
+00:08:42,120 --> 00:08:43,430
+and of course you’ll be making
+
+204
+00:08:43,430 --> 00:08:45,130
+a huge difference for the show.
+
+205
+00:08:45,130 --> 00:08:46,460
+Click here.
+

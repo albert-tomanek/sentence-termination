@@ -1,0 +1,494 @@
+1
+00:00:00,169 --> 00:00:01,879
+On this episode of China Uncensored,
+
+2
+00:00:01,879 --> 00:00:04,500
+North Korea is threatening nuclear war,
+
+3
+00:00:04,500 --> 00:00:06,190
+and Chinese hackers want to make sure
+
+4
+00:00:06,190 --> 00:00:08,540
+we’re not prepared to deal with it.
+
+5
+00:00:13,080 --> 00:00:14,360
+Hi, welcome to China Uncensored,
+
+6
+00:00:14,360 --> 00:00:16,270
+I’m your host Chris Chappell.
+
+7
+00:00:16,270 --> 00:00:18,760
+Things on the Korean peninsula are heating
+up.
+
+8
+00:00:18,760 --> 00:00:20,890
+The US is sending in warships,
+
+9
+00:00:20,890 --> 00:00:22,940
+China is urging restraint,
+
+10
+00:00:23,000 --> 00:00:25,960
+and North Korea promises destruction.
+
+11
+00:00:29,920 --> 00:00:33,160
+Now that we possess mighty nuclear power
+
+12
+00:00:33,170 --> 00:00:36,800
+to protect ourselves from U.S. nuclear threat,
+
+13
+00:00:36,800 --> 00:00:39,449
+we will respond without the slightest hesitation
+
+14
+00:00:39,449 --> 00:00:43,120
+to full-out war with full-out war and to nuclear war
+
+15
+00:00:43,120 --> 00:00:45,359
+with our style of nuclear strike,
+
+16
+00:00:45,359 --> 00:00:47,350
+and we will emerge victor
+
+17
+00:00:47,350 --> 00:00:50,000
+in the final battle with the United States."
+
+18
+00:00:54,040 --> 00:00:55,820
+Well, to ensure North Korea does not
+
+19
+00:00:55,829 --> 00:00:57,289
+emerge as the victor,
+
+20
+00:00:57,289 --> 00:01:00,309
+the US installed THAAD in South Korea.
+
+21
+00:01:00,309 --> 00:01:03,200
+It stands for Terminal High Altitude Area
+Defense.
+
+22
+00:01:03,200 --> 00:01:04,750
+It’s kind of important,
+
+23
+00:01:04,750 --> 00:01:06,220
+in the event North Korea ever tries
+
+24
+00:01:06,220 --> 00:01:07,560
+to make good on its promise
+
+25
+00:01:07,560 --> 00:01:09,820
+to turn South Korea’s capital into
+
+26
+00:01:09,820 --> 00:01:11,909
+“a sea of flames.”
+
+27
+00:01:11,909 --> 00:01:14,180
+But now THAAD is under threat.
+
+28
+00:01:14,180 --> 00:01:15,450
+Not from North Korean missiles,
+
+29
+00:01:15,450 --> 00:01:17,310
+or shifting political winds,
+
+30
+00:01:17,310 --> 00:01:19,670
+or even public protests.
+
+31
+00:01:19,670 --> 00:01:21,450
+But from Chinese hackers.
+
+32
+00:01:21,450 --> 00:01:24,829
+According to cybersecurity firm FireEye,
+
+33
+00:01:24,829 --> 00:01:26,390
+“Chinese state-backed hackers
+
+34
+00:01:26,390 --> 00:01:28,979
+have recently targeted South Korean entities
+
+35
+00:01:28,979 --> 00:01:31,140
+involved in deploying a U.S.
+
+36
+00:01:31,140 --> 00:01:32,270
+missile-defense system.”
+
+37
+00:01:32,270 --> 00:01:36,310
+Remember: it's not just North Korea that doesn't like THAAD.
+
+38
+00:01:36,310 --> 00:01:39,360
+The Chinese regime doesn’t like it either.
+
+39
+00:01:39,360 --> 00:01:41,109
+Even though THAAD is designed to stop
+
+40
+00:01:41,109 --> 00:01:42,759
+North Korean missiles,
+
+41
+00:01:42,759 --> 00:01:45,539
+it could in theory allow South Korea
+
+42
+00:01:45,539 --> 00:01:49,250
+and the US to track Chinese missiles.
+
+43
+00:01:49,250 --> 00:01:50,799
+So there are two main hacker groups
+
+44
+00:01:50,799 --> 00:01:53,030
+from China involved here.
+
+45
+00:01:53,030 --> 00:01:55,789
+One FireEye is calling the Tonto Group—
+
+46
+00:01:55,789 --> 00:01:59,249
+there must be some Lone Ranger fans over there.
+
+47
+00:01:59,249 --> 00:02:02,069
+The other is nicknamed APT10.
+
+48
+00:02:02,069 --> 00:02:05,299
+It's also sometimes called Stone Panda.
+
+49
+00:02:05,299 --> 00:02:06,990
+That one has also been accused of hacking
+
+50
+00:02:06,990 --> 00:02:09,590
+a US trade lobbying group,
+
+51
+00:02:09,590 --> 00:02:11,650
+and also of rolling down hills
+
+52
+00:02:11,650 --> 00:02:14,540
+and gathering no moss.
+
+53
+00:02:14,540 --> 00:02:16,099
+There are some independent Chinese hackers
+
+54
+00:02:16,099 --> 00:02:18,299
+targeting South Korea, too.
+
+55
+00:02:18,299 --> 00:02:20,709
+But both Tonto and Stone Panda
+
+56
+00:02:20,709 --> 00:02:25,110
+have been linked to Chinese military intelligence
+units.
+
+57
+00:02:25,110 --> 00:02:27,480
+This is not to say that the Chinese Communist
+Party
+
+58
+00:02:27,480 --> 00:02:29,290
+is behind the hacks in any way.
+
+59
+00:02:29,290 --> 00:02:31,689
+I mean, sure the Chinese military
+
+60
+00:02:31,689 --> 00:02:34,040
+belongs to the Party.
+
+61
+00:02:34,040 --> 00:02:37,340
+But China never messes with other countries!
+
+62
+00:02:37,340 --> 00:02:41,189
+“China always sticks to the principle of
+not interfering
+
+63
+00:02:41,189 --> 00:02:43,560
+in the internal affairs of other countries.”
+
+64
+00:02:44,760 --> 00:02:46,340
+It’s just a coincidence
+
+65
+00:02:46,340 --> 00:02:49,030
+that since the South Korean government announced
+
+66
+00:02:49,030 --> 00:02:51,670
+the deployment of THAAD earlier this year,
+
+67
+00:02:51,670 --> 00:02:54,670
+hacking attacks from China have been on the
+rise...
+
+68
+00:02:54,670 --> 00:02:56,099
+and that some of these hacks
+
+69
+00:02:56,099 --> 00:02:58,569
+have been targeting entities related directly
+
+70
+00:02:58,569 --> 00:03:01,349
+and indirectly to THAAD.
+
+71
+00:03:01,349 --> 00:03:02,379
+Last month,
+
+72
+00:03:02,379 --> 00:03:05,040
+South Korea’s Ministry of Foreign Affairs
+website
+
+73
+00:03:05,040 --> 00:03:06,689
+was crippled.
+
+74
+00:03:06,689 --> 00:03:07,819
+This Korean news agency
+
+75
+00:03:07,819 --> 00:03:09,870
+said Chinese hackers have targeted,
+
+76
+00:03:09,870 --> 00:03:12,909
+“the homepages of 10 South Korean firms
+
+77
+00:03:12,909 --> 00:03:14,590
+and some South Korean embassies
+
+78
+00:03:14,590 --> 00:03:16,720
+in other countries”.
+
+79
+00:03:16,720 --> 00:03:19,799
+The Ministry of Science, ICT and Future Planning
+
+80
+00:03:19,799 --> 00:03:22,189
+raised the country’s cyberattack alert level
+
+81
+00:03:22,189 --> 00:03:24,159
+to the second highest rating.
+
+82
+00:03:24,159 --> 00:03:26,440
+I guess the Future Planning division
+
+83
+00:03:26,440 --> 00:03:28,459
+didn’t see it coming.
+
+84
+00:03:28,459 --> 00:03:29,810
+And what has North Korea been doing
+
+85
+00:03:29,810 --> 00:03:32,709
+while the Chinese Communist Party has totally
+not been
+
+86
+00:03:32,709 --> 00:03:35,750
+interfering in the internal affairs of South
+Korea?
+
+87
+00:03:35,750 --> 00:03:38,349
+Well, they just held a massive rally
+
+88
+00:03:38,349 --> 00:03:40,500
+marking the 85th anniversary
+
+89
+00:03:40,500 --> 00:03:42,799
+of the North Korean army.
+
+90
+00:03:42,799 --> 00:03:44,390
+Even though Kim Jong-un wasn’t there,
+
+91
+00:03:44,390 --> 00:03:46,900
+don’t they still sound excited?
+
+92
+00:03:49,380 --> 00:03:51,980
+How do they all know when to say that?
+
+93
+00:03:51,980 --> 00:03:53,640
+I wonder what it would feel like to have
+
+94
+00:03:53,640 --> 00:03:56,440
+hundreds of people cheering your every word?
+
+95
+00:03:58,460 --> 00:04:00,080
+Pretty good, actually.
+
+96
+00:04:00,080 --> 00:04:01,680
+I may keep that around.
+
+97
+00:04:01,680 --> 00:04:05,120
+Anyway, where was the dear leader?
+
+98
+00:04:05,120 --> 00:04:08,790
+Why he was inspecting a pig farm.
+
+99
+00:04:08,790 --> 00:04:10,129
+They have lots of food in North Korea,
+
+100
+00:04:10,129 --> 00:04:11,129
+did you know?
+
+101
+00:04:11,129 --> 00:04:14,879
+Except I can’t seem to find Kim in this
+picture.
+
+102
+00:04:14,880 --> 00:04:17,280
+Just a bunch of giant hams.
+
+103
+00:04:19,140 --> 00:04:22,500
+That is never going to get old.
+
+104
+00:04:22,500 --> 00:04:23,880
+But not to worry.
+
+105
+00:04:23,880 --> 00:04:25,350
+Chinese hackers may be trying
+
+106
+00:04:25,350 --> 00:04:26,820
+to mess with THAAD,
+
+107
+00:04:26,820 --> 00:04:29,380
+but THAAD is merely a precautionary measure.
+
+108
+00:04:29,380 --> 00:04:31,260
+I mean, it's not like North Korea
+
+109
+00:04:31,260 --> 00:04:34,190
+is holding any live-fire artillery drills
+
+110
+00:04:34,190 --> 00:04:37,280
+while US warships gather, right?
+
+111
+00:04:38,660 --> 00:04:41,520
+I'm sure everything will be fine.
+
+112
+00:04:42,940 --> 00:04:43,940
+So what do you think
+
+113
+00:04:43,950 --> 00:04:45,970
+of the Chinese regime’s cyber attacks
+
+114
+00:04:45,970 --> 00:04:48,230
+in retaliation for South Korea’s
+
+115
+00:04:48,230 --> 00:04:49,970
+missile defense program?
+
+116
+00:04:49,970 --> 00:04:52,820
+Was it a...THAAD idea?
+
+117
+00:04:55,060 --> 00:04:56,900
+Yep, definitely keeping that.
+
+118
+00:04:56,900 --> 00:04:58,300
+Leave your comments below.
+
+119
+00:04:58,300 --> 00:05:00,790
+Thanks for watching this episode of China Uncensored,
+
+120
+00:05:00,790 --> 00:05:02,580
+once again I’m your host, Chris Chappell,
+
+121
+00:05:02,580 --> 00:05:03,580
+see you next time.
+

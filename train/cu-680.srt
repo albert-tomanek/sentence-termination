@@ -1,0 +1,630 @@
+1
+00:00:00,429 --> 00:00:02,580
+On this episode of China Uncensored,
+
+2
+00:00:02,580 --> 00:00:05,980
+complex economic issues with no clear solution!
+
+3
+00:00:10,700 --> 00:00:11,880
+Hi, welcome to China Uncensored.
+
+4
+00:00:11,880 --> 00:00:12,940
+I’m Shelley Zhang,
+
+5
+00:00:12,940 --> 00:00:14,310
+filling in for Chris Chappell,
+
+6
+00:00:14,310 --> 00:00:17,520
+who’s out receiving vacation-style therapy.
+
+7
+00:00:17,520 --> 00:00:20,680
+He's going to be so relaxed when he gets back.
+
+8
+00:00:20,680 --> 00:00:22,590
+Speaking of relaxing professions,
+
+9
+00:00:22,590 --> 00:00:23,840
+in a little over a week,
+
+10
+00:00:23,840 --> 00:00:26,440
+Donald Trump will be sworn in as President.
+
+11
+00:00:26,440 --> 00:00:28,160
+And here's one of the things he's vowed to
+do
+
+12
+00:00:28,160 --> 00:00:30,300
+on his first day in office.
+
+13
+00:00:30,880 --> 00:00:35,120
+“I’m going to instruct my treasury secretary
+
+14
+00:00:35,120 --> 00:00:39,399
+to label China a currency manipulator—
+
+15
+00:00:39,399 --> 00:00:41,370
+the greatest in the world.”
+
+16
+00:00:41,370 --> 00:00:42,850
+It was one of President-elect Trump's
+
+17
+00:00:42,850 --> 00:00:45,120
+repeated themes during his campaign:
+
+18
+00:00:45,120 --> 00:00:47,150
+that China is undervaluing its currency
+
+19
+00:00:47,150 --> 00:00:50,360
+to gain an unfair trade advantage over the
+US.
+
+20
+00:00:50,360 --> 00:00:52,360
+And he's promised to fight back with tariffs
+
+21
+00:00:52,360 --> 00:00:55,070
+and taxes on Chinese imports.
+
+22
+00:00:55,070 --> 00:00:56,720
+He's not the first person to talk about this
+
+23
+00:00:56,720 --> 00:00:58,100
+on the campaign trail.
+
+24
+00:00:58,100 --> 00:01:02,000
+"As president, I'll use all the diplomatic
+avenues open to me
+
+25
+00:01:02,000 --> 00:01:05,300
+to insist China stop manipulating its currency.”
+
+26
+00:01:05,300 --> 00:01:06,820
+“On day 1,
+
+27
+00:01:06,820 --> 00:01:09,540
+I will label China a currency manipulator.”
+
+28
+00:01:09,540 --> 00:01:13,680
+Ah, the day one china currency manipulator
+promise.
+
+29
+00:01:13,680 --> 00:01:16,020
+A traditional part of presidential campaigning,
+
+30
+00:01:16,020 --> 00:01:18,420
+right up there with visiting the Iowa State
+Fair
+
+31
+00:01:18,420 --> 00:01:22,240
+and eating whatever the heck this thing is.
+
+32
+00:01:22,240 --> 00:01:24,170
+That's why I love America.
+
+33
+00:01:24,170 --> 00:01:25,760
+Because if you want to be president,
+
+34
+00:01:25,760 --> 00:01:29,380
+you must first seek the blessing of the great
+butter cow.
+
+35
+00:01:29,380 --> 00:01:31,200
+So, on day one,
+
+36
+00:01:31,200 --> 00:01:34,860
+the president will label China a currency
+manipulator?
+
+37
+00:01:34,860 --> 00:01:35,870
+Let's be real,
+
+38
+00:01:35,870 --> 00:01:37,370
+on day one of a new job,
+
+39
+00:01:37,370 --> 00:01:40,900
+everyone is still trying to get their act
+together.
+
+40
+00:01:40,900 --> 00:01:45,670
+I once spent six hours waiting for IT to get
+me a computer.
+
+41
+00:01:45,670 --> 00:01:47,920
+But I'm sure that won't happen at the White
+House,
+
+42
+00:01:47,920 --> 00:01:51,640
+because the US government is a bastion of
+efficiency.
+
+43
+00:01:51,640 --> 00:01:52,920
+Anyway,
+
+44
+00:01:52,920 --> 00:01:55,500
+is China a currency manipulator?
+
+45
+00:01:55,500 --> 00:01:57,740
+Well, it's complicated.
+
+46
+00:01:57,740 --> 00:01:58,740
+For years,
+
+47
+00:01:58,740 --> 00:02:00,409
+China had a fixed exchange rate.
+
+48
+00:02:00,409 --> 00:02:03,680
+I know, this already sounds incredibly boring.
+
+49
+00:02:03,680 --> 00:02:05,380
+But stay with me.
+
+50
+00:02:05,380 --> 00:02:08,289
+A fixed exchange rate meant that the yuan—
+
+51
+00:02:08,289 --> 00:02:09,330
+the Chinese currency—
+
+52
+00:02:09,330 --> 00:02:12,260
+would always be worth the same amount to the
+dollar.
+
+53
+00:02:12,260 --> 00:02:14,450
+From 1994 through 2004,
+
+54
+00:02:14,450 --> 00:02:17,750
+it was 8.26 yuan equals 1 dollar.
+
+55
+00:02:17,750 --> 00:02:21,060
+Now, other countries have fixed exchange rates
+too.
+
+56
+00:02:21,060 --> 00:02:24,159
+The issue is that as China's economy grew
+rapidly,
+
+57
+00:02:24,159 --> 00:02:28,069
+the central bank kept their yuan fixed at
+the same low rate,
+
+58
+00:02:28,069 --> 00:02:30,939
+so it was worth less than it should have been.
+
+59
+00:02:30,939 --> 00:02:35,519
+Which meant that Chinese-made stuff was artificially
+cheaper.
+
+60
+00:02:35,519 --> 00:02:37,159
+So more and more American companies
+
+61
+00:02:37,159 --> 00:02:39,670
+moved their manufacturing to China,
+
+62
+00:02:39,670 --> 00:02:42,260
+where they could get more bang for their buck.
+
+63
+00:02:42,260 --> 00:02:44,480
+And by bang, I mean, yuan.
+
+64
+00:02:44,480 --> 00:02:47,150
+You could literally pay people in China a
+fraction
+
+65
+00:02:47,150 --> 00:02:49,150
+of what you would pay in America.
+
+66
+00:02:49,150 --> 00:02:51,230
+And all that extra money?
+
+67
+00:02:51,230 --> 00:02:52,450
+Profit!
+
+68
+00:02:52,450 --> 00:02:54,400
+So China kept its people poor
+
+69
+00:02:54,400 --> 00:02:57,459
+to boost its manufacturing and exports.
+
+70
+00:02:57,459 --> 00:02:58,900
+And America gained cheaper goods
+
+71
+00:02:58,900 --> 00:03:01,689
+that led to a trade deficit with China
+
+72
+00:03:01,689 --> 00:03:04,169
+while losing manufacturing jobs.
+
+73
+00:03:04,169 --> 00:03:06,620
+Which is the real reason US presidential candidates
+
+74
+00:03:06,620 --> 00:03:09,890
+always talk about China manipulating its currency.
+
+75
+00:03:09,890 --> 00:03:11,920
+Now in 2005,
+
+76
+00:03:11,920 --> 00:03:14,709
+China stopped fixing the yuan to the dollar.
+
+77
+00:03:14,709 --> 00:03:17,989
+But they still heavily manage its exchange
+rate.
+
+78
+00:03:17,989 --> 00:03:20,579
+They control how much it can change each day,
+
+79
+00:03:20,579 --> 00:03:22,299
+and buy and sell foreign currency
+
+80
+00:03:22,299 --> 00:03:24,109
+to affect the price of the yuan.
+
+81
+00:03:24,109 --> 00:03:25,269
+In fact,
+
+82
+00:03:25,269 --> 00:03:28,409
+China's central bank has the largest foreign
+exchange reserves
+
+83
+00:03:28,409 --> 00:03:29,409
+in the world.
+
+84
+00:03:29,409 --> 00:03:30,579
+In 2014,
+
+85
+00:03:30,579 --> 00:03:34,839
+they owned 4 trillion dollars in foreign currency.
+
+86
+00:03:34,839 --> 00:03:35,839
+So yes,
+
+87
+00:03:35,839 --> 00:03:37,779
+China manipulates its currency.
+
+88
+00:03:37,779 --> 00:03:40,030
+But here's where it gets tricky.
+
+89
+00:03:40,030 --> 00:03:41,879
+In the last few years,
+
+90
+00:03:41,879 --> 00:03:44,479
+China's been going through an economic slowdown.
+
+91
+00:03:44,479 --> 00:03:46,870
+And people are moving massive amounts of money
+
+92
+00:03:46,870 --> 00:03:48,339
+out of the country.
+
+93
+00:03:48,339 --> 00:03:52,139
+Both of those things make the yuan less valuable.
+
+94
+00:03:52,139 --> 00:03:53,579
+And the US economic recovery
+
+95
+00:03:53,579 --> 00:03:58,229
+means the dollar the strongest it's been in
+13 years.
+
+96
+00:03:58,229 --> 00:04:00,040
+So in the last couple years,
+
+97
+00:04:00,040 --> 00:04:03,939
+China's been trying to manipulate its currency
+the other way.
+
+98
+00:04:03,939 --> 00:04:06,199
+Now it wants its currency to be stronger,
+
+99
+00:04:06,199 --> 00:04:08,739
+to keep it from falling against the dollar.
+
+100
+00:04:08,739 --> 00:04:11,480
+That's because if the yuan falls too quickly,
+
+101
+00:04:11,480 --> 00:04:12,859
+it could crash China's economy.
+
+102
+00:04:12,859 --> 00:04:15,930
+I believe we have a clip of Chinese economists
+
+103
+00:04:15,930 --> 00:04:17,410
+trying to save the yuan:
+
+104
+00:04:22,710 --> 00:04:23,710
+In fact,
+
+105
+00:04:23,710 --> 00:04:26,650
+the Chinese government has spent almost a
+trillion dollars
+
+106
+00:04:26,650 --> 00:04:27,849
+of their foreign reserves
+
+107
+00:04:27,849 --> 00:04:30,110
+trying to slow down the slide.
+
+108
+00:04:30,110 --> 00:04:31,810
+And it's still falling.
+
+109
+00:04:31,810 --> 00:04:32,830
+Ironically,
+
+110
+00:04:32,830 --> 00:04:36,900
+if the Chinese central bank stopped manipulating
+its currency right now,
+
+111
+00:04:36,900 --> 00:04:40,539
+it would have the exact opposite effect of
+what Trump
+
+112
+00:04:40,539 --> 00:04:43,100
+and other US politicians want.
+
+113
+00:04:43,100 --> 00:04:44,660
+It might look kind of like this.
+
+114
+00:04:49,680 --> 00:04:52,700
+So what would happen if Trump does get the
+Treasury Department
+
+115
+00:04:52,710 --> 00:04:56,090
+to officially label China a currency manipulator?
+
+116
+00:04:56,090 --> 00:04:57,919
+Well, under a law passed in 2015,
+
+117
+00:04:57,919 --> 00:05:01,370
+the Treasury would have to spend a year negotiating
+
+118
+00:05:01,370 --> 00:05:03,150
+with the Chinese government.
+
+119
+00:05:03,150 --> 00:05:06,740
+And then they still could do almost nothing
+meaningful to stop it.
+
+120
+00:05:06,740 --> 00:05:07,740
+Separately,
+
+121
+00:05:07,740 --> 00:05:10,120
+Trump could still put tariffs on imports from
+China,
+
+122
+00:05:10,120 --> 00:05:12,900
+but that’d be a whole ’nother episode.
+
+123
+00:05:12,900 --> 00:05:14,000
+Here's the thing.
+
+124
+00:05:14,000 --> 00:05:17,639
+When Trump and other US officials talk about
+China gaming the system
+
+125
+00:05:17,639 --> 00:05:18,820
+against the US,
+
+126
+00:05:18,820 --> 00:05:19,979
+they're right.
+
+127
+00:05:19,979 --> 00:05:20,979
+For example,
+
+128
+00:05:20,979 --> 00:05:22,010
+we've talked before on this show
+
+129
+00:05:22,010 --> 00:05:25,650
+about how Chinese companies steal US technology
+for profit
+
+130
+00:05:25,650 --> 00:05:28,770
+with the help of the Chinese military.
+
+131
+00:05:28,770 --> 00:05:32,960
+That sucks trillions from the US economy every
+year.
+
+132
+00:05:32,960 --> 00:05:35,650
+But officially labeling China a currency manipulator
+
+133
+00:05:35,650 --> 00:05:39,069
+at this point won't really achieve anything
+meaningful.
+
+134
+00:05:39,069 --> 00:05:41,590
+We need to be talking about the real issues.
+
+135
+00:05:41,590 --> 00:05:43,750
+Like this key economic indicator:
+
+136
+00:05:48,260 --> 00:05:50,220
+So, what do you think?
+
+137
+00:05:50,220 --> 00:05:51,600
+Leave your comments below.
+
+138
+00:05:51,600 --> 00:05:52,630
+I'm Shelley Zhang,
+
+139
+00:05:52,630 --> 00:05:56,740
+filling in for Chris Chappell, who is back
+very, very soon.
+
+140
+00:05:56,740 --> 00:05:58,870
+And for you finance whizzes out there,
+
+141
+00:05:58,870 --> 00:06:01,560
+yes, this is an incredibly simplified explanation
+
+142
+00:06:01,560 --> 00:06:03,999
+that glosses over a whole bunch of economic
+factors.
+
+143
+00:06:03,999 --> 00:06:06,330
+But, I didn't want to have to tell Chris
+
+144
+00:06:06,330 --> 00:06:08,879
+I drove away all his viewers by using words
+like
+
+145
+00:06:08,880 --> 00:06:11,780
+“capital outflows” and “liquidity stress.”
+
+146
+00:06:11,780 --> 00:06:12,480
+You're welcome.
+
+147
+00:06:15,900 --> 00:06:18,640
+What do you mean, you and Shelley have taken over the show?!
+
+148
+00:06:18,640 --> 00:06:20,640
+I've only been gone a week!
+
+149
+00:06:20,640 --> 00:06:24,240
+That's it - I'm taking the next flight back to New York...
+

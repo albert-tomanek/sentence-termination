@@ -1,0 +1,712 @@
+1
+00:00:00,310 --> 00:00:02,120
+On this episode of China Uncensored,
+
+2
+00:00:02,120 --> 00:00:04,740
+Being a lawyer in China just got easier—
+
+3
+00:00:04,740 --> 00:00:06,509
+if you’re loyal.
+
+4
+00:00:06,509 --> 00:00:08,600
+Apple created a delightful “feature”
+
+5
+00:00:08,600 --> 00:00:12,060
+to stop a dangerous emoji.
+
+6
+00:00:12,060 --> 00:00:13,060
+And finally,
+
+7
+00:00:13,060 --> 00:00:15,460
+just because a Chinese telecommunications
+company
+
+8
+00:00:15,460 --> 00:00:17,580
+works with the Chinese military,
+
+9
+00:00:17,580 --> 00:00:19,279
+doesn’t mean it shouldn’t build
+
+10
+00:00:19,280 --> 00:00:21,160
+Australia’s 4G network!
+
+11
+00:00:21,920 --> 00:00:23,800
+This is China Uncensored.
+
+12
+00:00:28,380 --> 00:00:29,400
+Hi, welcome to China Uncensored,
+
+13
+00:00:29,400 --> 00:00:31,230
+I’m your host Chris Chappell.
+
+14
+00:00:31,230 --> 00:00:34,220
+Being a lawyer in China isn’t easy.
+
+15
+00:00:34,220 --> 00:00:35,870
+Just ask Gao Zhisheng.
+
+16
+00:00:35,870 --> 00:00:37,430
+I’m kidding.
+
+17
+00:00:37,430 --> 00:00:38,430
+You can’t ask him.
+
+18
+00:00:38,430 --> 00:00:40,390
+He’s in police custody...
+
+19
+00:00:40,390 --> 00:00:41,570
+somewhere in China.
+
+20
+00:00:41,570 --> 00:00:44,830
+But it’s not all bad news for lawyers inside
+China.
+
+21
+00:00:44,830 --> 00:00:47,230
+The All China Lawyers Association,
+
+22
+00:00:47,230 --> 00:00:49,920
+the only official organization for lawyers
+
+23
+00:00:49,920 --> 00:00:52,580
+approved by the Chinese Communist Party,
+
+24
+00:00:52,580 --> 00:00:54,250
+has revised its charter
+
+25
+00:00:54,250 --> 00:00:58,080
+to help lawyers throughout China do better.
+
+26
+00:00:58,080 --> 00:01:00,570
+According to Party mouthpiece the People’s
+Daily,
+
+27
+00:01:00,570 --> 00:01:02,370
+China’s Minister of Justice—
+
+28
+00:01:02,370 --> 00:01:05,079
+who’s also a high ranking Party official—
+
+29
+00:01:05,079 --> 00:01:07,399
+has laid out some new requirements:
+
+30
+00:01:07,399 --> 00:01:10,049
+“Lawyers must make the work of developing
+the Party
+
+31
+00:01:10,049 --> 00:01:11,979
+their top political task.”
+
+32
+00:01:11,979 --> 00:01:16,100
+And “Lawyers must follow the Party no matter
+what happens.”
+
+33
+00:01:16,100 --> 00:01:19,909
+Okay, those technically aren’t new requirements.
+
+34
+00:01:19,909 --> 00:01:23,640
+But isn’t it also the Communist Party’s
+way of saying,
+
+35
+00:01:23,640 --> 00:01:26,420
+hey, we don’t want what happened to Gao
+Zhisheng
+
+36
+00:01:26,420 --> 00:01:28,840
+to happen to any other lawyers.
+
+37
+00:01:28,840 --> 00:01:30,630
+Such compassion.
+
+38
+00:01:30,630 --> 00:01:32,340
+Speaking of compassion,
+
+39
+00:01:32,340 --> 00:01:33,340
+according to the Epoch Times,
+
+40
+00:01:33,340 --> 00:01:37,310
+“The Chinese Embassy in the US issued a
+notice on its website
+
+41
+00:01:37,310 --> 00:01:40,840
+stating that the US is not safe and that there
+is
+
+42
+00:01:40,840 --> 00:01:44,960
+a high occurrence of gun violence, robbery,
+and theft.”
+
+43
+00:01:44,960 --> 00:01:46,329
+The Chinese Embassy’s warning about
+
+44
+00:01:46,329 --> 00:01:48,859
+the so-called dangers of traveling to America
+
+45
+00:01:48,859 --> 00:01:52,630
+came just a few days before US-China trade
+tariffs
+
+46
+00:01:52,630 --> 00:01:53,920
+went into effect.
+
+47
+00:01:53,920 --> 00:01:57,950
+I’m sure that’s totally a coincidence
+though.
+
+48
+00:01:57,950 --> 00:02:00,920
+Unfortunately, the warning didn’t come soon
+enough
+
+49
+00:02:00,920 --> 00:02:03,500
+for one Zhang Xiaolang.
+
+50
+00:02:03,500 --> 00:02:05,880
+Just as he was about to board a flight returning
+him
+
+51
+00:02:05,880 --> 00:02:08,069
+to the safety of the motherland,
+
+52
+00:02:08,069 --> 00:02:10,720
+he was arrested by US authorities.
+
+53
+00:02:10,720 --> 00:02:13,640
+Zhang worked for Apple in 2015.
+
+54
+00:02:13,640 --> 00:02:16,900
+Specifically in the autonomous car division.
+
+55
+00:02:16,900 --> 00:02:18,950
+And he may have been spying.
+
+56
+00:02:18,950 --> 00:02:22,220
+Zhang, “was accused of downloading files
+
+57
+00:02:22,220 --> 00:02:25,810
+that included engineering schematics and technical
+reports
+
+58
+00:02:25,810 --> 00:02:28,470
+before leaving to work for Xiaopeng Motors.”
+
+59
+00:02:28,470 --> 00:02:32,560
+I mean, what evidence do they have?
+
+60
+00:02:32,560 --> 00:02:36,430
+“Records and closed-circuit TV footage also
+showed Zhang
+
+61
+00:02:36,430 --> 00:02:39,000
+entering the autonomous car software and hardware
+labs
+
+62
+00:02:39,000 --> 00:02:40,810
+on April 28...
+
+63
+00:02:40,810 --> 00:02:43,670
+He was seen leaving less than an hour later
+carrying
+
+64
+00:02:43,670 --> 00:02:47,360
+a computer keyboard, some cables and a large
+box.”
+
+65
+00:02:47,980 --> 00:02:51,840
+Ok, so...a lot of evidence.
+
+66
+00:02:51,849 --> 00:02:52,849
+In hindsight,
+
+67
+00:02:52,849 --> 00:02:55,680
+considering Apple convinced the entire world
+
+68
+00:02:55,680 --> 00:02:58,920
+to put a surveillance device in their pockets,
+
+69
+00:02:58,920 --> 00:03:01,290
+Zhang maybe should have assumed Apple
+
+70
+00:03:01,290 --> 00:03:03,459
+would also have security cameras
+
+71
+00:03:03,459 --> 00:03:06,319
+in its top secret research lab.
+
+72
+00:03:06,319 --> 00:03:08,180
+But despite the spying,
+
+73
+00:03:08,180 --> 00:03:11,410
+Apple is still an eager player in the China
+market.
+
+74
+00:03:11,410 --> 00:03:14,579
+Apparently, even to the extent that they’d
+rather have iPhones
+
+75
+00:03:14,579 --> 00:03:18,189
+crash than stand up to Chinese censorship.
+
+76
+00:03:18,189 --> 00:03:20,829
+Apple has built in a censorship feature
+
+77
+00:03:20,829 --> 00:03:23,750
+on every iPhone in the world.
+
+78
+00:03:23,750 --> 00:03:27,540
+And it’s all for the benefit of the Chinese
+Communist Party.
+
+79
+00:03:27,540 --> 00:03:31,110
+It was discovered that “Apple added some
+code to iOS
+
+80
+00:03:31,110 --> 00:03:32,710
+with the goal that phones in China
+
+81
+00:03:32,710 --> 00:03:36,159
+wouldn’t display a Taiwanese flag.”
+
+82
+00:03:36,159 --> 00:03:38,549
+Except that introduced a bug.
+
+83
+00:03:38,549 --> 00:03:40,569
+If someone sent a Taiwanese flag emoji
+
+84
+00:03:40,569 --> 00:03:43,060
+to your iPhone while you were in China,
+
+85
+00:03:43,060 --> 00:03:44,390
+it would crash.
+
+86
+00:03:44,390 --> 00:03:50,250
+And yes, this has been a feature of iOS since
+early 2017.
+
+87
+00:03:50,250 --> 00:03:52,959
+If you switch your iPhone location to China,
+
+88
+00:03:52,959 --> 00:03:56,640
+the Taiwanese flag emoji option disappears.
+
+89
+00:03:56,640 --> 00:03:59,499
+But for reasons that are unclear right now,
+
+90
+00:03:59,499 --> 00:04:01,780
+some phones would crash if they received
+
+91
+00:04:01,780 --> 00:04:05,650
+the Taiwanese flag emoji from a user outside
+China.
+
+92
+00:04:05,650 --> 00:04:08,040
+Apple says they have now fixed the glitch.
+
+93
+00:04:08,040 --> 00:04:09,420
+Don’t worry.
+
+94
+00:04:09,420 --> 00:04:11,640
+They haven’t changed the censorship part.
+
+95
+00:04:11,640 --> 00:04:14,170
+That’s still in there.
+
+96
+00:04:14,170 --> 00:04:17,310
+Last week we covered the shady investments
+China
+
+97
+00:04:17,310 --> 00:04:20,199
+made in Malaysia's development company 1MDB.
+
+98
+00:04:20,199 --> 00:04:24,280
+Well, there’s a juicy update.
+
+99
+00:04:24,280 --> 00:04:29,069
+The Malaysia businessman behind it has fled
+to China.
+
+100
+00:04:29,069 --> 00:04:31,360
+Before fleeing to the mainland, he had been
+in Macau—
+
+101
+00:04:31,360 --> 00:04:34,270
+China’s hub for gambling and money laundering.
+
+102
+00:04:34,270 --> 00:04:37,410
+It gives you an idea of what kind of businessman
+he is.
+
+103
+00:04:37,410 --> 00:04:41,060
+The kind of businessman who parties with Leonardo
+DiCaprio!
+
+104
+00:04:41,060 --> 00:04:44,660
+Currently, Interpol has a warrant out for
+his arrest.
+
+105
+00:04:44,660 --> 00:04:46,090
+The Malaysian guy, not Leo.
+
+106
+00:04:46,090 --> 00:04:48,780
+But we’ll see if Chinese authorities are
+eager
+
+107
+00:04:48,780 --> 00:04:51,540
+to actually help Interpol.
+
+108
+00:04:51,540 --> 00:04:54,650
+Speaking of totally aboveboard business dealings,
+
+109
+00:04:54,650 --> 00:04:59,180
+it’s a breakthrough for Chinese telecommunications
+giant Huawei!
+
+110
+00:04:59,180 --> 00:05:01,870
+They won a 100 million dollar deal
+
+111
+00:05:01,870 --> 00:05:05,330
+to build 4G networks in Western Australia.
+
+112
+00:05:05,330 --> 00:05:08,570
+Wait, there were security concerns?
+
+113
+00:05:08,570 --> 00:05:11,680
+Well that doesn’t make any sense.
+
+114
+00:05:11,680 --> 00:05:15,240
+Just because Huawei has close ties to the
+Chinese military
+
+115
+00:05:15,240 --> 00:05:19,410
+and has been banned by some US government
+agencies,
+
+116
+00:05:19,410 --> 00:05:21,960
+that means Huawei is a security threat?!
+
+117
+00:05:21,960 --> 00:05:24,780
+I mean, they even said they wouldn’t
+
+118
+00:05:24,780 --> 00:05:27,400
+give Australian user data to China.
+
+119
+00:05:27,400 --> 00:05:29,310
+Obviously, cooler heads prevailed,
+
+120
+00:05:29,310 --> 00:05:32,590
+and gave Huawei the contract.
+
+121
+00:05:32,590 --> 00:05:34,729
+And in an unrelated story,
+
+122
+00:05:34,729 --> 00:05:36,940
+it turns out that in 2015,
+
+123
+00:05:36,940 --> 00:05:40,410
+Huawei took several Western Australian government
+officials
+
+124
+00:05:40,410 --> 00:05:43,720
+on a paid tour of China.
+
+125
+00:05:43,720 --> 00:05:45,250
+So what do you think?
+
+126
+00:05:45,250 --> 00:05:46,830
+Leave your comments below.
+
+127
+00:05:46,830 --> 00:05:47,830
+And before you go,
+
+128
+00:05:47,830 --> 00:05:49,880
+it’s that time when we answer questions
+
+129
+00:05:49,880 --> 00:05:52,039
+from fans who support China Uncensored
+
+130
+00:05:52,039 --> 00:05:55,319
+on the crowd funding website Patreon.
+
+131
+00:05:55,319 --> 00:05:57,349
+Carlos A Carreno asks
+
+132
+00:05:57,349 --> 00:06:01,430
+“Should I be afraid of all Chinese electronic
+software?
+
+133
+00:06:01,430 --> 00:06:03,810
+You know because the cyber espionage and stuff.”
+
+134
+00:06:03,810 --> 00:06:08,229
+Well, since iPhones are glitching because
+Apple
+
+135
+00:06:08,229 --> 00:06:11,560
+programmed in Chinese censorship in every
+iPhone,
+
+136
+00:06:12,320 --> 00:06:15,479
+it might not just be Chinese electronic software.
+
+137
+00:06:15,479 --> 00:06:16,550
+But I would say,
+
+138
+00:06:16,550 --> 00:06:19,669
+definitely don’t use the app WeChat.
+
+139
+00:06:19,669 --> 00:06:21,520
+In a 2016 report,
+
+140
+00:06:21,520 --> 00:06:23,850
+Amnesty International noted that WeChat
+
+141
+00:06:23,850 --> 00:06:26,410
+did not provide end-to-end encryption,
+
+142
+00:06:26,410 --> 00:06:28,349
+which means its messaging system
+
+143
+00:06:28,349 --> 00:06:31,250
+can be accessed via a ‘back door.’
+
+144
+00:06:31,250 --> 00:06:32,629
+Like, you know,
+
+145
+00:06:32,629 --> 00:06:34,080
+by the Chinese government.
+
+146
+00:06:34,080 --> 00:06:36,200
+Doesn’t stop there.
+
+147
+00:06:36,200 --> 00:06:38,220
+Chinese phones, like Huawei or ZTE,
+
+148
+00:06:38,220 --> 00:06:40,199
+are banned on security grounds
+
+149
+00:06:40,199 --> 00:06:43,639
+by organizations like the Pentagon.
+
+150
+00:06:43,639 --> 00:06:47,540
+So maybe you shouldn’t have one of those
+either.
+
+151
+00:06:47,540 --> 00:06:49,419
+Thanks for sending your question.
+
+152
+00:06:49,419 --> 00:06:50,419
+And remember,
+
+153
+00:06:50,419 --> 00:06:53,300
+China Uncensored is supported mainly from
+viewers like you.
+
+154
+00:06:53,300 --> 00:06:55,889
+If you want us to keep making great episodes,
+
+155
+00:06:55,889 --> 00:06:58,260
+and have a chance to get your question answered
+on air,
+
+156
+00:06:58,260 --> 00:07:00,889
+become a supporter on Patreon.
+
+157
+00:07:00,889 --> 00:07:02,389
+The link is below.
+
+158
+00:07:02,389 --> 00:07:04,110
+Once again I’m your host Chris Chappell.
+
+159
+00:07:04,110 --> 00:07:05,260
+See you next time.
+
+160
+00:07:07,200 --> 00:07:08,780
+Did you know China Uncensored
+
+161
+00:07:08,780 --> 00:07:11,780
+doesn’t show up on YouTube autocomplete?
+
+162
+00:07:11,780 --> 00:07:12,780
+Try it.
+
+163
+00:07:12,780 --> 00:07:14,139
+Pretty strange, huh?
+
+164
+00:07:14,139 --> 00:07:17,000
+That’s why you should turn on your notification
+bell
+
+165
+00:07:17,000 --> 00:07:21,000
+and check back regularly for more episodes
+of China Uncensored.
+
+166
+00:07:21,000 --> 00:07:23,190
+Otherwise you’ll miss out!
+
+167
+00:07:23,190 --> 00:07:25,420
+YouTube will see to it.
+

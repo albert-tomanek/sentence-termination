@@ -1,0 +1,1402 @@
+1
+00:00:01,050 --> 00:00:03,770
+China is the largest police state in the world.
+
+2
+00:00:03,770 --> 00:00:08,080
+It uses surveillance to go after dissidents
+and minorities.
+
+3
+00:00:08,080 --> 00:00:11,080
+And who helped them build that surveillance?
+
+4
+00:00:11,080 --> 00:00:14,680
+Microsoft and other American tech companies!
+
+5
+00:00:14,680 --> 00:00:16,780
+This is how they did it.
+
+6
+00:00:21,340 --> 00:00:22,339
+Welcome back to China Uncensored.
+
+7
+00:00:22,339 --> 00:00:23,800
+I’m Chris Chappell.
+
+8
+00:00:23,800 --> 00:00:25,009
+The Chinese Communist Party has built
+
+9
+00:00:25,009 --> 00:00:28,970
+the world’s most advanced systems of mass
+surveillance.
+
+10
+00:00:28,970 --> 00:00:31,679
+And this is the laboratory where the Chinese
+regime
+
+11
+00:00:31,679 --> 00:00:33,969
+tests this new technology:
+
+12
+00:00:33,969 --> 00:00:35,190
+The region of Xinjiang,
+
+13
+00:00:35,190 --> 00:00:39,260
+home to a mostly Muslim ethnic Uighur population.
+
+14
+00:00:39,260 --> 00:00:41,379
+The surveillance includes a network of
+
+15
+00:00:41,379 --> 00:00:44,090
+40,000 facial recognition cameras,
+
+16
+00:00:44,090 --> 00:00:46,500
+as well as collecting DNA samples,
+
+17
+00:00:46,500 --> 00:00:48,420
+fingerprints, iris scans,
+
+18
+00:00:48,420 --> 00:00:51,570
+and blood samples from most Xinjiang residents.
+
+19
+00:00:51,570 --> 00:00:55,710
+It’s the dystopian nightmare everyone warned
+us about!
+
+20
+00:00:55,710 --> 00:00:59,600
+But we here in America didn’t simply sit
+idle
+
+21
+00:00:59,600 --> 00:01:01,309
+while the Chinese regime was building
+
+22
+00:01:01,309 --> 00:01:03,469
+this Orwellian system.
+
+23
+00:01:03,469 --> 00:01:06,880
+In fact, our companies actively helped!
+
+24
+00:01:06,880 --> 00:01:12,010
+US tech companies knowingly worked with the
+Chinese military,
+
+25
+00:01:12,010 --> 00:01:14,320
+as well as with private Chinese companies
+
+26
+00:01:14,320 --> 00:01:17,580
+contracted to do work for the Chinese government.
+
+27
+00:01:17,580 --> 00:01:20,740
+The problem is what’s called dual-use technology—
+
+28
+00:01:20,740 --> 00:01:23,080
+tech, like facial recognition,
+
+29
+00:01:23,080 --> 00:01:26,860
+that has both civilian and military applications.
+
+30
+00:01:26,860 --> 00:01:29,820
+There’s very little regulation of this.
+
+31
+00:01:29,820 --> 00:01:31,640
+According to Foreign Policy,
+
+32
+00:01:31,640 --> 00:01:33,300
+“U.S. Congress and government officials
+
+33
+00:01:33,300 --> 00:01:36,870
+have yet to call for a review of the extent
+of
+
+34
+00:01:36,870 --> 00:01:40,070
+U.S. investment and research partnership entanglements.”
+
+35
+00:01:40,070 --> 00:01:41,960
+The Commerce Department has proposed
+
+36
+00:01:41,960 --> 00:01:44,190
+some rules for emerging tech,
+
+37
+00:01:44,190 --> 00:01:45,920
+but the scope is unclear.
+
+38
+00:01:45,920 --> 00:01:48,360
+Fortunately, at the end of last year,
+
+39
+00:01:48,360 --> 00:01:51,430
+Microsoft truly stepped up to the plate.
+
+40
+00:01:51,430 --> 00:01:53,830
+They said there’s a need for “public regulation
+
+41
+00:01:53,830 --> 00:01:55,690
+and corporate responsibility.”
+
+42
+00:01:55,690 --> 00:01:58,190
+Wow, good for Microsoft.
+
+43
+00:01:58,190 --> 00:01:59,190
+Except...
+
+44
+00:01:59,190 --> 00:02:01,800
+Microsoft ignored both public regulation
+
+45
+00:02:01,800 --> 00:02:03,890
+and corporate responsibility
+
+46
+00:02:03,890 --> 00:02:05,530
+by working with the Chinese military.
+
+47
+00:02:05,530 --> 00:02:09,259
+According to a report last week in the Financial
+Times,
+
+48
+00:02:09,259 --> 00:02:13,360
+“Microsoft has worked with a Chinese military-run
+
+49
+00:02:13,360 --> 00:02:15,700
+university on artificial intelligence research
+
+50
+00:02:15,700 --> 00:02:18,840
+that could be used for surveillance and censorship.”
+
+51
+00:02:18,840 --> 00:02:21,370
+Well, that’s awkward.
+
+52
+00:02:21,370 --> 00:02:23,560
+Over the course of a few months last year,
+
+53
+00:02:23,560 --> 00:02:25,610
+three published papers were co-written
+
+54
+00:02:25,610 --> 00:02:28,010
+by the Microsoft team in Beijing,
+
+55
+00:02:28,010 --> 00:02:29,760
+and researchers tied to China’s
+
+56
+00:02:29,760 --> 00:02:33,660
+National University of Defense Technology.
+
+57
+00:02:33,660 --> 00:02:37,910
+That university is controlled by China’s
+top military body,
+
+58
+00:02:37,910 --> 00:02:39,900
+the Central Military Commission.
+
+59
+00:02:39,900 --> 00:02:40,900
+Which is headed...
+
+60
+00:02:40,900 --> 00:02:44,350
+by Chinese presitator Xi Jinping.
+
+61
+00:02:44,350 --> 00:02:46,160
+But how could Microsoft know all that?
+
+62
+00:02:46,160 --> 00:02:48,820
+I mean, the University only has
+
+63
+00:02:48,820 --> 00:02:50,560
+“defense technology” in its name
+
+64
+00:02:50,560 --> 00:02:52,920
+and also the military symbol in its logo?
+
+65
+00:02:52,920 --> 00:02:54,970
+That’s like going to Burger King
+
+66
+00:02:54,970 --> 00:02:57,640
+and being surprised when they have burgers.
+
+67
+00:02:57,640 --> 00:02:59,330
+And kings.
+
+68
+00:02:59,330 --> 00:03:01,430
+One paper that Microsoft worked on describes
+
+69
+00:03:01,430 --> 00:03:06,130
+“a new AI method to recreate detailed environmental
+maps
+
+70
+00:03:06,130 --> 00:03:08,550
+by analysing human faces,
+
+71
+00:03:08,550 --> 00:03:11,240
+which experts say could have clear applications
+
+72
+00:03:11,240 --> 00:03:14,100
+for surveillance and censorship.”
+
+73
+00:03:14,100 --> 00:03:15,410
+What a coincidence!
+
+74
+00:03:15,410 --> 00:03:17,770
+Because that’s the very same kind of technology
+
+75
+00:03:17,770 --> 00:03:21,069
+they’re using in Xinjiang to track the Uighurs!
+
+76
+00:03:21,069 --> 00:03:22,900
+But it’s dual-use technology.
+
+77
+00:03:22,900 --> 00:03:24,650
+It could have civilian applications
+
+78
+00:03:24,650 --> 00:03:26,320
+or military applications!
+
+79
+00:03:26,320 --> 00:03:29,700
+How was Microsoft to know that the military
+university
+
+80
+00:03:29,700 --> 00:03:33,210
+would want to use it for military applications?
+
+81
+00:03:33,210 --> 00:03:37,400
+Now US lawmakers are calling out Microsoft
+for what they’ve done.
+
+82
+00:03:37,400 --> 00:03:38,950
+Senator Ted Cruz,
+
+83
+00:03:38,950 --> 00:03:40,930
+hey...nice beard,
+
+84
+00:03:40,930 --> 00:03:43,120
+says “American companies need to understand
+that
+
+85
+00:03:43,120 --> 00:03:47,770
+doing business in China carries significant
+and deepening risks.
+
+86
+00:03:47,770 --> 00:03:49,000
+In addition to being targeted
+
+87
+00:03:49,000 --> 00:03:51,950
+by the Chinese Communist party for espionage,
+
+88
+00:03:51,950 --> 00:03:54,090
+American companies are increasingly at risk
+
+89
+00:03:54,090 --> 00:03:56,500
+of boosting the Chinese Communist Party’s
+
+90
+00:03:56,500 --> 00:03:58,440
+human rights atrocities.”
+
+91
+00:03:58,440 --> 00:04:00,330
+That’s crazy.
+
+92
+00:04:00,330 --> 00:04:02,319
+An American company knowingly helping
+
+93
+00:04:02,319 --> 00:04:04,709
+a murderous regime persecute people?
+
+94
+00:04:04,709 --> 00:04:07,250
+What are they, IBM?
+
+95
+00:04:07,250 --> 00:04:10,220
+Senator Marco Rubio said Microsoft is complicit
+
+96
+00:04:10,220 --> 00:04:13,060
+in the Chinese regime’s human rights abuses.
+
+97
+00:04:13,060 --> 00:04:16,841
+“It is deeply disturbing that an American
+company
+
+98
+00:04:16,841 --> 00:04:20,180
+would be actively working with the Chinese
+military
+
+99
+00:04:20,180 --> 00:04:22,999
+to further build up the government's surveillance
+network
+
+100
+00:04:22,999 --> 00:04:24,499
+against its own people—
+
+101
+00:04:24,499 --> 00:04:26,469
+an act that makes them complicit
+
+102
+00:04:26,469 --> 00:04:29,300
+in aiding the Communist Chinese government’s
+
+103
+00:04:29,300 --> 00:04:31,620
+totalitarian censorship apparatus
+
+104
+00:04:31,620 --> 00:04:34,490
+and egregious human rights abuses.”
+
+105
+00:04:34,490 --> 00:04:37,999
+In fact, he and Congressman Chris Smith spearheaded
+
+106
+00:04:37,999 --> 00:04:41,520
+this bipartisan letter urging sanctions on
+China
+
+107
+00:04:41,520 --> 00:04:44,289
+for the treatment of Uighurs in Xinjiang.
+
+108
+00:04:44,289 --> 00:04:45,810
+It was signed by 9 Republicans,
+
+109
+00:04:45,810 --> 00:04:48,559
+7 Democrats and one independent.
+
+110
+00:04:48,559 --> 00:04:49,840
+To which I say,
+
+111
+00:04:49,840 --> 00:04:51,191
+good for the Chinese Communist Party
+
+112
+00:04:51,191 --> 00:04:54,830
+for finally bringing Democrats and Republicans
+together.
+
+113
+00:04:54,830 --> 00:04:56,860
+Now Microsoft has defended their work
+
+114
+00:04:56,860 --> 00:04:59,499
+with the Chinese military university.
+
+115
+00:04:59,499 --> 00:05:02,379
+Their official response to the Financial Times
+was,
+
+116
+00:05:02,379 --> 00:05:04,800
+“The research is guided by our principles,
+
+117
+00:05:04,800 --> 00:05:07,460
+fully complies with US and local laws,
+
+118
+00:05:07,460 --> 00:05:09,839
+and...is published to ensure transparency
+
+119
+00:05:09,839 --> 00:05:11,729
+so that everyone can benefit from our work.”
+
+120
+00:05:11,729 --> 00:05:15,520
+I mean, if their principles are to make lots
+of money
+
+121
+00:05:15,520 --> 00:05:17,870
+while technically not breaking any laws,
+
+122
+00:05:17,870 --> 00:05:21,430
+then yeah, I guess they are guided by their
+principles.
+
+123
+00:05:21,430 --> 00:05:25,030
+My favorite Chinese state-run media, the Global
+Times,
+
+124
+00:05:25,030 --> 00:05:26,639
+defended Microsoft.
+
+125
+00:05:26,639 --> 00:05:28,760
+It wrote that the Chinese director of the
+research
+
+126
+00:05:28,760 --> 00:05:32,810
+“slammed the accusations as subjective interpretation,
+
+127
+00:05:32,810 --> 00:05:34,680
+saying that ‘he who has a mind
+
+128
+00:05:34,680 --> 00:05:38,470
+to beat his dog will easily find his stick.’”
+
+129
+00:05:38,470 --> 00:05:39,689
+Oh yeah?
+
+130
+00:05:39,689 --> 00:05:41,530
+Well just because you pointed out the stick
+
+131
+00:05:41,530 --> 00:05:44,559
+doesn’t mean you were beating a dog.
+
+132
+00:05:44,559 --> 00:05:46,059
+Or something.
+
+133
+00:05:46,059 --> 00:05:48,020
+It sounded more folksy in my head.
+
+134
+00:05:48,020 --> 00:05:49,180
+The point is,
+
+135
+00:05:49,180 --> 00:05:51,800
+this isn’t Microsoft’s only shady connection
+
+136
+00:05:51,800 --> 00:05:53,659
+to mass surveillance in Xinjiang.
+
+137
+00:05:53,659 --> 00:05:57,430
+In February, a European research team discovered
+that
+
+138
+00:05:57,430 --> 00:06:00,119
+a Chinese company called SenseNets
+
+139
+00:06:00,119 --> 00:06:03,009
+had a totally open, unsecure database
+
+140
+00:06:03,009 --> 00:06:06,449
+of 2.5 million Uighurs in Xinjiang.
+
+141
+00:06:06,449 --> 00:06:10,150
+The records tracked everything from each person’s
+ID number,
+
+142
+00:06:10,150 --> 00:06:12,589
+birthday, address, ethnicity, employer...
+
+143
+00:06:12,589 --> 00:06:16,230
+as well as updated GPS coordinates that could
+tell if,
+
+144
+00:06:16,230 --> 00:06:17,259
+for instance,
+
+145
+00:06:17,259 --> 00:06:19,369
+this particular person was visiting a mosque.
+
+146
+00:06:19,369 --> 00:06:21,719
+Any I know that sounds creepy,
+
+147
+00:06:21,719 --> 00:06:23,919
+but have you considered this?
+
+148
+00:06:23,919 --> 00:06:26,729
+Maybe the police are just tracking everyone’s
+ID,
+
+149
+00:06:26,729 --> 00:06:29,779
+birthday, and location so they know where
+to deliver
+
+150
+00:06:29,780 --> 00:06:32,160
+their state-sponsored birthday cake!
+
+151
+00:06:32,160 --> 00:06:33,200
+Surprise!
+
+152
+00:06:33,860 --> 00:06:37,400
+And that image is my birthday present to all
+of you.
+
+153
+00:06:37,409 --> 00:06:39,639
+But back to creepy surveillance.
+
+154
+00:06:39,639 --> 00:06:42,740
+The company handling all this tracking, SenseNets,
+
+155
+00:06:42,740 --> 00:06:46,089
+listed Microsoft as a partner on their website.
+
+156
+00:06:46,089 --> 00:06:48,680
+Now, Microsoft has since said SenseNets
+
+157
+00:06:48,680 --> 00:06:51,340
+was lying about that partnership...
+
+158
+00:06:51,340 --> 00:06:55,469
+and offered, well, very little proof to back
+that up.
+
+159
+00:06:55,469 --> 00:06:58,589
+But SenseNets has removed Microsoft’s logo
+now,
+
+160
+00:06:58,589 --> 00:07:00,020
+so that’s good enough.
+
+161
+00:07:00,020 --> 00:07:02,990
+But Microsoft’s relationship with Chinese
+mass surveillance
+
+162
+00:07:02,990 --> 00:07:04,789
+goes even deeper.
+
+163
+00:07:04,789 --> 00:07:07,210
+The three papers the Financial Times discovered
+
+164
+00:07:07,210 --> 00:07:10,379
+“underscore Microsoft’s...long-running
+links
+
+165
+00:07:10,379 --> 00:07:13,339
+to Chinese military-funded academia,
+
+166
+00:07:13,339 --> 00:07:15,979
+including its operation of several ‘tech
+clubs’
+
+167
+00:07:15,979 --> 00:07:18,110
+for students at Chinese universities
+
+168
+00:07:18,110 --> 00:07:20,520
+known to have military links.”
+
+169
+00:07:20,520 --> 00:07:24,169
+In fact, Bill Gates got Microsoft into China
+
+170
+00:07:24,169 --> 00:07:26,379
+by building a personal relationship
+
+171
+00:07:26,379 --> 00:07:28,039
+with former Chinese leader
+
+172
+00:07:28,039 --> 00:07:30,759
+and murder toad Jiang Zemin.
+
+173
+00:07:30,759 --> 00:07:33,890
+And Jiang Zemin’s son owned a 50% share
+
+174
+00:07:33,890 --> 00:07:36,789
+of the MSN China website.
+
+175
+00:07:36,789 --> 00:07:38,020
+But before you say,
+
+176
+00:07:38,020 --> 00:07:40,639
+“Wow, Microsoft is the worst”...
+
+177
+00:07:40,639 --> 00:07:42,629
+I should tell you that there are actually
+
+178
+00:07:42,629 --> 00:07:45,759
+lots of American companies and organizations
+
+179
+00:07:45,759 --> 00:07:47,919
+doing shady things in China.
+
+180
+00:07:47,919 --> 00:07:49,249
+Like Cisco.
+
+181
+00:07:49,249 --> 00:07:52,029
+Cisco helped build China’s Great Firewall.
+
+182
+00:07:52,029 --> 00:07:55,580
+That’s the Communist Party’s internet
+censorship system
+
+183
+00:07:55,580 --> 00:07:56,899
+that prevents Chinese netizens
+
+184
+00:07:56,899 --> 00:07:59,860
+from accessing dangerous websites, like YouTube.
+
+185
+00:07:59,860 --> 00:08:03,860
+And a leaked internal powerpoint presentation
+
+186
+00:08:03,860 --> 00:08:07,020
+showed that Cisco was very aware that
+
+187
+00:08:07,020 --> 00:08:10,069
+one of the Chinese regime’s goals for the
+Great Firewall
+
+188
+00:08:10,069 --> 00:08:14,069
+was to target Falun Gong and other Chinese
+dissidents,
+
+189
+00:08:14,069 --> 00:08:15,949
+helpfully called “hostiles” here.
+
+190
+00:08:15,949 --> 00:08:17,740
+Falun Gong is the main group
+
+191
+00:08:17,740 --> 00:08:20,529
+the Chinese regime was persecuting at the
+time.
+
+192
+00:08:20,529 --> 00:08:22,619
+Falun Gong practitioners’ main thing is
+
+193
+00:08:22,619 --> 00:08:24,669
+hour-long meditation and exercises—
+
+194
+00:08:24,669 --> 00:08:27,849
+which, I have to say, is an incredibly boring
+thing
+
+195
+00:08:27,849 --> 00:08:29,469
+to put under surveillance.
+
+196
+00:08:29,469 --> 00:08:31,809
+But hey, I’m not the one paying for it.
+
+197
+00:08:31,809 --> 00:08:34,241
+So Cisco took a look at how the Chinese Communist
+Party
+
+198
+00:08:34,241 --> 00:08:37,570
+was monitoring and arresting all these people
+and thought,
+
+199
+00:08:37,570 --> 00:08:39,779
+what a great opportunity to sell more routers!
+
+200
+00:08:39,779 --> 00:08:42,130
+Anyway, it’s not just Cisco.
+
+201
+00:08:42,130 --> 00:08:44,750
+Top American University MIT
+
+202
+00:08:44,750 --> 00:08:48,560
+has a wide reaching partnership with SenseTime.
+
+203
+00:08:48,560 --> 00:08:53,350
+SenseTime is a world leader in AI facial recognition
+technology.
+
+204
+00:08:53,350 --> 00:08:57,029
+It also owns a 49% stake in SenseNets,
+
+205
+00:08:57,029 --> 00:09:00,660
+that company keeping on eye on 2.5 million
+Uighurs.
+
+206
+00:09:00,660 --> 00:09:03,980
+The one that Microsoft claims is totally not
+a partner.
+
+207
+00:09:03,980 --> 00:09:09,870
+And SenseNets is mainly owned by its Chinese
+parent company Netposa.
+
+208
+00:09:09,870 --> 00:09:10,870
+In 2010,
+
+209
+00:09:10,870 --> 00:09:13,040
+Netposa got some big investment from
+
+210
+00:09:13,040 --> 00:09:16,100
+an American venture capital firm:
+
+211
+00:09:16,100 --> 00:09:17,100
+Intel Capital.
+
+212
+00:09:17,100 --> 00:09:19,410
+It’s “where great companies are built.”
+
+213
+00:09:19,410 --> 00:09:20,410
+Which is good,
+
+214
+00:09:20,410 --> 00:09:23,040
+because Netposa has been doing its own investing
+
+215
+00:09:23,040 --> 00:09:25,380
+in US robotics startups.
+
+216
+00:09:25,380 --> 00:09:26,380
+Like Bito robotics.
+
+217
+00:09:26,380 --> 00:09:30,220
+It’s led by researchers at Carnegie Mellon
+University.
+
+218
+00:09:30,220 --> 00:09:32,870
+Netposa also invested in Exyn,
+
+219
+00:09:32,870 --> 00:09:34,649
+a drone software company,
+
+220
+00:09:34,649 --> 00:09:38,690
+which is competing in an AI challenge run
+by DARPA.
+
+221
+00:09:38,690 --> 00:09:42,460
+DARPA is the Defense Advanced Research Projects
+Agency.
+
+222
+00:09:42,460 --> 00:09:45,350
+That’s the part of the US Defense Department
+
+223
+00:09:45,350 --> 00:09:48,529
+responsible for the development of emerging
+technologies
+
+224
+00:09:48,529 --> 00:09:50,800
+for use by the military.
+
+225
+00:09:50,800 --> 00:09:51,800
+If you’re like me,
+
+226
+00:09:51,800 --> 00:09:54,570
+you know about DARPA thanks to Metal Gear
+Solid.
+
+227
+00:09:54,570 --> 00:09:57,899
+You’re the DARPA chief Donald Anderson,
+right?
+
+228
+00:09:57,899 --> 00:09:59,060
+No, Snake!
+
+229
+00:09:59,060 --> 00:10:00,880
+That’s Decoy Octopus
+
+230
+00:10:00,880 --> 00:10:03,690
+disguised as DARPA Chief Donald Anderson,
+
+231
+00:10:03,690 --> 00:10:07,120
+and the FOXDIE virus the Pentagon injected
+you with
+
+232
+00:10:07,120 --> 00:10:14,360
+is going to give him 
+a heart attack!
+
+233
+00:10:14,360 --> 00:10:16,380
+But...what about the Pentagon?
+
+234
+00:10:16,380 --> 00:10:17,380
+Pentagon?
+
+235
+00:10:17,380 --> 00:10:18,380
+Nnnggghhhh!!!
+
+236
+00:10:18,380 --> 00:10:19,380
+What is it?!
+
+237
+00:10:19,380 --> 00:10:20,380
+Whyyyy?!
+
+238
+00:10:20,380 --> 00:10:21,380
+Told ya.
+
+239
+00:10:21,380 --> 00:10:23,350
+Most of what I know about DARPA comes from
+a video game.
+
+240
+00:10:23,350 --> 00:10:25,370
+Anyway, as I mentioned earlier,
+
+241
+00:10:25,370 --> 00:10:28,300
+the Xinjiang government is also monitoring
+Uighurs
+
+242
+00:10:28,300 --> 00:10:29,980
+using their DNA.
+
+243
+00:10:29,980 --> 00:10:31,629
+And guess who’s helping?
+
+244
+00:10:31,629 --> 00:10:33,410
+More American companies!
+
+245
+00:10:33,410 --> 00:10:35,000
+Up until this February,
+
+246
+00:10:35,000 --> 00:10:37,139
+the American company Thermo Fisher
+
+247
+00:10:37,139 --> 00:10:39,509
+was selling DNA sequencers
+
+248
+00:10:39,509 --> 00:10:42,220
+directly to Xinjiang authorities.
+
+249
+00:10:42,220 --> 00:10:45,040
+This Yale professor shared DNA samples
+
+250
+00:10:45,040 --> 00:10:47,610
+with China’s Ministry of Public Security.
+
+251
+00:10:47,610 --> 00:10:49,660
+I mean come on!
+
+252
+00:10:49,660 --> 00:10:51,459
+How can you be a Yale professor
+
+253
+00:10:51,459 --> 00:10:55,490
+and not understand what the “ministry of
+public security”
+
+254
+00:10:55,490 --> 00:10:58,779
+gets up to in an authoritarian state like
+China?
+
+255
+00:10:58,779 --> 00:10:59,779
+
+
+256
+00:10:59,779 --> 00:11:02,709
+California-based Amax works on computer deep
+learning.
+
+257
+00:11:02,709 --> 00:11:07,120
+They have a partnership with China’s state-owned
+Hikvision, and...
+
+258
+00:11:07,120 --> 00:11:08,819
+...ok you know what?
+
+259
+00:11:08,819 --> 00:11:09,970
+I’m just going to stop here
+
+260
+00:11:09,970 --> 00:11:12,670
+otherwise this episode will be like 10 hours
+long.
+
+261
+00:11:12,670 --> 00:11:16,670
+And I don’t think our video editor Seamus
+would like that.
+
+262
+00:11:16,670 --> 00:11:19,810
+But these American tech companies should know
+better!
+
+263
+00:11:19,810 --> 00:11:22,420
+It’s well known that Chinese companies
+
+264
+00:11:22,420 --> 00:11:25,920
+built the internment camps in Xinjiang.
+
+265
+00:11:25,920 --> 00:11:27,720
+Chinese companies built the technology
+
+266
+00:11:27,720 --> 00:11:30,480
+that monitors their every move.
+
+267
+00:11:30,480 --> 00:11:32,310
+Chinese companies built the software
+
+268
+00:11:32,310 --> 00:11:34,980
+that monitors Uighurs online.
+
+269
+00:11:34,980 --> 00:11:38,560
+So maybe if you give these Chinese companies,
+
+270
+00:11:38,560 --> 00:11:40,579
+or Chinese military researchers,
+
+271
+00:11:40,579 --> 00:11:43,220
+your latest cutting edge technology,
+
+272
+00:11:43,220 --> 00:11:46,200
+it might get used for some not so great things.
+
+273
+00:11:46,200 --> 00:11:50,000
+But hey, it’s not like we learned any lessons
+from history.
+
+274
+00:11:50,019 --> 00:11:51,620
+So what do you think of how US companies
+
+275
+00:11:51,620 --> 00:11:54,860
+have helped build China’s surveillance state?
+
+276
+00:11:54,860 --> 00:11:56,720
+Let me know in the comments below.
+
+277
+00:11:56,720 --> 00:11:58,630
+And now it’s time for me to answer
+
+278
+00:11:58,630 --> 00:12:00,110
+a question from one of you—
+
+279
+00:12:00,110 --> 00:12:01,930
+a fan who supports China Uncensored
+
+280
+00:12:01,930 --> 00:12:03,610
+with a dollar or more per episode,
+
+281
+00:12:03,610 --> 00:12:07,029
+by contributing through the crowdfunding website
+Patreon.
+
+282
+00:12:07,029 --> 00:12:08,850
+Spartaner 251 asks,
+
+283
+00:12:08,850 --> 00:12:11,100
+“what's going to happen in the end?
+
+284
+00:12:11,100 --> 00:12:13,350
+china will just send some little doctor or
+someone
+
+285
+00:12:13,350 --> 00:12:15,189
+to put all the blame on.”
+
+286
+00:12:15,189 --> 00:12:17,740
+For clarity, that was in reference to a recent
+episode
+
+287
+00:12:17,740 --> 00:12:19,701
+I did about the Chinese Communist Party
+
+288
+00:12:19,701 --> 00:12:21,300
+being put on trial for killing
+
+289
+00:12:21,300 --> 00:12:22,800
+innocent prisoners of conscience
+
+290
+00:12:22,800 --> 00:12:24,380
+for their organs.
+
+291
+00:12:24,380 --> 00:12:26,120
+So I actually think it’s very likely
+
+292
+00:12:26,120 --> 00:12:27,930
+they’re going to try to blame it on someone,
+
+293
+00:12:27,930 --> 00:12:29,339
+or on a small group,
+
+294
+00:12:29,339 --> 00:12:31,540
+instead of the Communist Party as a whole
+
+295
+00:12:31,540 --> 00:12:33,279
+This is Huang Jiefu.
+
+296
+00:12:33,279 --> 00:12:37,620
+He’s the face of China’s organ transplantation
+system.
+
+297
+00:12:37,620 --> 00:12:38,800
+Even though he hasn’t admitted to
+
+298
+00:12:38,800 --> 00:12:41,009
+killing innocent people for their organs,
+
+299
+00:12:41,009 --> 00:12:43,449
+he has gone on the air to make sure that
+
+300
+00:12:43,449 --> 00:12:46,720
+any shady things that may or may not have
+happened
+
+301
+00:12:46,720 --> 00:12:49,380
+were some other guy’s fault.
+
+302
+00:12:49,380 --> 00:12:51,550
+That guy is Zhou Yongkang,
+
+303
+00:12:51,550 --> 00:12:53,529
+a high ranking Communist official
+
+304
+00:12:53,529 --> 00:12:55,550
+who has now been purged.
+
+305
+00:12:55,550 --> 00:12:57,389
+Now specifically he was talking about
+
+306
+00:12:57,389 --> 00:12:59,269
+organs from executed prisoners.
+
+307
+00:12:59,269 --> 00:13:01,490
+But Zhou Yongkang was a powerful figure
+
+308
+00:13:01,490 --> 00:13:03,379
+in a political faction tied to
+
+309
+00:13:03,379 --> 00:13:06,180
+former Chinese leader Jiang Zemin.
+
+310
+00:13:06,180 --> 00:13:08,790
+He and his faction have been trying to oust
+
+311
+00:13:08,790 --> 00:13:11,550
+current Chinese leader Xi Jinping.
+
+312
+00:13:11,550 --> 00:13:14,879
+Which is why Xi has been trying to purge them
+all.
+
+313
+00:13:14,879 --> 00:13:17,899
+Like a Communist version of Pokemon.
+
+314
+00:13:17,899 --> 00:13:19,440
+Now Jiang Zemin, Zhou Yongkang,
+
+315
+00:13:19,440 --> 00:13:21,649
+and others in that faction are the ones
+
+316
+00:13:21,649 --> 00:13:24,980
+who started this system of forced organ trafficking.
+
+317
+00:13:24,980 --> 00:13:27,230
+So I have a feeling, as more evidence
+
+318
+00:13:27,230 --> 00:13:30,240
+of these crimes against humanity come out,
+
+319
+00:13:30,240 --> 00:13:34,270
+Xi is going to try real hard to blame it on
+Jiang and his folks,
+
+320
+00:13:34,270 --> 00:13:37,430
+so he himself doesn’t get the blame.
+
+321
+00:13:37,430 --> 00:13:38,940
+Because in communist China,
+
+322
+00:13:38,940 --> 00:13:40,459
+the captain is the only one who
+
+323
+00:13:40,459 --> 00:13:43,140
+doesn’t have to go down with the ship.
+
+324
+00:13:43,140 --> 00:13:45,199
+Thanks for your question, Spartaner.
+
+325
+00:13:45,199 --> 00:13:47,540
+And thank you to all my 50-Cent Army soldiers
+
+326
+00:13:47,540 --> 00:13:48,980
+who support China Uncensored.
+
+327
+00:13:48,980 --> 00:13:51,899
+It’s only because of your support that we’ve
+been able to cover
+
+328
+00:13:51,899 --> 00:13:55,670
+topics that most other TV shows don’t want
+to,
+
+329
+00:13:55,670 --> 00:13:58,110
+because they prefer to get advertising dollars,
+
+330
+00:13:58,110 --> 00:14:00,720
+rather than criticize the Chinese Communist
+Party.
+
+331
+00:14:00,720 --> 00:14:02,200
+Once again, I’m Chris Chappell.
+
+332
+00:14:02,200 --> 00:14:03,200
+See you next time.
+

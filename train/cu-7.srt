@@ -1,0 +1,1678 @@
+1
+00:00:00,199 --> 00:00:02,300
+On this episode of China Uncensored,
+
+2
+00:00:02,300 --> 00:00:04,080
+the Chinese Communist Party has developed
+
+3
+00:00:04,080 --> 00:00:07,649
+a whole bunch of warfare tactics to use against
+the West,
+
+4
+00:00:07,649 --> 00:00:09,680
+in particular the United States.
+
+5
+00:00:09,680 --> 00:00:12,220
+And they’ve been developing them in Taiwan.
+
+6
+00:00:17,040 --> 00:00:18,520
+Hi, welcome back to China Uncensored.
+
+7
+00:00:18,530 --> 00:00:20,250
+I’m your host Chris Chappell.
+
+8
+00:00:20,250 --> 00:00:22,470
+The Chinese Communist Party is engaged in
+a campaign
+
+9
+00:00:22,470 --> 00:00:25,640
+of Unrestricted Warfare against the West.
+
+10
+00:00:25,640 --> 00:00:29,560
+Unrestricted Warfare aims to achieve the same
+goals of war,
+
+11
+00:00:29,560 --> 00:00:31,950
+without necessarily firing bullets.
+
+12
+00:00:31,950 --> 00:00:35,710
+And Cyber Espionage is one of the most powerful
+weapons.
+
+13
+00:00:35,710 --> 00:00:40,550
+The Chinese regime is one of the world’s
+biggest cyber aggressors.
+
+14
+00:00:40,550 --> 00:00:43,250
+In 2015, the Chinese military was blamed for
+the hack
+
+15
+00:00:43,250 --> 00:00:45,900
+on the US Office of Personnel Management,
+
+16
+00:00:45,900 --> 00:00:49,370
+which affected over 21 million Americans.
+
+17
+00:00:49,370 --> 00:00:52,740
+But you don’t test out your biggest weapons
+on the US.
+
+18
+00:00:52,740 --> 00:00:55,010
+You try them out on a smaller target first,
+
+19
+00:00:55,010 --> 00:00:56,160
+to see if they work.
+
+20
+00:00:56,160 --> 00:00:58,079
+And for the Chinese Communist Party,
+
+21
+00:00:58,079 --> 00:00:59,190
+that means Taiwan.
+
+22
+00:00:59,190 --> 00:01:02,860
+I sat down with cyber security expert Kitsch
+Liao
+
+23
+00:01:02,860 --> 00:01:04,370
+in Taipei to learn more.
+
+24
+00:01:04,370 --> 00:01:05,370
+
+
+25
+00:01:05,370 --> 00:01:06,399
+Thank you very much for joining us.
+
+26
+00:01:06,399 --> 00:01:07,439
+My pleasure.
+
+27
+00:01:07,439 --> 00:01:09,509
+So, the Chinese Communist Party is one of
+the biggest
+
+28
+00:01:09,509 --> 00:01:11,520
+cyber aggressors in the world.
+
+29
+00:01:11,520 --> 00:01:13,499
+Is Taiwan a particular target?
+
+30
+00:01:13,499 --> 00:01:18,119
+I would say yes, because ultimately the goal
+of cyber
+
+31
+00:01:18,119 --> 00:01:21,450
+espionage or even cyber attack is to advance
+the political
+
+32
+00:01:21,450 --> 00:01:23,249
+aim of the Communist Party.
+
+33
+00:01:23,249 --> 00:01:25,499
+And, as you know, a lot of your
+
+34
+00:01:25,499 --> 00:01:28,579
+audience must know, Taiwan has been the particular
+focus
+
+35
+00:01:28,579 --> 00:01:31,859
+for the Chinese Communist Party for the past
+40, 50 years.
+
+36
+00:01:31,859 --> 00:01:37,639
+It's the entire reason for the existence of
+the People's Liberation Army.
+
+37
+00:01:37,639 --> 00:01:39,469
+Mm-hmm-so, what's being targeted?
+
+38
+00:01:39,469 --> 00:01:45,389
+I would say basically when you're looking
+at what the Chinese
+
+39
+00:01:45,389 --> 00:01:46,599
+actually are sort of targeting,
+
+40
+00:01:46,599 --> 00:01:53,130
+they are mostly government infrastructures
+and military think tanks,
+
+41
+00:01:53,130 --> 00:01:55,689
+or research institutes, huge companies.
+
+42
+00:01:55,689 --> 00:01:58,679
+Basically, everything you can think of anywhere
+from
+
+43
+00:01:58,679 --> 00:02:02,759
+the President's office down to the most basic
+registry,
+
+44
+00:02:02,759 --> 00:02:05,369
+like population registration, the DMV.
+
+45
+00:02:05,369 --> 00:02:06,369
+Everything.
+
+46
+00:02:06,369 --> 00:02:08,759
+Mm-hmm -but since Taiwan is a part of China,
+
+47
+00:02:08,759 --> 00:02:10,220
+how do you hack yourself?
+
+48
+00:02:10,220 --> 00:02:12,640
+Well, the thing is, you know,
+
+49
+00:02:12,640 --> 00:02:16,650
+as much as the CCP likes to claim they're
+part of,
+
+50
+00:02:16,650 --> 00:02:20,640
+we are part of China, we still have different
+jurisdiction.
+
+51
+00:02:20,640 --> 00:02:21,780
+We have our own army.
+
+52
+00:02:21,780 --> 00:02:23,400
+We have our own elected government.
+
+53
+00:02:23,400 --> 00:02:26,720
+We have popular legitimacy, and if you ask
+most people,
+
+54
+00:02:26,720 --> 00:02:30,870
+they are like, well you know, I don't think
+China's part of us.
+
+55
+00:02:30,870 --> 00:02:31,870
+You know?
+
+56
+00:02:31,870 --> 00:02:34,090
+I need passport to go there.
+
+57
+00:02:34,090 --> 00:02:35,090
+Good point.
+
+58
+00:02:35,090 --> 00:02:36,150
+So, I know in the U.S.,
+
+59
+00:02:36,150 --> 00:02:39,349
+I've heard there are only two types of companies.
+
+60
+00:02:39,349 --> 00:02:41,610
+Companies that have been hacked and companies
+that
+
+61
+00:02:41,610 --> 00:02:43,739
+don't know they've been hacked.
+
+62
+00:02:43,739 --> 00:02:45,390
+Is that the situation in Taiwan?
+
+63
+00:02:45,390 --> 00:02:47,440
+Oh, yeah, of course, definitely.
+
+64
+00:02:47,440 --> 00:02:53,120
+Up until a few years ago, if one of the white-hat
+hackers,
+
+65
+00:02:53,120 --> 00:02:57,329
+which means they're hackers and they turn
+to fight for side of good,
+
+66
+00:02:57,329 --> 00:02:59,690
+if they were to basically bring a vulnerability,
+
+67
+00:02:59,690 --> 00:03:04,260
+a leak of a company with proof of concept,
+
+68
+00:03:04,260 --> 00:03:07,909
+Instead of fixing their vulnerabilities,
+
+69
+00:03:07,909 --> 00:03:09,599
+basically what they would do is they would
+charge
+
+70
+00:03:09,599 --> 00:03:11,359
+the white-hat that bring them the problem.
+
+71
+00:03:11,359 --> 00:03:13,579
+So, it's just made the problem worse?
+
+72
+00:03:13,579 --> 00:03:14,579
+Yes.
+
+73
+00:03:14,579 --> 00:03:17,269
+Or at least didn't fix the problem.
+
+74
+00:03:17,269 --> 00:03:18,269
+It's getting better.
+
+75
+00:03:18,269 --> 00:03:19,959
+It's getting better in the past few years.
+
+76
+00:03:19,959 --> 00:03:20,959
+And-
+
+77
+00:03:20,959 --> 00:03:21,959
+What changed?
+
+78
+00:03:21,959 --> 00:03:23,910
+Basically, awareness, I would say.
+
+79
+00:03:23,910 --> 00:03:28,450
+And also several significant incidents in
+the past few years.
+
+80
+00:03:28,450 --> 00:03:33,790
+Not the least of which was the hack on the
+hack on the Far Eastern Bank
+
+81
+00:03:33,790 --> 00:03:37,160
+that resulted in a almost few million losses.
+
+82
+00:03:37,160 --> 00:03:40,069
+But, fortunately our law enforcement officials
+were able
+
+83
+00:03:40,069 --> 00:03:42,510
+to capture them before they succeeded.
+
+84
+00:03:42,510 --> 00:03:45,439
+I'm curious, the Chinese Communist Party has
+said
+
+85
+00:03:45,439 --> 00:03:50,860
+for decades that they are going to invade
+Taiwan by force, if necessary.
+
+86
+00:03:50,860 --> 00:03:54,109
+Why do people not realize cyber espionage
+from
+
+87
+00:03:54,109 --> 00:03:55,909
+the Communist Party is a threat?
+
+88
+00:03:55,909 --> 00:03:59,549
+Well, the thing is for most people
+
+89
+00:03:59,549 --> 00:04:02,099
+they just want to get on with their lives,
+
+90
+00:04:02,099 --> 00:04:05,530
+and the internet penetration rate in Taiwan
+is one of
+
+91
+00:04:05,530 --> 00:04:08,079
+the highest known around the world.
+
+92
+00:04:08,079 --> 00:04:10,910
+But, also, because it's invisible.
+
+93
+00:04:10,910 --> 00:04:12,810
+You don't feel the effects.
+
+94
+00:04:12,810 --> 00:04:15,870
+Even if they stole everything from you,
+
+95
+00:04:15,870 --> 00:04:17,200
+all your personal information,
+
+96
+00:04:17,200 --> 00:04:22,220
+the effect is not going to be immediate unless
+you've
+
+97
+00:04:22,220 --> 00:04:23,580
+got a credit card stolen.
+
+98
+00:04:23,580 --> 00:04:28,230
+I have one example that I would like to provide
+that to
+
+99
+00:04:28,230 --> 00:04:30,280
+illustrate this kind of situation.
+
+100
+00:04:30,280 --> 00:04:34,890
+The Research Institute was acting on the government
+contract.
+
+101
+00:04:34,890 --> 00:04:37,820
+They were researching on behalf of the government,
+
+102
+00:04:37,820 --> 00:04:43,280
+and we were called in to basically to conduct
+a review of their system.
+
+103
+00:04:43,280 --> 00:04:45,130
+And, we found out, basically,
+
+104
+00:04:45,130 --> 00:04:49,290
+a lot of their computers are completely unprotected,
+and basically-
+
+105
+00:04:49,290 --> 00:04:50,290
+Unprotected?
+
+106
+00:04:50,290 --> 00:04:54,280
+Unprotected and there's a lot of trojan in
+it, and you know,
+
+107
+00:04:54,280 --> 00:04:56,990
+including ones that could be traced back to
+China.
+
+108
+00:04:56,990 --> 00:05:02,070
+But, of course, their concern was less about
+the security,
+
+109
+00:05:02,070 --> 00:05:03,240
+but more about the fact that
+
+110
+00:05:03,240 --> 00:05:07,520
+they needed to turn in their report on time.
+
+111
+00:05:07,520 --> 00:05:11,970
+I would say awareness is the first step, and
+that gets the people
+
+112
+00:05:11,970 --> 00:05:16,910
+in charge to understand what kind of consequences
+they are facing.
+
+113
+00:05:16,910 --> 00:05:18,350
+What created that awareness?
+
+114
+00:05:18,350 --> 00:05:20,980
+Was it that big hack?
+
+115
+00:05:20,980 --> 00:05:22,390
+What took?
+
+116
+00:05:22,390 --> 00:05:29,600
+It's a gradual process, but I would say, we've
+talked about espionage.
+
+117
+00:05:29,600 --> 00:05:31,410
+There's also the other side of that.
+
+118
+00:05:31,410 --> 00:05:34,710
+Because, once you actually get into a computer
+system,
+
+119
+00:05:34,710 --> 00:05:37,740
+there's a lot you can do.
+
+120
+00:05:37,740 --> 00:05:38,880
+The Chinese Communist Party,
+
+121
+00:05:38,880 --> 00:05:43,310
+in terms of the organization of the armed
+forces,
+
+122
+00:05:43,310 --> 00:05:47,650
+they do not make distinct differentiation
+between say,
+
+123
+00:05:47,650 --> 00:05:50,910
+cyber espionage and other kind of warfare.
+
+124
+00:05:50,910 --> 00:05:54,760
+That's according to The Science of Military
+Strategy, basically.
+
+125
+00:05:54,760 --> 00:05:56,750
+That's what they're saying.
+
+126
+00:05:56,750 --> 00:06:00,620
+All of this integrating, including psychological
+warfare,
+
+127
+00:06:00,620 --> 00:06:04,430
+intelligence, electronic warfare and of course,
+cyber warfare.
+
+128
+00:06:04,430 --> 00:06:07,560
+So, really this is an aspect of war?
+
+129
+00:06:07,560 --> 00:06:08,810
+Yes, definitely.
+
+130
+00:06:08,810 --> 00:06:12,770
+They treat this as seriously as any warfare.
+
+131
+00:06:12,770 --> 00:06:14,590
+This is a prelude to warfare.
+
+132
+00:06:14,590 --> 00:06:17,400
+I would say that.
+
+133
+00:06:17,400 --> 00:06:22,270
+All this election-related, all this fake news,
+
+134
+00:06:22,270 --> 00:06:25,640
+disinformation that you saw, people are starting
+to catch up,
+
+135
+00:06:25,640 --> 00:06:28,990
+because you saw some unfamiliar use of phrases,
+
+136
+00:06:28,990 --> 00:06:30,430
+people started thinking wait,
+
+137
+00:06:30,430 --> 00:06:32,490
+how much of this is actually coming from China.
+
+138
+00:06:32,490 --> 00:06:34,210
+When you say fake news,
+
+139
+00:06:34,210 --> 00:06:37,060
+are you talking about what happened in the
+U.S. or here in Taiwan?
+
+140
+00:06:37,060 --> 00:06:38,510
+Here in Taiwan.
+
+141
+00:06:38,510 --> 00:06:39,510
+Really?
+
+142
+00:06:39,510 --> 00:06:40,510
+That was problem here, too?
+
+143
+00:06:40,510 --> 00:06:41,510
+Yeah.
+
+144
+00:06:41,510 --> 00:06:43,810
+And in fact, that's actually one of the most
+serious concerns
+
+145
+00:06:43,810 --> 00:06:48,000
+of our National Security Establishment these
+days.
+
+146
+00:06:48,000 --> 00:06:49,930
+So, the Chinese Communist Party's trying to
+
+147
+00:06:49,930 --> 00:06:51,830
+interfere with elections in Taiwan?
+
+148
+00:06:51,830 --> 00:06:57,390
+When we say election interference we gotta
+specify which part
+
+149
+00:06:57,390 --> 00:06:58,640
+we're actually talking about.
+
+150
+00:06:58,640 --> 00:07:01,590
+So, in terms of the actual voting process,
+
+151
+00:07:01,590 --> 00:07:02,850
+because Taiwan's voting process
+
+152
+00:07:02,850 --> 00:07:06,520
+is conducted by people, actual paper.
+
+153
+00:07:06,520 --> 00:07:09,970
+You have a paper ballot, and they put that
+in the ballot boxes.
+
+154
+00:07:09,970 --> 00:07:14,470
+And then when it's time to actually count
+the results-
+
+155
+00:07:14,470 --> 00:07:15,470
+The U.S. should try that.
+
+156
+00:07:15,470 --> 00:07:16,470
+Yes.
+
+157
+00:07:16,470 --> 00:07:17,470
+We result, we track all of that.
+
+158
+00:07:17,470 --> 00:07:19,790
+So, it's actually harder to hack that, so
+to speak.
+
+159
+00:07:19,790 --> 00:07:23,330
+But, during the campaign there were stories.
+
+160
+00:07:23,330 --> 00:07:25,970
+There will be polls, actually.
+
+161
+00:07:25,970 --> 00:07:28,970
+There will be all sorts of information that
+is open to
+
+162
+00:07:28,970 --> 00:07:30,900
+manipulation on the internet.
+
+163
+00:07:30,900 --> 00:07:33,380
+I hear what the Chinese Communist Party is
+doing
+
+164
+00:07:33,380 --> 00:07:35,720
+in terms of interfering with the election
+process
+
+165
+00:07:35,720 --> 00:07:40,160
+in Taiwan is sort of like a staging ground
+for tactics
+
+166
+00:07:40,160 --> 00:07:41,570
+they are going to use around the world.
+
+167
+00:07:41,570 --> 00:07:43,340
+Can you speak to any of that?
+
+168
+00:07:43,340 --> 00:07:45,340
+In terms of staging ground,
+
+169
+00:07:45,340 --> 00:07:48,900
+it's less of an election thing, influence
+operations.
+
+170
+00:07:48,900 --> 00:07:51,480
+It's more about cyber espionage.
+
+171
+00:07:51,480 --> 00:07:54,890
+So basically, that means the tools,
+
+172
+00:07:54,890 --> 00:07:57,500
+the malwares they would use in other countries.
+
+173
+00:07:57,500 --> 00:07:58,980
+And, a lot of the times,
+
+174
+00:07:58,980 --> 00:08:03,320
+this is actually according to American firms,
+
+175
+00:08:03,320 --> 00:08:05,320
+that they would test on Taiwan first.
+
+176
+00:08:05,320 --> 00:08:07,890
+They would use Taiwan as a testing ground
+to see
+
+177
+00:08:07,890 --> 00:08:09,980
+whether we're onto them or not.
+
+178
+00:08:09,980 --> 00:08:12,890
+How good our detection are.
+
+179
+00:08:12,890 --> 00:08:16,620
+How good our protections are,
+
+180
+00:08:16,620 --> 00:08:19,810
+our security operation centers are.
+
+181
+00:08:19,810 --> 00:08:23,580
+Whether we are onto them or not before actually
+moving on.
+
+182
+00:08:23,580 --> 00:08:24,860
+This is pretty common.
+
+183
+00:08:24,860 --> 00:08:29,140
+You want to use your best weapons on the hottest
+opponent.
+
+184
+00:08:29,140 --> 00:08:32,380
+So, you want to test on Taiwan first before
+say
+
+185
+00:08:32,380 --> 00:08:37,660
+going for more harder targets like America,
+for example.
+
+186
+00:08:37,660 --> 00:08:40,030
+Mm-hmm -so Taiwan is really on the front lines
+
+187
+00:08:40,030 --> 00:08:42,419
+of the cyber warfare with China?
+
+188
+00:08:42,419 --> 00:08:44,510
+Oh, without a doubt.
+
+189
+00:08:44,510 --> 00:08:49,030
+And how do you tell if it's a Chinese State
+actor,
+
+190
+00:08:49,030 --> 00:08:51,680
+or an individual actor within China?
+
+191
+00:08:51,680 --> 00:08:57,420
+That goes to how we actually hunt the cyber
+actors.
+
+192
+00:08:57,420 --> 00:09:00,410
+So, one of the first thing when we receive,
+for example,
+
+193
+00:09:00,410 --> 00:09:05,170
+an NSA report is that you know, most of the
+time,
+
+194
+00:09:05,170 --> 00:09:07,530
+you know what they're after, what they're
+targeting,
+
+195
+00:09:07,530 --> 00:09:11,150
+which institution, which companies they're
+targeting.
+
+196
+00:09:11,150 --> 00:09:14,900
+And, then you are able ascertain, at least,
+
+197
+00:09:14,900 --> 00:09:16,340
+some sort of motive.
+
+198
+00:09:16,340 --> 00:09:17,490
+Why do they want this?
+
+199
+00:09:17,490 --> 00:09:19,480
+For example, if the hack was against
+
+200
+00:09:19,480 --> 00:09:21,800
+a military research institution,
+
+201
+00:09:21,800 --> 00:09:25,160
+then there's very little doubt that government
+agencies,
+
+202
+00:09:25,160 --> 00:09:27,460
+or for example, mercenaries would be interested
+
+203
+00:09:27,460 --> 00:09:30,000
+in selling this information.
+
+204
+00:09:30,000 --> 00:09:35,180
+Then you trace back to see what kind of tools
+they're using,
+
+205
+00:09:35,180 --> 00:09:36,950
+what kind of procedures they're using.
+
+206
+00:09:36,950 --> 00:09:40,690
+Does this match any of the previous attacks
+that we're familiar with?
+
+207
+00:09:40,690 --> 00:09:42,210
+And then when you see a pattern,
+
+208
+00:09:42,210 --> 00:09:47,430
+you start comparing the tools to see how much
+this tool actually cost.
+
+209
+00:09:47,430 --> 00:09:50,040
+You can estimate how much this is going to
+cost,
+
+210
+00:09:50,040 --> 00:09:52,430
+how much the entire operation is going to
+cost,
+
+211
+00:09:52,430 --> 00:09:55,280
+and what kind of resources they have to devote
+to this.
+
+212
+00:09:55,280 --> 00:09:58,360
+State-backed actors obviously have access
+to more resources.
+
+213
+00:09:58,360 --> 00:09:59,360
+Yes.
+
+214
+00:09:59,360 --> 00:10:00,360
+Okay.
+
+215
+00:10:00,360 --> 00:10:04,010
+In terms of actual cyber attack you could
+effectively
+
+216
+00:10:04,010 --> 00:10:07,730
+they have unlimited resources because it's
+cheap.
+
+217
+00:10:07,730 --> 00:10:08,960
+Most of these attacks, unfortunately
+
+218
+00:10:08,960 --> 00:10:10,150
+Compared to like a tank?
+
+219
+00:10:10,150 --> 00:10:11,150
+Yes.
+
+220
+00:10:11,150 --> 00:10:12,150
+Okay.
+
+221
+00:10:12,150 --> 00:10:13,150
+I know the United States provides
+
+222
+00:10:13,150 --> 00:10:15,340
+a lot of military support to Taiwan.
+
+223
+00:10:15,340 --> 00:10:18,600
+Are they are also providing like cyber...
+
+224
+00:10:18,600 --> 00:10:22,029
+what's the term I'm looking for...
+
+225
+00:10:22,029 --> 00:10:23,960
+cyber equipment, cyber-
+
+226
+00:10:23,960 --> 00:10:24,960
+Cooperation
+
+227
+00:10:24,960 --> 00:10:26,360
+Super-human samurai.
+
+228
+00:10:26,360 --> 00:10:27,960
+Oh, yeah.
+
+229
+00:10:27,960 --> 00:10:28,960
+Cyber-squads.
+
+230
+00:10:28,960 --> 00:10:29,960
+Yeah.
+
+231
+00:10:29,960 --> 00:10:31,140
+Well, the thing is,
+
+232
+00:10:31,140 --> 00:10:34,400
+if we're talking about general cooperation,
+
+233
+00:10:34,400 --> 00:10:35,870
+because we have to clarify.
+
+234
+00:10:35,870 --> 00:10:38,420
+In terms of a cyber threat posed to people,
+
+235
+00:10:38,420 --> 00:10:40,460
+there are generally two kinds.
+
+236
+00:10:40,460 --> 00:10:43,700
+This is the most rough classification.
+
+237
+00:10:43,700 --> 00:10:46,490
+You have cyber espionage, and you have cyber
+crime.
+
+238
+00:10:46,490 --> 00:10:49,250
+Basically they're doing the same thing, but
+one is motivated
+
+239
+00:10:49,250 --> 00:10:50,460
+by financial gains.
+
+240
+00:10:50,460 --> 00:10:53,520
+The other is motivated by others.
+
+241
+00:10:53,520 --> 00:10:55,600
+State interest.
+
+242
+00:10:55,600 --> 00:10:58,160
+In terms of financial crime, cyber crime,
+
+243
+00:10:58,160 --> 00:11:01,470
+everybody's actually aware this is a huge
+problem, right now.
+
+244
+00:11:01,470 --> 00:11:05,050
+Hell, even China is part of the cooperation
+in this.
+
+245
+00:11:05,050 --> 00:11:08,590
+But, in terms of cyber crime cooperation,
+our law enforcement
+
+246
+00:11:08,590 --> 00:11:11,810
+and intelligence community is actually very
+active with our partners
+
+247
+00:11:11,810 --> 00:11:13,720
+in the States and as well as Europe.
+
+248
+00:11:13,720 --> 00:11:15,470
+And, they have regular conferences.
+
+249
+00:11:15,470 --> 00:11:18,320
+They have exchange of intelligence.
+
+250
+00:11:18,320 --> 00:11:21,880
+The case I just mentioned, the Far Eastern
+case,
+
+251
+00:11:21,880 --> 00:11:24,850
+they actually enlisted the help of Interpol
+as well.
+
+252
+00:11:24,850 --> 00:11:28,560
+But, in terms of the more serious State interest
+concerns,
+
+253
+00:11:28,560 --> 00:11:32,130
+cyber espionage and cyber welfare, the thing
+is,
+
+254
+00:11:32,130 --> 00:11:35,080
+even if there is cooperation that would stay
+behind doors
+
+255
+00:11:35,080 --> 00:11:39,040
+because of the sensitive nature.
+
+256
+00:11:39,040 --> 00:11:40,040
+Naturally.
+
+257
+00:11:40,040 --> 00:11:41,310
+And, what about the risk
+
+258
+00:11:41,310 --> 00:11:43,350
+from Chinese telecommunication company,
+
+259
+00:11:43,350 --> 00:11:45,070
+like Huawei or ZTE?
+
+260
+00:11:45,070 --> 00:11:47,410
+Is that something that Taiwan is on guard
+about?
+
+261
+00:11:47,410 --> 00:11:48,830
+Oh yeah, definitely.
+
+262
+00:11:48,830 --> 00:11:50,450
+I would like to take this opportunity
+
+263
+00:11:50,450 --> 00:11:52,760
+to point out, we were actually one of the
+first in the world
+
+264
+00:11:52,760 --> 00:11:54,190
+to point that out.
+
+265
+00:11:54,190 --> 00:11:59,680
+Back in 2013, we were the first ones to actually
+prevent
+
+266
+00:11:59,680 --> 00:12:04,140
+any Chinese company from participating in
+bids involving our core network,
+
+267
+00:12:04,140 --> 00:12:09,340
+you know, pay stations, servers within government
+agencies.
+
+268
+00:12:09,340 --> 00:12:13,839
+And...that's, for the establishment of the
+4G network.
+
+269
+00:12:13,839 --> 00:12:16,440
+And now, when it comes to 5G, the NCC,
+
+270
+00:12:16,440 --> 00:12:19,360
+the National Communication Commission,
+
+271
+00:12:19,360 --> 00:12:23,070
+which is in charge of all the telecommunication
+equipment in Taiwan,
+
+272
+00:12:23,070 --> 00:12:26,240
+actually announced that the rules won't change
+for the 5G.
+
+273
+00:12:26,240 --> 00:12:29,100
+So, Huawei and ZTE, they're still out.
+
+274
+00:12:29,100 --> 00:12:33,020
+But, in terms of personal equipment, you know
+cell phones,
+
+275
+00:12:33,020 --> 00:12:36,010
+your internet card and everything.
+
+276
+00:12:36,010 --> 00:12:39,290
+Unfortunately, they're actually pretty prevalent
+in Taiwan these days.
+
+277
+00:12:39,290 --> 00:12:40,290
+Really?
+
+278
+00:12:40,290 --> 00:12:42,640
+What about Chinese apps, like WeChat?
+
+279
+00:12:42,640 --> 00:12:47,970
+WeChat and QQ, I'm sure a lot of people have
+heard they're dangerous,
+
+280
+00:12:47,970 --> 00:12:49,400
+you should not be using them.
+
+281
+00:12:49,400 --> 00:12:51,770
+But, people don't understand why they're dangerous.
+
+282
+00:12:51,770 --> 00:12:56,630
+Now, there are many, many, many reasons not
+to use them.
+
+283
+00:12:56,630 --> 00:13:00,589
+Just purely from whether the product is secure
+or not.
+
+284
+00:13:00,589 --> 00:13:05,670
+In terms, because this is a Chinese software,
+
+285
+00:13:05,670 --> 00:13:08,270
+so there's the added problem, issue,
+
+286
+00:13:08,270 --> 00:13:10,380
+of Chinese State censorship,
+
+287
+00:13:10,380 --> 00:13:13,440
+and also what they can do with these apps.
+
+288
+00:13:13,440 --> 00:13:17,920
+So, for example, there were reports during
+the Hong Kong protest
+
+289
+00:13:17,920 --> 00:13:22,230
+that the Chinese of Industry of State Security
+is actually
+
+290
+00:13:22,230 --> 00:13:27,850
+sending remote access trojans through WhatsApp
+in order to basically,
+
+291
+00:13:27,850 --> 00:13:32,130
+you know, sneak a peak at what's going on
+in your phone.
+
+292
+00:13:32,130 --> 00:13:35,980
+What these trojans allows a lot of times is
+a complete access
+
+293
+00:13:35,980 --> 00:13:39,400
+and administrator access off your entire phone.
+
+294
+00:13:39,400 --> 00:13:42,649
+So, it doesn't matter what kind of encryption
+you use
+
+295
+00:13:42,649 --> 00:13:44,821
+for your other messaging apps.
+
+296
+00:13:44,821 --> 00:13:47,180
+You could be using Signal, Telegram, whatever,
+
+297
+00:13:47,180 --> 00:13:50,260
+they will still have access to all of your
+personal information,
+
+298
+00:13:50,260 --> 00:13:51,940
+if they wish to.
+
+299
+00:13:51,940 --> 00:13:55,410
+So apps like WeChat are basically providing
+a backdoor
+
+300
+00:13:55,410 --> 00:13:58,130
+for the Chinese Communist Party to get into
+your phone?
+
+301
+00:13:58,130 --> 00:14:00,550
+If they so wish, yes.
+
+302
+00:14:00,550 --> 00:14:02,600
+what can an individual do?
+
+303
+00:14:02,600 --> 00:14:04,280
+Ultimately speaking,
+
+304
+00:14:04,280 --> 00:14:07,080
+I know this is going to sound really old fashioned,
+
+305
+00:14:07,080 --> 00:14:09,000
+but everybody's responsible for,
+
+306
+00:14:09,000 --> 00:14:10,670
+not only their own security,
+
+307
+00:14:10,670 --> 00:14:12,320
+but everybody around them.
+
+308
+00:14:12,320 --> 00:14:15,520
+Because, if you don't care about what kind
+of breach,
+
+309
+00:14:15,520 --> 00:14:18,460
+or what kind of access you're providing to
+potential hackers,
+
+310
+00:14:18,460 --> 00:14:22,120
+potential actors, then you are just,
+
+311
+00:14:22,120 --> 00:14:24,720
+you are just a jumping board for attackers
+to attack
+
+312
+00:14:24,720 --> 00:14:26,360
+everybody around you.
+
+313
+00:14:26,360 --> 00:14:29,690
+That means everybody around you have to defend
+against you.
+
+314
+00:14:29,690 --> 00:14:32,810
+So, update your password every three month
+or so.
+
+315
+00:14:32,810 --> 00:14:35,470
+Because even if you don't leak your password,
+
+316
+00:14:35,470 --> 00:14:38,760
+the people who has your password is going
+to leak them.
+
+317
+00:14:38,760 --> 00:14:39,760
+Yeah.
+
+318
+00:14:39,760 --> 00:14:42,790
+Use encryption and you know,
+
+319
+00:14:42,790 --> 00:14:45,330
+for every software you want to install,
+
+320
+00:14:45,330 --> 00:14:47,580
+I know there's End User Agreement,
+
+321
+00:14:47,580 --> 00:14:50,560
+and it's really exhausting to read through
+all of them,
+
+322
+00:14:50,560 --> 00:14:54,720
+but they will usually require access to some
+of your personal stuff.
+
+323
+00:14:54,720 --> 00:14:55,720
+Personal information.
+
+324
+00:14:55,720 --> 00:14:57,220
+So, read through them,
+
+325
+00:14:57,220 --> 00:14:59,270
+and if it's not absolutely necessary,
+
+326
+00:14:59,270 --> 00:15:02,440
+do not agree to share your information.
+
+327
+00:15:02,440 --> 00:15:06,400
+That's the best that you can do on a daily
+basis.
+
+328
+00:15:06,400 --> 00:15:12,000
+Of course, for Gmail, because almost everybody
+have Gmail,
+
+329
+00:15:12,000 --> 00:15:13,990
+activate your two-step verification.
+
+330
+00:15:13,990 --> 00:15:17,350
+Because, the goal of security is to make it
+harder,
+
+331
+00:15:17,350 --> 00:15:19,830
+collectively, for the bad guys to do things.
+
+332
+00:15:19,830 --> 00:15:21,320
+Mm-hmm (affirmative)-what about,
+
+333
+00:15:21,320 --> 00:15:24,790
+I'm curious about Chinese mobile phone games.
+
+334
+00:15:24,790 --> 00:15:28,280
+Is that something people want to watch out
+for?
+
+335
+00:15:28,280 --> 00:15:31,500
+Well, basically mobile games are just like
+any other software.
+
+336
+00:15:31,500 --> 00:15:35,470
+They're prone to all sorts of malware inserts.
+
+337
+00:15:35,470 --> 00:15:38,310
+Now, basically, mobile games,
+
+338
+00:15:38,310 --> 00:15:42,839
+I would say like the larger concern these
+days are data collection,
+
+339
+00:15:42,839 --> 00:15:44,920
+and also the censorship nature.
+
+340
+00:15:44,920 --> 00:15:47,740
+Because, there actually has been reports studying,
+
+341
+00:15:47,740 --> 00:15:51,660
+you know, kind of censorship going on in Chinese
+mobile games.
+
+342
+00:15:51,660 --> 00:15:55,250
+So, that's another aspect that's unrelated
+with this.
+
+343
+00:15:55,250 --> 00:16:00,020
+So, what is the Taiwanese Government doing
+about any of this?
+
+344
+00:16:00,020 --> 00:16:03,040
+Basically, the Taiwanese Government has been
+aware of this threat
+
+345
+00:16:03,040 --> 00:16:06,589
+for a long time and they've been gradually
+building of this capacity
+
+346
+00:16:06,589 --> 00:16:13,890
+on a government level to encounter the cyber
+threat posed by
+
+347
+00:16:13,890 --> 00:16:15,529
+all the threat actors.
+
+348
+00:16:15,529 --> 00:16:17,589
+But, specifically, China.
+
+349
+00:16:17,589 --> 00:16:22,480
+Now, in terms of securing our infrastructure,
+
+350
+00:16:22,480 --> 00:16:28,360
+what they do is much like what we have for
+dealing with any natural disaster.
+
+351
+00:16:28,360 --> 00:16:31,040
+We identify the critical infrastructure.
+
+352
+00:16:31,040 --> 00:16:34,750
+But, in this case, it's called the critical
+information infrastructure.
+
+353
+00:16:34,750 --> 00:16:39,570
+Basically, we have all these agencies reporting
+what kind of
+
+354
+00:16:39,570 --> 00:16:42,480
+vulnerabilities they would encounter.
+
+355
+00:16:42,480 --> 00:16:48,130
+Whether they would be able to continue operation
+if any one of them
+
+356
+00:16:48,130 --> 00:16:50,600
+was being paralyzed by any cyber attacks.
+
+357
+00:16:50,600 --> 00:16:54,779
+So, this kind of exercise has been going on
+on an annual basis.
+
+358
+00:16:54,779 --> 00:16:58,640
+And, also like in any government agencies
+and offices now,
+
+359
+00:16:58,640 --> 00:17:03,750
+we have security operation centers set up
+with people on-site
+
+360
+00:17:03,750 --> 00:17:08,720
+to monitor the entire cyber security situation
+of any given agency.
+
+361
+00:17:08,720 --> 00:17:14,240
+And, proper access rules, error gaps,
+
+362
+00:17:14,240 --> 00:17:17,119
+all three different firewalls...internal firewalls
+
+363
+00:17:17,119 --> 00:17:19,010
+that's all have been set up.
+
+364
+00:17:19,010 --> 00:17:22,569
+I would say, we have actually improved a lot.
+
+365
+00:17:22,569 --> 00:17:26,189
+Considering a disproportionate amount of threat
+Taiwan's under,
+
+366
+00:17:26,189 --> 00:17:28,069
+we are actually doing a pretty good job.
+
+367
+00:17:28,069 --> 00:17:29,069
+Great.
+
+368
+00:17:29,069 --> 00:17:30,559
+One final question.
+
+369
+00:17:30,559 --> 00:17:32,110
+The Chinese Communist Party,
+
+370
+00:17:32,110 --> 00:17:33,159
+if you had to pick,
+
+371
+00:17:33,160 --> 00:17:35,240
+would be what Star Trek villain?
+
+372
+00:17:37,280 --> 00:17:37,860
+Wow.
+
+373
+00:17:37,860 --> 00:17:39,480
+That would be really hard.
+
+374
+00:17:39,499 --> 00:17:41,440
+Oh, of course, it's easy.
+
+375
+00:17:41,440 --> 00:17:42,510
+It's the Borg.
+
+376
+00:17:42,510 --> 00:17:43,510
+Yep.
+
+377
+00:17:43,510 --> 00:17:44,510
+Correct.
+
+378
+00:17:44,510 --> 00:17:45,640
+You win the interview.
+
+379
+00:17:45,640 --> 00:17:46,640
+Congratulations.
+
+380
+00:17:46,640 --> 00:17:47,640
+Thank you.
+
+381
+00:17:47,640 --> 00:17:48,640
+Thanks for joining us, Kitsch.
+
+382
+00:17:48,640 --> 00:17:49,440
+It was wonderful to have you.
+
+383
+00:17:49,440 --> 00:17:50,000
+My pleasure.
+

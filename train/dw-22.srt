@@ -1,0 +1,300 @@
+1
+00:00:01,660 --> 00:00:02,660
+Let's switch it on.
+
+2
+00:00:02,660 --> 00:00:03,660
+Let's see what it does.
+
+3
+00:00:03,660 --> 00:00:08,769
+Through this coil of thick wire, we're about
+to pass a huge alternating electric current.
+
+4
+00:00:08,769 --> 00:00:11,490
+On top is a 1 kg aluminium plate.
+
+5
+00:00:11,490 --> 00:00:14,259
+So we hear that noise.
+
+6
+00:00:14,259 --> 00:00:16,580
+What's that noise?
+
+7
+00:00:16,580 --> 00:00:29,100
+It's the vibration of the plate, because it's
+vibrating at two times the frequency of this
+
+8
+00:00:29,100 --> 00:00:30,100
+one.
+
+9
+00:00:30,100 --> 00:00:31,100
+Woah!
+
+10
+00:00:31,100 --> 00:00:32,100
+Woooaaaahhhhhhh!!
+
+11
+00:00:32,100 --> 00:00:33,100
+hahaha, how does it do that?
+
+12
+00:00:33,100 --> 00:00:34,100
+It's magical
+
+13
+00:00:34,100 --> 00:00:35,100
+To find out, I've come to the place where
+it all started - The Royal Institution in
+
+14
+00:00:35,100 --> 00:00:36,100
+London
+
+15
+00:00:36,100 --> 00:00:38,120
+This is the key to Faraday's magnetic lab.
+
+16
+00:00:38,120 --> 00:00:40,860
+It's amazing that the lock still works.
+
+17
+00:00:40,860 --> 00:00:46,719
+From the 1870's on this became a store room,
+which is why it survived and it survived intact,
+
+18
+00:00:46,719 --> 00:00:51,100
+all the joinery giant electromagnet are exactly
+the same as Faraday left it.
+
+19
+00:00:51,100 --> 00:00:53,130
+So this is exactly as Faraday would have had
+it.
+
+20
+00:00:53,130 --> 00:00:54,130
+That's right, yup.
+
+21
+00:00:54,130 --> 00:00:58,690
+In Faraday's time it was known that electric
+current creates a magnetic field, but it remained
+
+22
+00:00:58,690 --> 00:01:03,559
+an open question whether the reverse is possible
+-- if a magnetic field could generate electric
+
+23
+00:01:03,559 --> 00:01:04,930
+current.
+
+24
+00:01:04,930 --> 00:01:08,160
+Faraday answered this question with his most
+famous apparatus.
+
+25
+00:01:08,160 --> 00:01:11,970
+Faraday's electromagnetic induction ring.
+
+26
+00:01:11,970 --> 00:01:14,760
+Which is this.
+
+27
+00:01:14,760 --> 00:01:20,330
+In August, 1831 Faraday wrapped two coils
+of insulated wire around this iron ring.
+
+28
+00:01:20,330 --> 00:01:24,070
+But in 1831 you could not go down to your
+local electrical hardware shop and ask for
+
+29
+00:01:24,070 --> 00:01:27,230
+x hundred meters of insulated wire, you had
+to insulate the wire as you went.
+
+30
+00:01:27,230 --> 00:01:30,320
+So as you pushed and pulled the wire in and
+out of the ring you had to insulate it.
+
+31
+00:01:30,320 --> 00:01:33,180
+It takes 10 working days, which was a huge
+investment of time.
+
+32
+00:01:33,180 --> 00:01:35,070
+But the investment paid off.
+
+33
+00:01:35,070 --> 00:01:39,560
+When Faraday connected a battery to one of
+the coils, he saw a brief pulse of current
+
+34
+00:01:39,560 --> 00:01:40,580
+in the other coil.
+
+35
+00:01:40,580 --> 00:01:45,000
+And when he disconnected the battery, he saw
+a pulse of current in the other direction.
+
+36
+00:01:45,000 --> 00:01:49,490
+He realized that current was induced in the
+second coil only when the magnetic field through
+
+37
+00:01:49,490 --> 00:01:50,490
+it was changing.
+
+38
+00:01:50,490 --> 00:01:54,520
+And if they hadn't been wrapped on the same
+ring, Faraday may have noticed that the two
+
+39
+00:01:54,520 --> 00:01:58,790
+coils repel each other when the current is
+induced and that's due to the interaction
+
+40
+00:01:58,790 --> 00:02:00,500
+of their magnetic fields.
+
+41
+00:02:00,500 --> 00:02:02,450
+Which brings us back to this.
+
+42
+00:02:02,450 --> 00:02:07,740
+Through the bottom coil we are passing a huge
+electric current: 800A which alternates in
+
+43
+00:02:07,740 --> 00:02:10,640
+direction 900 times per second.
+
+44
+00:02:10,640 --> 00:02:14,890
+This ensures there will always be a changing
+magnetic field above the coil.
+
+45
+00:02:14,890 --> 00:02:19,480
+Instead of a second coil we're using the Aluminium
+plate, but the principle is the same, the
+
+46
+00:02:19,480 --> 00:02:24,230
+changing magnetic field induces currents in
+the plate that create an opposing magnetic
+
+47
+00:02:24,230 --> 00:02:27,140
+field -- so it levitates.
+
+48
+00:02:27,140 --> 00:02:31,660
+How awesome is that?!
+
+49
+00:02:31,660 --> 00:02:34,170
+This current is not only good for levitating
+the plate.
+
+50
+00:02:34,170 --> 00:02:37,950
+It can also make lightbulbs glow.
+
+51
+00:02:37,950 --> 00:02:38,950
+A gift.
+
+52
+00:02:38,950 --> 00:02:40,110
+Uh, thank you.
+
+53
+00:02:40,110 --> 00:02:41,110
+Oh.
+
+54
+00:02:41,110 --> 00:02:42,110
+That is cool.
+
+55
+00:02:42,110 --> 00:02:45,250
+Not too close because it will burn the lamps.
+
+56
+00:02:45,250 --> 00:02:47,530
+Can I put it there?
+
+57
+00:02:47,530 --> 00:02:48,530
+Yeah.
+
+58
+00:02:48,530 --> 00:02:52,720
+And just as current in a toaster element heats
+it up, the induced current in the plate dissipates
+
+59
+00:02:52,720 --> 00:02:53,740
+its energy as heat.
+
+60
+00:02:53,740 --> 00:02:55,230
+And some water too
+Thank you.
+
+61
+00:02:55,230 --> 00:02:56,900
+Yeah to see the temperature.
+
+62
+00:02:56,900 --> 00:03:00,960
+Check out how hot this plate is.
+
+63
+00:03:00,960 --> 00:03:03,270
+Oh, that is nuts!
+
+64
+00:03:03,270 --> 00:03:06,170
+Is this your favorite demo?
+
+65
+00:03:06,170 --> 00:03:09,650
+It's a flying BBQ or something
+
+66
+00:03:09,650 --> 00:03:12,450
+Tell me this is not the best dinner table
+centerpiece.
+
+67
+00:03:12,450 --> 00:03:17,010
+It levitates, gives you light, and you can
+cook on it. and all the while you're demonstrating
+
+68
+00:03:17,010 --> 00:03:45,510
+Faraday's Law of electromagnetic induction.
+

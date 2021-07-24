@@ -1,0 +1,785 @@
+1
+00:00:00,919 --> 00:00:02,170
+US companies have been hit
+
+2
+00:00:02,170 --> 00:00:04,730
+by a massive cyber-heist.
+
+3
+00:00:04,730 --> 00:00:06,900
+Sensitive information from nearly 80 million
+people
+
+4
+00:00:06,900 --> 00:00:08,500
+has been stolen.
+
+5
+00:00:08,500 --> 00:00:11,230
+The Department of Justice thinks it knows
+whodunit.
+
+6
+00:00:11,230 --> 00:00:13,690
+Sophisticated hackers operating in China
+
+7
+00:00:13,690 --> 00:00:16,120
+But maybe the worst is yet to come
+
+8
+00:00:21,020 --> 00:00:22,320
+Welcome back to China Uncensored.
+
+9
+00:00:22,330 --> 00:00:23,330
+I’m Chris Chappell.
+
+10
+00:00:23,330 --> 00:00:26,060
+The United States has just indicted two Chinese
+hackers
+
+11
+00:00:26,060 --> 00:00:28,660
+and charged them with cyber crimes.
+
+12
+00:00:28,660 --> 00:00:30,680
+Very serious cyber crimes.
+
+13
+00:00:30,680 --> 00:00:32,439
+The first alleged cyber-criminal:
+
+14
+00:00:32,439 --> 00:00:34,649
+Fujie Wang, aka Dennis Wang.
+
+15
+00:00:34,649 --> 00:00:36,339
+Here’s his wanted poster.
+
+16
+00:00:36,339 --> 00:00:38,670
+The second accused hacker:
+
+17
+00:00:38,670 --> 00:00:41,389
+Zhou Zhihong, aka Deniel Jack.
+
+18
+00:00:41,389 --> 00:00:42,860
+That’s right.
+
+19
+00:00:42,860 --> 00:00:43,860
+Deniel Jack.
+
+20
+00:00:43,860 --> 00:00:46,789
+Here’s his wanted poster.
+
+21
+00:00:46,789 --> 00:00:48,429
+Bringing him in is going to be hard.
+
+22
+00:00:48,429 --> 00:00:51,109
+There are a lot of lookalikes out there.
+
+23
+00:00:51,109 --> 00:00:52,499
+In an announcement last week,
+
+24
+00:00:52,499 --> 00:00:56,239
+the Department of Justice said Dennis Wang
+and Deniel Jack
+
+25
+00:00:56,239 --> 00:00:59,519
+are members of an “extremely sophisticated
+hacking group
+
+26
+00:00:59,519 --> 00:01:01,100
+operating in China and targeting
+
+27
+00:01:01,100 --> 00:01:03,969
+large businesses in the United States”.
+
+28
+00:01:03,969 --> 00:01:06,850
+The DOJ indicted the duo for a range of cyber
+crimes
+
+29
+00:01:06,850 --> 00:01:09,920
+that include intentional damage to a protected
+computer
+
+30
+00:01:09,920 --> 00:01:11,780
+and conspiracy to commit wire fraud.
+
+31
+00:01:11,780 --> 00:01:16,170
+Their biggest of their several cyber-intrusions
+dates back to 2015.
+
+32
+00:01:16,170 --> 00:01:19,040
+The target was a company called Anthem.
+
+33
+00:01:19,040 --> 00:01:23,180
+It’s one of the biggest health insurance
+companies in the US.
+
+34
+00:01:23,180 --> 00:01:24,370
+Now you might think:
+
+35
+00:01:24,370 --> 00:01:27,570
+That’s just karmic justice for those big
+insurance companies
+
+36
+00:01:27,570 --> 00:01:29,399
+ripping off Americans.
+
+37
+00:01:29,399 --> 00:01:30,659
+But the thing is,
+
+38
+00:01:30,659 --> 00:01:33,880
+the hackers weren’t after lower insurance
+premiums.
+
+39
+00:01:33,880 --> 00:01:36,030
+They were after the sensitive personal data
+
+40
+00:01:36,030 --> 00:01:38,560
+of nearly 80 million customers—
+
+41
+00:01:38,560 --> 00:01:40,829
+including, maybe yours.
+
+42
+00:01:40,829 --> 00:01:42,299
+The indictment says the hackers
+
+43
+00:01:42,299 --> 00:01:44,710
+broke into Anthem's computer networks
+
+44
+00:01:44,710 --> 00:01:47,409
+using a bag of sophisticated tricks.
+
+45
+00:01:47,409 --> 00:01:48,920
+First, "spearfishing"—
+
+46
+00:01:48,920 --> 00:01:50,420
+where they targeted Anthem employees
+
+47
+00:01:50,420 --> 00:01:53,579
+with emails containing malicious hyperlinks.
+
+48
+00:01:53,579 --> 00:01:56,210
+Click the link and it automatically downloads...
+
+49
+00:01:56,210 --> 00:01:57,210
+"Malware"—
+
+50
+00:01:57,210 --> 00:01:59,139
+where they installed malicious software
+
+51
+00:01:59,139 --> 00:02:01,530
+that runs automatically and installs
+
+52
+00:02:01,530 --> 00:02:03,380
+a "backdoor"—
+
+53
+00:02:03,380 --> 00:02:06,710
+which is a tool that lets hackers control
+a computer remotely.
+
+54
+00:02:06,710 --> 00:02:10,039
+It’s like when you get an email in weird
+English,
+
+55
+00:02:10,039 --> 00:02:14,290
+promising you an “all expanses paid cruise
+in Bahama”—
+
+56
+00:02:14,290 --> 00:02:16,510
+if you could please just click on this link.
+
+57
+00:02:16,510 --> 00:02:19,569
+And then they steal everything.
+
+58
+00:02:19,569 --> 00:02:21,269
+According to the indictment, Wang and Jack,
+
+59
+00:02:21,269 --> 00:02:23,180
+“collected files and other information
+
+60
+00:02:23,180 --> 00:02:26,030
+from the compromised computers and then stole
+
+61
+00:02:26,030 --> 00:02:30,310
+(i.e. exfiltrated) this data of interest using
+encrypted archives
+
+62
+00:02:30,310 --> 00:02:32,810
+and computers under their control.”
+
+63
+00:02:32,810 --> 00:02:36,300
+And where did all that stolen data get exfiltrated
+to?
+
+64
+00:02:36,300 --> 00:02:37,300
+China.
+
+65
+00:02:37,300 --> 00:02:41,580
+And what did all that stolen data contain?
+
+66
+00:02:41,580 --> 00:02:43,560
+Personally identifiable information
+
+67
+00:02:43,560 --> 00:02:46,680
+of some 78.8 million people,
+
+68
+00:02:46,680 --> 00:02:48,510
+including names, addresses,
+
+69
+00:02:48,510 --> 00:02:50,849
+income data and social security numbers.
+
+70
+00:02:50,849 --> 00:02:55,189
+So don’t be surprised if you start getting
+personalized spam
+
+71
+00:02:55,189 --> 00:02:58,070
+from a guy selling knockoff whiskey.
+
+72
+00:02:58,070 --> 00:02:59,450
+But more seriously,
+
+73
+00:02:59,450 --> 00:03:01,620
+if the hackers decide to sell the data,
+
+74
+00:03:01,620 --> 00:03:06,489
+this could potentially be a huge opportunity
+for identity theft.
+
+75
+00:03:06,489 --> 00:03:08,970
+According to the Social Security Administration,
+
+76
+00:03:08,970 --> 00:03:11,360
+identity thieves can use your social security
+number
+
+77
+00:03:11,360 --> 00:03:13,189
+to get credit in your name
+
+78
+00:03:13,189 --> 00:03:15,579
+and "then they use the credit cards
+
+79
+00:03:15,579 --> 00:03:17,760
+and don't pay the bills."
+
+80
+00:03:17,760 --> 00:03:19,770
+Using credit cards and not paying the bills?
+
+81
+00:03:19,770 --> 00:03:24,030
+They’re even ripping off a traditional American
+pastime!
+
+82
+00:03:24,030 --> 00:03:27,159
+So it's not just virtual spam pinging your
+mailbox.
+
+83
+00:03:27,159 --> 00:03:29,360
+It could mean very real,
+
+84
+00:03:29,360 --> 00:03:33,209
+very physical debt collectors beating down
+your door.
+
+85
+00:03:33,209 --> 00:03:34,540
+Although an Anthem spokeswoman
+
+86
+00:03:34,540 --> 00:03:36,469
+was quick to tell the Wall Street Journal
+that
+
+87
+00:03:36,469 --> 00:03:39,319
+“There is no evidence that information obtained
+
+88
+00:03:39,319 --> 00:03:41,520
+has resulted in fraud.”
+
+89
+00:03:41,520 --> 00:03:43,290
+Does that mean the hackers stole data
+
+90
+00:03:43,290 --> 00:03:46,469
+on nearly 80 million people for no reason?
+
+91
+00:03:46,469 --> 00:03:48,099
+Or just not for fraud?
+
+92
+00:03:48,099 --> 00:03:50,319
+Because there’s also blackmail.
+
+93
+00:03:50,319 --> 00:03:53,171
+Anyway, just how bad is a data breach
+
+94
+00:03:53,171 --> 00:03:55,500
+involving nearly 80 million people?
+
+95
+00:03:55,500 --> 00:03:59,370
+Well, according to Assistant Attorney General
+Brian Benczkowski,
+
+96
+00:03:59,370 --> 00:04:02,700
+“The brazen China-based computer hacking
+group
+
+97
+00:04:02,700 --> 00:04:06,469
+committed one of the worst data breaches in
+history."
+
+98
+00:04:06,469 --> 00:04:08,790
+One of the worst data breaches in history?!
+
+99
+00:04:08,790 --> 00:04:13,379
+Oh man, you hackers are in big trouble!
+
+100
+00:04:13,379 --> 00:04:14,379
+Just kidding.
+
+101
+00:04:14,379 --> 00:04:15,379
+They’re in China.
+
+102
+00:04:15,379 --> 00:04:16,790
+Don’t worry, the Chinese authorities
+
+103
+00:04:16,790 --> 00:04:19,070
+will soon find their secret hideout.
+
+104
+00:04:19,070 --> 00:04:20,640
+So they can send them bottles of champagne—
+
+105
+00:04:20,640 --> 00:04:22,750
+and a little note card thanking them
+
+106
+00:04:22,750 --> 00:04:25,640
+for their contribution to win-win mutual cooperation
+
+107
+00:04:25,640 --> 00:04:26,730
+with the United States.
+
+108
+00:04:26,730 --> 00:04:30,860
+Now, if this story sounds familiar, it is.
+
+109
+00:04:30,860 --> 00:04:34,640
+I’d call it, “Hackin’ 2: Electric Boogaloo.”
+
+110
+00:04:34,640 --> 00:04:35,910
+Back in December,
+
+111
+00:04:35,910 --> 00:04:38,540
+US prosecutors announced cyber-crimes charges
+
+112
+00:04:38,540 --> 00:04:40,650
+against two other Chinese hackers.
+
+113
+00:04:40,650 --> 00:04:42,191
+“Today the criminal justice department
+
+114
+00:04:42,191 --> 00:04:45,860
+is announcing criminal indictment of two hackers
+
+115
+00:04:45,860 --> 00:04:49,710
+associated with the Chinese government.
+
+116
+00:04:49,710 --> 00:04:51,260
+The charges include conspiracy
+
+117
+00:04:51,260 --> 00:04:52,910
+to commit computer intrusions
+
+118
+00:04:52,910 --> 00:04:56,400
+against dozens of companies in the United
+States
+
+119
+00:04:56,400 --> 00:04:58,230
+and around the world.”
+
+120
+00:04:58,230 --> 00:05:00,910
+And FBI Director Christopher Wray said at
+the time
+
+121
+00:05:00,910 --> 00:05:02,570
+that cyber threats from hackers
+
+122
+00:05:02,570 --> 00:05:04,490
+with links to the Chinese regime
+
+123
+00:05:04,490 --> 00:05:06,580
+are as bad as it gets.
+
+124
+00:05:06,580 --> 00:05:09,430
+“As evidenced by this investigation,
+
+125
+00:05:09,430 --> 00:05:12,750
+the threats we face have never been more severe
+
+126
+00:05:12,750 --> 00:05:14,360
+or more pervasive
+
+127
+00:05:14,360 --> 00:05:17,900
+or more potentially damaging to our national
+security,
+
+128
+00:05:17,900 --> 00:05:21,390
+and no country poses a broader, more severe,
+
+129
+00:05:21,390 --> 00:05:24,720
+long term threat to our nation’s economy
+
+130
+00:05:24,720 --> 00:05:27,260
+and cyber infrastructure than China.”
+
+131
+00:05:27,260 --> 00:05:29,160
+What’s that, Shelley?
+
+132
+00:05:29,160 --> 00:05:30,560
+The US government also indicted
+
+133
+00:05:30,560 --> 00:05:33,210
+Chinese hackers in November 2018?
+
+134
+00:05:33,210 --> 00:05:37,100
+Ok, so this is more like Hackers Part 3:
+
+135
+00:05:37,100 --> 00:05:38,980
+Rise of the Machines.
+
+136
+00:05:38,980 --> 00:05:40,480
+What?
+
+137
+00:05:40,480 --> 00:05:42,930
+They also indicted Chinese hackers and spies
+
+138
+00:05:42,930 --> 00:05:45,150
+in October of 2018?
+
+139
+00:05:45,150 --> 00:05:49,770
+Ok, so this is more like the Kingdom of the
+Crystal Hack,
+
+140
+00:05:49,770 --> 00:05:52,220
+the fourth sequel that no one asked for.
+
+141
+00:05:52,220 --> 00:05:54,720
+What’s that, Shelley?
+
+142
+00:05:54,720 --> 00:05:58,880
+The US government also indicted Chinese hackers
+in 2017...
+
+143
+00:05:58,880 --> 00:06:00,800
+And all the way back in 2014,
+
+144
+00:06:00,800 --> 00:06:02,550
+when they indicted hackers who were actually
+
+145
+00:06:02,550 --> 00:06:04,660
+members of the People’s Liberation Army?
+
+146
+00:06:04,660 --> 00:06:05,880
+Forget it.
+
+147
+00:06:05,880 --> 00:06:07,410
+I’m done with this joke.
+
+148
+00:06:07,410 --> 00:06:08,800
+Only the Star Wars movies
+
+149
+00:06:08,800 --> 00:06:11,100
+have enough sequels to deal with this.
+
+150
+00:06:11,100 --> 00:06:12,100
+And believe me,
+
+151
+00:06:12,100 --> 00:06:13,880
+I’m ready for *that* series to be done.
+
+152
+00:06:13,880 --> 00:06:16,800
+I guess this is why the US government has
+said
+
+153
+00:06:16,800 --> 00:06:20,210
+there’s a new “hacking spree” coming
+from China.
+
+154
+00:06:20,210 --> 00:06:22,180
+But while these indictments might show that
+
+155
+00:06:22,180 --> 00:06:24,550
+the US government means business,
+
+156
+00:06:24,550 --> 00:06:26,770
+they also show that they’re not actually
+good
+
+157
+00:06:26,770 --> 00:06:28,660
+at stopping the hacking.
+
+158
+00:06:28,660 --> 00:06:30,420
+So my advice is:
+
+159
+00:06:30,420 --> 00:06:32,480
+If you get an email in broken English,
+
+160
+00:06:32,480 --> 00:06:34,640
+with an attachment claiming to offer you
+
+161
+00:06:34,640 --> 00:06:37,520
+an all-expanses paid cruise—
+
+162
+00:06:37,520 --> 00:06:39,810
+don’t click on it.
+
+163
+00:06:39,810 --> 00:06:40,810
+So what do you think about
+
+164
+00:06:40,810 --> 00:06:42,150
+the cyber-crimes indictment
+
+165
+00:06:42,150 --> 00:06:44,810
+against Wang and Deniel Jack?
+
+166
+00:06:44,810 --> 00:06:46,480
+Leave your comments below.
+
+167
+00:06:46,480 --> 00:06:47,480
+And while you’re here,
+
+168
+00:06:47,480 --> 00:06:48,910
+it’s time for me to answer another question
+
+169
+00:06:48,910 --> 00:06:51,090
+from a fan who supports China Uncensored
+
+170
+00:06:51,090 --> 00:06:53,200
+with a dollar or more per episode—
+
+171
+00:06:53,200 --> 00:06:55,720
+through the crowdfunding website Patreon.
+
+172
+00:06:55,720 --> 00:06:57,410
+Colin Lee Bradford asks
+
+173
+00:06:57,410 --> 00:07:01,110
+“You seem desperate for questions sometimes.
+
+174
+00:07:01,110 --> 00:07:03,150
+What is your favorite type of question?”
+
+175
+00:07:03,150 --> 00:07:04,940
+My favorite questions are ones
+
+176
+00:07:04,940 --> 00:07:07,820
+where viewers ask about my favorite type of
+thing.
+
+177
+00:07:07,820 --> 00:07:09,610
+Good question Colin.
+
+178
+00:07:09,610 --> 00:07:10,650
+And if you want your question
+
+179
+00:07:10,650 --> 00:07:11,690
+answered on the show,
+
+180
+00:07:11,690 --> 00:07:14,470
+go to Patreon.com/ChinaUncensored
+
+181
+00:07:14,470 --> 00:07:17,280
+and support us with a dollar or more per episode.
+
+182
+00:07:17,280 --> 00:07:20,750
+Then you can ask me about my favorite brand
+of toothpaste,
+
+183
+00:07:20,750 --> 00:07:23,600
+or favorite style of elevator button.
+
+184
+00:07:23,600 --> 00:07:26,110
+The important questions get answered right
+here.
+
+185
+00:07:26,110 --> 00:07:27,660
+Thanks for watching China Uncensored.
+
+186
+00:07:27,660 --> 00:07:29,360
+Once again, I’m Chris Chappell.
+
+187
+00:07:29,360 --> 00:07:30,400
+See you next time.
+

@@ -1,0 +1,1210 @@
+1
+00:00:00,240 --> 00:00:02,090
+On this episode of China Uncensored,
+
+2
+00:00:02,090 --> 00:00:04,299
+with China playing a bigger role,
+
+3
+00:00:04,299 --> 00:00:06,119
+what will the Internet become?
+
+4
+00:00:18,480 --> 00:00:19,580
+Hi, welcome to China Uncensored,
+
+5
+00:00:19,580 --> 00:00:21,480
+I’m your host Chris Chappell.
+
+6
+00:00:21,480 --> 00:00:22,619
+The Internet!
+
+7
+00:00:22,619 --> 00:00:25,119
+Some of you watching may not have even been alive
+
+8
+00:00:25,119 --> 00:00:28,369
+at a time when the Internet wasn’t everywhere.
+
+9
+00:00:28,369 --> 00:00:30,330
+But I remember such a time.
+
+10
+00:00:30,330 --> 00:00:33,260
+When computers were mysterious novelties,
+
+11
+00:00:33,260 --> 00:00:35,860
+completely misunderstood by popular media.
+
+12
+00:00:36,740 --> 00:00:37,440
+What’s your preference?
+
+13
+00:00:37,450 --> 00:00:40,680
+Apple, Pear, Wang?
+
+14
+00:00:40,680 --> 00:00:43,460
+Oh listen, I don’t know anything about computers?
+
+15
+00:00:43,460 --> 00:00:44,760
+Nobody does!
+
+16
+00:00:44,760 --> 00:00:47,070
+Electric Dreams was popular, right?
+
+17
+00:00:47,070 --> 00:00:51,050
+Anyway, the world has now changed in weird, wild ways.
+
+18
+00:00:51,050 --> 00:00:53,540
+Because Internet.
+
+19
+00:00:53,540 --> 00:00:54,580
+But at the beginning,
+
+20
+00:00:54,580 --> 00:00:57,640
+no one really knew what to do with computers.
+
+21
+00:00:57,640 --> 00:00:58,460
+Other than, you know
+
+22
+00:00:58,460 --> 00:00:59,960
+designing your own woman.
+
+23
+00:01:00,640 --> 00:01:01,140
+Okay, look.
+
+24
+00:01:01,140 --> 00:01:02,640
+You know how you’re always talking about
+how you can
+
+25
+00:01:02,640 --> 00:01:04,190
+simulate all that stuff on your computer?
+
+26
+00:01:04,190 --> 00:01:05,190
+You know?
+
+27
+00:01:05,740 --> 00:01:06,240
+What’s the difference,
+
+28
+00:01:06,240 --> 00:01:08,060
+why can’t we simulate a girl?
+
+29
+00:01:24,079 --> 00:01:26,850
+The 80s were magnificent.
+
+30
+00:01:26,850 --> 00:01:28,400
+But clearly at that time,
+
+31
+00:01:28,400 --> 00:01:29,770
+no one really could predict
+
+32
+00:01:29,770 --> 00:01:32,740
+where this whole Internet thing was going.
+
+33
+00:01:32,740 --> 00:01:36,580
+Although it is largely still about finding
+the perfect woman.
+
+34
+00:01:36,580 --> 00:01:39,329
+Anyway, the point is, 20 years ago,
+
+35
+00:01:39,329 --> 00:01:41,479
+the Internet was still developing.
+
+36
+00:01:41,479 --> 00:01:42,909
+And so in 1998
+
+37
+00:01:42,909 --> 00:01:46,600
+the US government helped create the Los Angeles based non-profit,
+
+38
+00:01:46,600 --> 00:01:47,800
+ICANN.
+
+39
+00:01:47,810 --> 00:01:49,060
+To put it very simply,
+
+40
+00:01:49,060 --> 00:01:51,530
+there’s a department of ICANN that’s in charge
+
+41
+00:01:51,530 --> 00:01:54,090
+of the Internet’s address book.
+
+42
+00:01:54,090 --> 00:01:56,149
+It makes sure users get to the website
+
+43
+00:01:56,149 --> 00:01:57,869
+they intend to visit.
+
+44
+00:01:57,869 --> 00:02:00,319
+Like when you type in YouTube.com,
+
+45
+00:02:00,319 --> 00:02:02,729
+it sends you to YouTube’s website
+
+46
+00:02:02,729 --> 00:02:05,539
+so you don’t have to type in the long string
+of numbers
+
+47
+00:02:05,539 --> 00:02:08,440
+which is YouTube’s actual IP address.
+
+48
+00:02:08,440 --> 00:02:10,490
+It’s like how you don’t bother remembering
+
+49
+00:02:10,490 --> 00:02:12,240
+your mom’s phone number anymore
+
+50
+00:02:12,240 --> 00:02:14,660
+because you can just go to your phone’s
+Contacts
+
+51
+00:02:14,660 --> 00:02:16,800
+and click her name.
+
+52
+00:02:16,800 --> 00:02:20,580
+But you use ICANN way more than you call your
+mother.
+
+53
+00:02:20,580 --> 00:02:23,920
+ICANN is like if the entire world shared Contacts
+
+54
+00:02:23,920 --> 00:02:25,440
+for Internet addresses.
+
+55
+00:02:25,880 --> 00:02:27,600
+That’s really important because
+
+56
+00:02:27,600 --> 00:02:30,130
+whoever controls the Internet’s address
+book
+
+57
+00:02:30,130 --> 00:02:33,740
+also has the ability to censor the Internet.
+
+58
+00:02:33,740 --> 00:02:38,460
+Let’s say ICANN removes the domain name
+youtube.com.
+
+59
+00:02:38,460 --> 00:02:40,480
+YouTube itself may still exist,
+
+60
+00:02:40,480 --> 00:02:42,560
+but would you know what numbers to type in
+
+61
+00:02:42,560 --> 00:02:44,060
+to get there?
+
+62
+00:02:44,060 --> 00:02:47,860
+99.9% of people wouldn't be able to access
+it.
+
+63
+00:02:47,860 --> 00:02:50,300
+So ICANN is really important.
+
+64
+00:02:50,300 --> 00:02:51,730
+As the Economist puts it,
+
+65
+00:02:51,730 --> 00:02:52,730
+“That is why,
+
+66
+00:02:52,730 --> 00:02:53,970
+as the internet grew up,
+
+67
+00:02:53,970 --> 00:02:57,390
+America decided not to hand control to the
+United Nations
+
+68
+00:02:57,390 --> 00:03:00,540
+or another international body steered by governments.”
+
+69
+00:03:00,540 --> 00:03:01,790
+But for the most part,
+
+70
+00:03:01,790 --> 00:03:04,930
+the US government has been pretty much hands off,
+
+71
+00:03:04,930 --> 00:03:06,270
+which let the Internet thrive
+
+72
+00:03:06,270 --> 00:03:08,810
+as the global depository of cat videos
+
+73
+00:03:08,810 --> 00:03:10,620
+we know today.
+
+74
+00:03:10,620 --> 00:03:13,470
+But something changed this past Saturday.
+
+75
+00:03:13,470 --> 00:03:17,690
+Because the US let its contract with ICANN
+expire.
+
+76
+00:03:17,690 --> 00:03:19,200
+As of October 1,
+
+77
+00:03:19,200 --> 00:03:22,560
+it will be run on a “multi-stakeholder model.”
+
+78
+00:03:22,560 --> 00:03:23,560
+In other words,
+
+79
+00:03:23,560 --> 00:03:26,360
+a “mix of corporate interests, government
+officials,
+
+80
+00:03:26,360 --> 00:03:27,850
+activists and experts
+
+81
+00:03:27,850 --> 00:03:30,650
+spread across four international bodies.”
+
+82
+00:03:30,650 --> 00:03:33,280
+Whew, this is getting complicated!
+
+83
+00:03:33,280 --> 00:03:36,440
+Can we go back to the old days for a bit?
+
+84
+00:03:36,440 --> 00:03:37,880
+Much better
+
+85
+00:03:43,400 --> 00:03:43,900
+You see,
+
+86
+00:03:43,900 --> 00:03:47,380
+the Internet was never meant to have a central
+authority.
+
+87
+00:03:47,380 --> 00:03:49,210
+And the less say that governments have,
+
+88
+00:03:49,210 --> 00:03:51,000
+the more free the Internet, right?
+
+89
+00:03:51,520 --> 00:03:52,100
+After all,
+
+90
+00:03:52,100 --> 00:03:55,460
+there are 3.6 billion Internet users,
+
+91
+00:03:55,460 --> 00:03:56,460
+so of course
+
+92
+00:03:56,460 --> 00:03:59,240
+the vast majority are outside the US.
+
+93
+00:03:59,240 --> 00:04:01,440
+And after Edward Snowden revealed
+
+94
+00:04:01,450 --> 00:04:04,230
+that the NSA was spying on the global Internet,
+
+95
+00:04:04,230 --> 00:04:06,330
+a lot of people called for the US
+
+96
+00:04:06,330 --> 00:04:08,230
+to give up control.
+
+97
+00:04:08,230 --> 00:04:08,770
+So did a lot of
+
+98
+00:04:08,770 --> 00:04:12,300
+major technology and telecommunication companies.
+
+99
+00:04:12,300 --> 00:04:14,500
+So the US did give up control.
+
+100
+00:04:14,740 --> 00:04:16,040
+Well, not completely.
+
+101
+00:04:16,220 --> 00:04:18,260
+the US will still have one seat
+
+102
+00:04:18,269 --> 00:04:23,199
+on ICANN’s 171-member Governmental Advisory
+Committee.
+
+103
+00:04:23,199 --> 00:04:24,199
+In other words,
+
+104
+00:04:24,199 --> 00:04:25,590
+the US’s position on the committee
+
+105
+00:04:25,590 --> 00:04:27,900
+will be theoretically equal
+
+106
+00:04:27,900 --> 00:04:29,759
+to a country like Barbados,
+
+107
+00:04:29,759 --> 00:04:32,020
+a country you think about so little,
+
+108
+00:04:32,020 --> 00:04:35,139
+that you didn’t even notice that’s not
+Barbados.
+
+109
+00:04:35,139 --> 00:04:35,879
+This is Barbados.
+
+110
+00:04:36,520 --> 00:04:37,660
+Oh, that is fun! No wonder John Oliver can't stop doing it
+
+111
+00:04:37,660 --> 00:04:40,460
+No wonder John Oliver can't stop doing it!
+
+112
+00:04:40,910 --> 00:04:45,020
+But just because Barbados has a population
+smaller than Wichita, Kansas
+
+113
+00:04:45,020 --> 00:04:47,039
+doesn’t mean it shouldn’t have an equal
+say
+
+114
+00:04:47,039 --> 00:04:49,810
+over how the Internet gets run.
+
+115
+00:04:49,810 --> 00:04:51,370
+But that’s not the whole picture,
+
+116
+00:04:51,370 --> 00:04:52,569
+since in reality,
+
+117
+00:04:52,569 --> 00:04:55,169
+not all countries have equally small stakes
+
+118
+00:04:55,169 --> 00:04:57,460
+in how the Internet will be run.
+
+119
+00:04:57,460 --> 00:04:58,460
+Actually,
+
+120
+00:04:58,460 --> 00:05:01,310
+the US will still have lots of sway.
+
+121
+00:05:01,310 --> 00:05:02,949
+But you know who else does?
+
+122
+00:05:02,949 --> 00:05:03,949
+China.
+
+123
+00:05:03,949 --> 00:05:06,189
+A country I talk about so much,
+
+124
+00:05:06,189 --> 00:05:08,560
+you were wondering when I was going to get
+to it.
+
+125
+00:05:08,560 --> 00:05:10,070
+You see, China—
+
+126
+00:05:10,070 --> 00:05:12,330
+or Chinese authorities to be precise—
+
+127
+00:05:12,330 --> 00:05:16,520
+are very happy about the US giving up its
+control.
+
+128
+00:05:16,520 --> 00:05:19,020
+As one Chinese cyber security professor said,
+
+129
+00:05:19,020 --> 00:05:20,840
+“China has the capability now
+
+130
+00:05:20,840 --> 00:05:23,800
+to set up international rules for cyberspace
+
+131
+00:05:23,800 --> 00:05:26,180
+and use our strategy and our rules
+
+132
+00:05:26,180 --> 00:05:28,129
+to influence the world.”
+
+133
+00:05:28,420 --> 00:05:29,120
+I mean,
+
+134
+00:05:29,129 --> 00:05:30,620
+who wouldn’t want China’s Internet rules
+
+135
+00:05:30,620 --> 00:05:32,250
+to apply to the entire world?
+
+136
+00:05:32,250 --> 00:05:34,070
+I mean, first of all,
+
+137
+00:05:34,070 --> 00:05:36,870
+we'd get actual Internet police.
+
+138
+00:05:36,870 --> 00:05:38,370
+But that’s just some professor
+
+139
+00:05:38,370 --> 00:05:39,939
+saying that’s the plan.
+
+140
+00:05:39,939 --> 00:05:40,939
+I mean,
+
+141
+00:05:40,939 --> 00:05:42,550
+it’s paranoid delusion to imagine
+
+142
+00:05:42,550 --> 00:05:45,379
+that China is actually considering setting
+up
+
+143
+00:05:45,379 --> 00:05:48,499
+its own rules in cyberspace.
+
+144
+00:05:48,499 --> 00:05:49,499
+Except that,
+
+145
+00:05:49,499 --> 00:05:50,970
+according to another guy,
+
+146
+00:05:50,970 --> 00:05:52,849
+“China is considering setting up
+
+147
+00:05:52,849 --> 00:05:55,260
+its own rules in cyberspace.”
+
+148
+00:05:55,260 --> 00:05:58,090
+And that other guy is the Premier of China,
+
+149
+00:05:58,090 --> 00:05:59,409
+Li Keqiang.
+
+150
+00:05:59,409 --> 00:06:01,849
+So, maybe there is something to the idea
+
+151
+00:06:01,849 --> 00:06:04,749
+that the Communist Party might be trying to
+influence
+
+152
+00:06:04,749 --> 00:06:06,279
+the global Internet.
+
+153
+00:06:06,820 --> 00:06:09,020
+It’s pretty well known the Chinese regime
+
+154
+00:06:09,020 --> 00:06:11,830
+has kept a tight grip on China’s Internet—
+
+155
+00:06:11,830 --> 00:06:14,009
+with two million people employed to police it,
+
+156
+00:06:14,009 --> 00:06:18,059
+so they can monitor what Chinese citizens do and say.
+
+157
+00:06:18,059 --> 00:06:19,870
+They also block access to websites
+
+158
+00:06:19,870 --> 00:06:21,900
+they consider subversive.
+
+159
+00:06:21,900 --> 00:06:23,639
+Like YouTube.
+
+160
+00:06:23,639 --> 00:06:24,990
+But over the past few years,
+
+161
+00:06:24,990 --> 00:06:29,309
+the Chinese regime been pushing to control
+the world’s Internet—
+
+162
+00:06:29,309 --> 00:06:31,770
+by filling the void left by the United States
+
+163
+00:06:31,770 --> 00:06:34,120
+as it steps back from ICANN.
+
+164
+00:06:34,120 --> 00:06:35,120
+But how?
+
+165
+00:06:35,120 --> 00:06:37,009
+Isn’t there that “multi-stakeholder model?”
+
+166
+00:06:37,009 --> 00:06:39,779
+Well, the Chinese regime has gotten pretty
+good
+
+167
+00:06:39,779 --> 00:06:42,039
+at manipulating international bodies
+
+168
+00:06:42,039 --> 00:06:43,870
+and foreign tech companies,
+
+169
+00:06:43,870 --> 00:06:46,229
+like the ones that will now oversee ICANN.
+
+170
+00:06:46,229 --> 00:06:47,940
+Take, for instance,
+
+171
+00:06:47,940 --> 00:06:50,430
+China’s Technical Committee 260,
+
+172
+00:06:50,430 --> 00:06:52,360
+or TC260.
+
+173
+00:06:52,360 --> 00:06:54,050
+It was founded in 2002.
+
+174
+00:06:54,050 --> 00:06:55,050
+Yeah,
+
+175
+00:06:55,050 --> 00:06:57,139
+so they’ve been secretly planning this
+
+176
+00:06:57,139 --> 00:06:58,349
+for a long time.
+
+177
+00:06:58,840 --> 00:07:01,340
+China has been using the TC260 in part
+
+178
+00:07:01,349 --> 00:07:03,099
+to “actively participate
+
+179
+00:07:03,099 --> 00:07:06,749
+in international rules and standards making
+in cyberspace,
+
+180
+00:07:06,749 --> 00:07:09,559
+so as to improve discourse and China's influence
+
+181
+00:07:09,559 --> 00:07:14,150
+and increase international adoption of China's standards.”
+
+182
+00:07:14,150 --> 00:07:18,820
+Now if the name TC260 sounds a bit like ED-209
+from RoboCop,
+
+183
+00:07:18,820 --> 00:07:19,320
+well,
+
+184
+00:07:19,330 --> 00:07:20,750
+that’s a not too far off.
+
+185
+00:07:26,539 --> 00:07:28,439
+Think of it like an ED-209
+
+186
+00:07:28,439 --> 00:07:29,839
+designed to make internet policy
+
+187
+00:07:29,839 --> 00:07:32,579
+instead of “urban pacification.”
+
+188
+00:07:32,580 --> 00:07:37,020
+The TC260 helps draft laws that focus on encryption,
+
+189
+00:07:37,020 --> 00:07:38,020
+big data,
+
+190
+00:07:38,020 --> 00:07:39,400
+and other cybersecurity issues.
+
+191
+00:07:39,860 --> 00:07:41,759
+And as the Wall Street Journal says,
+
+192
+00:07:41,759 --> 00:07:46,039
+it makes sure technology is “secure and
+controllable.”
+
+193
+00:07:46,039 --> 00:07:47,319
+Secure and controllable?
+
+194
+00:07:47,319 --> 00:07:49,020
+By the CCP?
+
+195
+00:07:49,020 --> 00:07:50,490
+That doesn’t sound too good.
+
+196
+00:07:50,490 --> 00:07:51,770
+But wait!
+
+197
+00:07:51,770 --> 00:07:54,610
+The TC260 is not just the CCP.
+
+198
+00:07:54,610 --> 00:07:56,680
+It’s a committee.
+
+199
+00:07:56,680 --> 00:08:00,460
+Foreign tech companies like Microsoft, Cisco,
+Intel, and IBM
+
+200
+00:08:00,460 --> 00:08:01,590
+are members.
+
+201
+00:08:01,590 --> 00:08:02,590
+Surely,
+
+202
+00:08:02,590 --> 00:08:04,909
+they will help China move in the right direction
+
+203
+00:08:04,909 --> 00:08:07,069
+in terms of Internet freedom.
+
+204
+00:08:07,069 --> 00:08:08,180
+Except,
+
+205
+00:08:08,180 --> 00:08:10,180
+many companies in the West
+
+206
+00:08:10,180 --> 00:08:12,819
+get a little funny when access to the Chinese market
+
+207
+00:08:12,819 --> 00:08:14,919
+is dangled in front of them.
+
+208
+00:08:14,919 --> 00:08:18,479
+Like when IBM caved to pressure from the Chinese regime
+
+209
+00:08:18,479 --> 00:08:23,379
+and gave one of the world’s biggest violators
+of Intellectual Property
+
+210
+00:08:23,379 --> 00:08:25,650
+access to their source code.
+
+211
+00:08:25,650 --> 00:08:27,969
+Or when Cisco sold routers to China
+
+212
+00:08:27,969 --> 00:08:31,669
+with the intention of helping the regime censor
+its citizens.
+
+213
+00:08:31,669 --> 00:08:33,190
+So my guess is these companies
+
+214
+00:08:33,190 --> 00:08:35,800
+aren’t really going to change China,
+
+215
+00:08:35,800 --> 00:08:38,089
+as much as China is going to change them.
+
+216
+00:08:38,580 --> 00:08:39,080
+Anyway,
+
+217
+00:08:39,089 --> 00:08:41,310
+if you’re worried about the TC260
+
+218
+00:08:41,310 --> 00:08:44,229
+drafting scary big brother Internet regulations—
+
+219
+00:08:44,229 --> 00:08:46,310
+well, yeah.
+
+220
+00:08:46,310 --> 00:08:49,949
+But those regulations only apply to people
+inside China.
+
+221
+00:08:49,949 --> 00:08:50,949
+However,
+
+222
+00:08:50,949 --> 00:08:53,750
+the TC260 is also part of a broader plan
+
+223
+00:08:53,750 --> 00:08:58,440
+by Chinese authorities to exert control over
+the world’s Internet.
+
+224
+00:08:58,440 --> 00:09:03,180
+The TC260 reports directly to the Cyberspace
+Administration of China.
+
+225
+00:09:03,180 --> 00:09:05,100
+And the Cyberspace Administration of China
+
+226
+00:09:05,100 --> 00:09:07,341
+just happens to report directly to report
+directly
+
+227
+00:09:07,341 --> 00:09:10,540
+to the Leading Small Group for Network Security
+and Information,
+
+228
+00:09:10,540 --> 00:09:13,580
+which is chaired by the leader of the Chinese
+Communist Party,
+
+229
+00:09:13,580 --> 00:09:15,519
+Xi Jinping.
+
+230
+00:09:15,519 --> 00:09:16,239
+In other words,
+
+231
+00:09:16,240 --> 00:09:21,720
+the TC260 ultimately reports to the head of
+the Communist Party.
+
+232
+00:09:21,720 --> 00:09:27,220
+And its goal is to influence international
+rules and standards for the Internet.
+
+233
+00:09:27,220 --> 00:09:28,889
+And that’s just one example
+
+234
+00:09:28,889 --> 00:09:32,320
+of how the CCP is trying to influence Internet policy.
+
+235
+00:09:32,920 --> 00:09:35,080
+There’s also a sort of related organization
+
+236
+00:09:35,089 --> 00:09:38,990
+called the CyberSecurity Association of China.
+
+237
+00:09:38,990 --> 00:09:43,170
+Its goal is to strengthen the CCP’s control
+over China’s Internet,
+
+238
+00:09:43,170 --> 00:09:46,860
+including how foreign companies can operate
+in China.
+
+239
+00:09:46,860 --> 00:09:48,839
+But while the CyberSecurity Association
+
+240
+00:09:48,839 --> 00:09:52,329
+has representatives from Chinese companies
+like Alibaba,
+
+241
+00:09:52,329 --> 00:09:55,480
+it has no foreign companies among its members.
+
+242
+00:09:55,480 --> 00:09:56,480
+Oh,
+
+243
+00:09:56,480 --> 00:09:58,600
+and its chairman is this guy—
+
+244
+00:09:58,600 --> 00:10:01,589
+who created the Great Firewall of China.
+
+245
+00:10:01,589 --> 00:10:02,769
+So suffice it to say,
+
+246
+00:10:02,769 --> 00:10:05,149
+it’s not pro-Internet freedom.
+
+247
+00:10:05,149 --> 00:10:08,580
+And its Secretary General is Li Yuxiao,
+
+248
+00:10:08,580 --> 00:10:10,000
+who once said this:
+
+249
+00:10:10,000 --> 00:10:11,440
+“Now is the time for China
+
+250
+00:10:11,440 --> 00:10:13,640
+to realize its responsibilities.
+
+251
+00:10:13,640 --> 00:10:17,800
+If the United States is willing to give up
+its running of the internet sphere,
+
+252
+00:10:17,800 --> 00:10:20,709
+the question comes as to who will take the
+baton
+
+253
+00:10:20,709 --> 00:10:23,070
+and how it would be run.”
+
+254
+00:10:23,070 --> 00:10:24,730
+So if all of this seems a bit complicated,
+
+255
+00:10:24,730 --> 00:10:25,730
+it is.
+
+256
+00:10:25,730 --> 00:10:27,290
+That’s the point.
+
+257
+00:10:27,290 --> 00:10:30,110
+The Chinese regime doesn’t want people figuring
+it out.
+
+258
+00:10:30,110 --> 00:10:31,199
+And that’s how,
+
+259
+00:10:31,199 --> 00:10:32,440
+under the radar,
+
+260
+00:10:32,440 --> 00:10:35,000
+the Chinese regime has spent a long time
+
+261
+00:10:35,000 --> 00:10:37,699
+carefully designing ways to influence the
+groups
+
+262
+00:10:37,699 --> 00:10:39,709
+that will be overseeing ICANN,
+
+263
+00:10:39,709 --> 00:10:41,110
+the world’s Internet address book
+
+264
+00:10:41,110 --> 00:10:43,720
+that all of us use everyday.
+
+265
+00:10:43,720 --> 00:10:46,860
+Does the Chinese regime control the global
+Internet now?
+
+266
+00:10:46,860 --> 00:10:47,860
+No.
+
+267
+00:10:47,860 --> 00:10:49,240
+But they want to.
+
+268
+00:10:49,240 --> 00:10:50,400
+And if eventually they do,
+
+269
+00:10:50,400 --> 00:10:54,780
+they could write the rules over how you're allowed to use the internet!
+
+270
+00:10:54,780 --> 00:10:58,040
+So the Chinese regime has  been planning this for a long time,
+
+271
+00:10:58,040 --> 00:11:00,820
+and exerting their influence little by little.
+
+272
+00:11:00,820 --> 00:11:01,320
+And now,
+
+273
+00:11:01,320 --> 00:11:04,079
+as the United States steps back from ICANN,
+
+274
+00:11:04,079 --> 00:11:07,149
+the Chinese regime sees this as a perfect
+time
+
+275
+00:11:07,149 --> 00:11:08,710
+to fill the void.
+
+276
+00:11:08,710 --> 00:11:10,000
+And guess what?
+
+277
+00:11:10,000 --> 00:11:11,709
+This is just the tip of the iceberg.
+
+278
+00:11:12,380 --> 00:11:13,620
+If you’d like to learn more,
+
+279
+00:11:13,620 --> 00:11:15,569
+I highly recommend you read this article
+
+280
+00:11:15,569 --> 00:11:16,790
+by Joshua Philipp,
+
+281
+00:11:16,790 --> 00:11:18,890
+whom I’ve interviewed before on this show.
+
+282
+00:11:18,890 --> 00:11:20,550
+This story has not been getting
+
+283
+00:11:20,550 --> 00:11:22,690
+nearly the media attention it deserves.
+
+284
+00:11:22,690 --> 00:11:25,690
+So please, share this video with everyone you know...
+
+285
+00:11:25,690 --> 00:11:27,690
+...while you're still able to!
+
+286
+00:11:27,880 --> 00:11:29,320
+So what do you think is in store
+
+287
+00:11:29,329 --> 00:11:31,040
+for the future of the Internet?
+
+288
+00:11:31,040 --> 00:11:32,580
+Leave your comments below.
+
+289
+00:11:32,580 --> 00:11:34,640
+Thanks for watching this episode of China
+Uncensored.
+
+290
+00:11:34,640 --> 00:11:35,960
+Once again I’m Chris Chappell,
+
+291
+00:11:35,960 --> 00:11:37,300
+see you next time.
+

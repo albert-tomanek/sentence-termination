@@ -1,0 +1,488 @@
+1
+00:00:00,489 --> 00:00:02,280
+Bitcoin crashes
+
+2
+00:00:02,280 --> 00:00:05,229
+After yet another Chinese crackdown
+
+3
+00:00:05,229 --> 00:00:14,919
+How much power does China have over crypto?
+
+4
+00:00:14,919 --> 00:00:29,560
+Welcome to China Uncensored.
+
+5
+00:00:29,560 --> 00:00:30,949
+I’m Chris Chappell.
+
+6
+00:00:30,949 --> 00:00:35,160
+This episode is sponsored by PC-Doctor Toolbox.
+
+7
+00:00:35,160 --> 00:00:40,700
+Protect your PC from software crashes, hardware
+failures, and the kind of glitches that make
+
+8
+00:00:40,700 --> 00:00:42,680
+your life miserable.
+
+9
+00:00:42,680 --> 00:00:45,600
+Speaking of crashes, Bitcoin!
+
+10
+00:00:45,600 --> 00:00:51,760
+After hitting a mid-April high of 65,000 dollars,
+the price of bitcoin tumbled below 30,000
+
+11
+00:00:51,760 --> 00:00:52,760
+dollars.
+
+12
+00:00:52,760 --> 00:00:54,350
+And China is to blame.
+
+13
+00:00:54,350 --> 00:00:58,080
+You see, the Chinese Communist Party doesn’t
+like Bitcoin.
+
+14
+00:00:58,080 --> 00:00:59,940
+For one, the Party can’t control it.
+
+15
+00:00:59,940 --> 00:01:05,360
+And for two, the Chinese regime is spending
+big to create its own digital currency.
+
+16
+00:01:05,360 --> 00:01:07,130
+Which it would control.
+
+17
+00:01:07,130 --> 00:01:12,729
+Ironically though, China is where most of
+the bitcoin mining happens, particularly here
+
+18
+00:01:12,729 --> 00:01:14,259
+in Sichuan Province.
+
+19
+00:01:14,259 --> 00:01:20,200
+Basically, enormous computer banks are used
+to verify bitcoin transactions, and you get
+
+20
+00:01:20,200 --> 00:01:21,900
+rewarded with bitcoin.
+
+21
+00:01:21,900 --> 00:01:24,570
+It’s an energy intensive process.
+
+22
+00:01:24,570 --> 00:01:30,840
+And thanks to China’s massive reliance on
+coal, China has the energy to fuel it.
+
+23
+00:01:30,840 --> 00:01:36,640
+Until this week, when Chinese authorities
+ordered 90% of China’s Bitcoin mining operations
+
+24
+00:01:36,640 --> 00:01:38,359
+to shut down.
+
+25
+00:01:38,359 --> 00:01:43,590
+Local electric companies in Sichuan were ordered
+“to immediately stop supplying power to
+
+26
+00:01:43,590 --> 00:01:45,539
+crypto mining projects.”
+
+27
+00:01:45,539 --> 00:01:49,289
+And “local authorities [were banned] from
+approving new mining projects.”
+
+28
+00:01:49,289 --> 00:01:51,260
+But that’s not all.
+
+29
+00:01:51,260 --> 00:01:54,420
+The Chinese regime isn’t just going after
+Bitcoin miners.
+
+30
+00:01:54,420 --> 00:01:57,860
+They’re also going after people who use
+it.
+
+31
+00:01:57,860 --> 00:02:00,840
+And they’re getting major Chinese banks
+to help.
+
+32
+00:02:00,840 --> 00:02:05,159
+I’ll explain more after the break.
+
+33
+00:02:05,159 --> 00:02:06,340
+Welcome back.
+
+34
+00:02:06,340 --> 00:02:11,390
+And just a reminder, if you like China Uncensored,
+we do accept Bitcoin.
+
+35
+00:02:11,390 --> 00:02:17,880
+Visit chinauncensored.tv/support to find out
+how you can help us fight YouTube demonetization
+
+36
+00:02:17,880 --> 00:02:19,470
+with Bitcoin.
+
+37
+00:02:19,470 --> 00:02:23,070
+So 90% of China’s Bitcoin mining has been
+shut down.
+
+38
+00:02:23,070 --> 00:02:28,060
+There’s actually a big silver lining to
+that, which I’ll get to in a moment.
+
+39
+00:02:28,060 --> 00:02:33,610
+But the Chinese Communist Party is also getting
+major Chinese state-run banks and so-called
+
+40
+00:02:33,610 --> 00:02:38,190
+private Chinese companies involved in the
+latest crackdown.
+
+41
+00:02:38,190 --> 00:02:43,610
+The People’s Bank of China summoned these
+groups “and told them to ‘strictly implement’
+
+42
+00:02:43,610 --> 00:02:50,590
+recent notices and guidelines from authorities
+on curbing risks tied to bitcoin and cryptocurrency.”
+
+43
+00:02:50,590 --> 00:02:55,610
+And in China, the main risk tied to Bitcoin
+is using it.
+
+44
+00:02:55,610 --> 00:03:01,020
+Financial firms were told to identify customers
+using or trading crypto.
+
+45
+00:03:01,020 --> 00:03:04,790
+And cut off their ability to send or receive
+money.
+
+46
+00:03:04,790 --> 00:03:10,080
+Five major Chinese banks wanted to show how
+much they agree with the Party’s new crypto
+
+47
+00:03:10,080 --> 00:03:11,420
+directives.
+
+48
+00:03:11,420 --> 00:03:13,670
+So they took the initiative.
+
+49
+00:03:13,670 --> 00:03:18,400
+They said they’re going to “Prohibit the
+use of their accounts for virtual currency
+
+50
+00:03:18,400 --> 00:03:19,740
+transactions.
+
+51
+00:03:19,740 --> 00:03:25,430
+They pledged to promptly put a stop to such
+transactions, close bank accounts and report
+
+52
+00:03:25,430 --> 00:03:28,680
+signs of such activities to the authorities.”
+
+53
+00:03:28,680 --> 00:03:34,290
+“They also called on members of the public
+to report virtual currency-related transactions
+
+54
+00:03:34,290 --> 00:03:35,620
+to the banks.”
+
+55
+00:03:35,620 --> 00:03:39,960
+Yes, your neighbors can turn you in for using
+bitcoin.
+
+56
+00:03:39,960 --> 00:03:44,260
+Modern problems require modern cultural revolutions.
+
+57
+00:03:44,260 --> 00:03:49,610
+And recently, Chinese police arrested over
+a thousand people for alleged money laundering
+
+58
+00:03:49,610 --> 00:03:51,130
+with crypto.
+
+59
+00:03:51,130 --> 00:03:55,280
+Obviously if the Chinese Communist Party says
+these people were committing crimes, it must
+
+60
+00:03:55,280 --> 00:03:57,180
+be true.
+
+61
+00:03:57,180 --> 00:04:02,050
+And as I mentioned, so-called private Chinese
+companies are joining the crackdown too.
+
+62
+00:04:02,050 --> 00:04:09,120
+Like China’s version of PayPal, AliPay . That
+is of course owned by Jack Ma, one of China’s
+
+63
+00:04:09,120 --> 00:04:10,480
+richest men.
+
+64
+00:04:10,480 --> 00:04:14,700
+Who disappeared for three months after criticizing
+Chinese regulators.
+
+65
+00:04:14,700 --> 00:04:17,729
+Don’t worry, he wasn’t dead.
+
+66
+00:04:17,729 --> 00:04:18,939
+He reappeared.
+
+67
+00:04:18,939 --> 00:04:22,099
+After a major crackdown on his tech empire.
+
+68
+00:04:22,099 --> 00:04:24,920
+And now he’s just lying low, focusing on
+hobbies.
+
+69
+00:04:24,920 --> 00:04:30,759
+His hobbies include reading, painting, and
+staying out of prison by doing whatever the
+
+70
+00:04:30,759 --> 00:04:32,660
+Communist Party wants.
+
+71
+00:04:32,660 --> 00:04:35,280
+Like cracking down on crypto.
+
+72
+00:04:35,280 --> 00:04:41,439
+Alipay said it will monitor and investigate
+accounts for using crypto, and block or remove
+
+73
+00:04:41,439 --> 00:04:42,820
+those users.
+
+74
+00:04:42,820 --> 00:04:51,110
+That’s huge, since Alipay is used by more
+than one billion people, and 80 million merchants.
+
+75
+00:04:51,110 --> 00:04:57,960
+Alipay also plans to use algorithms to detect
+so-called abnormal transactions, flag them,
+
+76
+00:04:57,960 --> 00:05:00,979
+and restrict certain accounts from receiving
+money.
+
+77
+00:05:00,979 --> 00:05:04,699
+I see no potential for abuse there.
+
+78
+00:05:04,699 --> 00:05:10,349
+Alipay also said merchants using cryptocurrencies
+will be blacklisted and banished from the
+
+79
+00:05:10,349 --> 00:05:12,129
+platform.
+
+80
+00:05:12,129 --> 00:05:15,949
+Now this is hardly the Chinese Communist Party’s
+first crackdown on crypto.
+
+81
+00:05:15,949 --> 00:05:22,060
+“Several years ago [China] imposed bans
+on domestic cryptocurrency exchanges and digital-currency
+
+82
+00:05:22,060 --> 00:05:25,199
+fundraisings known as initial coin offerings.”
+
+83
+00:05:25,199 --> 00:05:30,039
+And according to Forbes, “The cryptocurrency
+market has still not recovered from when China
+
+84
+00:05:30,039 --> 00:05:35,360
+announced its intensifying regulatory crackdown
+on cryptocurrencies in mid-May.”
+
+85
+00:05:35,360 --> 00:05:42,590
+“The market’s total value, now around
+$1.4 trillion, is around 56% of what it was
+
+86
+00:05:42,590 --> 00:05:44,569
+just over a month ago.”
+
+87
+00:05:44,569 --> 00:05:48,639
+In other words, it’s dropped by nearly half.
+
+88
+00:05:48,639 --> 00:05:52,009
+But as I said, there’s a silver lining to
+all this.
+
+89
+00:05:52,009 --> 00:05:57,979
+As the Global Times says, as a result of this
+ban, “Chinese miners must form alliances
+
+90
+00:05:57,979 --> 00:06:02,779
+to migrate overseas, to places such as North
+America and Russia.”
+
+91
+00:06:02,779 --> 00:06:08,590
+In the long run, getting the majority of Bitcoin
+mining out of China and out from under the
+
+92
+00:06:08,590 --> 00:06:12,320
+thumb of the Chinese Communist Party is good.
+
+93
+00:06:12,320 --> 00:06:17,889
+It means that the Party won’t ever be able
+to manipulate Bitcoin transactions by controlling
+
+94
+00:06:17,889 --> 00:06:20,840
+more than half of the mining power.
+
+95
+00:06:20,840 --> 00:06:24,550
+And that protects everyone who invests in
+Bitcoin.
+
+96
+00:06:24,550 --> 00:06:29,430
+And this episode is sponsored by PC-Doctor
+Toolbox.
+
+97
+00:06:29,430 --> 00:06:34,930
+Computer and software crashes, hardware failures,
+and general computer slowdowns are way too
+
+98
+00:06:34,930 --> 00:06:35,930
+common.
+
+99
+00:06:35,930 --> 00:06:39,999
+And they can come up during the worst times—like
+during a business meeting, or when you're
+
+100
+00:06:39,999 --> 00:06:43,759
+traveling away from home, and your trusted
+IT person isn’t around.
+
+101
+00:06:43,759 --> 00:06:48,819
+If you're concerned about the health of your
+computer and want tools to prevent untimely
+
+102
+00:06:48,819 --> 00:06:53,589
+system issues, you should be using PC-Doctor
+Toolbox.
+
+103
+00:06:53,589 --> 00:06:56,240
+Stop crashes before they happen.
+
+104
+00:06:56,240 --> 00:07:01,330
+And we have a special 50% off discount just
+for China Uncensored viewers: Use the link
+
+105
+00:07:01,330 --> 00:07:05,650
+and coupon code below to take advantage of
+this limited time offer.
+
+106
+00:07:05,650 --> 00:07:07,439
+I’m Chris Chappell.
+
+107
+00:07:07,439 --> 00:07:22,190
+Thanks for watching China Uncensored.
+

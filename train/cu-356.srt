@@ -1,0 +1,869 @@
+1
+00:00:00,140 --> 00:00:02,230
+On this episode of China Uncensored:
+
+2
+00:00:02,230 --> 00:00:04,410
+Apple: the company known for giving users
+
+3
+00:00:04,410 --> 00:00:06,419
+loads of choices and freedom
+
+4
+00:00:06,419 --> 00:00:09,120
+to use their products however they want—
+
+5
+00:00:09,120 --> 00:00:11,160
+just broke my irony meter.
+
+6
+00:00:15,600 --> 00:00:16,780
+Hi, welcome to China Uncensored.
+
+7
+00:00:16,780 --> 00:00:17,949
+I’m your host Chris Chappell.
+
+8
+00:00:17,949 --> 00:00:18,949
+Boy folks,
+
+9
+00:00:18,949 --> 00:00:21,029
+what a month it’s been!
+
+10
+00:00:21,029 --> 00:00:24,170
+China Uncensored launched a brand new website,
+
+11
+00:00:24,170 --> 00:00:26,279
+thanks in part to the Youtube adpocalypse…
+
+12
+00:00:26,279 --> 00:00:30,070
+...and we launched on Roku, Amazon Fire TV,
+
+13
+00:00:30,070 --> 00:00:32,680
+and last but definitely least,
+
+14
+00:00:32,680 --> 00:00:33,800
+Apple TV.
+
+15
+00:00:33,800 --> 00:00:36,180
+It was a shock when we received
+
+16
+00:00:36,180 --> 00:00:39,120
+a notice from Apple saying they removed
+
+17
+00:00:39,120 --> 00:00:41,760
+the China Uncensored App from Hong Kong
+
+18
+00:00:41,760 --> 00:00:43,600
+and Taiwan.
+
+19
+00:00:43,600 --> 00:00:47,660
+Apparently because the show is illegal there?
+
+20
+00:00:47,660 --> 00:00:48,760
+Strange that I don't remember
+
+21
+00:00:48,760 --> 00:00:50,359
+narrowly escaping prison
+
+22
+00:00:50,359 --> 00:00:53,309
+when we went to Hong Kong and Taiwan last
+year
+
+23
+00:00:53,309 --> 00:00:56,699
+and met with multiple government officials.
+
+24
+00:00:56,699 --> 00:00:58,429
+I wrote to Apple CEO Tim Cook
+
+25
+00:00:58,429 --> 00:00:59,530
+at the beginning of the month
+
+26
+00:00:59,530 --> 00:01:01,679
+asking for an explanation,
+
+27
+00:01:01,679 --> 00:01:03,511
+and a demand to put the China Uncensored app
+
+28
+00:01:03,511 --> 00:01:05,530
+on the app stores there.
+
+29
+00:01:05,530 --> 00:01:07,750
+And we started a petition!
+
+30
+00:01:07,750 --> 00:01:09,320
+Which I'm sure everyone watching this
+
+31
+00:01:09,320 --> 00:01:10,320
+has signed.
+
+32
+00:01:10,320 --> 00:01:12,900
+Because you're all good people.
+
+33
+00:01:12,900 --> 00:01:16,240
+Tim Cook has not yet responded to my letter.
+
+34
+00:01:16,240 --> 00:01:17,810
+And I couldn’t figure out why.
+
+35
+00:01:17,810 --> 00:01:20,340
+But now I think I’ve got my answer!
+
+36
+00:01:20,340 --> 00:01:21,960
+He’s been too busy
+
+37
+00:01:21,960 --> 00:01:24,130
+winning the Free Speech Award
+
+38
+00:01:24,130 --> 00:01:27,010
+from the Newseum in Washington DC.
+
+39
+00:01:27,010 --> 00:01:28,010
+The Newseum,
+
+40
+00:01:28,010 --> 00:01:29,530
+besides being the all-time winner
+
+41
+00:01:29,530 --> 00:01:31,909
+of the punniest museum name,
+
+42
+00:01:31,909 --> 00:01:35,479
+also "promotes, explains and defends free
+expression
+
+43
+00:01:35,479 --> 00:01:38,590
+and the five freedoms of the First Amendment."
+
+44
+00:01:38,590 --> 00:01:40,180
+Which sounds great.
+
+45
+00:01:40,180 --> 00:01:42,230
+And they have some pretty cool exhibits.
+
+46
+00:01:42,230 --> 00:01:44,500
+Like an entire section of the Berlin Wall
+
+47
+00:01:44,500 --> 00:01:47,729
+with an East German guard tower.
+
+48
+00:01:47,729 --> 00:01:49,420
+And a memorial dedicated to journalists
+
+49
+00:01:49,420 --> 00:01:52,360
+who have died reporting the news.
+
+50
+00:01:52,360 --> 00:01:53,930
+And a permanent exhibit on...
+
+51
+00:01:53,930 --> 00:01:56,340
+the First Dogs?
+
+52
+00:01:56,340 --> 00:01:57,920
+Okay...
+
+53
+00:01:57,920 --> 00:02:01,579
+Uh, back to the Free Expression awards.
+
+54
+00:02:01,579 --> 00:02:02,670
+The awards honor people who
+
+55
+00:02:02,670 --> 00:02:05,299
+“have taken personal or professional risks
+
+56
+00:02:05,299 --> 00:02:07,829
+in sharing critical information with the public,
+
+57
+00:02:07,829 --> 00:02:09,940
+have been censored or punished by authorities
+
+58
+00:02:09,940 --> 00:02:12,060
+or other groups for their work,
+
+59
+00:02:12,060 --> 00:02:14,040
+or have pushed boundaries in artistic
+
+60
+00:02:14,040 --> 00:02:16,379
+and media expression.”
+
+61
+00:02:16,379 --> 00:02:18,540
+That's why Playboy founder Hugh Hefner
+
+62
+00:02:18,540 --> 00:02:20,910
+also won a Free Expression award.
+
+63
+00:02:20,910 --> 00:02:23,459
+I'm sure he got it just for the articles.
+
+64
+00:02:23,459 --> 00:02:25,040
+Tim Cook gave the longest
+
+65
+00:02:25,040 --> 00:02:26,730
+victory speech of the night.
+
+66
+00:02:26,730 --> 00:02:28,260
+According to Apple Insider,
+
+67
+00:02:28,260 --> 00:02:29,510
+he spoke of the importance
+
+68
+00:02:29,510 --> 00:02:30,800
+of freedom of speech,
+
+69
+00:02:30,800 --> 00:02:32,629
+“Not just the forms of speech
+
+70
+00:02:32,629 --> 00:02:33,980
+that entertain us,
+
+71
+00:02:33,980 --> 00:02:35,849
+but the ones that challenge us.
+
+72
+00:02:35,849 --> 00:02:37,099
+The ones that unnerve
+
+73
+00:02:37,099 --> 00:02:40,040
+and even displease us."
+
+74
+00:02:40,040 --> 00:02:41,569
+Wise words, Mr. Cook.
+
+75
+00:02:41,569 --> 00:02:43,599
+I totally agree.
+
+76
+00:02:43,600 --> 00:02:44,930
+In praise of Tim Cook,
+
+77
+00:02:44,930 --> 00:02:46,760
+Newseum made this video.
+
+78
+00:02:46,760 --> 00:02:49,780
+“We believe that a company that has values
+
+79
+00:02:49,780 --> 00:02:52,840
+can really change the world.
+
+80
+00:02:52,840 --> 00:02:54,660
+I think it's really important that
+
+81
+00:02:54,660 --> 00:02:56,640
+corporate leaders like Tim
+
+82
+00:02:56,640 --> 00:02:59,200
+care about principles like freedom of expression
+
+83
+00:02:59,200 --> 00:03:01,740
+and the advancement of human rights.
+
+84
+00:03:01,740 --> 00:03:05,660
+He takes risk at both a personal and a professional level
+
+85
+00:03:05,700 --> 00:03:08,140
+to engage in new ideas.
+
+86
+00:03:08,640 --> 00:03:10,400
+It’s not just about making money,
+
+87
+00:03:10,400 --> 00:03:12,030
+it’s also about making a difference
+
+88
+00:03:12,030 --> 00:03:13,030
+in the world.”
+
+89
+00:03:13,030 --> 00:03:18,190
+Yes, Apple:
+
+90
+00:03:18,190 --> 00:03:20,220
+making a difference in the world.
+
+91
+00:03:20,220 --> 00:03:24,510
+By doing things like being the Platinum Sponsor
+
+92
+00:03:24,510 --> 00:03:27,840
+of the 2017 Free Expression Awards.
+
+93
+00:03:27,840 --> 00:03:31,220
+I'm sure Tim Cook winning one of those very
+awards
+
+94
+00:03:31,220 --> 00:03:34,159
+was a complete coincidence.
+
+95
+00:03:34,159 --> 00:03:35,599
+It's just like the time I won
+
+96
+00:03:35,599 --> 00:03:38,819
+the Best Host of a China-focused Comedy News
+Show
+
+97
+00:03:38,819 --> 00:03:41,330
+Not Based in China award.
+
+98
+00:03:41,330 --> 00:03:42,970
+Right after I gave the hosting organization
+
+99
+00:03:42,970 --> 00:03:44,939
+two million dollars.
+
+100
+00:03:44,939 --> 00:03:48,019
+But let's talk about what Apple is doing in
+China.
+
+101
+00:03:48,019 --> 00:03:49,019
+You see,
+
+102
+00:03:49,019 --> 00:03:50,630
+while Tim Cook was being honored
+
+103
+00:03:50,630 --> 00:03:52,960
+for his commitment to free speech,
+
+104
+00:03:52,960 --> 00:03:55,819
+Apple has been doing everything it can to
+help
+
+105
+00:03:55,819 --> 00:03:58,099
+the Chinese Communist Party censor.
+
+106
+00:03:58,099 --> 00:04:00,030
+For example,
+
+107
+00:04:00,030 --> 00:04:01,720
+when the Chinese government asked Apple
+
+108
+00:04:01,720 --> 00:04:03,190
+to remove the New York Times
+
+109
+00:04:03,190 --> 00:04:04,959
+from the app store in China...
+
+110
+00:04:04,959 --> 00:04:06,430
+...along with a bunch of other
+
+111
+00:04:06,430 --> 00:04:07,990
+independent Chinese media...
+
+112
+00:04:07,990 --> 00:04:10,569
+...and an app that lets Chinese internet users
+
+113
+00:04:10,569 --> 00:04:12,860
+break through the Chinese Communist Party’s
+
+114
+00:04:12,860 --> 00:04:15,200
+Draconian Internet censorship firewall...
+
+115
+00:04:15,200 --> 00:04:18,040
+...plus of course China Uncensored...
+
+116
+00:04:18,040 --> 00:04:19,590
+they did it.
+
+117
+00:04:19,590 --> 00:04:20,590
+Because as Apple said,
+
+118
+00:04:20,590 --> 00:04:23,880
+“the content was ‘illegal’ in China.”
+
+119
+00:04:23,880 --> 00:04:27,170
+Sure, last year Apple told the FBI
+
+120
+00:04:27,170 --> 00:04:29,540
+they wouldn’t help in a terrorism investigation
+
+121
+00:04:29,540 --> 00:04:32,010
+for privacy and security reasons,
+
+122
+00:04:32,010 --> 00:04:33,600
+but that was the FBI!
+
+123
+00:04:33,600 --> 00:04:34,980
+The worst Apple could have faced
+
+124
+00:04:34,980 --> 00:04:37,500
+was probably a big fine.
+
+125
+00:04:37,500 --> 00:04:38,920
+But the Chinese Communist Party
+
+126
+00:04:38,920 --> 00:04:40,670
+could literally bring down
+
+127
+00:04:40,670 --> 00:04:42,850
+all of Apple’s operations in China
+
+128
+00:04:42,850 --> 00:04:46,040
+tomorrow, for any reason at all.
+
+129
+00:04:46,040 --> 00:04:47,750
+Even when they bend over backwards
+
+130
+00:04:47,750 --> 00:04:49,920
+to kowtow to the Party.
+
+131
+00:04:49,920 --> 00:04:51,120
+Which just shows that they don't know
+
+132
+00:04:51,120 --> 00:04:52,790
+anything about kowtowing.
+
+133
+00:04:52,790 --> 00:04:54,550
+It’s just like how one day,
+
+134
+00:04:54,550 --> 00:04:55,730
+the Chinese government offices
+
+135
+00:04:55,730 --> 00:04:57,590
+decided to ban Windows 8
+
+136
+00:04:57,590 --> 00:05:00,020
+and replace it with a Chinese knockoff—
+
+137
+00:05:00,020 --> 00:05:01,410
+and there was nothing Microsoft
+
+138
+00:05:01,410 --> 00:05:03,140
+could do about it.
+
+139
+00:05:03,140 --> 00:05:04,650
+The Chinese Communist Party’s
+
+140
+00:05:04,650 --> 00:05:07,500
+arbitrary, highly politicized control of the
+government
+
+141
+00:05:07,500 --> 00:05:08,920
+and the judicial system
+
+142
+00:05:08,920 --> 00:05:10,820
+strikes fear into the hearts of
+
+143
+00:05:10,820 --> 00:05:13,750
+every company operating in China.
+
+144
+00:05:13,750 --> 00:05:16,470
+So I understand why Apple is concerned.
+
+145
+00:05:16,470 --> 00:05:19,340
+They don’t just make iPhones in China.
+
+146
+00:05:19,340 --> 00:05:22,170
+China is also the world’s biggest consumer
+of iPhones.
+
+147
+00:05:22,170 --> 00:05:24,270
+I mean, the Communist Party
+
+148
+00:05:24,270 --> 00:05:27,430
+could just ban the sales of iPhones tomorrow
+
+149
+00:05:27,430 --> 00:05:29,200
+in the entire country.
+
+150
+00:05:29,200 --> 00:05:30,990
+I know it sounds crazy,
+
+151
+00:05:30,990 --> 00:05:34,360
+but it briefly happened in Beijing last year.
+
+152
+00:05:34,360 --> 00:05:35,710
+So Apple is facing a real threat
+
+153
+00:05:35,710 --> 00:05:38,020
+to its bottom line in China.
+
+154
+00:05:38,020 --> 00:05:40,570
+But at least by being so morally flexible,
+
+155
+00:05:40,570 --> 00:05:42,730
+and doing what the Chinese government tells
+them,
+
+156
+00:05:42,730 --> 00:05:46,950
+Apple has had smooth sailing in China.
+
+157
+00:05:46,950 --> 00:05:47,950
+Just kidding!
+
+158
+00:05:47,950 --> 00:05:48,950
+At every step of the way,
+
+159
+00:05:48,950 --> 00:05:51,300
+the Chinese regime has still made things
+
+160
+00:05:51,300 --> 00:05:53,610
+as difficult as possible.
+
+161
+00:05:53,610 --> 00:05:55,130
+In 2012,
+
+162
+00:05:55,130 --> 00:05:59,000
+Apple had to pay 60 million to a Chinese company
+
+163
+00:05:59,000 --> 00:06:02,760
+to get the rights to the name iPad in China,
+
+164
+00:06:02,760 --> 00:06:03,760
+because Chinese courts
+
+165
+00:06:03,760 --> 00:06:06,520
+wouldn’t grant Apple the trademark.
+
+166
+00:06:06,520 --> 00:06:07,790
+And in 2013,
+
+167
+00:06:07,790 --> 00:06:11,230
+CEO Tim Cook was forced to issue a humiliating
+public apology
+
+168
+00:06:11,230 --> 00:06:12,770
+to Chinese consumers
+
+169
+00:06:12,770 --> 00:06:14,050
+after Chinese state-media
+
+170
+00:06:14,050 --> 00:06:16,640
+launched a largely false campaign
+
+171
+00:06:16,640 --> 00:06:19,260
+to smear Apple’s customer service reputation.
+
+172
+00:06:20,460 --> 00:06:22,100
+Then in 2016,
+
+173
+00:06:22,100 --> 00:06:24,480
+Chinese authorities shut down the iBooks store
+
+174
+00:06:24,480 --> 00:06:26,850
+and iTunes movies just a few months
+
+175
+00:06:26,850 --> 00:06:28,740
+after Apple launched them in China.
+
+176
+00:06:28,740 --> 00:06:29,740
+Plus the whole iPhone6 ban
+
+177
+00:06:29,740 --> 00:06:30,740
+I mentioned earlier.
+
+178
+00:06:30,740 --> 00:06:31,740
+And just this month,
+
+179
+00:06:31,740 --> 00:06:33,360
+Chinese authorities summoned Apple to court
+
+180
+00:06:33,360 --> 00:06:34,790
+over its app store.
+
+181
+00:06:34,790 --> 00:06:37,350
+So, I guess Apple has learned a lesson
+
+182
+00:06:37,350 --> 00:06:39,530
+from being the victim of arbitrary,
+
+183
+00:06:39,530 --> 00:06:42,420
+unfair actions by the Communist Party.
+
+184
+00:06:42,420 --> 00:06:43,440
+And that lesson is:
+
+185
+00:06:43,440 --> 00:06:46,630
+That’s how Apple ought to treat everyone
+else!
+
+186
+00:06:46,630 --> 00:06:48,950
+So I’m not super surprised that Apple TV
+
+187
+00:06:48,950 --> 00:06:51,740
+banned China Uncensored in China.
+
+188
+00:06:51,740 --> 00:06:53,570
+Though I am surprised they banned our app
+
+189
+00:06:53,570 --> 00:06:56,000
+in Hong Kong and Taiwan.
+
+190
+00:06:56,000 --> 00:06:57,790
+Unless that's just some more of that
+
+191
+00:06:57,790 --> 00:07:01,580
+backwards kowtowing on the One-China policy.
+
+192
+00:07:01,580 --> 00:07:02,580
+But you know what?
+
+193
+00:07:02,580 --> 00:07:04,950
+I say, if Tim Cook is willing to accept the
+
+194
+00:07:04,950 --> 00:07:06,870
+Newseum’s Free Speech Award,
+
+195
+00:07:06,870 --> 00:07:10,490
+he should accept the responsibility it implies.
+
+196
+00:07:10,490 --> 00:07:11,540
+Mr. Cook:
+
+197
+00:07:11,540 --> 00:07:12,670
+Put your money where your mouth is
+
+198
+00:07:12,670 --> 00:07:15,220
+and make Apple stop removing media apps
+
+199
+00:07:15,220 --> 00:07:18,030
+from your app stores in Hong Kong and Taiwan,
+
+200
+00:07:18,030 --> 00:07:20,550
+as well as in mainland China.
+
+201
+00:07:20,550 --> 00:07:21,550
+Because remember,
+
+202
+00:07:21,550 --> 00:07:23,820
+“It’s not just about making money,
+
+203
+00:07:23,820 --> 00:07:27,210
+it’s also about making a difference in the world.”
+
+204
+00:07:27,210 --> 00:07:28,260
+So what do you think Apple should do
+
+205
+00:07:28,270 --> 00:07:30,860
+to make a difference in the world?
+
+206
+00:07:30,860 --> 00:07:32,410
+Leave your comments below.
+
+207
+00:07:32,410 --> 00:07:34,100
+And to further encourage Tim Cook and Apple
+
+208
+00:07:34,100 --> 00:07:35,660
+to make the right decision,
+
+209
+00:07:35,660 --> 00:07:37,780
+click the link below to sign our petition
+
+210
+00:07:37,780 --> 00:07:40,500
+to get the China Uncensored app back in the
+Hong Kong
+
+211
+00:07:40,500 --> 00:07:42,660
+and Taiwan app stores.
+
+212
+00:07:42,660 --> 00:07:44,630
+Thanks for watching this episode of China
+Uncensored.
+
+213
+00:07:44,630 --> 00:07:46,350
+Once again I’m your host Chris Chappell,
+
+214
+00:07:46,350 --> 00:07:47,460
+see you next time.
+

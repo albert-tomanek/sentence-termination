@@ -32,6 +32,7 @@ OUTPUT_MAP = ['', '.', '!', '?']    # This is used to convert the indices from t
 
 def make_data(text):
     text = re.sub('(?!\w| |'+SENTENCE_END+').', '', text.lower())    # Get rid of commas, they're too nuanced for prediction
+    text = re.sub('(?=\w)\d+(?=\w)', 'several', text)   # Use the same embedding for all numbers. The word 'several' can be used in the same grammatic context as a number.
 
     x: [str] = []
     y: [(float, float, float, float)] = []  # The probability that each punctuation comes after this word

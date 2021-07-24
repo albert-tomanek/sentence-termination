@@ -1,0 +1,740 @@
+1
+00:00:00,210 --> 00:00:02,220
+On this episode of China Uncensored,
+
+2
+00:00:02,220 --> 00:00:04,370
+forget the stock market bubble,
+
+3
+00:00:04,370 --> 00:00:07,620
+this is China’s incredible bike-share bubble.
+
+4
+00:00:12,180 --> 00:00:13,240
+Hi, welcome to China Uncensored.
+
+5
+00:00:13,250 --> 00:00:14,600
+I’m your host, Chris Chappell.
+
+6
+00:00:14,600 --> 00:00:16,710
+The good old bicycle.
+
+7
+00:00:16,710 --> 00:00:19,630
+That trusty two-wheeled iron steed.
+
+8
+00:00:19,630 --> 00:00:22,239
+So whether you’re out for some fresh air
+and exercise
+
+9
+00:00:22,239 --> 00:00:23,810
+taking your kid to school
+
+10
+00:00:23,810 --> 00:00:27,180
+or grabbing some fast food at “WickDonald’s”,
+
+11
+00:00:27,180 --> 00:00:29,069
+bikes and China, like marriage,
+
+12
+00:00:29,069 --> 00:00:31,499
+go together like a horse and carriage.
+
+13
+00:00:31,499 --> 00:00:35,699
+Unfortunately, thanks to a bubble in dock-free
+bike-sharing,
+
+14
+00:00:35,699 --> 00:00:37,690
+that relationship has turned toxic.
+
+15
+00:00:37,690 --> 00:00:40,570
+So on today’s episode of China Uncensored,
+
+16
+00:00:40,570 --> 00:00:43,469
+let’s look at how China’s bike-sharing
+program
+
+17
+00:00:43,469 --> 00:00:47,109
+has become a complete disaster.
+
+18
+00:00:47,109 --> 00:00:50,089
+One giant difference between China’s bike-sharing
+
+19
+00:00:50,089 --> 00:00:53,230
+and what you’re used to in the US is docking.
+
+20
+00:00:53,230 --> 00:00:55,660
+For bike-sharing in, say, San Francisco…
+
+21
+00:00:55,660 --> 00:00:56,860
+or New York—
+
+22
+00:00:56,860 --> 00:00:58,739
+you have to pick them up from a dock,
+
+23
+00:00:58,739 --> 00:01:00,850
+and return them to a dock.
+
+24
+00:01:00,850 --> 00:01:03,019
+And you can unlock a bike with a physical
+key,
+
+25
+00:01:03,019 --> 00:01:04,619
+or a mobile app.
+
+26
+00:01:04,619 --> 00:01:07,439
+The benefits are that it’s easy for the
+city governments
+
+27
+00:01:07,439 --> 00:01:09,990
+to keep them tidy in designated places.
+
+28
+00:01:09,990 --> 00:01:12,770
+It’s easy for the bike-share companies to
+track them,
+
+29
+00:01:12,770 --> 00:01:16,229
+and use vans to move bikes around to where
+they’re needed most.
+
+30
+00:01:16,229 --> 00:01:18,880
+But there’s a “last mile problem”.
+
+31
+00:01:18,880 --> 00:01:20,930
+That is, there are only so many docks,
+
+32
+00:01:20,930 --> 00:01:23,229
+and if there’s no dock within about a mile
+
+33
+00:01:23,229 --> 00:01:26,080
+of where a person wants to start or end their
+trip,
+
+34
+00:01:26,080 --> 00:01:29,120
+they’re simply not going to use the bike-share.
+
+35
+00:01:29,120 --> 00:01:31,640
+Sorry, everyone who lives in the Bronx!
+
+36
+00:01:31,640 --> 00:01:36,180
+But in China, cities have a cure for this
+last mile problem:
+
+37
+00:01:36,180 --> 00:01:37,869
+dockless bikes!
+
+38
+00:01:37,869 --> 00:01:40,299
+Thanks to GPS chips in every bike,
+
+39
+00:01:40,299 --> 00:01:43,320
+you can just unlock one using your mobile
+app.
+
+40
+00:01:43,320 --> 00:01:46,070
+And when you’re done, leave it wherever
+you want!
+
+41
+00:01:46,070 --> 00:01:48,969
+And I mean: Wherever you want!
+
+42
+00:01:48,969 --> 00:01:52,200
+Sometimes the cure can be worse than the disease.
+
+43
+00:01:52,200 --> 00:01:53,250
+This is a photo of the entrance
+
+44
+00:01:53,250 --> 00:01:55,189
+to a park in the city of Shenzhen.
+
+45
+00:01:55,189 --> 00:01:58,219
+Where, as you can see, people ride shared
+bikes
+
+46
+00:01:58,219 --> 00:02:01,039
+right up to the entrance, and then just throw
+them
+
+47
+00:02:01,039 --> 00:02:04,210
+on top of the ginormous pile of other bikes
+
+48
+00:02:04,210 --> 00:02:06,380
+before going inside to enjoy the scenery.
+
+49
+00:02:06,380 --> 00:02:08,320
+China’s dockless bike-sharing industry
+
+50
+00:02:08,320 --> 00:02:10,750
+grew like mad in recent years,
+
+51
+00:02:10,750 --> 00:02:13,670
+thanks to the brilliant combination of cutthroat
+competition
+
+52
+00:02:13,670 --> 00:02:15,250
+and no government regulation.
+
+53
+00:02:15,250 --> 00:02:18,720
+There’s now about 500 or so competing dockless
+
+54
+00:02:18,720 --> 00:02:20,860
+bike-sharing companies in China,
+
+55
+00:02:20,860 --> 00:02:23,390
+each desperate to win market share
+
+56
+00:02:23,390 --> 00:02:25,380
+by filling cities with their bikes…
+
+57
+00:02:25,380 --> 00:02:28,830
+…with the idea being that if their bike
+is on top of the pile,
+
+58
+00:02:28,830 --> 00:02:31,890
+people will choose their brand over their
+competitors’.
+
+59
+00:02:31,890 --> 00:02:33,880
+With no limits to the number of companies
+
+60
+00:02:33,880 --> 00:02:35,960
+that could operate in a given region,
+
+61
+00:02:35,960 --> 00:02:37,750
+or to the number of bikes,
+
+62
+00:02:37,750 --> 00:02:39,740
+this led to unsightly clutter…
+
+63
+00:02:39,740 --> 00:02:41,770
+and crippling choice anxiety.
+
+64
+00:02:41,770 --> 00:02:44,130
+I think she realized she’s better off
+
+65
+00:02:44,130 --> 00:02:45,660
+just walking that last mile.
+
+66
+00:02:45,660 --> 00:02:49,980
+Two of the biggest bike-sharing startups in
+China are Ofo
+
+67
+00:02:49,980 --> 00:02:51,640
+and Mobike…
+
+68
+00:02:51,640 --> 00:02:54,730
+Between them they’ve got more than 120 million
+registered users
+
+69
+00:02:54,730 --> 00:02:59,340
+and more than 13 million bikes piling up in
+Chinese cities.
+
+70
+00:02:59,340 --> 00:03:01,040
+And what made it all possible
+
+71
+00:03:01,040 --> 00:03:03,870
+is billions of dollars in venture capital.
+
+72
+00:03:03,870 --> 00:03:06,670
+Ofo, with its trademark canary yellow bikes…
+
+73
+00:03:06,670 --> 00:03:10,100
+…has raised at least 1.3 billion dollars
+in investment
+
+74
+00:03:10,100 --> 00:03:12,230
+across five rounds of funding.
+
+75
+00:03:12,230 --> 00:03:13,270
+And Mobike,
+
+76
+00:03:13,270 --> 00:03:16,530
+recently got 600 million in its latest funding
+round,
+
+77
+00:03:16,530 --> 00:03:20,260
+bringing its market cap to about $1 billion
+dollars.
+
+78
+00:03:20,260 --> 00:03:23,190
+And these companies with 10-figure market
+valuations
+
+79
+00:03:23,190 --> 00:03:27,110
+are locked in a cash-burning race to dominate
+market share
+
+80
+00:03:27,110 --> 00:03:30,510
+by pumping out bikes as fast as possible,
+
+81
+00:03:30,510 --> 00:03:33,220
+keeping the prices as low as possible,
+
+82
+00:03:33,220 --> 00:03:36,360
+and stacking them in the streets as high as
+possible.
+
+83
+00:03:36,360 --> 00:03:38,860
+To deal with this, some cities have starting
+sending
+
+84
+00:03:38,860 --> 00:03:41,770
+crews out to impound shared bikes.
+
+85
+00:03:41,770 --> 00:03:43,250
+Which make sense.
+
+86
+00:03:43,250 --> 00:03:46,250
+This cyclist has to ride in the street with
+cars,
+
+87
+00:03:46,250 --> 00:03:49,330
+because the bike lane has turned into a bike
+pile.
+
+88
+00:03:49,330 --> 00:03:51,090
+Here’s a series of photos
+
+89
+00:03:51,090 --> 00:03:53,760
+from a Shanghai bicycle impound lot,
+
+90
+00:03:53,760 --> 00:03:54,820
+which thousands…
+
+91
+00:03:54,820 --> 00:03:56,190
+upon thousands
+
+92
+00:03:56,190 --> 00:03:57,790
+upon thousands
+
+93
+00:03:57,790 --> 00:03:59,620
+of bikes now call home.
+
+94
+00:03:59,620 --> 00:04:02,330
+Fortunately, there’s still space in Shanghai
+
+95
+00:04:02,330 --> 00:04:04,840
+to plant huge fields of colorful flowers…
+
+96
+00:04:04,840 --> 00:04:07,420
+Haha, no it’s more bikes.
+
+97
+00:04:07,420 --> 00:04:08,420
+And more bikes.
+
+98
+00:04:08,420 --> 00:04:09,810
+And more bikes.
+
+99
+00:04:09,810 --> 00:04:11,080
+And...more...bikes!
+
+100
+00:04:11,080 --> 00:04:13,330
+But at least there’s been some pushback
+lately.
+
+101
+00:04:13,330 --> 00:04:15,430
+For example, after Shanghai realized
+
+102
+00:04:15,430 --> 00:04:18,739
+it had 1.5 million shared bikes—
+
+103
+00:04:18,739 --> 00:04:21,599
+that’s one for every 16 residents—
+
+104
+00:04:21,599 --> 00:04:24,060
+it started to say enough is enough.
+
+105
+00:04:24,060 --> 00:04:27,110
+On August 18, the Shanghai Transportation
+Bureau
+
+106
+00:04:27,110 --> 00:04:29,330
+ordered bikeshare companies to stop
+
+107
+00:04:29,330 --> 00:04:31,599
+adding more bikes to the streets.
+
+108
+00:04:31,599 --> 00:04:34,389
+There’s also a proposal in China to punish
+people
+
+109
+00:04:34,389 --> 00:04:37,680
+who park badly and misuse shared bikes.
+
+110
+00:04:37,680 --> 00:04:41,259
+And if anyone is good a monitoring and punishing
+its citizens,
+
+111
+00:04:41,259 --> 00:04:43,470
+it’s the Chinese government.
+
+112
+00:04:43,470 --> 00:04:44,759
+According to the National Interest…
+
+113
+00:04:44,759 --> 00:04:46,640
+…their surveillance technology can scan
+
+114
+00:04:46,640 --> 00:04:49,979
+the entire population “in one second.”
+
+115
+00:04:49,979 --> 00:04:52,260
+I know it might feel like 1984
+
+116
+00:04:52,260 --> 00:04:53,260
+meets Terminator
+
+117
+00:04:53,260 --> 00:04:54,810
+meets Premium Rush...
+
+118
+00:04:54,810 --> 00:04:57,000
+but if it’ll prevent people from leaving
+
+119
+00:04:57,000 --> 00:04:58,680
+heaps of shared bikes all over the place,
+
+120
+00:04:58,680 --> 00:05:00,890
+it’ll be totally worth it.
+
+121
+00:05:00,890 --> 00:05:04,639
+Or—and I know this sounds crazy, but hear
+me out—
+
+122
+00:05:04,639 --> 00:05:07,229
+instead of punishing individual citizens,
+
+123
+00:05:07,229 --> 00:05:09,710
+the government could step in to design
+
+124
+00:05:09,710 --> 00:05:12,210
+and implement thoughtful policies to make
+sure
+
+125
+00:05:12,210 --> 00:05:14,889
+the bike-sharing companies act responsibly.
+
+126
+00:05:14,889 --> 00:05:16,580
+Haha, just kidding.
+
+127
+00:05:16,580 --> 00:05:19,289
+It’s way easier to just punish people.
+
+128
+00:05:19,289 --> 00:05:21,210
+So what do you think about China’s bike-sharing
+disaster?
+
+129
+00:05:21,210 --> 00:05:23,759
+Leave your comments below.
+
+130
+00:05:23,759 --> 00:05:26,940
+And now it’s time when I answer a question
+from one of you—
+
+131
+00:05:26,940 --> 00:05:29,530
+my 50-Cent Army supporters who contribute
+
+132
+00:05:29,530 --> 00:05:33,919
+to China Uncensored on Patreon.
+
+133
+00:05:33,919 --> 00:05:34,919
+Primo asks,
+
+134
+00:05:34,919 --> 00:05:36,819
+“One thing I've been wondering is have you
+
+135
+00:05:36,819 --> 00:05:39,009
+ever thought of going to being more serious,
+
+136
+00:05:39,009 --> 00:05:40,969
+or do you think the satirical way of the show
+
+137
+00:05:40,969 --> 00:05:43,020
+is the way it should be?”
+
+138
+00:05:43,020 --> 00:05:44,190
+Good question.
+
+139
+00:05:44,190 --> 00:05:47,160
+So I started China Uncensored back in 2012.
+
+140
+00:05:47,160 --> 00:05:48,379
+Before that I was covering China
+
+141
+00:05:48,379 --> 00:05:51,160
+but in a straight news kind of way.
+
+142
+00:05:51,160 --> 00:05:54,090
+And I’m sorry to say, I found nobody really
+cared.
+
+143
+00:05:54,090 --> 00:05:56,010
+Which bothered me because I knew China is
+
+144
+00:05:56,010 --> 00:05:58,560
+a really important country and was having
+a big impact
+
+145
+00:05:58,560 --> 00:06:00,939
+on our lives in the United States.
+
+146
+00:06:00,939 --> 00:06:02,659
+This was also around the time the Communist
+Party
+
+147
+00:06:02,659 --> 00:06:06,310
+started building those artificial islands
+in the South China Sea
+
+148
+00:06:06,310 --> 00:06:09,939
+and claiming that proved it was their territory.
+
+149
+00:06:09,939 --> 00:06:12,259
+I found I couldn’t keep a straight face
+saying,
+
+150
+00:06:12,259 --> 00:06:14,879
+“the Chinese government has started to build
+fake islands
+
+151
+00:06:14,879 --> 00:06:17,290
+and are claiming it as ancient Chinese territory.”
+
+152
+00:06:17,290 --> 00:06:21,319
+No, that’s absolutely redonkulous.
+
+153
+00:06:21,319 --> 00:06:23,969
+So I created China Uncensored with the tone
+it has
+
+154
+00:06:23,969 --> 00:06:26,340
+because that’s the only way I felt like
+I could really say
+
+155
+00:06:26,340 --> 00:06:29,529
+what I wanted to say about the Chinese Communist
+Party.
+
+156
+00:06:29,529 --> 00:06:30,529
+And over the years,
+
+157
+00:06:30,529 --> 00:06:33,029
+I’ve found using satire has actually helped
+bring
+
+158
+00:06:33,029 --> 00:06:36,099
+a larger audience to China news and politics.
+
+159
+00:06:36,099 --> 00:06:37,419
+And be honest:
+
+160
+00:06:37,419 --> 00:06:39,120
+If all I did was straight news reporting,
+
+161
+00:06:39,120 --> 00:06:40,530
+would you still be watching?
+
+162
+00:06:40,530 --> 00:06:42,909
+Thanks for your question, Primo.
+
+163
+00:06:42,909 --> 00:06:44,719
+And if you’d me to answer your question,
+
+164
+00:06:44,719 --> 00:06:46,199
+join up in the China Uncensored 50-army.
+
+165
+00:06:46,199 --> 00:06:47,540
+We have a very low mortality rate.
+
+166
+00:06:47,540 --> 00:06:49,550
+And for only a dollar or more per episode,
+
+167
+00:06:49,550 --> 00:06:50,970
+we’ll give you some cool perks
+
+168
+00:06:50,970 --> 00:06:52,949
+and you’ll have the chance to send me questions
+
+169
+00:06:52,949 --> 00:06:55,370
+that I could answer right here on the show.
+
+170
+00:06:55,370 --> 00:06:58,969
+So head over to Pateron.com/chinauncensored
+to learn more.
+
+171
+00:06:58,969 --> 00:07:00,470
+Thanks for watching this episode of China
+Uncensored.
+
+172
+00:07:00,470 --> 00:07:02,419
+Once again, I’m Chris Chappell.
+
+173
+00:07:02,420 --> 00:07:03,460
+See you next time.
+

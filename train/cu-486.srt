@@ -1,0 +1,1072 @@
+1
+00:00:00,799 --> 00:00:03,270
+Trump declares a national emergency.
+
+2
+00:00:03,270 --> 00:00:06,240
+It’s been dubbed the ‘Huawei ban’.
+
+3
+00:00:06,240 --> 00:00:07,880
+What does this mean for security?
+
+4
+00:00:07,880 --> 00:00:11,600
+And how will this affect Huawei’s global
+ambitions?
+
+5
+00:00:16,500 --> 00:00:17,500
+Welcome back to China Uncensored.
+
+6
+00:00:17,500 --> 00:00:18,949
+I’m Chris Chappell.
+
+7
+00:00:18,949 --> 00:00:22,289
+Last week, US President Donald Trump signed
+an Executive Order
+
+8
+00:00:22,289 --> 00:00:24,109
+saying no way to Huawei.
+
+9
+00:00:24,109 --> 00:00:27,550
+Well technically, it doesn't actually say
+that.
+
+10
+00:00:27,550 --> 00:00:30,220
+What it does say is "Executive Order on Securing
+
+11
+00:00:30,220 --> 00:00:32,570
+the Information and Communications Technology
+
+12
+00:00:32,570 --> 00:00:35,160
+and Services Supply Chain."
+
+13
+00:00:35,160 --> 00:00:37,899
+But a title like that is totally un-tweetable.
+
+14
+00:00:37,899 --> 00:00:40,239
+So everyone's just calling it the 'Huawei
+ban.'
+
+15
+00:00:40,239 --> 00:00:44,660
+To be fair, Trump's executive order doesn't
+actually name Huawei.
+
+16
+00:00:44,660 --> 00:00:46,719
+But everyone knows who he’s talking about.
+
+17
+00:00:46,719 --> 00:00:48,829
+It’s like that time in college when the
+dining hall
+
+18
+00:00:48,829 --> 00:00:50,640
+took away all the waffle makers
+
+19
+00:00:50,640 --> 00:00:53,810
+because somebody kept breaking in at 2am
+
+20
+00:00:53,810 --> 00:00:55,359
+and stealing waffles.
+
+21
+00:00:55,359 --> 00:00:56,390
+Dave.
+
+22
+00:00:56,390 --> 00:01:01,489
+Anyway, Huawei is the world’s largest provider
+of networking gear
+
+23
+00:01:01,489 --> 00:01:03,880
+and the world’s number two smartphone vendor,
+
+24
+00:01:03,880 --> 00:01:05,640
+behind Samsung.
+
+25
+00:01:05,640 --> 00:01:09,340
+For years, congressional committees, the FBI,
+the NSA,
+
+26
+00:01:09,340 --> 00:01:11,920
+and others have flagged close ties between
+Huawei
+
+27
+00:01:11,920 --> 00:01:14,220
+and the Chinese Communist Party.
+
+28
+00:01:14,220 --> 00:01:16,700
+Last year, the US government banned...
+
+29
+00:01:16,700 --> 00:01:17,720
+the US government...
+
+30
+00:01:17,720 --> 00:01:19,940
+from using equipment made by Huawei
+
+31
+00:01:19,940 --> 00:01:23,000
+and the other big Chinese telecom company,
+ZTE.
+
+32
+00:01:23,000 --> 00:01:24,840
+That was over security concerns.
+
+33
+00:01:24,840 --> 00:01:29,260
+But the new executive order took that ban
+a big step further.
+
+34
+00:01:29,260 --> 00:01:33,050
+First, Trump declared a "national emergency."
+
+35
+00:01:33,050 --> 00:01:34,050
+And before you think,
+
+36
+00:01:34,050 --> 00:01:35,610
+“Here Trump goes again,
+
+37
+00:01:35,610 --> 00:01:37,580
+declaring another national emergency,”
+
+38
+00:01:37,580 --> 00:01:39,710
+it’s actually pretty common.
+
+39
+00:01:39,710 --> 00:01:42,610
+Obama declared 13 national emergencies.
+
+40
+00:01:42,610 --> 00:01:44,690
+George W. Bush declared 14,
+
+41
+00:01:44,690 --> 00:01:47,170
+and Clinton also declared 14.
+
+42
+00:01:47,170 --> 00:01:49,660
+So really, there are a lot more national emergencies
+
+43
+00:01:49,660 --> 00:01:52,310
+for President Trump to declare before his
+term is up.
+
+44
+00:01:52,310 --> 00:01:53,640
+He’s probably got a list.
+
+45
+00:01:53,640 --> 00:01:57,910
+Anyway, here’s how Trump’s current national
+emergency works.
+
+46
+00:01:57,910 --> 00:02:02,350
+The Executive Order itself stops the use of
+IT goods and services
+
+47
+00:02:02,350 --> 00:02:05,430
+from all companies subject to “foreign adversaries”
+
+48
+00:02:05,430 --> 00:02:09,020
+that pose “unacceptable risks” to national
+security.
+
+49
+00:02:09,020 --> 00:02:12,930
+Then, the Commerce Department effectively
+labeled Huawei
+
+50
+00:02:12,930 --> 00:02:16,370
+as belonging to one of those “foreign adversaries”—
+
+51
+00:02:16,370 --> 00:02:17,370
+i.e.
+
+52
+00:02:17,370 --> 00:02:18,370
+China—
+
+53
+00:02:18,370 --> 00:02:20,410
+by putting Huawei and 72 of its affiliates
+
+54
+00:02:20,410 --> 00:02:24,200
+on the Commerce Department’s “Entity List.”
+
+55
+00:02:24,200 --> 00:02:27,000
+The Entity List is a trade blacklist.
+
+56
+00:02:27,000 --> 00:02:28,490
+Anyone on it is barred from buying
+
+57
+00:02:28,490 --> 00:02:30,810
+parts and components from US companies
+
+58
+00:02:30,810 --> 00:02:34,510
+without getting the US government’s approval
+first.
+
+59
+00:02:34,510 --> 00:02:37,760
+And that approval is no easy thing.
+
+60
+00:02:37,760 --> 00:02:39,620
+That's because the ban has a so-called
+
+61
+00:02:39,620 --> 00:02:42,000
+"policy of presumption of denial."
+
+62
+00:02:42,000 --> 00:02:45,660
+Meaning, it's a no unless there's a really,
+
+63
+00:02:45,660 --> 00:02:48,120
+really good reason to say yes.
+
+64
+00:02:48,120 --> 00:02:49,120
+And \h"the U.S.
+
+65
+00:02:49,120 --> 00:02:50,400
+Government has determined that there is
+
+66
+00:02:50,400 --> 00:02:53,250
+reasonable cause to believe that Huawei
+
+67
+00:02:53,250 --> 00:02:57,190
+has been involved in activities contrary to
+the national security
+
+68
+00:02:57,190 --> 00:03:00,630
+or foreign policy interests of the United
+States."
+
+69
+00:03:00,630 --> 00:03:04,300
+So I'm guessing Huawei purchases are generally
+going to be a “no.”
+
+70
+00:03:04,300 --> 00:03:07,810
+"All the witnesses could you please raise
+your hand
+
+71
+00:03:07,810 --> 00:03:12,570
+if you'd use products or services from Huawei
+or ZTE?
+
+72
+00:03:12,570 --> 00:03:13,630
+None of you would.
+
+73
+00:03:13,630 --> 00:03:15,130
+You obviously lead intelligence services,
+
+74
+00:03:15,130 --> 00:03:17,150
+so that's something of a biased question.
+
+75
+00:03:17,150 --> 00:03:18,380
+Raise your hand if you would recommend that
+
+76
+00:03:18,380 --> 00:03:20,400
+private American citizens use Huawei
+
+77
+00:03:20,400 --> 00:03:23,470
+or ZTE products or services?
+
+78
+00:03:23,470 --> 00:03:24,880
+None of you again are raising your hand.
+
+79
+00:03:24,880 --> 00:03:25,959
+Thank you for that."
+
+80
+00:03:25,959 --> 00:03:28,910
+Senator Cotton raises an important point.
+
+81
+00:03:28,910 --> 00:03:31,220
+Or I assume he did because I was distracted
+
+82
+00:03:31,220 --> 00:03:33,640
+by the way that he kept mispronouncing Huawei.
+
+83
+00:03:33,640 --> 00:03:36,560
+It’s Huawei, with an H, people.
+
+84
+00:03:36,560 --> 00:03:38,930
+It’s not Wah-Wei.
+
+85
+00:03:38,930 --> 00:03:40,760
+Stop saying it like that!
+
+86
+00:03:40,760 --> 00:03:41,920
+Ahem.
+
+87
+00:03:41,920 --> 00:03:43,140
+Now if you're wondering what
+
+88
+00:03:43,140 --> 00:03:46,290
+the heads of US intelligence services know
+about Huawei
+
+89
+00:03:46,290 --> 00:03:48,610
+that the average person does not,
+
+90
+00:03:48,610 --> 00:03:50,630
+here's FBI Director Christopher Wray.
+
+91
+00:03:50,630 --> 00:03:56,620
+“It provides the capacity to maliciously
+modify or steal information,
+
+92
+00:03:56,620 --> 00:04:01,569
+and it provides the capacity to conduct undetected
+espionage.”
+
+93
+00:04:01,569 --> 00:04:04,459
+Simply put, officials are worried that Huawei
+
+94
+00:04:04,459 --> 00:04:07,430
+will help the Chinese regime spy on the US
+
+95
+00:04:07,430 --> 00:04:10,000
+or attack America’s cyber infrastructure.
+
+96
+00:04:10,000 --> 00:04:12,690
+How might Huawei do that specifically?
+
+97
+00:04:12,690 --> 00:04:14,880
+One way is “that companies like Huawei
+
+98
+00:04:14,880 --> 00:04:18,329
+might sell products compromised by ‘back
+doors’
+
+99
+00:04:18,329 --> 00:04:20,069
+that allow Chinese government hackers
+
+100
+00:04:20,069 --> 00:04:22,210
+access to data or surveillance."
+
+101
+00:04:22,210 --> 00:04:23,210
+Although frankly,
+
+102
+00:04:23,210 --> 00:04:25,500
+I’m more concerned that if we put all our
+technology
+
+103
+00:04:25,500 --> 00:04:28,590
+in the hands of equipment made in China,
+
+104
+00:04:28,590 --> 00:04:30,680
+one day it will simply stop working.
+
+105
+00:04:30,680 --> 00:04:32,290
+And when we try to reach customer service,
+
+106
+00:04:32,290 --> 00:04:34,840
+we keep getting redirected to the Chinese
+consulate.
+
+107
+00:04:34,840 --> 00:04:37,110
+And they don’t even have our package!
+
+108
+00:04:37,110 --> 00:04:40,069
+Now, back in 2011 and 2012,
+
+109
+00:04:40,069 --> 00:04:43,960
+Vodaphone did find hidden backdoors in Huawei
+equipment.
+
+110
+00:04:43,960 --> 00:04:46,979
+And there have been other reports of Huawei
+backdoors.
+
+111
+00:04:46,979 --> 00:04:48,740
+But it’s not clear whether Huawei
+
+112
+00:04:48,740 --> 00:04:50,879
+purposefully included these backdoors,
+
+113
+00:04:50,879 --> 00:04:53,129
+or whether they were accidental security flaws
+
+114
+00:04:53,129 --> 00:04:55,680
+resulting from bad design.
+
+115
+00:04:55,680 --> 00:04:57,689
+Either way is bad.
+
+116
+00:04:57,689 --> 00:05:00,270
+So is there smoking gun evidence that Huawei
+
+117
+00:05:00,270 --> 00:05:02,939
+is putting back doors into its technology,
+
+118
+00:05:02,939 --> 00:05:05,629
+designed to allow it to spy on users?
+
+119
+00:05:05,629 --> 00:05:06,629
+No.
+
+120
+00:05:06,629 --> 00:05:08,850
+But there’s plenty of reason to believe
+
+121
+00:05:08,850 --> 00:05:11,229
+they would be motivated to.
+
+122
+00:05:11,229 --> 00:05:13,669
+Like Huawei's uncomfortably close links
+
+123
+00:05:13,669 --> 00:05:16,419
+to the armed wing of the Chinese Communist
+Party—
+
+124
+00:05:16,419 --> 00:05:18,409
+the People's Liberation Army.
+
+125
+00:05:18,409 --> 00:05:21,360
+"Huawei is the PLA.
+
+126
+00:05:21,360 --> 00:05:26,669
+And if the senior executives of Huawei don't
+like me saying that,
+
+127
+00:05:26,669 --> 00:05:28,310
+then bring it.
+
+128
+00:05:28,310 --> 00:05:32,229
+You are—and I would love to have discovery
+on this one—
+
+129
+00:05:32,229 --> 00:05:34,050
+you are the People's Liberation Army."
+
+130
+00:05:34,050 --> 00:05:36,150
+I know what you’re thinking.
+
+131
+00:05:36,150 --> 00:05:38,589
+Steve Bannon, he’s probably just trying
+to rile people up
+
+132
+00:05:38,589 --> 00:05:41,199
+by mispronouncing Wah-Wey
+
+133
+00:05:41,199 --> 00:05:42,910
+and mentioning the PLA.
+
+134
+00:05:42,910 --> 00:05:44,190
+It turns out, no.
+
+135
+00:05:44,190 --> 00:05:47,050
+Bannon just doesn’t know how to pronounce
+Huawei, either.
+
+136
+00:05:47,050 --> 00:05:50,919
+Also, the founder and CEO of Huawei, Ren Zhengfei,
+
+137
+00:05:50,919 --> 00:05:53,569
+was an engineer with the People's Liberation
+Army.
+
+138
+00:05:53,569 --> 00:05:55,990
+And last year for the 40th anniversary of
+China’s
+
+139
+00:05:55,990 --> 00:05:58,090
+so-called “reform and opening-up,”
+
+140
+00:05:58,090 --> 00:06:02,520
+Ren Zhengfei was hailed one of 100 “excellent
+private entrepreneurs”
+
+141
+00:06:02,520 --> 00:06:06,740
+who “firmly safeguard the leadership of
+the Chinese Communist party.”
+
+142
+00:06:06,740 --> 00:06:10,249
+So much for being a totally independent private
+company.
+
+143
+00:06:10,249 --> 00:06:14,809
+But the Trump administration’s moves have
+already hamstrung Huawei.
+
+144
+00:06:14,809 --> 00:06:19,169
+For now, the Commerce Department’s Entity
+List has had the biggest effect.
+
+145
+00:06:19,169 --> 00:06:22,940
+That’s the one that prevents US companies
+from selling to Huawei.
+
+146
+00:06:22,940 --> 00:06:24,089
+According to Bloomberg,
+
+147
+00:06:24,089 --> 00:06:27,219
+top US tech companies have already begun to
+cut off
+
+148
+00:06:27,219 --> 00:06:31,279
+the supply of microchips and other technology
+to Huawei.
+
+149
+00:06:31,279 --> 00:06:33,369
+Chinese state-run media has gone on the defensive,
+
+150
+00:06:33,369 --> 00:06:35,069
+saying the Huawei ban is nothing
+
+151
+00:06:35,069 --> 00:06:39,199
+and we’ll be totally fine without chips
+from American suppliers,
+
+152
+00:06:39,199 --> 00:06:42,780
+and really, who wants Made in America chips
+anyway?
+
+153
+00:06:42,780 --> 00:06:46,210
+Huawei's chip arm HiSilicon said last Friday
+
+154
+00:06:46,210 --> 00:06:47,740
+it's been prepared for the scenario
+
+155
+00:06:47,740 --> 00:06:51,240
+that it could be banned from purchasing U.S.
+chips and technology.
+
+156
+00:06:51,240 --> 00:06:54,009
+HiSilicon says it's been "vigorously investing
+
+157
+00:06:54,009 --> 00:06:56,090
+in self-developed technologies,
+
+158
+00:06:56,090 --> 00:06:58,919
+and is able to ensure a steady supply of most
+products
+
+159
+00:06:58,919 --> 00:07:02,240
+to make sure Huawei will be able to continue
+serving its customers."
+
+160
+00:07:02,240 --> 00:07:06,379
+Or, as HiSilicon president said in a letter
+cited by Straits Times,
+
+161
+00:07:06,379 --> 00:07:11,139
+“now is the time for ‘all the spare tyres
+in the safe’ to become useful.”
+
+162
+00:07:11,139 --> 00:07:15,360
+Ok, firstly, who keeps tires in a safe?
+
+163
+00:07:15,360 --> 00:07:18,650
+Secondly, what does a microchip company do
+with tires, anyway?
+
+164
+00:07:18,650 --> 00:07:22,780
+I think what we really need is a ban on stupid
+metaphors.
+
+165
+00:07:22,780 --> 00:07:25,840
+Anyway, Huawei's CEO also insisted that Huawei
+
+166
+00:07:25,840 --> 00:07:27,719
+is totally ready for the ban—
+
+167
+00:07:27,719 --> 00:07:31,520
+while also briefly noting that “the company's
+annual revenue growth
+
+168
+00:07:31,520 --> 00:07:33,409
+may undershoot 20 percent.”
+
+169
+00:07:33,409 --> 00:07:35,990
+That’s a lot to... “undershoot”.
+
+170
+00:07:35,990 --> 00:07:39,660
+It’s like, if you’re flying from New York
+to San Francisco,
+
+171
+00:07:39,660 --> 00:07:41,229
+and you undershoot by 20%,
+
+172
+00:07:41,229 --> 00:07:44,110
+you’ll end up in Battle Mountain, Nevada.
+
+173
+00:07:44,110 --> 00:07:46,990
+And no one wants to end up in Battle Mountain,
+Nevada.
+
+174
+00:07:46,990 --> 00:07:48,979
+It’s the Armpit of America.
+
+175
+00:07:48,979 --> 00:07:52,860
+And while Chinese media are saying 'there's
+nothing to see here',
+
+176
+00:07:52,860 --> 00:07:56,400
+the Chinese Foreign Ministry sure is crying
+foul.
+
+177
+00:07:56,400 --> 00:08:02,220
+“We call upon the U.S. to stop using the
+excuse of 'security issues'
+
+178
+00:08:02,220 --> 00:08:05,389
+to indiscriminately suppress Chinese companies,
+
+179
+00:08:05,389 --> 00:08:06,389
+and provide a fair,
+
+180
+00:08:06,389 --> 00:08:10,289
+just environment devoid of discrimination
+for Chinese companies
+
+181
+00:08:10,289 --> 00:08:13,219
+investing and operating in the U.S.”
+
+182
+00:08:13,219 --> 00:08:14,900
+Yes, it’s very unfair for the US
+
+183
+00:08:14,900 --> 00:08:17,210
+to discriminate against Chinese companies.
+
+184
+00:08:17,210 --> 00:08:19,050
+How could a country just outright ban
+
+185
+00:08:19,050 --> 00:08:22,210
+foreign tech companies from operating in their
+market.
+
+186
+00:08:22,210 --> 00:08:23,629
+So unjust.
+
+187
+00:08:23,629 --> 00:08:26,990
+And on a totally unrelated note, Google.
+
+188
+00:08:26,990 --> 00:08:29,110
+One of numerous American tech companies
+
+189
+00:08:29,110 --> 00:08:31,930
+that has been blocked from the China market.
+
+190
+00:08:31,930 --> 00:08:34,029
+Google announced it would cut Huawei off from
+
+191
+00:08:34,029 --> 00:08:37,120
+some of the Android software that Huawei runs
+on.
+
+192
+00:08:37,120 --> 00:08:39,630
+Specifically, Huawei won't be able to license
+
+193
+00:08:39,630 --> 00:08:42,269
+the Android operating system with Google services,
+
+194
+00:08:42,269 --> 00:08:45,100
+and will instead have to use a bare-bones
+
+195
+00:08:45,100 --> 00:08:47,430
+open-source version of Android.
+
+196
+00:08:47,430 --> 00:08:49,200
+And that means Huawei is in trouble.
+
+197
+00:08:49,200 --> 00:08:52,279
+"Half of all of its shipments are sold outside
+of China
+
+198
+00:08:52,279 --> 00:08:55,740
+and all of those shipments depend on Google
+services
+
+199
+00:08:55,740 --> 00:08:56,920
+being present on them.
+
+200
+00:08:56,920 --> 00:08:58,110
+If they're not present on them,
+
+201
+00:08:58,110 --> 00:09:01,089
+no matter how good anything Huawei comes up
+with is,
+
+202
+00:09:01,089 --> 00:09:03,769
+they're going to have a really hard time
+
+203
+00:09:03,769 --> 00:09:05,380
+selling devices outside of China a
+
+204
+00:09:05,380 --> 00:09:07,680
+nd that is the essence of the problem."
+
+205
+00:09:07,680 --> 00:09:09,240
+One tech industry consultant said,
+
+206
+00:09:09,240 --> 00:09:12,509
+“It will be like an instant kill switch
+for Huawei’s ambition
+
+207
+00:09:12,509 --> 00:09:14,660
+to overtake Samsung in the global market.”
+
+208
+00:09:14,660 --> 00:09:18,160
+But Huawei has a little more time to figure
+it out.
+
+209
+00:09:18,160 --> 00:09:19,160
+Because earlier this week,
+
+210
+00:09:19,160 --> 00:09:22,089
+the Commerce Department issued a temporary
+license
+
+211
+00:09:22,089 --> 00:09:26,350
+that allows Huawei to do business with US
+companies for 90 days.
+
+212
+00:09:26,350 --> 00:09:28,620
+That means if you have a Huawei phone,
+
+213
+00:09:28,620 --> 00:09:31,180
+you can get your Android updates until August!
+
+214
+00:09:31,180 --> 00:09:32,720
+And after that,
+
+215
+00:09:32,720 --> 00:09:34,700
+Huawei will roll out its own software.
+
+216
+00:09:34,700 --> 00:09:37,440
+I hear that when you use Huawei Maps,
+
+217
+00:09:37,440 --> 00:09:38,900
+no matter where you are in the world,
+
+218
+00:09:38,900 --> 00:09:42,199
+you’re still within the nine-dash line.
+
+219
+00:09:42,199 --> 00:09:43,740
+So what do you think about the Huawei ban?
+
+220
+00:09:43,740 --> 00:09:45,410
+Leave your comments below.
+
+221
+00:09:45,410 --> 00:09:46,410
+And while you’re here,
+
+222
+00:09:46,410 --> 00:09:47,840
+it’s time for me to answer another question
+
+223
+00:09:47,840 --> 00:09:49,750
+from a fan who supports China Uncensored
+
+224
+00:09:49,750 --> 00:09:51,850
+with a dollar or more per episode—
+
+225
+00:09:51,850 --> 00:09:54,410
+through the crowdfunding website Patreon.
+
+226
+00:09:54,410 --> 00:09:57,050
+xXAMightyStormXx asks:
+
+227
+00:09:57,050 --> 00:10:00,569
+“...I've been thinking of getting a Huawei
+phone
+
+228
+00:10:00,569 --> 00:10:03,089
+and just google pro chinese stuff on it
+
+229
+00:10:03,089 --> 00:10:04,629
+to make sure that I get to be in
+
+230
+00:10:04,629 --> 00:10:07,800
+the good foreigners for china bracket in the
+CCP
+
+231
+00:10:07,800 --> 00:10:09,310
+Do you guys think that would work?”
+
+232
+00:10:09,310 --> 00:10:10,940
+Well, if you get a Huawei phone,
+
+233
+00:10:10,940 --> 00:10:14,220
+you might not be able to do much Googling
+on it after all.
+
+234
+00:10:14,220 --> 00:10:17,019
+But as for the idea of a foreigner saying
+pro-CCP things
+
+235
+00:10:17,019 --> 00:10:19,079
+on your phone to get in their good graces,
+
+236
+00:10:19,079 --> 00:10:20,079
+don’t bother.
+
+237
+00:10:20,079 --> 00:10:21,089
+You’ll waste your time
+
+238
+00:10:21,089 --> 00:10:23,839
+because no one will bother monitoring you.
+
+239
+00:10:23,839 --> 00:10:27,279
+And unless you’re actually working for a
+Chinese company in China,
+
+240
+00:10:27,279 --> 00:10:29,449
+it’s not going to help you get promoted.
+
+241
+00:10:29,449 --> 00:10:32,750
+Now if you want to do it much more publicly,
+
+242
+00:10:32,750 --> 00:10:34,750
+maybe someone will notice and get you a job
+
+243
+00:10:34,750 --> 00:10:37,050
+working for Chinese state-run media,
+
+244
+00:10:37,050 --> 00:10:39,850
+where you can spend all day posting stories
+about pandas.
+
+245
+00:10:39,850 --> 00:10:42,190
+It’s hard to imagine a worse job.
+
+246
+00:10:42,190 --> 00:10:44,259
+Thanks for your question.
+
+247
+00:10:44,259 --> 00:10:45,500
+And thanks for watching China Uncensored.
+
+248
+00:10:45,500 --> 00:10:47,120
+Once again, I’m Chris Chappell.
+
+249
+00:10:47,120 --> 00:10:48,240
+See you next time.
+

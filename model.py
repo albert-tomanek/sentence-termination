@@ -19,6 +19,8 @@ BATCH_SIZE = 32
 MEAN_LEN = 7    # words
 MAX_LEN = 70    # Max length of a sentence in words
 
+# 50: .91 val
+
 class Punctuator:
     def __init__(self):
         self.model, self.trainable_model = self.make_model()
@@ -110,7 +112,7 @@ class Punctuator:
             word = words[i]
             punct = dataset.OUTPUT_MAP[np.argmax(probabilities[i])]
 
-            if np.argmax(probabilities[i - 1]) != 0:    # If the previous word had a terminator after it
+            if np.argmax(probabilities[i]) != 0:    # If the previous word had a terminator after it
                 word = word.title()
 
             output += punct + ' ' + word

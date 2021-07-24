@@ -1,0 +1,770 @@
+1
+00:00:00,820 --> 00:00:03,229
+Tensions between the US and China are on the
+rise
+
+2
+00:00:03,229 --> 00:00:07,400
+The Pentagon is in a panic about relying on
+Chinese tech
+
+3
+00:00:07,400 --> 00:00:10,910
+Because the US military depends on China for
+small drones
+
+4
+00:00:10,910 --> 00:00:16,060
+But the Pentagon has an idea to break its
+Made in China habit
+
+5
+00:00:20,620 --> 00:00:21,700
+Welcome back to China Uncensored.
+
+6
+00:00:21,710 --> 00:00:23,250
+I’m Chris Chappell.
+
+7
+00:00:23,250 --> 00:00:26,349
+As if China's military build-up in the South
+China Sea
+
+8
+00:00:26,349 --> 00:00:28,009
+and its constant threats over Taiwan
+
+9
+00:00:28,009 --> 00:00:30,039
+weren't enough to worry about,
+
+10
+00:00:30,039 --> 00:00:32,970
+the Pentagon now has a new cause for concern.
+
+11
+00:00:32,970 --> 00:00:36,000
+No, not giant military cats.
+
+12
+00:00:36,000 --> 00:00:37,440
+Although those are concerning.
+
+13
+00:00:37,440 --> 00:00:39,980
+No, I’m talking about the US military's
+
+14
+00:00:39,980 --> 00:00:42,250
+reliance on Chinese drones.
+
+15
+00:00:42,250 --> 00:00:44,510
+“The idea is for small units on the battlefield,
+
+16
+00:00:44,510 --> 00:00:47,770
+that you have small drones that soldiers
+
+17
+00:00:47,770 --> 00:00:50,070
+can quickly unpack and get in the air,”
+
+18
+00:00:50,070 --> 00:00:51,070
+says Michael Horowitz,
+
+19
+00:00:51,070 --> 00:00:53,180
+a University of Pennsylvania professor.
+
+20
+00:00:53,180 --> 00:00:56,719
+“These quadcopters are also inexpensive
+enough
+
+21
+00:00:56,719 --> 00:00:58,840
+that if one crashes or you lose one,
+
+22
+00:00:58,840 --> 00:01:00,370
+it’s not that big a deal.”
+
+23
+00:01:00,370 --> 00:01:01,730
+The drones we’re talking about here
+
+24
+00:01:01,730 --> 00:01:05,550
+are a type of small Unmanned Aerial System—or
+UAS.
+
+25
+00:01:05,550 --> 00:01:06,860
+This kind.
+
+26
+00:01:06,860 --> 00:01:08,540
+They’re used by the US military
+
+27
+00:01:08,540 --> 00:01:10,660
+mostly for reconnaissance missions.
+
+28
+00:01:10,660 --> 00:01:12,790
+But even little drones can be lethal.
+
+29
+00:01:12,790 --> 00:01:16,840
+"All it takes is something literally as simple
+as this.
+
+30
+00:01:16,840 --> 00:01:21,430
+Here is a device that is built to drop a payload.
+
+31
+00:01:21,430 --> 00:01:25,860
+So this actually hooks onto the sides of this,
+underneath.
+
+32
+00:01:25,860 --> 00:01:26,860
+And this closes.
+
+33
+00:01:26,860 --> 00:01:28,520
+And all you have to do is,
+
+34
+00:01:28,520 --> 00:01:30,329
+with something less than a hundred bucks,
+
+35
+00:01:30,329 --> 00:01:33,220
+is literally put it on the bottom of this
+
+36
+00:01:33,220 --> 00:01:35,520
+and it allows you to trigger a mechanism
+
+37
+00:01:35,520 --> 00:01:37,009
+that can release a payload."
+
+38
+00:01:37,009 --> 00:01:40,560
+"It can kill somebody but it's not at the
+lethality
+
+39
+00:01:40,560 --> 00:01:43,100
+that a Hellfire missile would have."
+
+40
+00:01:43,100 --> 00:01:45,079
+But the Pentagon is not so much worried about
+
+41
+00:01:45,079 --> 00:01:47,840
+the Chinese military sending a swarm of drones
+over
+
+42
+00:01:47,840 --> 00:01:49,799
+to attack the US mainland...
+
+43
+00:01:49,799 --> 00:01:52,670
+since Amazon’s already got that covered.
+
+44
+00:01:52,670 --> 00:01:56,040
+No, the Pentagon is worried about the Chinese-made
+drones
+
+45
+00:01:56,040 --> 00:02:00,440
+that the US government has been buying of
+its own free will.
+
+46
+00:02:00,440 --> 00:02:02,810
+Specifically, this Chinese technology
+
+47
+00:02:02,810 --> 00:02:05,440
+could potentially have built-in security flaws—
+
+48
+00:02:05,440 --> 00:02:07,130
+designed to give the Chinese military
+
+49
+00:02:07,130 --> 00:02:08,920
+an advantage in case of conflict.
+
+50
+00:02:08,920 --> 00:02:11,450
+For example, a secret piece of code
+
+51
+00:02:11,450 --> 00:02:14,710
+that would send sensitive information to China.
+
+52
+00:02:14,710 --> 00:02:16,760
+According to this 2017 memo,
+
+53
+00:02:16,760 --> 00:02:20,510
+the Department of Defense ordered troops to
+stop using drones
+
+54
+00:02:20,510 --> 00:02:23,340
+made by Chinese company DJI
+
+55
+00:02:23,340 --> 00:02:27,210
+because of "increased awareness of cyber vulnerabilities."
+
+56
+00:02:27,210 --> 00:02:28,210
+According to the memo,
+
+57
+00:02:28,210 --> 00:02:29,450
+DJI was at the time
+
+58
+00:02:29,450 --> 00:02:34,040
+one of the most widely used brands of drones
+by the US Army.
+
+59
+00:02:34,040 --> 00:02:36,010
+Citing a classified report into
+
+60
+00:02:36,010 --> 00:02:40,100
+“DJI UAS Technology Threat and User Vulnerabilities,”
+
+61
+00:02:40,100 --> 00:02:43,200
+the Army ordered troops to “cease all use,
+
+62
+00:02:43,200 --> 00:02:45,700
+uninstall all DJI applications,
+
+63
+00:02:45,700 --> 00:02:49,170
+remove all batteries/storage media from devices,
+
+64
+00:02:49,170 --> 00:02:50,650
+and secure the equipment.”
+
+65
+00:02:50,650 --> 00:02:51,700
+The Pentagon didn’t reveal
+
+66
+00:02:51,700 --> 00:02:54,340
+the specifics of the national security threat.
+
+67
+00:02:54,340 --> 00:02:55,340
+And at the time,
+
+68
+00:02:55,340 --> 00:02:58,530
+a DJI company spokesman complained to the
+BBC that
+
+69
+00:02:58,530 --> 00:03:00,850
+"The US Army has not explained
+
+70
+00:03:00,850 --> 00:03:04,630
+why it suddenly banned the use of DJI drones
+and components,
+
+71
+00:03:04,630 --> 00:03:07,950
+what 'cyber-vulnerabilities' it is concerned
+about."
+
+72
+00:03:07,950 --> 00:03:10,310
+Somehow I don’t think the cyber-vulnerability
+
+73
+00:03:10,310 --> 00:03:13,480
+was that the drones had too many feelings.
+
+74
+00:03:13,480 --> 00:03:15,410
+But to illustrate the problem,
+
+75
+00:03:15,410 --> 00:03:20,380
+in 2017, “[DJI’s] Phantom series of [Unmanned
+Aerial Vehicles drew]
+
+76
+00:03:20,380 --> 00:03:23,370
+the attention of hackers who’ve been able
+to break into
+
+77
+00:03:23,370 --> 00:03:26,950
+and manipulate the drone’s GPS software,
+
+78
+00:03:26,950 --> 00:03:29,150
+punching holes in the ‘geofences’
+
+79
+00:03:29,150 --> 00:03:32,160
+that sought to keep the drones out of no-fly
+zones.”
+
+80
+00:03:32,160 --> 00:03:35,870
+Obviously, that hack was not good PR for DJI.
+
+81
+00:03:35,870 --> 00:03:39,900
+So in early 2019, DJI released this video,
+
+82
+00:03:39,900 --> 00:03:44,490
+promoting its new line of drones designed
+for government use:
+
+83
+00:03:44,490 --> 00:03:49,060
+“DJI has developed a new hardware and software
+solution
+
+84
+00:03:49,060 --> 00:03:53,150
+that allows government agencies to confidently
+use drone technology
+
+85
+00:03:53,150 --> 00:03:54,760
+while keeping in accordance with stringent
+
+86
+00:03:54,760 --> 00:03:57,660
+IT and data security requirements.
+
+87
+00:03:57,660 --> 00:04:00,080
+We call it DJI government edition.”
+
+88
+00:04:00,080 --> 00:04:04,060
+I mean, it’s essentially the same drone
+technology,
+
+89
+00:04:04,060 --> 00:04:05,270
+but now with bigger promises.
+
+90
+00:04:05,270 --> 00:04:08,430
+“It actually allows us to tell our clients
+
+91
+00:04:08,430 --> 00:04:10,140
+that all of their telemetry data—
+
+92
+00:04:10,140 --> 00:04:12,130
+meaning where the drone is flying—
+
+93
+00:04:12,130 --> 00:04:15,330
+is stored securely and not shared with anyone
+but them.”
+
+94
+00:04:15,330 --> 00:04:20,030
+I mean, if DJI got a guy in a Patagonia vest
+to say it,
+
+95
+00:04:20,030 --> 00:04:21,130
+it must be true.
+
+96
+00:04:21,130 --> 00:04:24,000
+Even if that guy is the CEO of a company
+
+97
+00:04:24,000 --> 00:04:25,610
+that stands to make millions
+
+98
+00:04:25,610 --> 00:04:29,590
+off of helping government agencies implement
+DJI drones.
+
+99
+00:04:29,590 --> 00:04:31,490
+That video, which is targeted at
+
+100
+00:04:31,490 --> 00:04:34,110
+no...government...in...particular...
+
+101
+00:04:34,110 --> 00:04:36,930
+does aim to address one of the specific concerns
+
+102
+00:04:36,930 --> 00:04:39,890
+that the US government just happens to have:
+
+103
+00:04:39,890 --> 00:04:42,660
+If the US military personnel on covert missions
+
+104
+00:04:42,660 --> 00:04:45,790
+are using DJI drones in secret locations,
+
+105
+00:04:45,790 --> 00:04:47,730
+those missions could be compromised
+
+106
+00:04:47,730 --> 00:04:50,830
+by something as simple as leaked flight logs.
+
+107
+00:04:50,830 --> 00:04:52,370
+Or shutting down a drone in mid-flight.
+
+108
+00:04:52,370 --> 00:04:57,620
+“There are U.S. special operators in Syria
+using DJI products,”
+
+109
+00:04:57,620 --> 00:05:01,270
+the CEO of Expert Drones told the publication
+Defense One.
+
+110
+00:05:01,270 --> 00:05:02,390
+“So I get it.
+
+111
+00:05:02,390 --> 00:05:05,670
+I’m glad [the Army is] finally doing something
+about this.”
+
+112
+00:05:05,670 --> 00:05:08,070
+Because given the growing clarity that China
+is,
+
+113
+00:05:08,070 --> 00:05:11,500
+in fact, America's chief strategic adversary,
+
+114
+00:05:11,500 --> 00:05:13,970
+being hooked on technology that's made in
+China
+
+115
+00:05:13,970 --> 00:05:17,990
+may be, well, un-strategic.
+
+116
+00:05:17,990 --> 00:05:19,820
+And there are fears that the Chinese regime
+
+117
+00:05:19,820 --> 00:05:23,040
+is secretly installing backdoors in commercial
+technology
+
+118
+00:05:23,040 --> 00:05:25,520
+for potential military advantage.
+
+119
+00:05:25,520 --> 00:05:27,010
+And it certainly wouldn’t be the first time
+
+120
+00:05:27,010 --> 00:05:29,350
+the Chinese regime has been accused of using
+
+121
+00:05:29,350 --> 00:05:32,280
+seemingly innocuous commercial technology
+
+122
+00:05:32,280 --> 00:05:34,510
+to gain a potential advantage.
+
+123
+00:05:34,510 --> 00:05:35,510
+Huawei.
+
+124
+00:05:35,510 --> 00:05:38,200
+Sorry. I meant “Huawei”.
+
+125
+00:05:38,200 --> 00:05:41,900
+The company that makes knockoff iPhones and
+5G technology.
+
+126
+00:05:41,900 --> 00:05:43,610
+The Pentagon’s national security concerns
+
+127
+00:05:43,610 --> 00:05:45,800
+about Chinese-made drones were echoed
+
+128
+00:05:45,800 --> 00:05:49,110
+by the Department of Homeland Security in
+May this year.
+
+129
+00:05:49,110 --> 00:05:51,350
+Which is several months after DJI
+
+130
+00:05:51,350 --> 00:05:54,040
+made that video promising the government edition
+of their drones
+
+131
+00:05:54,040 --> 00:05:55,360
+is totally secure,
+
+132
+00:05:55,360 --> 00:05:57,120
+there’s nothing to worry about.
+
+133
+00:05:57,120 --> 00:06:01,300
+In a notice titled “Chinese Manufactured
+Unmanned Aircraft Systems,”
+
+134
+00:06:01,300 --> 00:06:03,870
+Homeland Security warned that U.S. officials
+
+135
+00:06:03,870 --> 00:06:06,470
+have “strong concerns about any technology
+product
+
+136
+00:06:06,470 --> 00:06:11,139
+that takes American data into the territory
+of an authoritarian state
+
+137
+00:06:11,139 --> 00:06:12,970
+that permits its intelligence services
+
+138
+00:06:12,970 --> 00:06:15,630
+to have unfettered access to that data
+
+139
+00:06:15,630 --> 00:06:18,500
+or otherwise abuses that access.”
+
+140
+00:06:18,500 --> 00:06:20,700
+That being said, it appears the US government
+
+141
+00:06:20,700 --> 00:06:22,740
+*has* given security clearance
+
+142
+00:06:22,740 --> 00:06:24,830
+to the government edition of DJI.
+
+143
+00:06:24,830 --> 00:06:26,890
+And that’s probably because there just aren’t
+
+144
+00:06:26,890 --> 00:06:29,150
+good alternatives made in America.
+
+145
+00:06:29,150 --> 00:06:30,580
+“[The US doesn’t] have much of a small
+
+146
+00:06:30,580 --> 00:06:33,080
+[Unmanned Aerial System] industrial base
+
+147
+00:06:33,080 --> 00:06:38,100
+because DJI dumped so many low-price quadcopters
+on the market,
+
+148
+00:06:38,100 --> 00:06:39,860
+and we then became dependent on them,”
+
+149
+00:06:39,860 --> 00:06:42,780
+said Ellen Lord, the Pentagon’s chief weapons
+buyer,
+
+150
+00:06:42,780 --> 00:06:44,690
+in a recent press conference.
+
+151
+00:06:44,690 --> 00:06:46,610
+So how can the US wean itself
+
+152
+00:06:46,610 --> 00:06:49,440
+off of dependence on Chinese drones?
+
+153
+00:06:49,440 --> 00:06:53,340
+By diving headlong into the world of American
+tech startups.
+
+154
+00:06:53,340 --> 00:06:55,910
+This fall, the Defense Department is launching
+something
+
+155
+00:06:55,910 --> 00:06:58,830
+called a “Trusted Capital Marketplace”
+
+156
+00:06:58,830 --> 00:07:01,280
+to connect investors with small tech firms
+t
+
+157
+00:07:01,280 --> 00:07:04,340
+o boost domestic production of small drones.
+
+158
+00:07:04,340 --> 00:07:05,950
+A kind of Shark Tank,
+
+159
+00:07:05,950 --> 00:07:09,050
+where even the Pentagon itself can be one
+of the sharks.
+
+160
+00:07:09,050 --> 00:07:10,470
+Although the Pentagon will never be
+
+161
+00:07:10,470 --> 00:07:12,840
+as intimidating as Mark Cuban.
+
+162
+00:07:13,440 --> 00:07:14,460
+“Mark”
+
+163
+00:07:16,100 --> 00:07:18,160
+“What are you doing?”
+
+164
+00:07:18,170 --> 00:07:20,590
+But if you need a million bucks to launch
+your project
+
+165
+00:07:20,590 --> 00:07:24,470
+of a tiny drone that shoots massive Hellfire
+missiles,
+
+166
+00:07:24,470 --> 00:07:27,230
+the Pentagon can’t wait to hear your pitch.
+
+167
+00:07:27,230 --> 00:07:30,130
+After all, once they have the drone problem
+solved,
+
+168
+00:07:30,130 --> 00:07:32,850
+they can focus on the real threat.
+
+169
+00:07:32,850 --> 00:07:34,580
+And turn it to their advantage.
+
+170
+00:07:34,580 --> 00:07:36,740
+So what do you think about the US Army’s
+
+171
+00:07:36,740 --> 00:07:38,120
+dependence on Chinese drones
+
+172
+00:07:38,120 --> 00:07:40,669
+and its idea to boost domestic manufacturing
+
+173
+00:07:40,669 --> 00:07:42,350
+of Unmanned Aerial Systems?
+
+174
+00:07:42,350 --> 00:07:44,190
+Leave your comments below.
+
+175
+00:07:44,190 --> 00:07:45,960
+And China Uncensored is made possible
+
+176
+00:07:45,960 --> 00:07:48,199
+mainly through viewer support—
+
+177
+00:07:48,199 --> 00:07:51,280
+fans who contribute through the crowdfunding
+website Patreon.
+
+178
+00:07:51,280 --> 00:07:53,180
+Pledge a dollar or more to support the show.
+
+179
+00:07:53,180 --> 00:07:55,060
+Once again, I’m Chris Chappell.
+
+180
+00:07:55,060 --> 00:07:56,000
+See you next time.
+

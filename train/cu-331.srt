@@ -1,0 +1,851 @@
+1
+00:00:00,229 --> 00:00:02,080
+On this episode of China Uncensored,
+
+2
+00:00:02,080 --> 00:00:05,270
+Google is building an artificial intelligence
+center in China.
+
+3
+00:00:05,270 --> 00:00:07,870
+If only they could make software to warn them
+
+4
+00:00:07,870 --> 00:00:10,379
+when things are a bad idea.
+
+5
+00:00:10,379 --> 00:00:12,049
+The Chinese regime starts collecting
+
+6
+00:00:12,049 --> 00:00:14,530
+the DNA of ethnic minorities.
+
+7
+00:00:14,530 --> 00:00:19,040
+Ancestry.com says you’re 97% in trouble.
+
+8
+00:00:19,040 --> 00:00:20,240
+And finally,
+
+9
+00:00:20,240 --> 00:00:22,759
+China has a new Youth Ambassador.
+
+10
+00:00:22,759 --> 00:00:24,609
+And he’s not a “he.”
+
+11
+00:00:24,609 --> 00:00:25,860
+Or a “she.”
+
+12
+00:00:25,860 --> 00:00:27,980
+This is China Uncensored.
+
+13
+00:00:32,580 --> 00:00:33,440
+Hi, welcome to China Uncensored.
+
+14
+00:00:33,440 --> 00:00:35,720
+I’m your host Chris Chappell.
+
+15
+00:00:35,730 --> 00:00:37,090
+Forget about the looming specter
+
+16
+00:00:37,090 --> 00:00:39,390
+of nuclear war with North Korea.
+
+17
+00:00:39,390 --> 00:00:43,199
+The real threat to China is its own nuclear
+power plants.
+
+18
+00:00:43,199 --> 00:00:46,320
+A key component of a Chinese nuclear power
+plant
+
+19
+00:00:46,320 --> 00:00:49,420
+cracked during a safety test.
+
+20
+00:00:49,420 --> 00:00:52,280
+And it’s located pretty close to Hong Kong.
+
+21
+00:00:52,280 --> 00:00:54,011
+The plant is actually a joint venture
+
+22
+00:00:54,011 --> 00:00:57,170
+started in 2009 between China’s state-owned
+
+23
+00:00:57,170 --> 00:01:00,089
+China General Nuclear Power Corporation
+
+24
+00:01:00,089 --> 00:01:01,330
+and French utility,
+
+25
+00:01:01,330 --> 00:01:03,829
+Électricité de France.
+
+26
+00:01:03,829 --> 00:01:05,180
+After the component cracked,
+
+27
+00:01:05,180 --> 00:01:08,740
+the French scientists threw their hands in
+the air and said,
+
+28
+00:01:08,740 --> 00:01:10,280
+“We give up!
+
+29
+00:01:10,280 --> 00:01:11,310
+We surrender!”
+
+30
+00:01:11,310 --> 00:01:12,580
+The completion of the plant
+
+31
+00:01:12,580 --> 00:01:14,280
+had been repeatedly delayed.
+
+32
+00:01:14,280 --> 00:01:15,980
+It was supposed to go operational
+
+33
+00:01:15,980 --> 00:01:17,150
+at the end of this year,
+
+34
+00:01:17,150 --> 00:01:19,290
+but now, maybe not.
+
+35
+00:01:19,290 --> 00:01:21,500
+Possibly, other countries might want to
+
+36
+00:01:21,500 --> 00:01:25,490
+reconsider nuclear joint ventures with China.
+
+37
+00:01:25,490 --> 00:01:27,680
+But Western companies seem to never learn
+
+38
+00:01:27,680 --> 00:01:30,530
+the right lessons about working with China.
+
+39
+00:01:30,530 --> 00:01:32,540
+Which is why Google has decided to build
+
+40
+00:01:32,540 --> 00:01:36,950
+its new artificial intelligence research center
+in Beijing.
+
+41
+00:01:36,950 --> 00:01:38,960
+It’s been up and down for Google
+
+42
+00:01:38,960 --> 00:01:40,470
+and China over the years.
+
+43
+00:01:40,470 --> 00:01:42,060
+Google set up a presence in China
+
+44
+00:01:42,060 --> 00:01:43,960
+starting in 2005,
+
+45
+00:01:43,960 --> 00:01:46,070
+but pulled out in 2010
+
+46
+00:01:46,070 --> 00:01:48,720
+after getting hacked by Chinese authorities—
+
+47
+00:01:48,720 --> 00:01:50,060
+allegedly—
+
+48
+00:01:50,060 --> 00:01:51,950
+and being forced to self-censor,
+
+49
+00:01:51,950 --> 00:01:53,700
+which they didn’t like...
+
+50
+00:01:53,700 --> 00:01:55,470
+…slash-got criticised for.
+
+51
+00:01:55,470 --> 00:01:57,040
+But it’s been 7 years!
+
+52
+00:01:57,040 --> 00:01:58,550
+That’s plenty of time to forget
+
+53
+00:01:58,550 --> 00:02:00,140
+all the lessons you learned!
+
+54
+00:02:00,140 --> 00:02:02,330
+I mean I have zero recollection
+
+55
+00:02:02,330 --> 00:02:04,450
+of anything I learned in college.
+
+56
+00:02:04,450 --> 00:02:06,360
+Like that book I read, 1984.
+
+57
+00:02:06,360 --> 00:02:08,280
+What was that about again?
+
+58
+00:02:08,280 --> 00:02:10,519
+Anyway, Google doing AI research
+
+59
+00:02:10,519 --> 00:02:13,100
+in China is a big deal.
+
+60
+00:02:13,100 --> 00:02:14,819
+China is trying to become the world leader
+
+61
+00:02:14,819 --> 00:02:16,540
+in artificial intelligence,
+
+62
+00:02:16,540 --> 00:02:21,549
+and has invested 161 billion dollars into
+the field.
+
+63
+00:02:21,549 --> 00:02:24,180
+And the Chinese regime has done such a good
+job,
+
+64
+00:02:24,180 --> 00:02:25,569
+the Council on Foreign Relations
+
+65
+00:02:25,569 --> 00:02:29,400
+warns China could surpass the US.
+
+66
+00:02:29,400 --> 00:02:30,909
+And whoever leads in AI
+
+67
+00:02:30,909 --> 00:02:33,049
+will be the ruler of the world—
+
+68
+00:02:33,049 --> 00:02:35,549
+at least according to Vladimir Putin,
+
+69
+00:02:35,549 --> 00:02:38,959
+who knows a thing or two about staying in
+power.
+
+70
+00:02:38,959 --> 00:02:41,209
+Moving on, you may remember last week
+
+71
+00:02:41,209 --> 00:02:43,430
+we reported on the mass evictions
+
+72
+00:02:43,430 --> 00:02:46,190
+and demolition of migrant homes in Beijing.
+
+73
+00:02:46,190 --> 00:02:49,199
+Well, a painter in Beijing, Hua Yong,
+
+74
+00:02:49,199 --> 00:02:52,650
+is afraid you might not believe the scale
+of it.
+
+75
+00:02:52,650 --> 00:02:54,799
+So selfie time!
+
+76
+00:02:54,799 --> 00:02:56,520
+I’m actually more amazed
+
+77
+00:02:56,520 --> 00:02:59,310
+those police didn’t immediately grab him.
+
+78
+00:02:59,310 --> 00:03:00,930
+Don’t worry though,
+
+79
+00:03:00,930 --> 00:03:03,500
+they did try to grab him eventually.
+
+80
+00:03:03,500 --> 00:03:04,500
+In his home.
+
+81
+00:03:04,500 --> 00:03:07,360
+Fortunately, it was a swing and a miss, because
+
+82
+00:03:07,360 --> 00:03:10,180
+“He fled the city after the police came
+to arrest him
+
+83
+00:03:10,180 --> 00:03:12,849
+for publicizing the evictions.”
+
+84
+00:03:12,849 --> 00:03:15,300
+This isn’t Hua’s first time getting in
+trouble with authorities.
+
+85
+00:03:15,300 --> 00:03:19,269
+He was sentenced to a labor camp back in 2012
+for,
+
+86
+00:03:19,269 --> 00:03:21,230
+I kid you not,
+
+87
+00:03:21,230 --> 00:03:23,790
+filming himself in Tiananmen Square,
+
+88
+00:03:23,790 --> 00:03:27,340
+punching himself in the face until his nose
+bled,
+
+89
+00:03:27,340 --> 00:03:30,310
+and then using the blood to write “6-4”,
+
+90
+00:03:30,310 --> 00:03:31,310
+which is a reference
+
+91
+00:03:31,310 --> 00:03:34,140
+to the June 4th 1989 Tiananmen Massacre.
+
+92
+00:03:34,940 --> 00:03:37,380
+Hua Yong is now my favorite artist.
+
+93
+00:03:37,800 --> 00:03:40,800
+But Hua’s not alone in being targeted by
+police.
+
+94
+00:03:40,800 --> 00:03:46,640
+Remember how, in pretty much
+
+95
+00:03:46,640 --> 00:03:48,750
+the only heartwarming thing about this story,
+
+96
+00:03:48,750 --> 00:03:49,750
+ordinary Beijingers were banding together
+
+97
+00:03:49,750 --> 00:03:50,750
+to help the migrants?
+
+98
+00:03:50,750 --> 00:03:53,109
+Well, they got in trouble with the police
+too.
+
+99
+00:03:53,109 --> 00:03:57,060
+Yes, businesspeople who offered migrants jobs,
+
+100
+00:03:57,060 --> 00:03:59,780
+and charity workers who tried to find them
+shelter,
+
+101
+00:03:59,780 --> 00:04:01,650
+have been interrogated by the police
+
+102
+00:04:01,650 --> 00:04:03,560
+and told to stop helping people.
+
+103
+00:04:04,000 --> 00:04:06,720
+I mean, what were they thinking?
+
+104
+00:04:06,720 --> 00:04:08,510
+Communism isn’t about helping people!
+
+105
+00:04:08,510 --> 00:04:10,550
+In fact, since the CCP
+
+106
+00:04:10,550 --> 00:04:13,290
+has decided to evict the migrant workers,
+
+107
+00:04:13,290 --> 00:04:16,360
+helping them is seen as “an act of defiance”
+
+108
+00:04:16,360 --> 00:04:18,370
+against the state.
+
+109
+00:04:18,370 --> 00:04:21,010
+And in the far West of China is Xinjiang,
+
+110
+00:04:21,010 --> 00:04:24,360
+a region home to about 11 million ethnic Uyghurs.
+
+111
+00:04:24,360 --> 00:04:26,480
+China’s central authorities have noted
+
+112
+00:04:26,480 --> 00:04:29,100
+that Uyghurs sometimes look slightly different
+
+113
+00:04:29,100 --> 00:04:30,880
+from other Chinese,
+
+114
+00:04:30,880 --> 00:04:34,030
+and are therefore extremely dangerous.
+
+115
+00:04:34,030 --> 00:04:35,030
+Which may be why
+
+116
+00:04:35,030 --> 00:04:36,590
+“Chinese authorities in Xinjiang
+
+117
+00:04:36,590 --> 00:04:38,790
+are collecting DNA samples,
+
+118
+00:04:38,790 --> 00:04:40,640
+fingerprints, iris scans,
+
+119
+00:04:40,640 --> 00:04:43,200
+and blood types of all residents”—
+
+120
+00:04:43,200 --> 00:04:44,600
+according to Human Rights Watch.
+
+121
+00:04:44,600 --> 00:04:47,720
+Now, sure, the mass collection of biodata
+
+122
+00:04:47,720 --> 00:04:49,900
+might sound scary.
+
+123
+00:04:49,900 --> 00:04:52,750
+But it’s being done as part of a free government
+
+124
+00:04:52,750 --> 00:04:54,460
+annual health checkup program
+
+125
+00:04:54,460 --> 00:04:56,890
+called “Physicals for All.”
+
+126
+00:04:56,890 --> 00:04:59,100
+Participation is totally optional...
+
+127
+00:04:59,100 --> 00:05:01,040
+unless you refuse.
+
+128
+00:05:01,040 --> 00:05:03,570
+But I’m sure it’s all for a good cause.
+
+129
+00:05:03,570 --> 00:05:06,290
+Such as checking on people’s organ health.
+
+130
+00:05:06,290 --> 00:05:08,530
+Although considering there is some evidence
+
+131
+00:05:08,530 --> 00:05:11,230
+that Chinese authorities are killing Uyghurs
+
+132
+00:05:11,230 --> 00:05:14,030
+to use their organs in transplant operations...
+
+133
+00:05:14,030 --> 00:05:16,260
+...maybe, “Physicals for All”
+
+134
+00:05:16,260 --> 00:05:19,640
+is just a handy way to identify potential
+donors.
+
+135
+00:05:19,640 --> 00:05:21,730
+Again, totally optional—
+
+136
+00:05:21,730 --> 00:05:23,790
+unless they refuse.
+
+137
+00:05:23,790 --> 00:05:25,980
+And speaking of treating people like dirt,
+
+138
+00:05:25,980 --> 00:05:30,250
+it’s the 80-year anniversary of the Rape
+of Nanking.
+
+139
+00:05:30,250 --> 00:05:31,960
+According to Chinese estimates,
+
+140
+00:05:31,960 --> 00:05:34,330
+300,000 Chinese civilians were raped,
+
+141
+00:05:34,330 --> 00:05:37,880
+tortured and killed in a six-week orgy of
+violence
+
+142
+00:05:37,880 --> 00:05:40,430
+when Japanese troops invaded the Chinese city
+
+143
+00:05:40,430 --> 00:05:42,270
+during World War II.
+
+144
+00:05:42,270 --> 00:05:44,830
+Xi Jinping was there at a commemoration.
+
+145
+00:05:44,830 --> 00:05:46,530
+But he didn’t give a speech.
+
+146
+00:05:46,530 --> 00:05:47,810
+And considering the guy is known
+
+147
+00:05:47,810 --> 00:05:50,510
+for making three-hour long speeches,
+
+148
+00:05:50,510 --> 00:05:52,940
+that is a miracle.
+
+149
+00:05:52,940 --> 00:05:55,250
+Moving on to more horrible things
+
+150
+00:05:55,250 --> 00:05:56,740
+happening to women in China—
+
+151
+00:05:56,750 --> 00:06:00,100
+and this time, the Japanese aren’t to blame.
+
+152
+00:06:00,100 --> 00:06:03,680
+Chinese smugglers are buying North Korean
+women.
+
+153
+00:06:03,690 --> 00:06:06,240
+Decades of the CCP’s One Child Policy
+
+154
+00:06:06,240 --> 00:06:09,580
+resulted in the killing of so many baby girls
+
+155
+00:06:09,580 --> 00:06:12,890
+that China now has a severe shortage of women.
+
+156
+00:06:12,890 --> 00:06:13,990
+In fact,
+
+157
+00:06:13,990 --> 00:06:18,470
+there are about 33 million fewer women than
+men.
+
+158
+00:06:18,470 --> 00:06:20,910
+The obvious solution is trafficking women
+
+159
+00:06:20,910 --> 00:06:23,070
+from North Korea—where they’re sold
+
+160
+00:06:23,070 --> 00:06:25,600
+into a life of sex slavery.
+
+161
+00:06:25,600 --> 00:06:26,600
+On the plus side,
+
+162
+00:06:26,600 --> 00:06:28,530
+they’re rescued from a life of extreme poverty
+
+163
+00:06:28,530 --> 00:06:30,970
+under Kim Jong-un’s regime.
+
+164
+00:06:30,970 --> 00:06:34,720
+Those are both terrible choices.
+
+165
+00:06:34,720 --> 00:06:36,810
+And the Chinese Communist Party is worried
+
+166
+00:06:36,810 --> 00:06:38,200
+about the youth of China.
+
+167
+00:06:38,200 --> 00:06:41,220
+That’s why the Communist Party Youth League
+
+168
+00:06:41,220 --> 00:06:43,920
+just hired a new youth ambassador
+
+169
+00:06:43,920 --> 00:06:45,150
+to show them the way.
+
+170
+00:06:45,150 --> 00:06:46,410
+She’s a singer,
+
+171
+00:06:46,410 --> 00:06:48,190
+she’s only 15,
+
+172
+00:06:48,190 --> 00:06:49,780
+and according to her biography,
+
+173
+00:06:49,780 --> 00:06:52,560
+she’s an actual angel sent to Earth
+
+174
+00:06:52,560 --> 00:06:54,890
+to bring the happiness of music.
+
+175
+00:06:54,890 --> 00:06:57,140
+Here she is, Luo Tianyi.
+
+176
+00:07:05,100 --> 00:07:06,540
+No, she’s not a drawing.
+
+177
+00:07:06,540 --> 00:07:08,320
+She’s a vocaloid.
+
+178
+00:07:08,320 --> 00:07:10,000
+Kind of like that Japanese one,
+
+179
+00:07:10,000 --> 00:07:14,700
+only totally different because she’s Chinese.
+
+180
+00:07:14,700 --> 00:07:16,210
+As Global Times puts it,
+
+181
+00:07:16,210 --> 00:07:18,650
+Luo Tianyi will help instill correct thinking
+
+182
+00:07:18,650 --> 00:07:20,570
+into millennials.
+
+183
+00:07:20,570 --> 00:07:23,710
+And she’s so much better than an actual
+human.
+
+184
+00:07:23,710 --> 00:07:25,680
+As her creators told the Global Times,
+
+185
+00:07:25,680 --> 00:07:28,670
+“[Virtual idols] are easier to manage,
+
+186
+00:07:28,670 --> 00:07:32,020
+different from real-life stars who make their
+own decisions
+
+187
+00:07:32,020 --> 00:07:36,410
+and do things the way they like, which is
+hard to control.”
+
+188
+00:07:36,410 --> 00:07:38,570
+A perfect role model for young people!
+
+189
+00:07:38,570 --> 00:07:40,090
+Don’t make your own decisions,
+
+190
+00:07:40,090 --> 00:07:42,370
+don’t do things the way you like,
+
+191
+00:07:42,370 --> 00:07:44,500
+and don’t be hard to control.
+
+192
+00:07:44,500 --> 00:07:46,620
+Be like Luo Tianyi.
+
+193
+00:07:46,620 --> 00:07:47,620
+So what do you think?
+
+194
+00:07:47,620 --> 00:07:48,630
+Leave your comments below.
+
+195
+00:07:48,630 --> 00:07:51,090
+Thanks for watching this episode of China
+Uncensored,
+
+196
+00:07:51,090 --> 00:07:52,800
+once again I’m your host Chris Chappell,
+
+197
+00:07:52,800 --> 00:07:53,800
+see you next time.
+
+198
+00:07:55,640 --> 00:07:58,860
+Hey, quit looking up fan art about Luo Tianyi.
+
+199
+00:07:58,870 --> 00:08:00,170
+There’s so many better things
+
+200
+00:08:00,170 --> 00:08:02,000
+you could be doing on the Internet.
+
+201
+00:08:02,000 --> 00:08:03,210
+Like checking out ChinaUncensored.tv.
+
+202
+00:08:03,210 --> 00:08:05,280
+That’s our website,
+
+203
+00:08:05,280 --> 00:08:08,250
+where you can see more great content from
+us,
+
+204
+00:08:08,250 --> 00:08:11,850
+including half hour episodes you won’t see
+on YouTube.
+
+205
+00:08:11,850 --> 00:08:14,170
+That’s ChinaUncensored.tv.
+
+206
+00:08:14,170 --> 00:08:17,460
+Okay, you can go look at some more fan art.
+

@@ -1,0 +1,1117 @@
+1
+00:00:00,210 --> 00:00:01,700
+On this episode of China Uncensored,
+
+2
+00:00:01,700 --> 00:00:05,720
+a tiny tiny chip caused a big problem.
+
+3
+00:00:10,440 --> 00:00:11,560
+Welcome back to China Uncensored,
+
+4
+00:00:11,560 --> 00:00:13,240
+I’m your host Chris Chappell.
+
+5
+00:00:13,240 --> 00:00:14,800
+Computers connect the world!
+
+6
+00:00:14,809 --> 00:00:17,509
+Why, you and I are connected right now.
+
+7
+00:00:17,509 --> 00:00:19,880
+But computers don’t just bring you the world’s
+best
+
+8
+00:00:19,880 --> 00:00:22,539
+China-related edutainment on YouTube.
+
+9
+00:00:22,539 --> 00:00:24,710
+Computers do all sorts of things!
+
+10
+00:00:24,710 --> 00:00:28,800
+Like transmitting sensitive data that’s
+critical to national security,
+
+11
+00:00:28,800 --> 00:00:32,529
+which gets bounced around on servers throughout
+the United States.
+
+12
+00:00:32,529 --> 00:00:35,359
+With that in mind, maybe someone should have
+realized
+
+13
+00:00:35,359 --> 00:00:39,800
+it might be a problem that the backbone of
+these computer networks
+
+14
+00:00:39,800 --> 00:00:42,170
+is being built in China.
+
+15
+00:00:42,170 --> 00:00:43,170
+
+
+16
+00:00:43,170 --> 00:00:44,839
+Oh wait, US intelligence agencies
+
+17
+00:00:44,839 --> 00:00:47,410
+have been warning about this for years!
+
+18
+00:00:47,410 --> 00:00:49,749
+But instead of listening to those intelligence
+agencies—
+
+19
+00:00:49,749 --> 00:00:51,719
+what do they know anyway?—
+
+20
+00:00:51,719 --> 00:00:55,120
+a lot of major US companies ignored them,
+
+21
+00:00:55,120 --> 00:00:58,050
+because who can say no to low prices?
+
+22
+00:00:58,050 --> 00:01:00,420
+So these tech companies went for all the gold
+that was
+
+23
+00:01:00,420 --> 00:01:03,649
+surely waiting for them at the end of the
+Chinese rainbow.
+
+24
+00:01:03,649 --> 00:01:05,780
+What’s that, Shelley?
+
+25
+00:01:05,780 --> 00:01:08,090
+Chinese rainbows don’t have a pot of gold?
+
+26
+00:01:08,090 --> 00:01:09,930
+What do they have instead?
+
+27
+00:01:09,930 --> 00:01:12,630
+Ok, that sounds painful.
+
+28
+00:01:12,630 --> 00:01:16,759
+Yes, it turns out, the relentless pursuit
+of cheaper products
+
+29
+00:01:16,759 --> 00:01:19,810
+had a horrible, horrible downside.
+
+30
+00:01:19,810 --> 00:01:22,520
+At least according to this Bloomberg article.
+
+31
+00:01:22,520 --> 00:01:27,190
+It says China used microchips to infiltrate
+US companies.
+
+32
+00:01:27,190 --> 00:01:29,050
+This is a server motherboard.
+
+33
+00:01:29,050 --> 00:01:30,390
+Get a bunch of these together,
+
+34
+00:01:30,390 --> 00:01:32,120
+and they’re basically like the neural network
+
+35
+00:01:32,120 --> 00:01:34,640
+of a giant multi-computer brain.
+
+36
+00:01:34,640 --> 00:01:35,770
+But wait!
+
+37
+00:01:35,770 --> 00:01:36,899
+What’s that?
+
+38
+00:01:36,899 --> 00:01:38,040
+Don’t see it?
+
+39
+00:01:38,040 --> 00:01:39,770
+How about now?
+
+40
+00:01:39,770 --> 00:01:40,810
+No?
+
+41
+00:01:40,810 --> 00:01:42,520
+Keep going.
+
+42
+00:01:42,520 --> 00:01:44,310
+There we go.
+
+43
+00:01:44,310 --> 00:01:46,939
+That is a tiny microchip about the size
+
+44
+00:01:46,939 --> 00:01:49,060
+of the tip of a sharpened pencil.
+
+45
+00:01:49,060 --> 00:01:51,530
+Wait, what’s that Shelley?
+
+46
+00:01:51,530 --> 00:01:52,530
+Ah.
+
+47
+00:01:52,530 --> 00:01:56,180
+To clarify for our younger viewers, this is
+a pencil.
+
+48
+00:01:56,180 --> 00:01:58,899
+In the olden days we would take sticks of
+wood
+
+49
+00:01:58,899 --> 00:02:02,159
+filled with graphite and drag them across
+thin sheets
+
+50
+00:02:02,159 --> 00:02:04,810
+made from more dead trees to draw letters.
+
+51
+00:02:04,810 --> 00:02:06,359
+It was a primitive form of writing
+
+52
+00:02:06,359 --> 00:02:08,980
+before the widespread use of computers.
+
+53
+00:02:08,980 --> 00:02:11,250
+Anyway, the chips were small.
+
+54
+00:02:11,250 --> 00:02:14,020
+But it turns out the size doesn’t of the
+chip doesn’t matter.
+
+55
+00:02:14,020 --> 00:02:15,880
+It’s how you use it.
+
+56
+00:02:15,880 --> 00:02:17,080
+And according to Bloomberg,
+
+57
+00:02:17,080 --> 00:02:20,390
+which cited 17 unnamed intelligence agents
+and other sources
+
+58
+00:02:20,390 --> 00:02:22,430
+within different tech companies,
+
+59
+00:02:22,430 --> 00:02:24,280
+the Chinese Communist Party may have managed
+
+60
+00:02:24,280 --> 00:02:26,810
+to pull off the most sophisticated hack
+
+61
+00:02:26,810 --> 00:02:28,910
+the world has ever seen.
+
+62
+00:02:28,910 --> 00:02:31,270
+They allegedly installed these microchips
+
+63
+00:02:31,270 --> 00:02:34,140
+on servers used by around 30 companies,
+
+64
+00:02:34,140 --> 00:02:36,140
+including Amazon and Apple,
+
+65
+00:02:36,140 --> 00:02:38,830
+as well as US government agencies.
+
+66
+00:02:38,830 --> 00:02:40,550
+“[These] servers could be found in
+
+67
+00:02:40,550 --> 00:02:42,910
+Department of Defense data centers,
+
+68
+00:02:42,910 --> 00:02:44,880
+the CIA’s drone operations,
+
+69
+00:02:44,880 --> 00:02:48,200
+and the onboard networks of Navy warships.”
+
+70
+00:02:48,200 --> 00:02:50,310
+The microchip would have given the Chinese
+Communist Party
+
+71
+00:02:50,310 --> 00:02:54,060
+secret access a huge number of these private
+networks.
+
+72
+00:02:54,060 --> 00:02:55,060
+Oops.
+
+73
+00:02:55,060 --> 00:02:58,510
+So, how did the microchips get there?
+
+74
+00:02:58,510 --> 00:02:59,620
+Well you see, there are essentially
+
+75
+00:02:59,620 --> 00:03:01,760
+two ways to hack a computer.
+
+76
+00:03:01,760 --> 00:03:04,560
+The most common kind is software hacking.
+
+77
+00:03:04,560 --> 00:03:07,730
+This is probably what you associate Chinese
+hackers with.
+
+78
+00:03:07,730 --> 00:03:10,310
+Like when they hacked the Office of Personnel
+Management
+
+79
+00:03:10,310 --> 00:03:13,840
+and stole data on over 22 million Americans.
+
+80
+00:03:13,840 --> 00:03:15,780
+Then there’s hardware hacking.
+
+81
+00:03:15,780 --> 00:03:17,310
+That involves making physical changes
+
+82
+00:03:17,310 --> 00:03:19,880
+or additions to the guts of computers—
+
+83
+00:03:19,880 --> 00:03:22,120
+which builds in loopholes that can later be
+exploited
+
+84
+00:03:22,120 --> 00:03:24,290
+by software hacking.
+
+85
+00:03:24,290 --> 00:03:26,990
+Hardware hacking is really really hard to
+do.
+
+86
+00:03:26,990 --> 00:03:28,930
+According to one expert Bloomberg interviewed,
+
+87
+00:03:28,930 --> 00:03:32,960
+“Having a well-done, nation-state-level
+hardware implant surface
+
+88
+00:03:32,960 --> 00:03:37,620
+would be like witnessing a unicorn jumping
+over a rainbow.
+
+89
+00:03:37,620 --> 00:03:39,320
+Hardware is just so far off the radar,
+
+90
+00:03:39,320 --> 00:03:42,010
+it’s almost treated like black magic.”
+
+91
+00:03:42,010 --> 00:03:44,630
+But while hard to pull off, if pulled off,
+
+92
+00:03:44,630 --> 00:03:47,540
+it would give foreign agents major control
+of
+
+93
+00:03:47,540 --> 00:03:50,230
+critical computer infrastructure.
+
+94
+00:03:50,230 --> 00:03:52,750
+And it’s a little easier to pull off when
+you’re the country
+
+95
+00:03:52,750 --> 00:03:56,070
+that makes about 75% of the world’s mobile
+phones
+
+96
+00:03:56,070 --> 00:03:58,480
+and 90% of its PCs.
+
+97
+00:03:58,480 --> 00:04:01,220
+Here’s what’s alleged to have happened.
+
+98
+00:04:01,220 --> 00:04:03,680
+There’s a company called Elemental.
+
+99
+00:04:03,680 --> 00:04:09,310
+They make cubes that shoot other cubes with
+lasers I guess?
+
+100
+00:04:09,310 --> 00:04:12,710
+Actually they specialize in video processing
+and storage.
+
+101
+00:04:12,710 --> 00:04:14,840
+Their technology has been used for everything
+
+102
+00:04:14,840 --> 00:04:17,280
+from helping stream the Olympic Games,
+
+103
+00:04:17,280 --> 00:04:20,409
+to communication with the International Space
+Station,
+
+104
+00:04:20,409 --> 00:04:23,180
+to even handling drone footage for the CIA.
+
+105
+00:04:23,180 --> 00:04:26,900
+In 2015 Elemental was bought by Amazon.
+
+106
+00:04:26,900 --> 00:04:30,120
+Wow, Amazon really does everything.
+
+107
+00:04:30,120 --> 00:04:32,120
+Elemental is an American company.
+
+108
+00:04:32,120 --> 00:04:33,720
+And their main product is assembled by
+
+109
+00:04:33,720 --> 00:04:35,840
+another American company,
+
+110
+00:04:35,840 --> 00:04:37,870
+Super Micro Computer Inc.
+
+111
+00:04:37,870 --> 00:04:41,840
+They sell more server motherboards than almost
+anyone else.
+
+112
+00:04:41,840 --> 00:04:43,889
+One US intelligence official told Bloomberg,
+
+113
+00:04:43,889 --> 00:04:48,070
+“Think of Supermicro as the Microsoft of
+the hardware world.”
+
+114
+00:04:48,070 --> 00:04:50,430
+So...like Microhard?
+
+115
+00:04:50,430 --> 00:04:53,810
+No, forget that, it’s a terrible name.
+
+116
+00:04:53,810 --> 00:04:56,729
+Anyway, it turns out, Supermicro’s core
+product—
+
+117
+00:04:56,729 --> 00:04:57,889
+their motherboards—
+
+118
+00:04:57,889 --> 00:05:01,099
+are mostly made by contractors in China.
+
+119
+00:05:01,099 --> 00:05:03,930
+So what seems to have happened is this:
+
+120
+00:05:03,930 --> 00:05:05,729
+Agents for the People’s Liberation Army
+
+121
+00:05:05,729 --> 00:05:07,860
+strolled into these contractors’ factories
+
+122
+00:05:07,860 --> 00:05:09,919
+and offered some bribes to change
+
+123
+00:05:09,919 --> 00:05:12,759
+the motherboard design ever so slightly.
+
+124
+00:05:12,759 --> 00:05:17,020
+Just add this one teensy weensy little extra
+microchip, ok?
+
+125
+00:05:17,020 --> 00:05:18,569
+Of course, “If that didn’t work,
+
+126
+00:05:18,569 --> 00:05:19,949
+they threatened factory managers
+
+127
+00:05:19,949 --> 00:05:23,069
+with inspections that could shut down their
+plants.”
+
+128
+00:05:23,069 --> 00:05:26,719
+And while one tiny microchip sounds like it
+can’t do a lot,
+
+129
+00:05:26,719 --> 00:05:28,449
+it doesn’t have to.
+
+130
+00:05:28,449 --> 00:05:29,449
+According to Bloomberg,
+
+131
+00:05:29,449 --> 00:05:32,689
+“They were capable of doing two very important
+things:
+
+132
+00:05:32,689 --> 00:05:33,940
+telling the device to communicate
+
+133
+00:05:33,940 --> 00:05:36,069
+with one of several anonymous computers
+
+134
+00:05:36,069 --> 00:05:38,120
+elsewhere on the internet that were loaded
+with
+
+135
+00:05:38,120 --> 00:05:40,090
+more complex code;
+
+136
+00:05:40,090 --> 00:05:42,499
+and preparing the device’s operating system
+
+137
+00:05:42,499 --> 00:05:44,870
+to accept this new code.”
+
+138
+00:05:44,870 --> 00:05:47,439
+And this would give the Chinese military complete
+access
+
+139
+00:05:47,439 --> 00:05:49,639
+in a very hard to detect way.
+
+140
+00:05:49,639 --> 00:05:52,039
+For example, they could make a secure machine
+
+141
+00:05:52,039 --> 00:05:54,259
+not ask for a password.
+
+142
+00:05:54,259 --> 00:05:58,020
+That way, hackers from China could just waltz
+right in.
+
+143
+00:05:58,020 --> 00:05:59,020
+Now for a long time,
+
+144
+00:05:59,020 --> 00:06:00,379
+many Americans believed that China
+
+145
+00:06:00,379 --> 00:06:02,669
+would never do something like this
+
+146
+00:06:02,669 --> 00:06:04,379
+because it would jeopardize China’s place
+
+147
+00:06:04,379 --> 00:06:06,380
+as the workshop of the world.
+
+148
+00:06:06,380 --> 00:06:08,830
+And so everyone was happy being naïve,
+
+149
+00:06:08,830 --> 00:06:11,909
+taking advantage of China’s low-cost manufacturing.
+
+150
+00:06:11,909 --> 00:06:14,879
+Meanwhile, China continued to play a major
+role
+
+151
+00:06:14,879 --> 00:06:17,529
+building global computer infrastructure.
+
+152
+00:06:17,529 --> 00:06:21,150
+And so companies became dependent on China.
+
+153
+00:06:21,150 --> 00:06:22,440
+Oops.
+
+154
+00:06:22,440 --> 00:06:25,340
+The fact that China has been a major state
+sponsor
+
+155
+00:06:25,340 --> 00:06:28,279
+of cyber espionage is nothing new.
+
+156
+00:06:28,279 --> 00:06:30,759
+Back in 2015, there was even an agreement
+
+157
+00:06:30,759 --> 00:06:32,740
+between Xi Jinping and President Obama
+
+158
+00:06:32,740 --> 00:06:36,810
+that China would stop stealing US intellectual
+property.
+
+159
+00:06:36,810 --> 00:06:37,919
+That was the same year
+
+160
+00:06:37,919 --> 00:06:40,819
+the Chinese microchips were first discovered.
+
+161
+00:06:40,819 --> 00:06:43,029
+One official told Bloomberg that the White
+House
+
+162
+00:06:43,029 --> 00:06:44,729
+may have suspected at the time that
+
+163
+00:06:44,729 --> 00:06:47,349
+“China was willing to offer this concession
+
+164
+00:06:47,349 --> 00:06:48,539
+because it was already developing
+
+165
+00:06:48,539 --> 00:06:52,289
+far more advanced and surreptitious forms
+of hacking
+
+166
+00:06:52,289 --> 00:06:56,199
+founded on its near monopoly of the technology
+supply chain.”
+
+167
+00:06:56,199 --> 00:06:59,039
+Not that the US government could do much about
+it.
+
+168
+00:06:59,039 --> 00:07:01,249
+Because it was the big American companies
+
+169
+00:07:01,249 --> 00:07:04,120
+that were actually to blame for exposing themselves
+
+170
+00:07:04,120 --> 00:07:06,139
+to the China supply chain—
+
+171
+00:07:06,139 --> 00:07:08,470
+and they refused to listen to the government’s
+warnings.
+
+172
+00:07:08,470 --> 00:07:10,210
+So it shouldn’t surprise you
+
+173
+00:07:10,210 --> 00:07:12,159
+that both Apple and Amazon
+
+174
+00:07:12,159 --> 00:07:14,729
+have denied the Bloomberg report.
+
+175
+00:07:14,729 --> 00:07:17,620
+Except “The companies’ denials are countered
+
+176
+00:07:17,620 --> 00:07:22,110
+by six current and former senior national
+security officials.”
+
+177
+00:07:22,110 --> 00:07:24,689
+In fact, not only did the companies know about
+it—
+
+178
+00:07:24,689 --> 00:07:25,990
+according to those officials—
+
+179
+00:07:25,990 --> 00:07:28,280
+but Apple had reported their discovery of
+it
+
+180
+00:07:28,280 --> 00:07:30,349
+to the FBI in the first place,
+
+181
+00:07:30,349 --> 00:07:32,260
+and Amazon went even further,
+
+182
+00:07:32,260 --> 00:07:35,970
+by cooperating in a government investigation
+about it.
+
+183
+00:07:35,970 --> 00:07:38,979
+But of course, neither company said this to
+the public.
+
+184
+00:07:38,979 --> 00:07:40,139
+If it happened at all.
+
+185
+00:07:40,139 --> 00:07:43,009
+Because, as I said, they totally deny it.
+
+186
+00:07:43,009 --> 00:07:46,169
+Interestingly, “Apple did sever its relationship
+
+187
+00:07:46,169 --> 00:07:48,169
+with Supermicro in 2016,
+
+188
+00:07:48,169 --> 00:07:51,159
+but claimed this was due to an unrelated
+
+189
+00:07:51,159 --> 00:07:53,680
+and minor security incident.
+
+190
+00:07:53,680 --> 00:07:55,289
+Amazon reportedly distanced itself
+
+191
+00:07:55,289 --> 00:07:57,499
+from Supermicro’s compromised servers
+
+192
+00:07:57,499 --> 00:08:00,530
+by selling its Chinese infrastructure to a
+rival,
+
+193
+00:08:00,530 --> 00:08:02,830
+for unknown reasons at the time.”
+
+194
+00:08:02,830 --> 00:08:07,500
+Again, Apple and Amazon totally deny they
+were hacked.
+
+195
+00:08:07,500 --> 00:08:10,629
+Reporters asked a Chinese Foreign Ministry
+spokesperson for comment,
+
+196
+00:08:10,629 --> 00:08:12,159
+and he said, “We did it!
+
+197
+00:08:12,159 --> 00:08:14,060
+You finally caught us!”
+
+198
+00:08:14,060 --> 00:08:15,510
+Haha, just kidding.
+
+199
+00:08:15,510 --> 00:08:16,909
+He denied it—as usual—
+
+200
+00:08:16,909 --> 00:08:19,259
+saying the “reports are totally groundless.”
+
+201
+00:08:19,259 --> 00:08:21,900
+And that China, too, is a “victim of cybercrime.”
+
+202
+00:08:21,900 --> 00:08:24,650
+And you can’t blame a victim!
+
+203
+00:08:24,650 --> 00:08:27,460
+The Department of Homeland Security sort of
+backed up
+
+204
+00:08:27,460 --> 00:08:29,780
+Apple and Amazon’s denial, saying they,
+
+205
+00:08:29,780 --> 00:08:33,730
+“have no reason to doubt the statements”
+from those companies.
+
+206
+00:08:33,730 --> 00:08:37,540
+Which is not exactly a strong confirmation
+or denial.
+
+207
+00:08:37,540 --> 00:08:39,380
+But of course, it’s one thing to warn that
+
+208
+00:08:39,380 --> 00:08:43,010
+Chinese telecommunication companies like Huawei
+and ZTE
+
+209
+00:08:43,010 --> 00:08:45,480
+could potentially spy on us.
+
+210
+00:08:45,480 --> 00:08:48,220
+But publicizing this giant microchip hack
+
+211
+00:08:48,220 --> 00:08:50,950
+would be incredibly humiliating—
+
+212
+00:08:50,950 --> 00:08:54,280
+and it would also damage American companies.
+
+213
+00:08:54,280 --> 00:08:55,290
+But the Trump administration
+
+214
+00:08:55,290 --> 00:08:57,640
+may be taking action in another way.
+
+215
+00:08:57,640 --> 00:09:00,390
+They’ve put computer and networking hardware,
+
+216
+00:09:00,390 --> 00:09:03,510
+like motherboards, on the list of Chinese
+tariffs—
+
+217
+00:09:03,510 --> 00:09:06,980
+meaning they’ll be a lot more expensive
+to import.
+
+218
+00:09:06,980 --> 00:09:09,240
+The goal is partially to get these companies
+
+219
+00:09:09,240 --> 00:09:12,170
+to shift their supply chains to other countries.
+
+220
+00:09:12,170 --> 00:09:14,440
+Because clearly, getting hacked isn’t
+
+221
+00:09:14,440 --> 00:09:16,991
+a good enough reason on its own.
+
+222
+00:09:16,991 --> 00:09:18,410
+It’s like if a big kid at school
+
+223
+00:09:18,410 --> 00:09:21,300
+keeps getting beaten up by a smaller kid,
+
+224
+00:09:21,300 --> 00:09:24,180
+but he’s so embarrassed that he doesn’t
+tell anyone,
+
+225
+00:09:24,180 --> 00:09:25,750
+so it keeps happening.
+
+226
+00:09:25,750 --> 00:09:28,350
+Eventually grandpappy Trump has to step in
+
+227
+00:09:28,350 --> 00:09:30,120
+and put a stop to it.
+
+228
+00:09:30,120 --> 00:09:31,890
+So what do you think of US tech companies
+
+229
+00:09:31,890 --> 00:09:34,050
+and their reliance on Chinese manufacturing?
+
+230
+00:09:34,050 --> 00:09:36,150
+Leave your comments below.
+
+231
+00:09:36,150 --> 00:09:37,160
+And before you go,
+
+232
+00:09:37,160 --> 00:09:39,500
+now is the time when I answer questions from
+you—
+
+233
+00:09:39,500 --> 00:09:42,190
+the loyal members of the China Uncensored
+50-Cent Army
+
+234
+00:09:42,190 --> 00:09:46,620
+who support the show on the crowd funding
+website Patreon.
+
+235
+00:09:46,620 --> 00:09:47,820
+Largezo asks:
+
+236
+00:09:47,820 --> 00:09:51,340
+“What kind of a court system does the PRC
+have?”
+
+237
+00:09:51,340 --> 00:09:55,900
+Why China has one of the greatest court systems
+in the world!
+
+238
+00:09:55,900 --> 00:09:59,630
+They convict over 99.9 percent of defendants!
+
+239
+00:09:59,630 --> 00:10:01,360
+Now, they’re not perfect.
+
+240
+00:10:01,360 --> 00:10:02,920
+In 2015,
+
+241
+00:10:02,920 --> 00:10:07,130
+about a thousand people out of 1.2 million
+were found not guilty.
+
+242
+00:10:07,130 --> 00:10:10,200
+But I am confident that the Chinese Court
+system
+
+243
+00:10:10,200 --> 00:10:14,330
+will soon be able to reach a 100% conviction
+rate.
+
+244
+00:10:14,330 --> 00:10:16,130
+After all, when you think about it,
+
+245
+00:10:16,130 --> 00:10:18,570
+isn’t everyone guilty of something?
+
+246
+00:10:18,570 --> 00:10:20,790
+Thanks for your question, Largezo.
+
+247
+00:10:20,790 --> 00:10:23,120
+And do you have a question you want to ask
+me?
+
+248
+00:10:23,120 --> 00:10:26,080
+Then join the China Uncensored 50-Cent Army
+on Patreon.
+
+249
+00:10:26,080 --> 00:10:28,770
+You’ll get some cool rewards for your contribution,
+
+250
+00:10:28,770 --> 00:10:32,830
+including having the chance to have your question
+answered on the show!
+
+251
+00:10:32,830 --> 00:10:34,730
+So sign up at pateron.com/chinauncensored.
+
+252
+00:10:34,730 --> 00:10:37,900
+Thanks for watching this episode of China
+Uncensored.
+
+253
+00:10:37,900 --> 00:10:39,670
+Once again I’m your host Chris Chappell.
+
+254
+00:10:39,670 --> 00:10:40,760
+See you next time.
+
+255
+00:10:42,700 --> 00:10:43,700
+As I mentioned,
+
+256
+00:10:43,700 --> 00:10:45,120
+China Uncensored is supported mainly through
+
+257
+00:10:45,130 --> 00:10:47,150
+direct viewer contributions.
+
+258
+00:10:47,150 --> 00:10:51,380
+Go to Patreon.com/ChinaUncensored or click
+this orange button.
+
+259
+00:10:51,380 --> 00:10:54,830
+Check out all the cool rewards you get for
+being a Patreon supporter—
+
+260
+00:10:54,830 --> 00:10:58,800
+including, of course, having me answer your
+questions on the show.
+

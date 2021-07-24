@@ -1,0 +1,580 @@
+1
+00:00:00,380 --> 00:00:02,270
+On this episode of China Uncensored,
+
+2
+00:00:02,270 --> 00:00:03,400
+China is letting people tunnel
+
+3
+00:00:03,400 --> 00:00:05,100
+through the Great Firewall.
+
+4
+00:00:05,100 --> 00:00:06,180
+You just have to give up
+
+5
+00:00:06,180 --> 00:00:07,600
+all of your personal data.
+
+6
+00:00:11,900 --> 00:00:13,340
+Hi, welcome back to China Uncensored.
+
+7
+00:00:13,340 --> 00:00:15,050
+I’m your host, Chris Chappell.
+
+8
+00:00:15,050 --> 00:00:19,099
+So, the Chinese Communist Party has a problem.
+
+9
+00:00:19,100 --> 00:00:22,500
+It wants to have total control of the Internet
+in China.
+
+10
+00:00:22,500 --> 00:00:24,659
+You know, to protect the Chinese people
+
+11
+00:00:24,659 --> 00:00:27,079
+from all the harmful things on the web,
+
+12
+00:00:27,079 --> 00:00:29,079
+like, anything that might make a person
+
+13
+00:00:29,079 --> 00:00:30,899
+question why the government should have
+
+14
+00:00:30,899 --> 00:00:33,090
+total control over the Internet.
+
+15
+00:00:33,090 --> 00:00:34,090
+To do this,
+
+16
+00:00:34,090 --> 00:00:36,140
+the Chinese regime built the friendly
+
+17
+00:00:36,140 --> 00:00:38,330
+Great Firewall of China.
+
+18
+00:00:38,330 --> 00:00:41,440
+The firewall keeps out degenerate Western
+influences,
+
+19
+00:00:41,440 --> 00:00:43,120
+like Grumpy Cat,
+
+20
+00:00:43,120 --> 00:00:44,620
+so Chinese netizens can focus on
+
+21
+00:00:44,620 --> 00:00:47,450
+the much cuter Chinese version,
+
+22
+00:00:47,450 --> 00:00:48,630
+Snoopybabe.
+
+23
+00:00:48,630 --> 00:00:49,630
+The problem is,
+
+24
+00:00:49,630 --> 00:00:52,400
+it also keeps out loads of really useful websites,
+
+25
+00:00:52,400 --> 00:00:55,190
+like Facebook, Twitter, and Google.
+
+26
+00:00:55,190 --> 00:00:57,030
+And while the Chinese regime is rather happy
+
+27
+00:00:57,030 --> 00:00:58,850
+that the average Chinese netizen
+
+28
+00:00:58,850 --> 00:01:00,540
+doesn’t have access to Facebook,
+
+29
+00:01:00,540 --> 00:01:02,780
+it’s concerned that businesses
+
+30
+00:01:02,780 --> 00:01:05,670
+inside China will suffer.
+
+31
+00:01:05,670 --> 00:01:08,119
+What do you do when you can’t access Facebook
+
+32
+00:01:08,119 --> 00:01:11,700
+to advertise your company to reach overseas
+clients?
+
+33
+00:01:11,700 --> 00:01:14,280
+What do you do when you can’t even use Gmail?
+
+34
+00:01:14,280 --> 00:01:17,810
+That’s why Chinese netizens and businesses
+in China
+
+35
+00:01:17,810 --> 00:01:22,060
+use VPNs, or Virtual Private Networks.
+
+36
+00:01:22,060 --> 00:01:23,429
+Think of them like a tunnel
+
+37
+00:01:23,429 --> 00:01:24,920
+through the Great Firewall.
+
+38
+00:01:24,920 --> 00:01:28,439
+They not only allow access to blocked websites.
+
+39
+00:01:28,439 --> 00:01:30,780
+They also add an extra layer of security
+
+40
+00:01:30,780 --> 00:01:33,600
+for both individuals and corporations.
+
+41
+00:01:33,600 --> 00:01:34,670
+They protect people’s data
+
+42
+00:01:34,670 --> 00:01:36,869
+from leaking onto the internet.
+
+43
+00:01:36,869 --> 00:01:38,829
+Developers need VPNs to access
+
+44
+00:01:38,829 --> 00:01:41,920
+sporadically blocked websites like Github.
+
+45
+00:01:41,920 --> 00:01:45,170
+Researchers need to access Google Scholar.
+
+46
+00:01:45,170 --> 00:01:47,770
+Businesses need VPNs to send secure emails.
+
+47
+00:01:47,770 --> 00:01:48,770
+
+
+48
+00:01:48,770 --> 00:01:49,909
+“VPNs are absolutely critical
+
+49
+00:01:49,909 --> 00:01:51,840
+to almost any businesses in China,
+
+50
+00:01:51,840 --> 00:01:53,270
+large or small—
+
+51
+00:01:53,270 --> 00:01:54,389
+and especially important
+
+52
+00:01:54,389 --> 00:01:56,700
+for innovative businesses.”
+
+53
+00:01:56,700 --> 00:01:59,119
+And that put the Chinese regime in a bind.
+
+54
+00:01:59,119 --> 00:02:00,119
+On the one hand,
+
+55
+00:02:00,119 --> 00:02:01,119
+it needs the Internet
+
+56
+00:02:01,119 --> 00:02:02,119
+to boost the economy,
+
+57
+00:02:02,119 --> 00:02:04,170
+to justify its rule.
+
+58
+00:02:04,170 --> 00:02:05,229
+On the other hand,
+
+59
+00:02:05,229 --> 00:02:06,759
+if people used the open Internet
+
+60
+00:02:06,759 --> 00:02:08,319
+to find out all the things
+
+61
+00:02:08,319 --> 00:02:10,610
+the Chinese regime has done,
+
+62
+00:02:10,610 --> 00:02:12,690
+that would undermine its rule.
+
+63
+00:02:12,690 --> 00:02:14,640
+But where you see a problem,
+
+64
+00:02:14,640 --> 00:02:17,600
+the Communist Party sees an opportunity!
+
+65
+00:02:17,600 --> 00:02:21,500
+Companies need VPNs to function in China.
+
+66
+00:02:21,500 --> 00:02:24,700
+So what’s an authoritarian regime gonna
+do?!
+
+67
+00:02:24,700 --> 00:02:27,560
+Ban everyone’s VPNs.
+
+68
+00:02:27,560 --> 00:02:30,540
+Okay, no more private VPNs.
+
+69
+00:02:30,540 --> 00:02:31,650
+Now what?
+
+70
+00:02:31,650 --> 00:02:35,610
+Why, the Chinese regime builds its own VPNs!
+
+71
+00:02:35,610 --> 00:02:39,810
+Of course, you have to pay to use them.
+
+72
+00:02:39,810 --> 00:02:41,420
+And any data that goes through
+
+73
+00:02:41,420 --> 00:02:44,100
+will be monitored by the government.
+
+74
+00:02:44,100 --> 00:02:47,500
+And since there will be literally no other
+option,
+
+75
+00:02:47,500 --> 00:02:48,670
+Chinese and foreign companies
+
+76
+00:02:48,670 --> 00:02:50,980
+will be forced to pay big money...
+
+77
+00:02:50,980 --> 00:02:53,510
+for the privilege of being tapped,
+
+78
+00:02:53,510 --> 00:02:55,980
+monitored, and their confidential information
+
+79
+00:02:55,980 --> 00:02:57,920
+reported back to the Party.
+
+80
+00:02:57,920 --> 00:03:00,770
+Remember, it’s not just individual netizens
+
+81
+00:03:00,770 --> 00:03:02,470
+and companies affected.
+
+82
+00:03:02,470 --> 00:03:04,400
+According to the Financial Times,
+
+83
+00:03:04,400 --> 00:03:06,590
+embassies have also been affected.
+
+84
+00:03:06,590 --> 00:03:07,680
+They say it’s a violation
+
+85
+00:03:07,680 --> 00:03:09,970
+of the Vienna convention.
+
+86
+00:03:09,970 --> 00:03:12,300
+Look, embassies need to send
+
+87
+00:03:12,300 --> 00:03:14,050
+confidential emails.
+
+88
+00:03:14,050 --> 00:03:15,910
+Like about how frustrating it is
+
+89
+00:03:15,910 --> 00:03:17,900
+being a diplomat in China.
+
+90
+00:03:17,900 --> 00:03:19,620
+China’s internet regulators
+
+91
+00:03:19,620 --> 00:03:20,890
+have been tampering with
+
+92
+00:03:20,890 --> 00:03:23,670
+individual VPNs for years.
+
+93
+00:03:23,670 --> 00:03:25,490
+But it had, for the most part,
+
+94
+00:03:25,490 --> 00:03:26,940
+left internal corporate
+
+95
+00:03:26,940 --> 00:03:28,740
+and embassy VPNs alone.
+
+96
+00:03:28,740 --> 00:03:31,070
+It didn’t want to hinder economic growth
+
+97
+00:03:31,070 --> 00:03:33,790
+or affect international relations.
+
+98
+00:03:33,790 --> 00:03:35,520
+This is not the case anymore.
+
+99
+00:03:35,520 --> 00:03:38,290
+After the 19th Party Congress last year,
+
+100
+00:03:38,290 --> 00:03:39,650
+the Communist Party decided that
+
+101
+00:03:39,650 --> 00:03:41,910
+surveillance takes precedence,
+
+102
+00:03:41,910 --> 00:03:44,770
+even over economic development.
+
+103
+00:03:44,770 --> 00:03:46,310
+Probably because given the choice
+
+104
+00:03:46,310 --> 00:03:47,870
+of pulling out of China,
+
+105
+00:03:47,870 --> 00:03:50,510
+or playing by the Communist Party’s rules,
+
+106
+00:03:50,510 --> 00:03:53,060
+most would be willing to choose the latter.
+
+107
+00:03:53,060 --> 00:03:54,060
+Like Apple!
+
+108
+00:03:54,060 --> 00:03:56,210
+Apple has been more than happy to comply
+
+109
+00:03:56,210 --> 00:03:58,960
+with China’s strict new Internet laws.
+
+110
+00:03:58,960 --> 00:04:01,620
+Apple removed 674 VPN apps
+
+111
+00:04:01,620 --> 00:04:03,450
+from its App Store in China.
+
+112
+00:04:03,450 --> 00:04:05,960
+Wow, I didn’t even know there were t
+
+113
+00:04:05,960 --> 00:04:08,280
+hat many different VPNs to begin with.
+
+114
+00:04:08,280 --> 00:04:10,470
+But it’s not all doom and gloom.
+
+115
+00:04:10,470 --> 00:04:12,180
+Yes, the Chinese Communist Party
+
+116
+00:04:12,180 --> 00:04:15,350
+is closing the last bridge to the outside
+Internet.
+
+117
+00:04:15,350 --> 00:04:17,250
+But that doesn’t mean Chinese people
+
+118
+00:04:17,250 --> 00:04:19,790
+will never even know what happened.
+
+119
+00:04:19,790 --> 00:04:21,260
+Because as of now,
+
+120
+00:04:21,260 --> 00:04:23,780
+the China Uncensored website,
+
+121
+00:04:23,780 --> 00:04:24,780
+ChinaUncensored.tv,
+
+122
+00:04:24,780 --> 00:04:27,840
+is still unblocked in China.
+
+123
+00:04:27,840 --> 00:04:28,840
+So what do you think about
+
+124
+00:04:28,840 --> 00:04:31,000
+China’s VPN extortion ring?
+
+125
+00:04:31,000 --> 00:04:32,560
+Leave your comments below—
+
+126
+00:04:32,560 --> 00:04:35,040
+while you still have access to the free Internet...
+
+127
+00:04:35,040 --> 00:04:37,130
+Thanks for watching this episode of China
+Uncensored.
+
+128
+00:04:37,130 --> 00:04:38,810
+Once again I’m Chris Chappell,
+
+129
+00:04:38,810 --> 00:04:40,040
+see you next time.
+
+130
+00:04:41,760 --> 00:04:43,340
+The Chinese regime is making it harder
+
+131
+00:04:43,340 --> 00:04:45,940
+for people inside and outside of China
+
+132
+00:04:45,940 --> 00:04:46,950
+to learn the truth.
+
+133
+00:04:46,950 --> 00:04:49,440
+That’s why China Uncensored is so important—
+
+134
+00:04:49,440 --> 00:04:52,210
+and I’m not just tooting my own horn here.
+
+135
+00:04:52,210 --> 00:04:54,040
+But we can’t survive without
+
+136
+00:04:54,040 --> 00:04:56,040
+support from viewers like you.
+
+137
+00:04:56,040 --> 00:04:58,210
+If you think uncensored information
+
+138
+00:04:58,210 --> 00:05:00,380
+about China is important,
+
+139
+00:05:00,380 --> 00:05:03,310
+please support us on the website Patreon.
+
+140
+00:05:03,310 --> 00:05:05,160
+For as little as a dollar per episode,
+
+141
+00:05:05,160 --> 00:05:07,110
+you can make a big difference.
+
+142
+00:05:07,110 --> 00:05:09,930
+Visit patreon.com/chinauncensored
+
+143
+00:05:09,930 --> 00:05:12,040
+or click the link below.
+

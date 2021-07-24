@@ -1,0 +1,728 @@
+1
+00:00:00,800 --> 00:00:02,960
+A massive database leak
+
+2
+00:00:02,960 --> 00:00:07,040
+Exposes millions of Chinese\h
+Communist Party members
+
+3
+00:00:07,040 --> 00:00:08,880
+And shows how the Party\h
+
+4
+00:00:08,880 --> 00:00:15,920
+Infiltrates foreign companies
+
+5
+00:00:16,880 --> 00:00:21,360
+Welcome to China Uncensored, I’m Chris\h
+Chappell. News broke this week of a\h\h
+
+6
+00:00:21,360 --> 00:00:26,240
+leaked database of almost 2 million\h
+Chinese Communist Party members.\h
+
+7
+00:00:26,240 --> 00:00:31,040
+What’s amazing about this database is not just\h
+that it exposes people who are members of the\h\h
+
+8
+00:00:31,040 --> 00:00:36,080
+Communist Party, and are now living and working\h
+all over the world from Australia, to the US,\h\h
+
+9
+00:00:36,080 --> 00:00:42,240
+to the UK. But it’s amazing because it\h
+lifts the lid on how the Party operates\h\h
+
+10
+00:00:42,240 --> 00:00:49,280
+under President and Chairman Xi Jinping. This\h
+leak shows that Party branches are embedded\h\h
+
+11
+00:00:49,280 --> 00:00:54,480
+in some of the world’s biggest companies\h
+and even inside government agencies.\h
+
+12
+00:00:55,040 --> 00:01:00,160
+Now the idea that there are Party branches\h
+embedded inside foreign companies in China is\h\h
+
+13
+00:01:00,160 --> 00:01:04,480
+shocking news...if you haven’t\h
+been watching China Uncensored.\h
+
+14
+00:01:05,200 --> 00:01:10,160
+Today, the Chinese Communist Party\h
+controls the entire Chinese government.\h\h
+
+15
+00:01:10,160 --> 00:01:14,480
+It controls the Chinese military.\h
+It controls the court system.\h\h
+
+16
+00:01:14,480 --> 00:01:21,440
+It controls education, from kindergarten to\h
+universities. It controls all major companies,\h\h
+
+17
+00:01:21,440 --> 00:01:26,720
+by requiring companies with 50 or more\h
+employees to have a Communist Party branch.\h
+
+18
+00:01:27,520 --> 00:01:28,560
+Thanks, past Chris.\h
+
+19
+00:01:29,680 --> 00:01:32,720
+But this latest leak is still pretty significant.\h\h
+
+20
+00:01:32,720 --> 00:01:39,600
+And not just because most people...don’t watch\h
+China Uncensored. It’s that the more information\h\h
+
+21
+00:01:39,600 --> 00:01:45,040
+that comes out about the Chinese Communist\h
+Party and how they actually operate, the better.\h\h
+
+22
+00:01:45,680 --> 00:01:51,280
+Because many people tend to forget the fact\h
+that China is controlled by the Communist Party.
+
+23
+00:01:51,280 --> 00:01:55,600
+They like to pretend that Chinese\h
+leaders are a bunch of highly efficient,\h\h
+
+24
+00:01:55,600 --> 00:01:58,880
+extremely wise, technocratic engineers.\h
+
+25
+00:01:58,880 --> 00:02:04,720
+Who build glittering skyscrapers and high\h
+speed trains, but never concentration camps.\h
+
+26
+00:02:05,280 --> 00:02:09,040
+I mean, Chinese leaders don’t\h
+even *believe* in communism.\h\h
+
+27
+00:02:09,040 --> 00:02:11,120
+So we should definitely do business with them.
+
+28
+00:02:12,320 --> 00:02:17,200
+So this database of 1.95 million\h
+Chinese Communist Party members and\h\h
+
+29
+00:02:18,400 --> 00:02:24,720
+79,000 Party branches is an inconvenient\h
+reminder that it’s an authoritarian regime\h\h
+
+30
+00:02:24,720 --> 00:02:27,840
+with tentacles in every part of Chinese society.
+
+31
+00:02:27,840 --> 00:02:31,520
+And it shows how Communist\h
+Party branches have infiltrated\h\h
+
+32
+00:02:31,520 --> 00:02:35,120
+Western companies. Which I’ll\h
+talk about later in the episode.
+
+33
+00:02:35,120 --> 00:02:42,560
+But first, how was this database leaked? And is\h
+it real? The answer, after this commercial break.
+
+34
+00:02:44,240 --> 00:02:50,000
+Welcome back. There’s been a massive database\h
+leak of nearly 2 million Communist Party\h\h
+
+35
+00:02:50,000 --> 00:02:53,200
+members. How was it leaked? And is it real?
+
+36
+00:02:54,080 --> 00:03:00,640
+The database appears to be from 2016.\h
+In September, it was leaked to the IPAC,\h\h
+
+37
+00:03:01,200 --> 00:03:06,000
+the Inter-Parliamentary Alliance\h
+on China. It’s a group of 150\h\h
+
+38
+00:03:06,000 --> 00:03:10,400
+legislators from different countries who are\h
+concerned about the Chinese Communist Party.
+
+39
+00:03:11,360 --> 00:03:15,920
+The IPAC then gave it to a group\h
+of journalists for verification.
+
+40
+00:03:15,920 --> 00:03:19,760
+The Australian also independently\h
+obtained another version of the\h\h
+
+41
+00:03:19,760 --> 00:03:24,560
+database, which was analyzed by\h
+cybersecurity firm Internet 2.0.
+
+42
+00:03:25,120 --> 00:03:32,240
+Internet 2.0 was able to determine that the data\h
+was physically taken from a server in April 2016.
+
+43
+00:03:32,240 --> 00:03:36,080
+And then it was shared online with\h
+different groups of Chinese activists.\h
+
+44
+00:03:36,640 --> 00:03:40,480
+The media organizations with access to\h
+the database have said that they will\h\h
+
+45
+00:03:40,480 --> 00:03:46,960
+not be publishing the whole thing publicly. That’s\h
+because it includes names, birthdates, ID numbers,\h\h
+
+46
+00:03:46,960 --> 00:03:49,200
+and sometimes even addresses and phone numbers.
+
+47
+00:03:49,760 --> 00:03:53,440
+There is at least one version of\h
+the database that can be found\h\h
+
+48
+00:03:53,440 --> 00:03:57,440
+online. We’ve looked at it. But\h
+we can’t confirm that this version\h\h
+
+49
+00:03:57,440 --> 00:04:02,560
+is the same as the one sent to the IPAC or\h
+seen by these other media organizations.
+
+50
+00:04:03,200 --> 00:04:08,160
+There’s also a question of whether the database\h
+is accurate. Some of the people the Australian\h\h
+
+51
+00:04:08,160 --> 00:04:13,840
+contacted did not know how they got on the list\h
+or strongly denied ever being a member of the CCP.
+
+52
+00:04:14,560 --> 00:04:21,040
+Although there are also people in the database who\h
+are known security risks, like scholar Chen Hong,\h\h
+
+53
+00:04:21,840 --> 00:04:25,120
+whose Australian visa was revoked in September.
+
+54
+00:04:25,120 --> 00:04:29,600
+Just to be clear: Even if all of\h
+the names on the list are accurate,\h\h
+
+55
+00:04:29,600 --> 00:04:32,400
+that doesn’t mean all of these people are spies.
+
+56
+00:04:32,960 --> 00:04:36,400
+Remember, there are 92 million\h
+Chinese Communist Party members,\h\h
+
+57
+00:04:36,400 --> 00:04:39,520
+according to the Party. Most of them aren’t spies.
+
+58
+00:04:40,240 --> 00:04:45,280
+Like I’ve said before, people typically join the\h
+Party for personal reasons—like getting a better\h\h
+
+59
+00:04:45,280 --> 00:04:51,600
+job, more access for the company they own, and so\h
+on. China is a very competitive place, and most of\h\h
+
+60
+00:04:51,600 --> 00:04:57,280
+China’s elite became elite because either they\h
+joined the Party, or their family members did.\h
+
+61
+00:04:58,000 --> 00:05:03,360
+Jack Ma wouldn’t have become China’s richest\h
+man if he hadn’t joined the Communist Party.
+
+62
+00:05:04,160 --> 00:05:08,560
+Of course, that also means that the\h
+Party gets to show Jack Ma who’s boss.
+
+63
+00:05:09,520 --> 00:05:13,680
+I mean, the Communist Party shows\h
+everybody else in China who’s boss, too. So\h\h
+
+64
+00:05:13,680 --> 00:05:15,040
+you can’t really escape that.
+
+65
+00:05:15,920 --> 00:05:18,160
+But joining the Communist Party is a big deal.\h\h
+
+66
+00:05:18,720 --> 00:05:23,920
+You have to swear an oath, vowing to\h
+fight for communism throughout your life,\h\h
+
+67
+00:05:23,920 --> 00:05:30,000
+to be ready to sacrifice your all for the\h
+Communist Party, and to never betray the Party.
+
+68
+00:05:30,000 --> 00:05:35,200
+And like with every Faustian bargain, at some\h
+point you have to give the devil his due.\h
+
+69
+00:05:36,160 --> 00:05:40,160
+So in some ways it’s not surprising that this\h
+database shows there are Chinese Communist\h\h
+
+70
+00:05:40,160 --> 00:05:46,080
+Party members working for the Australian,\h
+British, and US consulates in Shanghai.
+
+71
+00:05:46,080 --> 00:05:50,640
+Including three female employees\h
+of the US consulate in Shanghai.
+
+72
+00:05:50,640 --> 00:05:56,000
+Especially since the Chinese regime picks who\h
+can work in foreign consulates and embassies.\h\h
+
+73
+00:05:56,640 --> 00:06:02,960
+All foreign missions have to hire local Chinese\h
+staff through state-owned enterprises like\h\h
+
+74
+00:06:02,960 --> 00:06:08,000
+the Shanghai Foreign Service Group.\h
+Your reliable HR management expert!
+
+75
+00:06:08,640 --> 00:06:12,720
+It’s like outsourcing your human resources\h
+department to the Chinese Communist Party.\h\h
+
+76
+00:06:13,600 --> 00:06:15,760
+And you thought HR couldn’t get more evil.
+
+77
+00:06:16,560 --> 00:06:17,760
+Is that a security risk?\h\h
+
+78
+00:06:18,320 --> 00:06:23,520
+Yes, yes it is. But I’m sure the US\h
+consulate in Shanghai is aware of that.\h
+
+79
+00:06:24,320 --> 00:06:28,560
+And even if these Chinese employees aren’t\h
+officially Communist Party members, they could\h\h
+
+80
+00:06:28,560 --> 00:06:33,840
+still be forced to spy on the US consulate\h
+under China’s national intelligence law.
+
+81
+00:06:34,640 --> 00:06:40,640
+The law states that “Any organisation and\h
+citizen shall, in accordance with the law,\h\h
+
+82
+00:06:40,640 --> 00:06:45,440
+support, provide assistance, and\h
+cooperate in national intelligence work.”
+
+83
+00:06:46,000 --> 00:06:51,680
+So on one hand, this report isn’t alarming because\h
+this is just the way things are done in China.\h
+
+84
+00:06:52,320 --> 00:06:56,000
+On the other hand, this report\h
+is *extremely* alarming because\h\h
+
+85
+00:06:56,000 --> 00:06:58,640
+this is just the way things are done in China?!!
+
+86
+00:06:59,880 --> 00:07:04,480
+Ahem. But that’s not all we learned\h
+from this database. We learned\h\h
+
+87
+00:07:04,480 --> 00:07:10,720
+just how many Communist Party branches there are\h
+in foreign companies with operations in China.
+
+88
+00:07:10,720 --> 00:07:12,800
+Which I’ll tell you about after the break.
+
+89
+00:07:14,560 --> 00:07:18,640
+Welcome back. This database leak\h
+shows how are Chinese Communist\h\h
+
+90
+00:07:18,640 --> 00:07:24,000
+Party branches everywhere—including\h
+in every major foreign company\h\h
+
+91
+00:07:24,000 --> 00:07:33,040
+operating inside China. These include HSBC,\h
+Citibank, Ikea, Pfizer, Qualcomm, and Boeing.
+
+92
+00:07:33,840 --> 00:07:38,640
+In many cases, these companies have\h
+multiple Party branches in China.
+
+93
+00:07:38,640 --> 00:07:44,640
+“For example, Boeing has 17\h
+branches, totaling 252 CCP members.”
+
+94
+00:07:45,360 --> 00:07:49,520
+Qualcomm has over 200 members\h
+across seven Party branches.\h
+
+95
+00:07:50,160 --> 00:07:53,280
+Pfizer has four Party branches in Shanghai.
+
+96
+00:07:54,000 --> 00:07:59,200
+Even my alma mater, NYU, has a Party\h
+branch at its Shanghai campus.\h
+
+97
+00:07:59,760 --> 00:08:02,400
+I’m glad I gave NYU so much money.
+
+98
+00:08:03,600 --> 00:08:07,520
+But how much influence do these Party\h
+branches have in these foreign companies?\h\h
+
+99
+00:08:08,160 --> 00:08:09,120
+It’s hard to say.\h
+
+100
+00:08:10,080 --> 00:08:15,680
+Foreign companies with more than 50 employees\h
+had always been required by Chinese law to have\h\h
+
+101
+00:08:15,680 --> 00:08:19,600
+a Communist Party branch, but for a\h
+while it didn’t seem like a big deal.
+
+102
+00:08:20,400 --> 00:08:27,600
+Then back in 2017, Chinese leader Xi Jinping\h
+started a campaign to increase the influence\h\h
+
+103
+00:08:27,600 --> 00:08:33,280
+of the Communist Party in Chinese society. And\h
+foreign firms started feeling the pressure.
+
+104
+00:08:34,160 --> 00:08:40,800
+By the end of 2017, Disney’s Shanghai\h
+theme park had 300 Communist Party members.
+
+105
+00:08:41,440 --> 00:08:43,040
+Oh, that explains a lot.
+
+106
+00:08:43,760 --> 00:08:46,240
+“Some companies were under ‘political pressure’\h\h
+
+107
+00:08:46,240 --> 00:08:50,560
+to revise the terms of their joint\h
+ventures with state-owned partners\h\h
+
+108
+00:08:50,560 --> 00:08:55,600
+to allow the party final say over business\h
+operations and investment decisions.”
+
+109
+00:08:56,160 --> 00:09:00,640
+Company executives “expressed concerns\h
+about increasing demands from the party\h\h
+
+110
+00:09:00,640 --> 00:09:03,760
+or noted increased activity from party groups.”
+
+111
+00:09:03,760 --> 00:09:06,240
+But this was so politically\h
+sensitive that companies\h\h
+
+112
+00:09:06,240 --> 00:09:09,680
+would only discuss it with the media anonymously.\h
+
+113
+00:09:09,680 --> 00:09:16,080
+Although at one point it got so bad that the\h
+German ambassador actually called it out publicly.
+
+114
+00:09:16,080 --> 00:09:17,680
+But that didn’t stop the problem.
+
+115
+00:09:18,560 --> 00:09:25,760
+And this database leak now shows that senior staff\h
+at HSBC, Standard Chartered and Deutsche Bank\h\h
+
+116
+00:09:25,760 --> 00:09:29,840
+are Chinese Communist Party members. Senior staff!
+
+117
+00:09:30,480 --> 00:09:33,920
+And what about Chinese companies\h
+that have foreign operations?\h\h
+
+118
+00:09:33,920 --> 00:09:39,360
+Do they have Communist Party branches in other\h
+countries? According to this database, yes.
+
+119
+00:09:40,400 --> 00:09:44,960
+Chinese state-owned shipping\h
+giant COSCO has nearly three\h\h
+
+120
+00:09:44,960 --> 00:09:49,840
+thousand Party members across\h
+118 Party branches worldwide.\h
+
+121
+00:09:50,560 --> 00:09:53,440
+That includes two small Party branches in the UK.
+
+122
+00:09:54,160 --> 00:09:58,480
+As you can imagine, the Chinese Communist\h
+Party is not happy about this database leak.\h
+
+123
+00:09:59,040 --> 00:10:02,240
+According to my favorite Chinese\h
+state-run media, the Global Times,\h\h
+
+124
+00:10:02,800 --> 00:10:06,640
+the West is hyping the leaked list to sow discord.
+
+125
+00:10:06,640 --> 00:10:10,320
+And they’re just fantasizing\h
+about CPC infiltration.\h
+
+126
+00:10:11,040 --> 00:10:14,720
+Although if you want to show that the\h
+Chinese Communist Party is totally\h\h
+
+127
+00:10:14,720 --> 00:10:19,200
+harmless and the threat is all fantasy,\h
+maybe you want to use a different photo.
+
+128
+00:10:19,760 --> 00:10:25,040
+But like I said earlier, this data leak shows\h
+us some interesting information about how\h\h
+
+129
+00:10:25,040 --> 00:10:28,800
+the Chinese Communist Party is operating\h
+within these foreign companies.\h
+
+130
+00:10:29,360 --> 00:10:32,560
+And if this shocks you,\h
+there’s only one thing to do:\h\h
+
+131
+00:10:33,760 --> 00:10:38,920
+Stop watching China Uncensored, wait a few\h
+months, and you’ll probably just forget.
+
+132
+00:10:38,920 --> 00:10:44,800
+Oooh, look at that glittering skyline!\h
+Please, China, take our money!
+
+133
+00:10:45,600 --> 00:10:50,720
+And now it’s time for me to answer a question from\h
+a viewer who supports China Uncensored on Patreon.
+
+134
+00:10:51,760 --> 00:10:57,760
+Jason asks: What's some investment companies\h
+that won't send our money to China and other\h\h
+
+135
+00:10:57,760 --> 00:11:02,720
+authoritarian countries. I vaguely remember\h
+y'all did an episode in the past about an\h\h
+
+136
+00:11:02,720 --> 00:11:07,840
+investment company that won’t invest our money\h
+in countries like Saudi Arabia, and China.
+
+137
+00:11:08,480 --> 00:11:13,200
+Great question, Jason. It’s pretty hard to\h
+find an investment company that doesn’t put\h\h
+
+138
+00:11:13,200 --> 00:11:18,960
+your money in China or in Chinese companies\h
+in the US. And that’s because China is a huge\h\h
+
+139
+00:11:18,960 --> 00:11:24,080
+part of most emerging markets indexes.\h
+I believe you’re referring to an episode\h\h
+
+140
+00:11:24,080 --> 00:11:28,480
+of our podcast where we talked to Perth\h
+Tolle, from Life and Liberty Indexes.\h
+
+141
+00:11:28,480 --> 00:11:32,400
+They provide the world’s only\h
+freedom-weighted ETF. If you\h\h
+
+142
+00:11:32,400 --> 00:11:34,800
+haven’t heard that episode, you\h
+should definitely check it out.\h\h
+
+143
+00:11:34,800 --> 00:11:39,280
+It’s fascinating and terrifying how we’re all\h
+invested in China without even knowing it.\h
+
+144
+00:11:40,240 --> 00:11:44,640
+I just want to make it clear that I’m\h
+not qualified to give investing advice.\h\h
+
+145
+00:11:45,280 --> 00:11:52,480
+But if I were, I’d tell you to invest only\h
+in AgentSmithCoin, my new cryptocurrency.\h
+
+146
+00:11:53,040 --> 00:11:57,280
+It will be the only accepted currency\h
+once I become Supreme Leader of these\h\h
+
+147
+00:11:57,280 --> 00:12:00,960
+United States for Life. Trust\h
+me, you’re going to love it.\h
+
+148
+00:12:00,960 --> 00:12:02,640
+Thanks for your question Jason.
+
+149
+00:12:02,640 --> 00:12:07,840
+And thank you for watching. Be like Jason and\h
+support China Uncensored on the crowdfunding\h\h
+
+150
+00:12:07,840 --> 00:12:12,800
+platform Patreon, and as a bonus, I might\h
+answer your question at the end of an episode.\h\h
+
+151
+00:12:12,800 --> 00:12:16,320
+Head over to patreon.com/ChinaUncensored to join.\h
+
+152
+00:12:16,880 --> 00:12:23,840
+Once again I’m Chris\h
+Chappell. Thanks for watching.
+

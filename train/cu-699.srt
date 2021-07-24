@@ -1,0 +1,1112 @@
+1
+00:00:00,179 --> 00:00:02,280
+On this episode of China Uncensored,
+
+2
+00:00:02,280 --> 00:00:03,280
+Call all you want,
+
+3
+00:00:03,280 --> 00:00:04,839
+but there’s no one home.
+
+4
+00:00:04,839 --> 00:00:08,710
+And you’re not gonna reach my thousand dollar
+iPhone.
+
+5
+00:00:08,710 --> 00:00:10,930
+Speaking of, not using your phone?
+
+6
+00:00:10,930 --> 00:00:13,780
+Then its reeducation camp for you!
+
+7
+00:00:13,780 --> 00:00:14,780
+And finally,
+
+8
+00:00:14,780 --> 00:00:15,810
+China comes up with a great way
+
+9
+00:00:15,810 --> 00:00:18,740
+to make money off saving the environment.
+
+10
+00:00:18,740 --> 00:00:20,740
+This is China Uncensored.
+
+11
+00:00:25,220 --> 00:00:25,720
+Hi.
+
+12
+00:00:25,720 --> 00:00:26,380
+Welcome to China Uncensored.
+
+13
+00:00:26,390 --> 00:00:28,210
+I’m your host Chris Chappell.
+
+14
+00:00:28,210 --> 00:00:29,539
+Breaking news, everyone:
+
+15
+00:00:29,539 --> 00:00:32,470
+The CCP may be spying on people.
+
+16
+00:00:32,470 --> 00:00:34,040
+We recently aired a 10-minute segment
+
+17
+00:00:34,040 --> 00:00:36,910
+focused exclusively on how the WeChat app
+
+18
+00:00:36,910 --> 00:00:40,010
+has helped the CCP monitor Chinese citizens
+
+19
+00:00:40,010 --> 00:00:43,380
+by collecting data on every aspect of their
+lives—
+
+20
+00:00:43,380 --> 00:00:44,380
+like where they travel,
+
+21
+00:00:44,380 --> 00:00:45,380
+who their friends are,
+
+22
+00:00:45,380 --> 00:00:46,719
+the content of their messages,
+
+23
+00:00:46,719 --> 00:00:48,780
+even what food they like—
+
+24
+00:00:48,780 --> 00:00:50,559
+and then sharing that WeChat data
+
+25
+00:00:50,559 --> 00:00:52,649
+with the Chinese government.
+
+26
+00:00:52,649 --> 00:00:53,760
+Well it turns out,
+
+27
+00:00:53,760 --> 00:00:54,930
+there’s an even better way
+
+28
+00:00:54,930 --> 00:00:57,330
+to monitor everyone’s phones.
+
+29
+00:00:57,330 --> 00:00:58,330
+It was recently revealed that
+
+30
+00:00:58,330 --> 00:01:00,989
+Trojan horse malware called xRAT
+
+31
+00:01:00,989 --> 00:01:02,280
+was going around WeChat
+
+32
+00:01:02,280 --> 00:01:04,030
+and another Chinese messaging app
+
+33
+00:01:04,030 --> 00:01:06,049
+owned by the same company
+
+34
+00:01:06,049 --> 00:01:09,580
+during the 2014 Hong Kong Umbrella Movement.
+
+35
+00:01:09,580 --> 00:01:11,190
+It basically allows the perpetrator
+
+36
+00:01:11,190 --> 00:01:13,979
+full admin access to your phone.
+
+37
+00:01:13,979 --> 00:01:14,979
+In other words,
+
+38
+00:01:14,979 --> 00:01:17,060
+it’s like if you handed your phone to a
+stranger
+
+39
+00:01:17,060 --> 00:01:19,119
+and told them all your passwords.
+
+40
+00:01:19,119 --> 00:01:21,210
+“All of your phone is exposed.
+
+41
+00:01:21,210 --> 00:01:23,550
+Photos stored, downloads, documents,
+
+42
+00:01:23,550 --> 00:01:25,780
+any Apps to other services installed,
+
+43
+00:01:25,780 --> 00:01:27,560
+chat logs, phone records,
+
+44
+00:01:27,560 --> 00:01:29,090
+contact lists, and of course,
+
+45
+00:01:29,090 --> 00:01:32,120
+your browser and its entire browsing history,
+
+46
+00:01:32,120 --> 00:01:33,600
+which may include credit card
+
+47
+00:01:33,600 --> 00:01:36,570
+and password and login information.”
+
+48
+00:01:36,570 --> 00:01:38,630
+But before you jump to blame the CCP,
+
+49
+00:01:38,630 --> 00:01:40,880
+there’s no evidence that this app
+
+50
+00:01:40,880 --> 00:01:44,000
+was created or spread by the CCP.
+
+51
+00:01:44,000 --> 00:01:46,630
+It might just be a coincidence that xRAT
+
+52
+00:01:46,630 --> 00:01:49,100
+happened to target Chinese dissidents,
+
+53
+00:01:49,100 --> 00:01:50,340
+and was found on the mobile phones
+
+54
+00:01:50,340 --> 00:01:52,160
+of a lot of pro-democracy protesters
+
+55
+00:01:52,160 --> 00:01:53,689
+in Hong Kong.
+
+56
+00:01:53,689 --> 00:01:54,689
+Just like it’s a coincidence
+
+57
+00:01:54,689 --> 00:01:56,000
+that Bruce Wayne and Batman
+
+58
+00:01:56,000 --> 00:01:57,250
+are never seen in the same room
+
+59
+00:01:57,250 --> 00:01:59,280
+at the same time.
+
+60
+00:01:59,280 --> 00:02:00,610
+Speaking of monitoring people,
+
+61
+00:02:00,610 --> 00:02:02,380
+WeChat users are freaking out about
+
+62
+00:02:02,380 --> 00:02:05,710
+a new law that will go into effect this October.
+
+63
+00:02:05,710 --> 00:02:08,629
+It makes, “creators of online groups responsible
+
+64
+00:02:08,629 --> 00:02:10,919
+for managing information within their forums
+
+65
+00:02:10,919 --> 00:02:13,430
+and the behavior of members.”
+
+66
+00:02:13,430 --> 00:02:15,159
+Not just “responsible.”
+
+67
+00:02:15,159 --> 00:02:16,620
+The creators of those chat groups
+
+68
+00:02:16,620 --> 00:02:18,269
+could be criminally liable
+
+69
+00:02:18,269 --> 00:02:20,620
+and face both administrative detention
+
+70
+00:02:20,620 --> 00:02:22,090
+and political consequences
+
+71
+00:02:22,090 --> 00:02:23,090
+if their group members
+
+72
+00:02:23,090 --> 00:02:26,069
+discuss one of nine prohibited topics.
+
+73
+00:02:26,069 --> 00:02:27,260
+Topics include:
+
+74
+00:02:27,260 --> 00:02:28,730
+news from Hong Kong or Macau
+
+75
+00:02:28,730 --> 00:02:30,419
+that has not been officially reported
+
+76
+00:02:30,419 --> 00:02:32,480
+by Chinese state-run media.
+
+77
+00:02:32,480 --> 00:02:33,480
+So for example,
+
+78
+00:02:33,480 --> 00:02:35,260
+if you create a WeChat group,
+
+79
+00:02:35,260 --> 00:02:36,470
+and someone in your chat group
+
+80
+00:02:36,470 --> 00:02:38,370
+that you don’t even know
+
+81
+00:02:38,370 --> 00:02:41,939
+pastes a direct quote from a Hong Kong newspaper,
+
+82
+00:02:41,939 --> 00:02:44,379
+you could go to jail.
+
+83
+00:02:44,379 --> 00:02:46,180
+And if you’ve ever been on the Internet,
+
+84
+00:02:46,180 --> 00:02:48,389
+you know you don’t want to be responsible
+
+85
+00:02:48,389 --> 00:02:50,950
+for the crazy stuff other people say online.
+
+86
+00:02:50,950 --> 00:02:53,199
+I mean, what if I were responsible
+
+87
+00:02:53,199 --> 00:02:55,269
+for all the stuff people say in the comments
+
+88
+00:02:55,269 --> 00:02:57,659
+to our YouTube videos?”
+
+89
+00:02:57,659 --> 00:02:59,180
+Um...Shelley?
+
+90
+00:02:59,180 --> 00:03:01,239
+The CCP can’t see our comments section,
+right?
+
+91
+00:03:01,239 --> 00:03:04,080
+’Cause YouTube is blocked in China?
+
+92
+00:03:04,080 --> 00:03:07,709
+Anyway, chat groups scare the Chinese regime
+
+93
+00:03:07,709 --> 00:03:09,749
+because they’re a way for a lot of people
+
+94
+00:03:09,749 --> 00:03:11,620
+to share information, organize,
+
+95
+00:03:11,620 --> 00:03:14,560
+and mobilize if they ever felt so inclined.
+
+96
+00:03:14,560 --> 00:03:16,239
+Oh, and did you know that
+
+97
+00:03:16,239 --> 00:03:18,499
+if you say something bad online,
+
+98
+00:03:18,499 --> 00:03:22,000
+the Chinese government can lower your credit
+score?
+
+99
+00:03:22,000 --> 00:03:24,079
+There is a silver lining to this though.
+
+100
+00:03:24,079 --> 00:03:25,540
+It probably won’t be happening
+
+101
+00:03:25,540 --> 00:03:28,900
+to the latest iPhone model sold in China.
+
+102
+00:03:28,900 --> 00:03:30,879
+Not because it’s more secure in any way.
+
+103
+00:03:30,879 --> 00:03:31,879
+No.
+
+104
+00:03:31,879 --> 00:03:34,190
+It’s because Chinese people may not buy
+it.
+
+105
+00:03:34,190 --> 00:03:35,190
+“With the iPhone 8 set to sell at a higher
+price,
+
+106
+00:03:35,190 --> 00:03:36,190
+Chinese shoppers may skip this year’s model.
+
+107
+00:03:36,190 --> 00:03:37,470
+Lots of supply chain experts expect that
+
+108
+00:03:37,470 --> 00:03:40,019
+this phone to be over a thousand dollars,
+
+109
+00:03:40,019 --> 00:03:42,549
+and that’s double the average Chinese salary.”
+
+110
+00:03:42,549 --> 00:03:45,299
+If true, this would be a big blow to Apple.
+
+111
+00:03:45,299 --> 00:03:46,629
+I mean, the whole reason
+
+112
+00:03:46,629 --> 00:03:49,439
+Apple has been bowing to Chinese censorship
+demands
+
+113
+00:03:49,439 --> 00:03:52,849
+is so they can keep selling iPhones in China!
+
+114
+00:03:52,849 --> 00:03:53,849
+But frankly,
+
+115
+00:03:53,849 --> 00:03:54,959
+I don’t think the high price tag
+
+116
+00:03:54,959 --> 00:03:56,720
+will stop sales.
+
+117
+00:03:56,720 --> 00:03:59,040
+People are going still going to buy iPhones.
+
+118
+00:03:59,040 --> 00:04:00,040
+Not everyone.
+
+119
+00:04:00,040 --> 00:04:02,120
+I mean, nearly a billion people in China
+
+120
+00:04:02,120 --> 00:04:04,150
+live on less than $10 a day.
+
+121
+00:04:04,150 --> 00:04:05,150
+But fortunately,
+
+122
+00:04:05,150 --> 00:04:08,099
+China also has a huge wealth gap,
+
+123
+00:04:08,099 --> 00:04:10,719
+so there’s lots of rich people, too!
+
+124
+00:04:10,719 --> 00:04:13,019
+And how will their friends know they’re
+rich
+
+125
+00:04:13,019 --> 00:04:16,340
+if they don’t have the latest gold iPhone?
+
+126
+00:04:16,340 --> 00:04:18,609
+But with the thousand-dollar price tag,
+
+127
+00:04:18,609 --> 00:04:22,190
+even the wealthy may have to make sacrifices.
+
+128
+00:04:22,190 --> 00:04:23,560
+Like the son-of-a-billionaire
+
+129
+00:04:23,560 --> 00:04:27,470
+who bought eight iPhone 7s for his dog last
+year.
+
+130
+00:04:27,470 --> 00:04:28,720
+Well he’s going to have to cut back
+
+131
+00:04:28,720 --> 00:04:30,020
+for the iPhone 8.
+
+132
+00:04:30,020 --> 00:04:31,020
+But really,
+
+133
+00:04:31,020 --> 00:04:32,020
+what kind of dog needs
+
+134
+00:04:32,020 --> 00:04:34,159
+more than four iPhones?
+
+135
+00:04:34,159 --> 00:04:35,159
+Speaking of phones,
+
+136
+00:04:35,159 --> 00:04:36,460
+I told you a couple months ago
+
+137
+00:04:36,460 --> 00:04:37,949
+about how the Communist Party
+
+138
+00:04:37,949 --> 00:04:40,080
+is forcing people in the Xinjiang region
+
+139
+00:04:40,080 --> 00:04:42,270
+to install surveillance apps
+
+140
+00:04:42,270 --> 00:04:44,220
+on their mobile phones.
+
+141
+00:04:44,220 --> 00:04:46,500
+Well a lot of people have been resisting.
+
+142
+00:04:46,500 --> 00:04:49,250
+So what can the poor CCP do?
+
+143
+00:04:49,250 --> 00:04:50,620
+The answer is,
+
+144
+00:04:50,620 --> 00:04:52,620
+send them to reeducation camps!
+
+145
+00:04:52,620 --> 00:04:55,819
+They’ve sent about 2,000 people so far.
+
+146
+00:04:55,819 --> 00:04:59,379
+At first the reeducation camps were branded
+as
+
+147
+00:04:59,379 --> 00:05:00,840
+“Counter-Extremism Training Schools”
+
+148
+00:05:00,840 --> 00:05:03,000
+because they were for Muslims.
+
+149
+00:05:03,000 --> 00:05:04,000
+After all,
+
+150
+00:05:04,000 --> 00:05:05,669
+you’ve got to counter that extreme behavior,
+
+151
+00:05:05,669 --> 00:05:07,710
+like feeling uncomfortable being monitored
+
+152
+00:05:07,710 --> 00:05:08,789
+at all times.
+
+153
+00:05:08,789 --> 00:05:10,759
+So the CCP imprisoned people
+
+154
+00:05:10,759 --> 00:05:12,770
+and cut off their contact with their families.
+
+155
+00:05:12,770 --> 00:05:15,509
+It’s only logical that when you round people
+up,
+
+156
+00:05:15,509 --> 00:05:17,479
+isolate them, and abuse them,
+
+157
+00:05:17,479 --> 00:05:19,819
+they become less extreme.
+
+158
+00:05:19,819 --> 00:05:22,460
+But the name “Counter-Extremism Training
+Schools”
+
+159
+00:05:22,460 --> 00:05:24,840
+didn’t sound so good.
+
+160
+00:05:24,840 --> 00:05:27,139
+So the CCP re-branded these camps as
+
+161
+00:05:27,139 --> 00:05:29,100
+“Socialism Training Schools.”
+
+162
+00:05:29,100 --> 00:05:31,990
+Hmm...still kind of suspicious.
+
+163
+00:05:31,990 --> 00:05:34,650
+But then they re-re-branded them as
+
+164
+00:05:34,650 --> 00:05:37,139
+“Professional Education Schools.”
+
+165
+00:05:37,139 --> 00:05:39,199
+Who could be opposed to that?
+
+166
+00:05:39,199 --> 00:05:43,629
+It’s like the Auschwitz School for Manual
+Labor and Chemical Engineering.
+
+167
+00:05:43,629 --> 00:05:44,629
+What?
+
+168
+00:05:44,629 --> 00:05:46,349
+Too soon?
+
+169
+00:05:46,349 --> 00:05:47,590
+Now it’s hard to find a place
+
+170
+00:05:47,590 --> 00:05:50,199
+as terrible as the Auschwitz School.
+
+171
+00:05:50,199 --> 00:05:51,500
+But there are lots of places
+
+172
+00:05:51,500 --> 00:05:53,069
+I wouldn’t want to be stuck in
+
+173
+00:05:53,069 --> 00:05:54,919
+even for one night.
+
+174
+00:05:54,919 --> 00:05:59,410
+Like the 2017 Alibaba Annual Party.
+
+175
+00:05:59,410 --> 00:06:01,810
+When your boss is the richest man in China,
+
+176
+00:06:01,810 --> 00:06:03,319
+you put up with some eccentricities.
+
+177
+00:06:03,319 --> 00:06:05,389
+It’s what you do.
+
+178
+00:06:05,389 --> 00:06:06,669
+Well at this year’s event,
+
+179
+00:06:06,669 --> 00:06:09,749
+a mysterious masked figure appeared.
+
+180
+00:06:09,749 --> 00:06:12,069
+Kind of dressed like Michael Jackson.
+
+181
+00:06:12,069 --> 00:06:15,240
+And kind of dancing like Michael Jackson.
+
+182
+00:06:15,240 --> 00:06:16,879
+Who could it be?!
+
+183
+00:06:16,879 --> 00:06:17,939
+Jack Ma.
+
+184
+00:06:17,939 --> 00:06:20,229
+It was the Alibaba CEO.
+
+185
+00:06:20,229 --> 00:06:23,069
+Then, all the other slightly out of shape
+bosses
+
+186
+00:06:23,069 --> 00:06:24,849
+joined him on stage for...
+
+187
+00:06:24,849 --> 00:06:27,129
+an even lamer dance.
+
+188
+00:06:27,129 --> 00:06:29,500
+This wasn’t really a first for Ma.
+
+189
+00:06:29,500 --> 00:06:33,719
+In the past he’s appeared on stage as a
+princess!
+
+190
+00:06:33,719 --> 00:06:37,530
+And, well there’s a lot to process here.
+
+191
+00:06:37,530 --> 00:06:39,719
+At least Alibaba events aren’t boring.
+
+192
+00:06:39,719 --> 00:06:41,360
+Unlike that two-hour long iPhone announcement.
+
+193
+00:06:41,360 --> 00:06:44,499
+I mean, I don’t even know who this guy is!
+
+194
+00:06:44,499 --> 00:06:45,570
+And speaking of billionaires
+
+195
+00:06:45,570 --> 00:06:48,249
+who do things in an unusual way,
+
+196
+00:06:48,249 --> 00:06:49,249
+Donald Trump.
+
+197
+00:06:49,249 --> 00:06:51,120
+rump is likely to make his first
+
+198
+00:06:51,120 --> 00:06:53,069
+presidential trip to China in November,
+
+199
+00:06:53,069 --> 00:06:54,650
+according to a US official.
+
+200
+00:06:54,650 --> 00:06:56,370
+Trump will be in Asia anyway,
+
+201
+00:06:56,370 --> 00:06:58,439
+to attend acronym-based summits
+
+202
+00:06:58,439 --> 00:07:02,129
+like ASEAN, APEC and EAS.
+
+203
+00:07:02,129 --> 00:07:04,440
+So it would be rude if he didn’t drop by
+China
+
+204
+00:07:04,440 --> 00:07:07,310
+and check out Xi Jinping’s cool digs.
+
+205
+00:07:07,310 --> 00:07:08,349
+Maybe he can also check out
+
+206
+00:07:08,349 --> 00:07:11,539
+that flattering Trump statue in Taiyuan.
+
+207
+00:07:11,539 --> 00:07:14,319
+Hopefully Trump won’t stay long, though,
+
+208
+00:07:14,319 --> 00:07:15,759
+because a new study claims
+
+209
+00:07:15,759 --> 00:07:18,000
+the pollution in China is so bad,
+
+210
+00:07:18,000 --> 00:07:22,039
+it’ll take three and a half years off your
+life.
+
+211
+00:07:22,039 --> 00:07:23,150
+Chinese premier Li Keqiang
+
+212
+00:07:23,150 --> 00:07:25,860
+has promised a war on pollution.
+
+213
+00:07:25,860 --> 00:07:28,120
+So I guess casualties are to be expected.
+
+214
+00:07:28,120 --> 00:07:30,020
+Now, China is looking into a plan
+
+215
+00:07:30,020 --> 00:07:32,830
+to ban gasoline and diesel cars.
+
+216
+00:07:32,830 --> 00:07:35,449
+It’s unclear when the ban would go into
+effect,
+
+217
+00:07:35,449 --> 00:07:36,449
+but I agree,
+
+218
+00:07:36,449 --> 00:07:37,789
+it’s a great idea.
+
+219
+00:07:37,789 --> 00:07:39,449
+Switching to electric vehicles
+
+220
+00:07:39,449 --> 00:07:40,710
+will make big difference
+
+221
+00:07:40,710 --> 00:07:42,180
+in reducing pollution.
+
+222
+00:07:42,180 --> 00:07:44,979
+Now, cars can run on clean electricity...
+
+223
+00:07:44,979 --> 00:07:49,139
+from China’s growing number of coal-fired
+power plants.
+
+224
+00:07:49,139 --> 00:07:50,190
+Speaking of pollution,
+
+225
+00:07:50,190 --> 00:07:52,330
+China is cleaning up the countryside.
+
+226
+00:07:52,330 --> 00:07:54,009
+And the latest project:
+
+227
+00:07:54,009 --> 00:07:56,979
+Cleaning up 300 tons of dead pigs
+
+228
+00:07:56,979 --> 00:07:58,699
+that had been buried in a hillside,
+
+229
+00:07:58,699 --> 00:08:01,289
+rotting away for four years.
+
+230
+00:08:01,289 --> 00:08:02,349
+It turns out they were dumped there
+
+231
+00:08:02,349 --> 00:08:04,680
+by a medical waste treatment company.
+
+232
+00:08:04,680 --> 00:08:06,430
+Tragically, the manager responsible
+
+233
+00:08:06,430 --> 00:08:08,779
+probably won’t be indicted for this—
+
+234
+00:08:08,779 --> 00:08:10,840
+since apparently he’s already in prison
+
+235
+00:08:10,840 --> 00:08:11,840
+for a separate,
+
+236
+00:08:11,840 --> 00:08:13,639
+unrelated crime.
+
+237
+00:08:13,639 --> 00:08:14,639
+Speaking of tragedy,
+
+238
+00:08:14,639 --> 00:08:18,400
+the price of Tungsten has doubled, thanks
+to China.
+
+239
+00:08:18,400 --> 00:08:20,030
+Tungsten is used as filament
+
+240
+00:08:20,030 --> 00:08:21,650
+in old fashioned lightbulbs,
+
+241
+00:08:21,650 --> 00:08:22,650
+also known as...
+
+242
+00:08:22,650 --> 00:08:24,509
+regular light bulbs.
+
+243
+00:08:24,509 --> 00:08:25,779
+Tungsten is a hard metal
+
+244
+00:08:25,779 --> 00:08:29,129
+that’s also used to strengthen industrial
+tools.
+
+245
+00:08:29,129 --> 00:08:31,020
+Tungsten is hard on the environment, too.
+
+246
+00:08:31,020 --> 00:08:32,870
+That’s the reason China gave
+
+247
+00:08:32,870 --> 00:08:35,949
+for putting a quota on the output of Tungsten.
+
+248
+00:08:35,949 --> 00:08:38,899
+Technically, China already had a quota,
+
+249
+00:08:38,899 --> 00:08:41,039
+but in June they announced that this time,
+
+250
+00:08:41,039 --> 00:08:44,039
+they’re going to be enforcing that quota,
+
+251
+00:08:44,039 --> 00:08:45,600
+for realsies.
+
+252
+00:08:45,600 --> 00:08:47,639
+This was a smart move by China,
+
+253
+00:08:47,639 --> 00:08:50,970
+because China mines 80% of the world’s Tungsten,
+
+254
+00:08:50,970 --> 00:08:53,170
+and the restrictions have made the price of
+Tungsten
+
+255
+00:08:53,170 --> 00:08:54,830
+double in the last three months.
+
+256
+00:08:54,830 --> 00:08:56,950
+Of course, this move is all about
+
+257
+00:08:56,950 --> 00:08:58,589
+protecting the environment.
+
+258
+00:08:58,589 --> 00:09:00,270
+Those mines are so polluting,
+
+259
+00:09:00,270 --> 00:09:03,810
+they just had to be shut down.
+
+260
+00:09:03,810 --> 00:09:05,720
+Cha-ching!
+
+261
+00:09:05,720 --> 00:09:08,500
+China has us by the precious metals.
+
+262
+00:09:08,500 --> 00:09:09,630
+And coming up after the break,
+
+263
+00:09:09,630 --> 00:09:13,680
+we’ll take a look at a fair and open trial
+in China.
+
+264
+00:09:16,020 --> 00:09:16,520
+I know.
+
+265
+00:09:16,520 --> 00:09:19,040
+You’re upset about the price of tungsten.
+
+266
+00:09:19,040 --> 00:09:21,160
+But if you want to really light up your day,
+
+267
+00:09:21,160 --> 00:09:23,570
+go to ChinaUncensored.tv.
+
+268
+00:09:23,570 --> 00:09:26,150
+Every Friday we upload full half hour episodes
+
+269
+00:09:26,150 --> 00:09:27,580
+of the show for free.
+
+270
+00:09:27,580 --> 00:09:30,070
+And that’s more precious than gold.
+
+271
+00:09:30,070 --> 00:09:31,510
+Or tungsten.
+
+272
+00:09:31,510 --> 00:09:34,050
+So head over to ChinaUncensored.tv now!
+

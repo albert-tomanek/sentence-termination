@@ -1,0 +1,1065 @@
+1
+00:00:00,260 --> 00:00:02,340
+On this episode of China Uncensored,
+
+2
+00:00:02,340 --> 00:00:06,120
+China’s next financial crisis is lurking
+in the shadows...
+
+3
+00:00:06,120 --> 00:00:07,580
+of shadow banking.
+
+4
+00:00:07,580 --> 00:00:10,840
+It’s like China stacked up 9 trillion dollars...
+
+5
+00:00:10,840 --> 00:00:12,120
+on the edge of a cliff.
+
+6
+00:00:16,540 --> 00:00:18,040
+Hi, welcome to China Uncensored.
+
+7
+00:00:18,050 --> 00:00:19,050
+I’m Matt Gnaizda.
+
+8
+00:00:19,050 --> 00:00:20,740
+I’m in today for Chris Chappell,
+
+9
+00:00:20,740 --> 00:00:21,970
+who’s on vacation,
+
+10
+00:00:21,970 --> 00:00:23,690
+possibly in the South China Sea.
+
+11
+00:00:23,690 --> 00:00:26,710
+Today, we’re going to talk about shadow
+banking.
+
+12
+00:00:26,710 --> 00:00:30,310
+It’s like the evil twin of regular banking.
+
+13
+00:00:30,310 --> 00:00:32,630
+Shadow banking involves lots of money,
+
+14
+00:00:32,630 --> 00:00:33,979
+and lots of risk.
+
+15
+00:00:33,980 --> 00:00:36,860
+And it’s tied to China’s crazy investment
+boom.
+
+16
+00:00:37,360 --> 00:00:38,420
+China’s economic boom
+
+17
+00:00:38,429 --> 00:00:40,440
+and its reliance on shadow banking
+
+18
+00:00:40,440 --> 00:00:41,589
+is similar in some ways
+
+19
+00:00:41,589 --> 00:00:44,659
+to the US economic boom in 2007.
+
+20
+00:00:44,659 --> 00:00:45,659
+Remember:
+
+21
+00:00:45,659 --> 00:00:48,139
+A lot of great things happened in 2007.
+
+22
+00:00:48,139 --> 00:00:50,789
+Apple released the iPhone 1.
+
+23
+00:00:50,789 --> 00:00:52,909
+The last Harry Potter book was published...
+
+24
+00:00:52,909 --> 00:00:54,840
+which Chris still has not read.
+
+25
+00:00:54,840 --> 00:00:59,300
+And the US economy had its last...good...year.
+
+26
+00:00:59,300 --> 00:01:01,199
+Because then this happened.
+
+27
+00:01:01,700 --> 00:01:04,239
+“Stocks all around the world are
+tanking
+
+28
+00:01:04,240 --> 00:01:07,040
+because of the crisis on Wall Street.”
+
+29
+00:01:07,040 --> 00:01:10,460
+“The stock market is now down 21%”
+
+30
+00:01:10,460 --> 00:01:11,760
+“We have armageddon.
+
+31
+00:01:11,760 --> 00:01:13,330
+In the fixed income markets we have armageddon.”
+
+32
+00:01:13,330 --> 00:01:13,820
+“No, but...”
+
+33
+00:01:13,820 --> 00:01:15,240
+“We have armageddon.”
+
+34
+00:01:15,240 --> 00:01:17,420
+“Armageddon”—thanks Jim Cramer—
+
+35
+00:01:17,420 --> 00:01:18,640
+happened after the failure
+
+36
+00:01:18,650 --> 00:01:21,290
+of a single investment bank had a domino effect
+
+37
+00:01:21,290 --> 00:01:24,500
+on the entire global financial system.
+
+38
+00:01:24,500 --> 00:01:25,890
+Trillions of dollars were lost,
+
+39
+00:01:25,890 --> 00:01:27,310
+and so were millions of jobs.
+
+40
+00:01:27,310 --> 00:01:30,230
+Well, it’s been ten years since then.
+
+41
+00:01:30,230 --> 00:01:31,480
+These guys have recovered,
+
+42
+00:01:31,480 --> 00:01:34,730
+but these guys...not so much.
+
+43
+00:01:34,730 --> 00:01:36,000
+But now, this same kind of
+
+44
+00:01:36,000 --> 00:01:38,980
+boom and crash could happen in China—
+
+45
+00:01:38,980 --> 00:01:41,000
+and for the same reason.
+
+46
+00:01:41,000 --> 00:01:42,640
+As Bloomberg puts it,
+
+47
+00:01:42,640 --> 00:01:45,800
+China is playing a 9 trillion dollar game
+of chicken
+
+48
+00:01:45,800 --> 00:01:48,110
+called Shadow Banking.
+
+49
+00:01:48,110 --> 00:01:49,650
+And like a game of chicken,
+
+50
+00:01:49,650 --> 00:01:52,720
+some investors will get out in time.
+
+51
+00:01:52,720 --> 00:01:54,620
+But others will plunge off the cliff,
+
+52
+00:01:54,620 --> 00:01:58,750
+bursting into a ball of flames on the rocks
+below.
+
+53
+00:01:58,750 --> 00:02:00,320
+So what is this totally legit
+
+54
+00:02:00,320 --> 00:02:03,120
+and trustworthy sounding “shadow banking”?
+
+55
+00:02:03,120 --> 00:02:04,300
+To put it simply,
+
+56
+00:02:04,300 --> 00:02:05,820
+shadow banking is when banks—
+
+57
+00:02:05,820 --> 00:02:07,470
+or companies that are not banks—
+
+58
+00:02:07,470 --> 00:02:10,109
+lend money outside of the normal structure
+
+59
+00:02:10,109 --> 00:02:11,750
+of bank deposits and loans.
+
+60
+00:02:11,750 --> 00:02:14,790
+Here’s a simplified explanation.
+
+61
+00:02:14,790 --> 00:02:16,319
+In the traditional banking system,
+
+62
+00:02:16,319 --> 00:02:18,430
+if a business owner wants to grow his business,
+
+63
+00:02:18,430 --> 00:02:21,719
+he goes to a bank,
+and that bank loans him money.
+
+64
+00:02:21,719 --> 00:02:22,719
+Over time,
+
+65
+00:02:22,719 --> 00:02:23,829
+he repays that money to the bank,
+
+66
+00:02:23,829 --> 00:02:24,849
+plus interest.
+
+67
+00:02:24,849 --> 00:02:27,780
+Let’s say a single bank makes 100 loans.
+
+68
+00:02:27,780 --> 00:02:30,599
+It’s pretty careful about who it loans to.
+
+69
+00:02:30,599 --> 00:02:31,599
+But even so,
+
+70
+00:02:31,599 --> 00:02:33,239
+some of the businesses will fail,
+
+71
+00:02:33,239 --> 00:02:35,029
+so Chinese regulations require
+
+72
+00:02:35,029 --> 00:02:36,790
+that the bank set aside money
+
+73
+00:02:36,790 --> 00:02:39,459
+to cover potential losses.
+
+74
+00:02:39,459 --> 00:02:40,790
+But shadow banking operates
+
+75
+00:02:40,790 --> 00:02:42,739
+outside that traditional system.
+
+76
+00:02:42,739 --> 00:02:45,120
+Let’s say 100 businesses want loans.
+
+77
+00:02:45,120 --> 00:02:48,230
+A shadow bank packages those 100 potential
+loans
+
+78
+00:02:48,230 --> 00:02:51,250
+into what’s called a Wealth Management Product.
+
+79
+00:02:51,250 --> 00:02:53,129
+Then it goes to investors and is like,
+
+80
+00:02:53,129 --> 00:02:55,209
+“Hey, buy our Wealth Management Product.
+
+81
+00:02:55,209 --> 00:02:56,939
+It has a high interest rate.”
+
+82
+00:02:56,939 --> 00:02:58,760
+When the businesses repay,
+
+83
+00:02:58,760 --> 00:03:00,669
+the investors will get their investment back
+
+84
+00:03:00,669 --> 00:03:02,400
+plus a lot of interest.
+
+85
+00:03:02,400 --> 00:03:04,209
+This is shadow banking.
+
+86
+00:03:04,209 --> 00:03:06,370
+It can also get more complicated.
+
+87
+00:03:06,370 --> 00:03:08,560
+Because sometimes the bank isn’t a bank,
+
+88
+00:03:08,560 --> 00:03:09,769
+but just a regular company
+
+89
+00:03:09,769 --> 00:03:11,959
+that packages investments.
+
+90
+00:03:11,959 --> 00:03:13,249
+And sometimes the businesses
+
+91
+00:03:13,249 --> 00:03:14,249
+that want to borrow money
+
+92
+00:03:14,249 --> 00:03:15,750
+aren’t regular businesses.
+
+93
+00:03:15,750 --> 00:03:17,769
+They might even be a local government
+
+94
+00:03:17,769 --> 00:03:20,599
+that wants money to build a bridge or whatever.
+
+95
+00:03:20,599 --> 00:03:22,109
+All these things can be packaged
+
+96
+00:03:22,109 --> 00:03:23,849
+into Wealth Management Products,
+
+97
+00:03:23,849 --> 00:03:25,980
+or other types of financial products,
+
+98
+00:03:25,980 --> 00:03:27,980
+and then sold to investors—
+
+99
+00:03:27,980 --> 00:03:29,659
+or sold to investment companies,
+
+100
+00:03:29,659 --> 00:03:31,099
+which then re-package them
+
+101
+00:03:31,099 --> 00:03:34,489
+before selling to individual investors.
+
+102
+00:03:34,489 --> 00:03:35,569
+A lot of times,
+
+103
+00:03:35,569 --> 00:03:37,419
+shadow bank loans get so complicated
+
+104
+00:03:37,419 --> 00:03:38,480
+that no one understands
+
+105
+00:03:38,480 --> 00:03:40,639
+exactly what the risk is.
+
+106
+00:03:40,639 --> 00:03:42,110
+According to this article,
+
+107
+00:03:42,110 --> 00:03:44,840
+“The repackaging of credit is so complex
+
+108
+00:03:44,840 --> 00:03:46,579
+that bankers often have to resort to
+
+109
+00:03:46,579 --> 00:03:48,860
+line drawings that look like schematic plans
+
+110
+00:03:48,860 --> 00:03:50,739
+for a Rube Goldberg device
+
+111
+00:03:50,739 --> 00:03:53,559
+to explain to clients what's going on.”
+
+112
+00:03:53,559 --> 00:03:55,120
+A Rube Goldberg device.
+
+113
+00:03:55,120 --> 00:03:56,189
+Like when you pull a lever,
+
+114
+00:03:56,189 --> 00:03:57,919
+that sets a wheel in motion,
+
+115
+00:03:57,919 --> 00:04:00,309
+that knocks down some dominoes,
+
+116
+00:04:00,309 --> 00:04:03,700
+that ends up destroying the economy.
+
+117
+00:04:03,700 --> 00:04:04,939
+But all this shadow banking
+
+118
+00:04:04,939 --> 00:04:06,629
+and Wealth Management whatevers
+
+119
+00:04:06,629 --> 00:04:09,109
+are so complicated!
+
+120
+00:04:09,109 --> 00:04:10,700
+Investors don’t want to know details!
+
+121
+00:04:10,700 --> 00:04:13,719
+That’s why companies involved in shadow
+banking
+
+122
+00:04:13,720 --> 00:04:16,180
+put out feel-good ads like this:
+
+123
+00:04:18,640 --> 00:04:21,840
+“Everyone holds sunshine at their hearts
+
+124
+00:04:23,480 --> 00:04:26,900
+Everbright your life
+
+125
+00:04:27,100 --> 00:04:30,060
+China Everbright Bank”
+
+126
+00:04:31,280 --> 00:04:32,500
+See?
+
+127
+00:04:32,500 --> 00:04:33,690
+Give us your money,
+
+128
+00:04:33,690 --> 00:04:36,440
+and you’ll have sunshine in your heart!
+
+129
+00:04:36,440 --> 00:04:37,440
+That bank, Everbright,
+
+130
+00:04:37,440 --> 00:04:39,730
+is actually a legit commercial bank.
+
+131
+00:04:39,730 --> 00:04:41,590
+It makes regular loans, too.
+
+132
+00:04:41,590 --> 00:04:43,190
+But recently it’s also been selling
+
+133
+00:04:43,190 --> 00:04:46,170
+a lot of shadow banking products to investors,
+
+134
+00:04:46,170 --> 00:04:47,380
+because that allows Everbright
+
+135
+00:04:47,380 --> 00:04:49,260
+to maximize profit without putting
+
+136
+00:04:49,260 --> 00:04:51,690
+so much of its own money on the line.
+
+137
+00:04:51,690 --> 00:04:54,670
+Basically, it sells the risk to investors.
+
+138
+00:04:54,670 --> 00:04:56,080
+But a lot of Chinese investors
+
+139
+00:04:56,080 --> 00:04:58,370
+don’t think risk matters that much,
+
+140
+00:04:58,370 --> 00:04:59,820
+because the Chinese government will probably
+
+141
+00:04:59,820 --> 00:05:01,810
+bail everyone out if things go badly.
+
+142
+00:05:01,810 --> 00:05:04,630
+Like this investor in this Bloomberg article,
+
+143
+00:05:04,630 --> 00:05:06,350
+who explains that the Chinese government
+
+144
+00:05:06,350 --> 00:05:09,460
+would never let a big wealth management product
+fail,
+
+145
+00:05:09,460 --> 00:05:12,810
+because it’s just not Chinese culture.
+
+146
+00:05:12,810 --> 00:05:14,650
+Sounds like wishful thinking, right?
+
+147
+00:05:14,650 --> 00:05:15,990
+But the Chinese government has
+
+148
+00:05:15,990 --> 00:05:18,120
+bailed out banks in the past.
+
+149
+00:05:18,120 --> 00:05:22,170
+Like the $45 billion dollar bailout in 2004.
+
+150
+00:05:22,170 --> 00:05:24,980
+So assuming they’ll do it again seems reasonable.
+
+151
+00:05:24,980 --> 00:05:27,440
+Although if you’ve ever read the terms and
+conditions
+
+152
+00:05:27,440 --> 00:05:29,470
+on any investment product ever,
+
+153
+00:05:29,470 --> 00:05:31,150
+you’ve seen that “past performance
+
+154
+00:05:31,150 --> 00:05:33,430
+is no guarantee of future results.”
+
+155
+00:05:33,430 --> 00:05:35,800
+Sure, the Chinese government may have done
+
+156
+00:05:35,800 --> 00:05:39,640
+a small 45 billion dollar bailout in the past.
+
+157
+00:05:39,640 --> 00:05:43,390
+But it doesn’t want to do a 9 trillion dollar
+bailout now.
+
+158
+00:05:43,390 --> 00:05:44,640
+Besides, back then,
+
+159
+00:05:44,640 --> 00:05:47,420
+there was almost no shadow banking in China.
+
+160
+00:05:47,420 --> 00:05:49,560
+It only started happening on a large scale
+
+161
+00:05:49,560 --> 00:05:53,160
+after the global financial crisis ten years
+ago.
+
+162
+00:05:53,160 --> 00:05:54,970
+Authorities tried to stimulate China’s economy
+
+163
+00:05:54,970 --> 00:05:57,780
+by having banks lend more money.
+
+164
+00:05:57,780 --> 00:06:00,250
+But soon, demand for borrowing got so high
+
+165
+00:06:00,250 --> 00:06:03,190
+that banks didn’t have enough money to lend
+people.
+
+166
+00:06:03,190 --> 00:06:04,990
+So banks started packaging loans
+
+167
+00:06:04,990 --> 00:06:07,390
+and selling them to investors to get the cash.
+
+168
+00:06:07,390 --> 00:06:09,410
+And it became such a big market,
+
+169
+00:06:09,410 --> 00:06:10,870
+other companies that aren’t even banks
+
+170
+00:06:10,870 --> 00:06:12,270
+got into the game.
+
+171
+00:06:12,270 --> 00:06:14,970
+According to a 2016 report,
+
+172
+00:06:14,970 --> 00:06:16,120
+shadow bank loans now make up
+
+173
+00:06:16,120 --> 00:06:19,160
+57 percent all loans in China.
+
+174
+00:06:19,160 --> 00:06:20,160
+In other words,
+
+175
+00:06:20,160 --> 00:06:22,360
+more than half of all lending in China now
+
+176
+00:06:22,360 --> 00:06:25,090
+is actually done through shadow banking!
+
+177
+00:06:25,090 --> 00:06:26,340
+And this is a big problem
+
+178
+00:06:26,340 --> 00:06:28,250
+because shadow bank loans are usually
+
+179
+00:06:28,250 --> 00:06:30,890
+a lot riskier than traditional loans.
+
+180
+00:06:30,890 --> 00:06:32,940
+Once companies start packaging and repackaging,
+
+181
+00:06:32,940 --> 00:06:37,150
+it’s easy to lose track of what the risk
+actually is.
+
+182
+00:06:37,150 --> 00:06:39,250
+It even starts to seem like a good idea,
+
+183
+00:06:39,250 --> 00:06:43,210
+like jumping out of a plane without a parachute.
+
+184
+00:06:43,210 --> 00:06:44,210
+The problem is,
+
+185
+00:06:44,210 --> 00:06:47,560
+it only works if you’re you’re Keanu Reeves,
+dude.
+
+186
+00:06:47,560 --> 00:06:50,250
+Oh, and there’s another problem.
+
+187
+00:06:50,250 --> 00:06:52,000
+Shadow banking loans don’t get recorded
+
+188
+00:06:52,000 --> 00:06:53,990
+on banks’ balance sheets.
+
+189
+00:06:53,990 --> 00:06:54,990
+That makes banks look
+
+190
+00:06:54,990 --> 00:06:56,930
+healthier than they actually are—
+
+191
+00:06:56,930 --> 00:06:59,270
+and that also increases the risk.
+
+192
+00:06:59,270 --> 00:07:00,270
+And guess what?
+
+193
+00:07:00,270 --> 00:07:02,800
+That’s exactly what happened in the US
+
+194
+00:07:02,800 --> 00:07:05,740
+leading up to the 2007 crisis.
+
+195
+00:07:05,740 --> 00:07:06,740
+Banks had been packaging
+
+196
+00:07:06,740 --> 00:07:08,800
+and repackaging home loans,
+
+197
+00:07:08,800 --> 00:07:11,310
+then selling and reselling the packages,
+
+198
+00:07:11,310 --> 00:07:13,060
+and eventually even the nerds at Lehman Brothers
+
+199
+00:07:13,060 --> 00:07:17,170
+had no idea how to calculate the risk anymore.
+
+200
+00:07:17,170 --> 00:07:19,740
+Shadow banking in the US was the lever
+
+201
+00:07:19,740 --> 00:07:22,390
+that set the global financial crisis in motion,
+
+202
+00:07:22,390 --> 00:07:24,870
+and ironically, its domino effect
+
+203
+00:07:24,870 --> 00:07:26,110
+is what led to the rise of
+
+204
+00:07:26,110 --> 00:07:28,710
+shadow banking in China.
+
+205
+00:07:28,710 --> 00:07:30,820
+And now Chinese authorities are getting worried
+
+206
+00:07:30,820 --> 00:07:32,930
+about what’s coming next.
+
+207
+00:07:32,930 --> 00:07:33,930
+In fact,
+
+208
+00:07:33,930 --> 00:07:36,460
+“Zhou Xiaochuan, the head of China’s central
+bank
+
+209
+00:07:36,460 --> 00:07:38,050
+has openly warned that authorities
+
+210
+00:07:38,050 --> 00:07:39,970
+need to curb financial risks
+
+211
+00:07:39,970 --> 00:07:42,390
+that might lead to a ‘Minsky Moment’—
+
+212
+00:07:42,390 --> 00:07:44,650
+a sudden collapse of asset prices,
+
+213
+00:07:44,650 --> 00:07:46,400
+sparked by debt or currency pressures,
+
+214
+00:07:46,400 --> 00:07:48,000
+after a long period of growth.”
+
+215
+00:07:48,680 --> 00:07:51,080
+Basically, bad debt in shadow banking
+
+216
+00:07:51,080 --> 00:07:53,800
+could end up wrecking the Chinese economy.
+
+217
+00:07:53,800 --> 00:07:55,570
+And if the Chinese economy gets wrecked,
+
+218
+00:07:55,570 --> 00:07:57,500
+it could lead to serious consequences
+
+219
+00:07:57,500 --> 00:07:58,960
+for the Chinese Communist Party.
+
+220
+00:07:58,960 --> 00:08:00,130
+You know, because no one
+
+221
+00:08:00,130 --> 00:08:02,750
+believes in that communism stuff anymore,
+
+222
+00:08:02,750 --> 00:08:04,440
+so they tell people to go make money
+
+223
+00:08:04,440 --> 00:08:06,610
+and don’t talk about politics.
+
+224
+00:08:06,610 --> 00:08:07,950
+But if people start losing their money
+
+225
+00:08:07,950 --> 00:08:09,460
+on a massive scale,
+
+226
+00:08:09,460 --> 00:08:12,600
+people might start talking about politics
+again—
+
+227
+00:08:12,600 --> 00:08:13,980
+like who’s to blame.
+
+228
+00:08:13,980 --> 00:08:17,010
+That’s why, at a top level conference in
+July,
+
+229
+00:08:17,010 --> 00:08:19,430
+Xi Jinping declared that financial security
+
+230
+00:08:19,430 --> 00:08:21,870
+was vital to national security.
+
+231
+00:08:21,870 --> 00:08:24,920
+“National security” is of course code
+for the CCP
+
+232
+00:08:24,920 --> 00:08:27,670
+securing its power over the nation.
+
+233
+00:08:27,670 --> 00:08:29,900
+But it’s not 2007 anymore.
+
+234
+00:08:29,900 --> 00:08:31,520
+It’s 2018.
+
+235
+00:08:31,520 --> 00:08:33,150
+We have iPhone 10s,
+
+236
+00:08:33,150 --> 00:08:35,630
+Johnny Depp is a Harry Potter villain,
+
+237
+00:08:35,630 --> 00:08:37,419
+and Chinese shadow banking has swelled
+
+238
+00:08:37,419 --> 00:08:40,590
+to more than $9 trillion.
+
+239
+00:08:40,590 --> 00:08:42,380
+The Chinese government can’t afford
+
+240
+00:08:42,380 --> 00:08:43,510
+to bail everyone out
+
+241
+00:08:43,510 --> 00:08:44,920
+when things go south.
+
+242
+00:08:45,260 --> 00:08:47,500
+They’re trying to rein in shadow banking.
+
+243
+00:08:47,500 --> 00:08:49,620
+But once you let the tiger out of the cage,
+
+244
+00:08:49,620 --> 00:08:50,620
+well, it...
+
+245
+00:08:50,620 --> 00:08:53,620
+I guess it runs around and eats people.
+
+246
+00:08:53,620 --> 00:08:55,930
+So what do you think of China’s shadow banking?
+
+247
+00:08:55,930 --> 00:08:57,430
+Leave your comments below.
+
+248
+00:08:57,430 --> 00:08:59,140
+Once again I’m Matt Gnaizda.
+
+249
+00:08:59,140 --> 00:09:01,520
+Now it’s time for that thing we do at the
+end.
+
+250
+00:09:03,760 --> 00:09:04,780
+You’re still here?
+
+251
+00:09:04,780 --> 00:09:05,500
+Good.
+
+252
+00:09:05,500 --> 00:09:06,120
+Don’t worry,
+
+253
+00:09:06,120 --> 00:09:08,500
+I haven’t taken over China Uncensored.
+
+254
+00:09:08,500 --> 00:09:10,020
+Chris will be back soon.
+
+255
+00:09:10,020 --> 00:09:11,080
+In the meantime,
+
+256
+00:09:11,090 --> 00:09:12,090
+if you like this show,
+
+257
+00:09:12,090 --> 00:09:13,810
+we hope you can click on this orange button
+
+258
+00:09:13,810 --> 00:09:15,150
+and support us by pledging
+
+259
+00:09:15,150 --> 00:09:17,240
+a dollar or more per episode.
+
+260
+00:09:17,240 --> 00:09:19,640
+We'll invest it in a Chinese wealth management product.
+
+261
+00:09:20,420 --> 00:09:23,160
+Click to go to our fundraising website Patreon.
+

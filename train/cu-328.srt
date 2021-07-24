@@ -1,0 +1,1122 @@
+1
+00:00:00,919 --> 00:00:03,810
+China’s military is getting stronger,
+
+2
+00:00:03,810 --> 00:00:06,279
+and it needs foreign technology.
+
+3
+00:00:06,280 --> 00:00:09,200
+Is Google helping the Chinese military?
+
+4
+00:00:14,260 --> 00:00:15,260
+Welcome back to China Uncensored.
+
+5
+00:00:15,260 --> 00:00:16,600
+I’m Chris Chappell.
+
+6
+00:00:16,600 --> 00:00:17,520
+Google.
+
+7
+00:00:17,530 --> 00:00:19,090
+It’s not the first Western company
+
+8
+00:00:19,090 --> 00:00:20,570
+to do business in China—
+
+9
+00:00:20,570 --> 00:00:22,000
+not by a long shot.
+
+10
+00:00:22,000 --> 00:00:24,620
+But when it comes to tech companies,
+
+11
+00:00:24,630 --> 00:00:26,730
+Google was always the good guy,
+
+12
+00:00:26,730 --> 00:00:27,789
+with its famous motto,
+
+13
+00:00:27,789 --> 00:00:29,720
+“Don’t be evil.”
+
+14
+00:00:29,720 --> 00:00:31,029
+That is, until Google
+
+15
+00:00:31,029 --> 00:00:34,190
+conveniently removed that motto last year.
+
+16
+00:00:34,190 --> 00:00:35,359
+And you may also remember,
+
+17
+00:00:35,359 --> 00:00:37,059
+a few months later,
+
+18
+00:00:37,059 --> 00:00:39,309
+employees leaked Google’s plans
+
+19
+00:00:39,309 --> 00:00:42,940
+to launch a censored search engine for China.
+
+20
+00:00:42,940 --> 00:00:44,960
+And then Google employees protested,
+
+21
+00:00:44,960 --> 00:00:47,530
+saying launching a censored Chinese search
+engine
+
+22
+00:00:47,530 --> 00:00:49,839
+would definitely be evil.
+
+23
+00:00:49,839 --> 00:00:51,409
+Obviously they missed the point.
+
+24
+00:00:51,409 --> 00:00:53,600
+It’s ok for Google to be evil
+
+25
+00:00:53,600 --> 00:00:55,890
+now that they’ve changed their motto!
+
+26
+00:00:55,890 --> 00:00:58,739
+Sadly, Google is under fire again.
+
+27
+00:00:58,739 --> 00:01:01,059
+This time, from President Trump.
+
+28
+00:01:01,059 --> 00:01:02,989
+And while it’s not exactly for being evil,
+
+29
+00:01:02,989 --> 00:01:05,539
+it *is* for being “terrible”.
+
+30
+00:01:05,539 --> 00:01:08,840
+“Google is helping China and their military,
+
+31
+00:01:08,840 --> 00:01:11,780
+but not the U.S. Terrible!”
+
+32
+00:01:11,780 --> 00:01:13,070
+Like many of Trump’s tweets,
+
+33
+00:01:13,070 --> 00:01:17,159
+this was met by some...skepticism from the
+media.
+
+34
+00:01:17,159 --> 00:01:20,270
+In an article called “Trump Now Just Accusing
+Google
+
+35
+00:01:20,270 --> 00:01:23,320
+of Aiding the Chinese Military, or Whatever,”
+
+36
+00:01:23,320 --> 00:01:25,340
+tech news website Gizmodo wrote that
+
+37
+00:01:25,340 --> 00:01:27,460
+“Most likely...the president heard
+
+38
+00:01:27,460 --> 00:01:30,490
+some kind of sound bite about Google and China...
+
+39
+00:01:30,490 --> 00:01:32,140
+but did not mull the specifics
+
+40
+00:01:32,140 --> 00:01:34,280
+before using it as an opportunity
+
+41
+00:01:34,280 --> 00:01:37,340
+to lob another wild accusation at the company.”
+
+42
+00:01:37,340 --> 00:01:39,509
+To be fair, it *is* hard to picture Trump
+
+43
+00:01:39,509 --> 00:01:42,429
+“mulling the specifics” before tweeting
+anything.
+
+44
+00:01:42,429 --> 00:01:46,439
+He’s more the kind of guy who tweets from
+the hip.
+
+45
+00:01:46,439 --> 00:01:49,659
+But is saying that Google is helping China’s
+military
+
+46
+00:01:49,659 --> 00:01:52,350
+just a wild accusation?
+
+47
+00:01:52,350 --> 00:01:54,640
+Some people don’t think so.
+
+48
+00:01:54,640 --> 00:01:58,700
+Like the highest-ranking military officer
+in the US.
+
+49
+00:01:58,700 --> 00:02:01,520
+“The work that Google is doing in China
+
+50
+00:02:01,520 --> 00:02:05,569
+is indirectly benefiting the Chinese military…”
+
+51
+00:02:05,569 --> 00:02:07,479
+“We watch with great concern
+
+52
+00:02:07,479 --> 00:02:09,380
+when industry partners work with China
+
+53
+00:02:09,380 --> 00:02:13,950
+knowing there is an indirect benefit,
+
+54
+00:02:13,950 --> 00:02:15,180
+frankly, indirect, may be not
+
+55
+00:02:15,180 --> 00:02:17,410
+a full categorization of the way it really
+is.
+
+56
+00:02:17,410 --> 00:02:19,980
+It's more of a direct benefit to the Chinese
+military.”
+
+57
+00:02:19,980 --> 00:02:22,151
+Google’s connections to the Chinese military
+
+58
+00:02:22,151 --> 00:02:23,420
+are not obvious.
+
+59
+00:02:23,420 --> 00:02:26,250
+It’s not like they did a blog post about
+it.
+
+60
+00:02:26,250 --> 00:02:27,250
+To be clear,
+
+61
+00:02:27,250 --> 00:02:29,650
+this is not a real Google blog post.
+
+62
+00:02:29,650 --> 00:02:31,790
+But the photo is real.
+
+63
+00:02:31,790 --> 00:02:33,400
+It was taken while Google’s CEO
+
+64
+00:02:33,400 --> 00:02:35,629
+was speaking at the very real
+
+65
+00:02:35,629 --> 00:02:38,830
+state-sponsored “Global Internet Conference”
+
+66
+00:02:38,830 --> 00:02:42,230
+held in Wuzhen, China in 2017.
+
+67
+00:02:42,230 --> 00:02:45,480
+Because nothing screams a free and open global
+internet,
+
+68
+00:02:45,480 --> 00:02:49,159
+like being sponsored by the Chinese Communist
+Party.
+
+69
+00:02:49,159 --> 00:02:50,250
+At the conference,
+
+70
+00:02:50,250 --> 00:02:53,050
+Google’s CEO told the audience that, quote
+
+71
+00:02:53,050 --> 00:02:57,920
+“A lot of work Google does is to help Chinese
+companies”.
+
+72
+00:02:57,920 --> 00:03:00,250
+And Google’s work with Chinese companies
+
+73
+00:03:00,250 --> 00:03:02,760
+is how Google—indirectly—
+
+74
+00:03:02,760 --> 00:03:04,910
+is helping China’s military.
+
+75
+00:03:04,910 --> 00:03:06,080
+Or to be more accurate,
+
+76
+00:03:06,080 --> 00:03:08,000
+China’s People’s Liberation Army,
+
+77
+00:03:08,000 --> 00:03:12,450
+which belongs directly to the Chinese Communist
+Party.
+
+78
+00:03:12,450 --> 00:03:14,299
+That same People’s Liberation Army
+
+79
+00:03:14,299 --> 00:03:16,220
+has threatened the United States,
+
+80
+00:03:16,220 --> 00:03:20,420
+and stolen untold amounts of US military secrets.
+
+81
+00:03:20,420 --> 00:03:23,140
+Looking into this, we found at least two ways
+
+82
+00:03:23,140 --> 00:03:25,580
+that Google has been indirectly supporting
+
+83
+00:03:25,580 --> 00:03:28,080
+the People’s Liberation Army—the PLA.
+
+84
+00:03:28,080 --> 00:03:30,250
+Here’s the first way.
+
+85
+00:03:30,250 --> 00:03:32,000
+Google has invested more than
+
+86
+00:03:32,000 --> 00:03:35,500
+half a billion dollars in JD.com,
+
+87
+00:03:35,500 --> 00:03:37,890
+which owns JD Logistics.
+
+88
+00:03:37,890 --> 00:03:39,290
+According to state-run media,
+
+89
+00:03:39,290 --> 00:03:41,390
+back in 2017,
+
+90
+00:03:41,390 --> 00:03:44,300
+the PLA Air Force signed a major agreement
+
+91
+00:03:44,300 --> 00:03:47,969
+to “cooperate with five Chinese non-military
+companies
+
+92
+00:03:47,969 --> 00:03:51,060
+[including JD Logistics] to upgrade
+
+93
+00:03:51,060 --> 00:03:54,500
+civil-military logistics integration.”
+
+94
+00:03:54,500 --> 00:03:56,939
+It looks like that partnership includes
+
+95
+00:03:56,939 --> 00:04:00,150
+using JD’s drones and logistics software
+
+96
+00:04:00,150 --> 00:04:02,790
+to deliver supplies for the air force.
+
+97
+00:04:02,790 --> 00:04:04,489
+Chinese “state-media hailed
+
+98
+00:04:04,489 --> 00:04:07,930
+the JD.com [PLA Air Force] partnership
+
+99
+00:04:07,930 --> 00:04:12,459
+as an ‘innovative specimen of civil-military
+fusion.’”
+
+100
+00:04:12,459 --> 00:04:15,920
+And last year JD logistics signed a similar
+agreement
+
+101
+00:04:15,920 --> 00:04:18,620
+with the PLA land forces.
+
+102
+00:04:18,620 --> 00:04:23,220
+And since Google owns half a billion dollars
+of JD.com,
+
+103
+00:04:23,220 --> 00:04:25,650
+which owns a majority share in JD Logistics,
+
+104
+00:04:25,650 --> 00:04:29,360
+it’s a bit like Google is partnering with
+the PLA.
+
+105
+00:04:29,360 --> 00:04:30,360
+Indirectly.
+
+106
+00:04:30,360 --> 00:04:32,850
+I know what you’re thinking.
+
+107
+00:04:32,850 --> 00:04:36,150
+Who cares about logistics and supply chains?
+
+108
+00:04:36,150 --> 00:04:38,940
+Besides every military in the world.
+
+109
+00:04:38,940 --> 00:04:41,860
+Anyway, I’m sure JD.com is happy to be
+
+110
+00:04:41,860 --> 00:04:43,840
+directly helping the PLA.
+
+111
+00:04:43,840 --> 00:04:46,600
+Its CEO, Liu Qiangdong,
+
+112
+00:04:46,600 --> 00:04:49,330
+is a celebrated Communist Party member.
+
+113
+00:04:49,330 --> 00:04:52,830
+And “civil-military fusion” is one of
+Xi Jinping’s
+
+114
+00:04:52,830 --> 00:04:55,600
+key national strategies right now.
+
+115
+00:04:55,600 --> 00:04:57,540
+It means private Chinese companies
+
+116
+00:04:57,540 --> 00:05:00,290
+are supposed to help the military.
+
+117
+00:05:00,290 --> 00:05:02,000
+Win-win cooperation.
+
+118
+00:05:02,000 --> 00:05:03,480
+For the military.
+
+119
+00:05:03,480 --> 00:05:06,800
+So Google is partnered with a Chinese company
+
+120
+00:05:06,800 --> 00:05:10,060
+that has strong links to the Communist Party,
+
+121
+00:05:10,060 --> 00:05:12,550
+and is helping the PLA with logistics.
+
+122
+00:05:12,550 --> 00:05:13,680
+Terrific.
+
+123
+00:05:13,680 --> 00:05:16,660
+Here’s the second way Google been
+
+124
+00:05:16,660 --> 00:05:20,280
+indirectly supporting China’s military:
+
+125
+00:05:20,280 --> 00:05:22,100
+Artificial Intelligence.
+
+126
+00:05:22,100 --> 00:05:24,970
+At the end of 2017, Google opened up
+
+127
+00:05:24,970 --> 00:05:28,690
+an Artificial Intelligence research lab in
+Beijing,
+
+128
+00:05:28,690 --> 00:05:31,310
+because “science has no borders.”
+
+129
+00:05:31,310 --> 00:05:33,250
+The Chinese military would agree,
+
+130
+00:05:33,250 --> 00:05:34,680
+because it doesn’t recognize borders
+
+131
+00:05:34,680 --> 00:05:37,350
+between civilian and military technology.
+
+132
+00:05:37,350 --> 00:05:41,380
+It’s that whole “civil-military” fusion
+thing again.
+
+133
+00:05:41,380 --> 00:05:44,880
+As former US Deputy Defense Secretary Bob
+Work said,
+
+134
+00:05:44,880 --> 00:05:48,780
+“Anything that’s going on in [Google’s
+AI center in China]
+
+135
+00:05:48,780 --> 00:05:51,990
+is going to be used by the military.”
+
+136
+00:05:51,990 --> 00:05:54,960
+And anyone who’s worked on AI programming
+knows,
+
+137
+00:05:54,960 --> 00:05:57,420
+it’s a highly collaborative process—
+
+138
+00:05:57,420 --> 00:06:01,250
+where a lot of people share data to train
+their bots.
+
+139
+00:06:01,250 --> 00:06:06,370
+So why would Google set up an AI Center in
+China?
+
+140
+00:06:06,370 --> 00:06:09,560
+Well, one reason might be that they have access
+
+141
+00:06:09,560 --> 00:06:11,770
+to huge amounts of data there,
+
+142
+00:06:11,770 --> 00:06:14,310
+and aren’t so restricted by America’s
+
+143
+00:06:14,310 --> 00:06:17,420
+or Europe’s pesky privacy laws.
+
+144
+00:06:17,420 --> 00:06:18,790
+Google is also hiring
+
+145
+00:06:18,790 --> 00:06:21,800
+a large number of local employees.
+
+146
+00:06:21,800 --> 00:06:23,210
+As of last August,
+
+147
+00:06:23,210 --> 00:06:26,750
+Google had 700 employees in China.
+
+148
+00:06:26,750 --> 00:06:28,030
+Now I don’t know for sure if Google
+
+149
+00:06:28,030 --> 00:06:30,580
+has a Communist Party branch,
+
+150
+00:06:30,580 --> 00:06:31,780
+but in theory,
+
+151
+00:06:31,780 --> 00:06:33,880
+“companies in China,
+
+152
+00:06:33,880 --> 00:06:35,470
+including foreign firms,
+
+153
+00:06:35,470 --> 00:06:39,930
+are required by law to establish a party organization.”
+
+154
+00:06:39,930 --> 00:06:42,070
+Plus Google has been encouraging
+
+155
+00:06:42,070 --> 00:06:44,740
+Chinese developers to use TensorFlow—
+
+156
+00:06:44,740 --> 00:06:49,520
+a Google software library useful for AI development.
+
+157
+00:06:49,520 --> 00:06:52,210
+As China researcher Matthew Robertson puts
+it,
+
+158
+00:06:52,210 --> 00:06:55,220
+“Aside from meeting Google’s own research
+needs,
+
+159
+00:06:55,220 --> 00:06:58,520
+[Google’s AI China Center] will without
+doubt
+
+160
+00:06:58,520 --> 00:07:03,310
+also help fertilize China’s own AI ambitions
+and talent.”
+
+161
+00:07:03,310 --> 00:07:06,440
+And China’s military is rushing to use
+
+162
+00:07:06,440 --> 00:07:07,470
+artificial intelligence—
+
+163
+00:07:07,470 --> 00:07:09,620
+so they’ll be needing that talent.
+
+164
+00:07:09,620 --> 00:07:11,520
+So while Google’s AI research in China
+
+165
+00:07:11,520 --> 00:07:14,680
+may not directly support China’s military,
+
+166
+00:07:14,680 --> 00:07:17,740
+the AI technology Google develops in China
+
+167
+00:07:17,740 --> 00:07:22,090
+will almost certainly be *used* by China’s
+military.
+
+168
+00:07:22,090 --> 00:07:23,770
+If Google doesn’t share technology
+
+169
+00:07:23,770 --> 00:07:26,210
+with the Chinese military directly,
+
+170
+00:07:26,210 --> 00:07:27,860
+its Chinese partners will.
+
+171
+00:07:27,860 --> 00:07:31,680
+I mean, how could Chinese tech companies say
+no?
+
+172
+00:07:31,680 --> 00:07:35,370
+Seriously, they’re not allowed to say no
+to the Party.
+
+173
+00:07:35,370 --> 00:07:36,620
+So there you have it:
+
+174
+00:07:36,620 --> 00:07:39,120
+Google is partnering with JD.com,
+
+175
+00:07:39,120 --> 00:07:41,370
+which partners with the PLA.
+
+176
+00:07:41,370 --> 00:07:44,220
+And Google is partnering with Chinese AI companies
+
+177
+00:07:44,220 --> 00:07:45,660
+to develop technology
+
+178
+00:07:45,660 --> 00:07:49,340
+that will be almost certainly used by the
+PLA.
+
+179
+00:07:49,340 --> 00:07:52,260
+We did reach out to Google for their response—
+
+180
+00:07:52,260 --> 00:07:54,250
+specifically about the AI Center in China
+
+181
+00:07:54,250 --> 00:07:56,270
+and their partnership with JD.com.
+
+182
+00:07:56,270 --> 00:07:59,970
+They didn’t reply about those things directly,
+
+183
+00:07:59,970 --> 00:08:02,460
+but they *did* send us this two-sentence
+
+184
+00:08:02,460 --> 00:08:04,610
+cookie-cutter statement attributable to
+
+185
+00:08:04,610 --> 00:08:06,670
+“a Google spokesperson.”
+
+186
+00:08:06,670 --> 00:08:07,670
+It says,
+
+187
+00:08:07,670 --> 00:08:09,930
+“We are not working with the Chinese military.
+
+188
+00:08:09,930 --> 00:08:11,990
+We are working with the U.S. government,
+
+189
+00:08:11,990 --> 00:08:13,810
+including the Department of Defense,
+
+190
+00:08:13,810 --> 00:08:16,170
+in many areas including cybersecurity,
+
+191
+00:08:16,170 --> 00:08:17,430
+recruiting and healthcare.”
+
+192
+00:08:17,430 --> 00:08:18,890
+No mention, though,
+
+193
+00:08:18,890 --> 00:08:22,170
+of how Google canceled Project Maven.
+
+194
+00:08:22,170 --> 00:08:24,550
+That was a partnership with the Department
+of Defense
+
+195
+00:08:24,550 --> 00:08:26,370
+that supplied imaging tools
+
+196
+00:08:26,370 --> 00:08:29,490
+used by American military drones.
+
+197
+00:08:29,490 --> 00:08:31,400
+Google stopped project Maven
+
+198
+00:08:31,400 --> 00:08:33,940
+because lots of employees protested it.
+
+199
+00:08:33,940 --> 00:08:35,620
+They didn’t want Google’s technology
+
+200
+00:08:35,620 --> 00:08:37,829
+to be used for weapons.
+
+201
+00:08:37,829 --> 00:08:39,789
+Not for American weapons at least.
+
+202
+00:08:39,789 --> 00:08:41,669
+So when Trump tweeted that
+
+203
+00:08:41,669 --> 00:08:44,379
+“Google is helping China and their military,
+
+204
+00:08:44,379 --> 00:08:45,720
+but not the U.S.
+
+205
+00:08:45,720 --> 00:08:46,720
+Terrible,”
+
+206
+00:08:46,720 --> 00:08:47,920
+he’s mostly right.
+
+207
+00:08:47,920 --> 00:08:49,430
+It is terrible.
+
+208
+00:08:49,430 --> 00:08:51,790
+Of course, Google is in a tough spot.
+
+209
+00:08:51,790 --> 00:08:53,170
+Even if it develops technology
+
+210
+00:08:53,170 --> 00:08:55,490
+entirely for private use,
+
+211
+00:08:55,490 --> 00:08:57,740
+the Chinese military can still buy it
+
+212
+00:08:57,740 --> 00:09:00,240
+or co-opt it for weapons.
+
+213
+00:09:00,240 --> 00:09:02,189
+But no one forced Google
+
+214
+00:09:02,189 --> 00:09:04,810
+to set up an office in Beijing,
+
+215
+00:09:04,810 --> 00:09:06,899
+or to partner with Chinese tech companies
+
+216
+00:09:06,899 --> 00:09:09,120
+that have ties to the Chinese military—
+
+217
+00:09:09,120 --> 00:09:10,830
+at a time when the Communist Party
+
+218
+00:09:10,830 --> 00:09:14,170
+is demanding “civil-military fusion.”
+
+219
+00:09:14,170 --> 00:09:15,579
+Now just to be clear,
+
+220
+00:09:15,579 --> 00:09:18,829
+Google is not the only US tech company
+
+221
+00:09:18,829 --> 00:09:20,740
+to have questionable dealings in China.
+
+222
+00:09:20,740 --> 00:09:24,149
+In fact, I could make a whole video out of
+that,
+
+223
+00:09:24,149 --> 00:09:25,560
+starting with Cisco,
+
+224
+00:09:25,560 --> 00:09:28,259
+which basically built China’s Great Firewall.
+
+225
+00:09:28,259 --> 00:09:29,600
+Let me know in the comments below
+
+226
+00:09:29,600 --> 00:09:31,680
+if you’d like to see that video.
+
+227
+00:09:31,680 --> 00:09:32,680
+But I think we’re all just
+
+228
+00:09:32,680 --> 00:09:35,240
+a little more disappointed in Google,
+
+229
+00:09:35,240 --> 00:09:38,540
+especially since it pulled out of China in
+2010,
+
+230
+00:09:38,540 --> 00:09:40,820
+seemingly out of principle.
+
+231
+00:09:40,820 --> 00:09:43,870
+But I guess access to that sweet, sweet China
+market
+
+232
+00:09:43,870 --> 00:09:45,649
+is one of the benefits to removing
+
+233
+00:09:45,649 --> 00:09:48,459
+“Don’t be evil” from your motto.
+
+234
+00:09:48,459 --> 00:09:50,750
+So what do you think of Google’s
+
+235
+00:09:50,750 --> 00:09:52,769
+indirect support of the Chinese military?
+
+236
+00:09:52,769 --> 00:09:54,540
+Leave your comments below.
+
+237
+00:09:54,540 --> 00:09:55,540
+And before we go,
+
+238
+00:09:55,540 --> 00:09:56,730
+it’s time for me to answer a question
+
+239
+00:09:56,730 --> 00:09:58,930
+from a fan who supports China Uncensored
+
+240
+00:09:58,930 --> 00:10:02,040
+through the crowdfunding website Patreon.
+
+241
+00:10:02,040 --> 00:10:03,240
+BlueFox asks:
+
+242
+00:10:03,240 --> 00:10:06,009
+“Hey Chris, what's your zombie plan?”
+
+243
+00:10:06,009 --> 00:10:07,879
+That’s a good question,
+
+244
+00:10:07,879 --> 00:10:09,800
+given that my last episode was about
+
+245
+00:10:09,800 --> 00:10:11,360
+China’s zombie apocalypse.
+
+246
+00:10:11,360 --> 00:10:13,770
+Well, zombie *company* apocalypse.
+
+247
+00:10:13,770 --> 00:10:15,129
+Sort of different.
+
+248
+00:10:15,129 --> 00:10:17,240
+But if there were a real zombie attack,
+
+249
+00:10:17,240 --> 00:10:18,329
+I’d just head on over to
+
+250
+00:10:18,329 --> 00:10:21,209
+the Fashion Institute of Technology in New
+York.
+
+251
+00:10:21,209 --> 00:10:24,120
+It’s ranked one of 8 buildings around the
+world
+
+252
+00:10:24,120 --> 00:10:26,720
+to help you survive the apocalypse—
+
+253
+00:10:26,720 --> 00:10:28,629
+because it has “relatively few windows
+
+254
+00:10:28,629 --> 00:10:30,490
+and is made of concrete.”
+
+255
+00:10:30,490 --> 00:10:32,110
+It sure is ugly,
+
+256
+00:10:32,110 --> 00:10:34,170
+but it’ll do in a pinch.
+
+257
+00:10:34,170 --> 00:10:36,160
+I’ll just wait there for the zombies
+
+258
+00:10:36,160 --> 00:10:38,319
+to eat the rest of New York.
+
+259
+00:10:38,319 --> 00:10:40,529
+And when they’re in a serious food coma,
+
+260
+00:10:40,529 --> 00:10:43,199
+I’ll make my way to the survivor’s colony
+in Vermont.
+
+261
+00:10:43,199 --> 00:10:44,949
+It works in movies, right?
+
+262
+00:10:44,949 --> 00:10:47,319
+Thanks for your question, BlueFox.
+
+263
+00:10:47,319 --> 00:10:49,629
+And thank *you* to all of our supporters—
+
+264
+00:10:49,629 --> 00:10:51,709
+who contribute a dollar or more per episode
+
+265
+00:10:51,709 --> 00:10:54,209
+through our Patreon website.
+
+266
+00:10:54,209 --> 00:10:56,310
+We rely mainly on your support—
+
+267
+00:10:56,310 --> 00:10:57,339
+not advertising—
+
+268
+00:10:57,340 --> 00:10:59,280
+to keep China Uncensored going.
+
+269
+00:10:59,280 --> 00:11:00,700
+Once again, I’m Chris Chappell.
+
+270
+00:11:00,700 --> 00:11:01,780
+See you next time.
+

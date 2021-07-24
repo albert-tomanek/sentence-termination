@@ -1,0 +1,1139 @@
+1
+00:00:00,130 --> 00:00:01,849
+On this episode of China Uncensored,
+
+2
+00:00:01,849 --> 00:00:04,500
+is China gaming bitcoin?
+
+3
+00:00:08,800 --> 00:00:09,860
+Hi, welcome to China Uncensored,
+
+4
+00:00:09,860 --> 00:00:11,620
+I’m your host Chris Chappell.
+
+5
+00:00:11,620 --> 00:00:12,620
+Bitcoin!
+
+6
+00:00:12,620 --> 00:00:14,150
+The money of the future.
+
+7
+00:00:14,150 --> 00:00:15,150
+Maybe.
+
+8
+00:00:15,150 --> 00:00:16,250
+Or it could all crash and burn.
+
+9
+00:00:16,250 --> 00:00:18,140
+Depends who you ask.
+
+10
+00:00:18,140 --> 00:00:20,360
+For those of you unfamiliar with it,
+
+11
+00:00:20,360 --> 00:00:22,820
+Bitcoin is a peer-to-peer cryptocurrency.
+
+12
+00:00:22,820 --> 00:00:27,159
+Which is not how this guy pays you for dinner.
+
+13
+00:00:27,159 --> 00:00:28,560
+Cryptocurrency uses cryptography
+
+14
+00:00:28,560 --> 00:00:30,229
+to secure its transactions
+
+15
+00:00:30,229 --> 00:00:32,630
+and to create more of the currency.
+
+16
+00:00:32,630 --> 00:00:34,860
+Cryptography secures information in code,
+
+17
+00:00:34,860 --> 00:00:37,030
+like the famous Enigma machines
+
+18
+00:00:37,030 --> 00:00:39,580
+used by the Nazis during World War II.
+
+19
+00:00:39,580 --> 00:00:42,080
+Nowadays, cryptography is done by computers
+
+20
+00:00:42,080 --> 00:00:44,820
+using incredibly complex math.
+
+21
+00:00:44,820 --> 00:00:46,560
+Which unlike the Enigma code,
+
+22
+00:00:46,560 --> 00:00:48,810
+can't be solved by Britain's greatest minds,
+
+23
+00:00:48,810 --> 00:00:50,960
+Sherlock Holmes and Elizabeth Swann.
+
+24
+00:00:50,960 --> 00:00:53,540
+Modern cryptography lets Bitcoin
+
+25
+00:00:53,540 --> 00:00:55,930
+operate independently from a central authority,
+
+26
+00:00:55,930 --> 00:00:57,500
+like a government or a bank,
+
+27
+00:00:57,500 --> 00:00:58,550
+because you don't need a third party
+
+28
+00:00:58,550 --> 00:01:00,820
+to validate the Bitcoin transaction.
+
+29
+00:01:00,820 --> 00:01:03,360
+And transactions can be done anonymously.
+
+30
+00:01:03,360 --> 00:01:05,329
+Bitcoin has been described as
+
+31
+00:01:05,329 --> 00:01:08,160
+the world’s most democratic currency.
+
+32
+00:01:08,160 --> 00:01:10,400
+So obviously it’s been thriving in—
+
+33
+00:01:10,400 --> 00:01:11,540
+you guessed it—
+
+34
+00:01:11,540 --> 00:01:12,540
+China.
+
+35
+00:01:12,740 --> 00:01:14,620
+According to Coin Telegraph,
+
+36
+00:01:14,620 --> 00:01:16,800
+“the majority of Bitcoin trading,
+
+37
+00:01:16,810 --> 00:01:20,700
+estimated from 50 percent to 98 percent,
+
+38
+00:01:20,700 --> 00:01:22,899
+takes place in China.”
+
+39
+00:01:22,899 --> 00:01:24,509
+This creates a problem.
+
+40
+00:01:24,509 --> 00:01:26,219
+In theory, Bitcoin can’t be controlled
+
+41
+00:01:26,219 --> 00:01:27,429
+by any government.
+
+42
+00:01:27,429 --> 00:01:28,659
+But in practice,
+
+43
+00:01:28,659 --> 00:01:30,469
+the Chinese Communist Party can have
+
+44
+00:01:30,469 --> 00:01:31,799
+a huge influence
+
+45
+00:01:31,800 --> 00:01:34,469
+on the global price of Bitcoin.
+
+46
+00:01:34,469 --> 00:01:35,720
+So if you own Bitcoin,
+
+47
+00:01:35,729 --> 00:01:37,480
+well, the value of your money can
+
+48
+00:01:37,490 --> 00:01:39,289
+be heavily influenced by the whims
+
+49
+00:01:39,289 --> 00:01:42,920
+of the world’s largest authoritarian regime.
+
+50
+00:01:42,920 --> 00:01:45,470
+Take that, democratic currency!
+
+51
+00:01:45,470 --> 00:01:48,140
+Take what happened in 2013 as an example.
+
+52
+00:01:48,149 --> 00:01:49,899
+In early September that year,
+
+53
+00:01:49,899 --> 00:01:53,560
+one Bitcoin was worth around 100 US dollars.
+
+54
+00:01:53,560 --> 00:01:54,840
+By late November,
+
+55
+00:01:54,840 --> 00:01:56,539
+that price had skyrocketed
+
+56
+00:01:56,540 --> 00:01:59,959
+to more than 1,000 dollars per Bitcoin.
+
+57
+00:01:59,960 --> 00:02:01,420
+And then overnight,
+
+58
+00:02:01,420 --> 00:02:03,440
+it came crashing down.
+
+59
+00:02:03,450 --> 00:02:04,810
+China’s central bank,
+
+60
+00:02:04,810 --> 00:02:06,229
+the People’s Bank of China,
+
+61
+00:02:06,229 --> 00:02:08,200
+told financial institutions in China
+
+62
+00:02:08,200 --> 00:02:10,580
+to suspend trading in Bitcoin
+
+63
+00:02:10,580 --> 00:02:13,170
+because it “doesn't have ‘real meaning’
+
+64
+00:02:13,170 --> 00:02:14,920
+and lacks legal protections.”
+
+65
+00:02:14,920 --> 00:02:17,500
+Funny that those same things
+
+66
+00:02:17,500 --> 00:02:18,820
+didn't stop the Chinese regime
+
+67
+00:02:18,820 --> 00:02:20,660
+from encouraging people to speculate
+
+68
+00:02:20,660 --> 00:02:22,420
+in China's stock markets.
+
+69
+00:02:22,800 --> 00:02:24,080
+But back to Bitcoin.
+
+70
+00:02:24,080 --> 00:02:25,240
+In two weeks,
+
+71
+00:02:25,240 --> 00:02:27,890
+Bitcoin lost over half its value.
+
+72
+00:02:27,890 --> 00:02:28,890
+It took a full year
+
+73
+00:02:28,890 --> 00:02:31,320
+before the price bottomed out.
+
+74
+00:02:31,320 --> 00:02:32,320
+Something similar happened again
+
+75
+00:02:32,320 --> 00:02:33,960
+in February this year.
+
+76
+00:02:33,960 --> 00:02:35,370
+The People’s Bank of China met with
+
+77
+00:02:35,370 --> 00:02:38,030
+three of China’s biggest Bitcoin exchanges,
+
+78
+00:02:38,030 --> 00:02:41,760
+BTC China, Huobi, and OKCoin.
+
+79
+00:02:41,760 --> 00:02:44,160
+The exchanges then stopped Bitcoin withdrawals
+
+80
+00:02:44,160 --> 00:02:45,960
+for four months.
+
+81
+00:02:45,960 --> 00:02:47,640
+The exchanges recently lifted the ban,
+
+82
+00:02:47,640 --> 00:02:49,000
+but during the suspension,
+
+83
+00:02:49,000 --> 00:02:50,430
+the global price of Bitcoin
+
+84
+00:02:50,430 --> 00:02:51,630
+dropped again,
+
+85
+00:02:51,630 --> 00:02:54,360
+though not as much as in 2013.
+
+86
+00:02:54,360 --> 00:02:55,630
+So why has the Chinese regime
+
+87
+00:02:55,630 --> 00:02:57,500
+been targeting Bitcoin?
+
+88
+00:02:57,500 --> 00:02:59,080
+Besides it being a democratic currency?
+
+89
+00:02:59,080 --> 00:03:01,180
+There are a few reasons.
+
+90
+00:03:01,180 --> 00:03:03,580
+First, Chinese people can use Bitcoin
+
+91
+00:03:03,580 --> 00:03:05,440
+to get their money out of China.
+
+92
+00:03:05,440 --> 00:03:07,820
+You see, the Chinese regime has limits
+
+93
+00:03:07,820 --> 00:03:09,160
+on the amount of foreign currency
+
+94
+00:03:09,160 --> 00:03:11,230
+people in China can buy—
+
+95
+00:03:11,230 --> 00:03:12,230
+because they’re worried about
+
+96
+00:03:12,230 --> 00:03:13,260
+rich Chinese people
+
+97
+00:03:13,260 --> 00:03:14,870
+moving their money out
+
+98
+00:03:14,870 --> 00:03:16,700
+and then fleeing the country.
+
+99
+00:03:16,700 --> 00:03:20,480
+But Chinese investors can buy Bitcoin in China,
+
+100
+00:03:20,480 --> 00:03:22,600
+and then later exchange that for foreign currency
+
+101
+00:03:22,600 --> 00:03:25,080
+in any amount they want.
+
+102
+00:03:25,080 --> 00:03:27,170
+Huge fortunes that might have been made through,
+
+103
+00:03:27,170 --> 00:03:28,920
+I don’t know,
+
+104
+00:03:28,930 --> 00:03:29,930
+corruption,
+
+105
+00:03:29,930 --> 00:03:31,410
+could be safely stored out of reach
+
+106
+00:03:31,410 --> 00:03:34,329
+of pesky Chinese investigators.
+
+107
+00:03:34,329 --> 00:03:36,170
+And that was why China’s central bank
+
+108
+00:03:36,170 --> 00:03:38,570
+started investigating Bitcoin exchanges
+
+109
+00:03:38,570 --> 00:03:39,950
+back in February,
+
+110
+00:03:39,950 --> 00:03:41,930
+and threatened to shut down exchanges
+
+111
+00:03:41,930 --> 00:03:43,270
+that violated rules on
+
+112
+00:03:43,270 --> 00:03:45,120
+“foreign exchange management,
+
+113
+00:03:45,120 --> 00:03:46,120
+money laundering,
+
+114
+00:03:46,120 --> 00:03:47,210
+and payment and settlement.”
+
+115
+00:03:47,210 --> 00:03:48,930
+But it’s unclear how much money
+
+116
+00:03:48,930 --> 00:03:50,840
+is actually being moved out of China
+
+117
+00:03:50,840 --> 00:03:52,180
+through Bitcoin.
+
+118
+00:03:52,180 --> 00:03:53,770
+Bitcoin transactions in China
+
+119
+00:03:53,770 --> 00:03:55,340
+are not anonymous,
+
+120
+00:03:55,340 --> 00:03:56,340
+since you have to link
+
+121
+00:03:56,340 --> 00:03:57,340
+a Chinese bank card
+
+122
+00:03:57,340 --> 00:03:59,010
+to your Bitcoin account.
+
+123
+00:03:59,010 --> 00:04:00,060
+You could move a few hundred
+
+124
+00:04:00,060 --> 00:04:01,690
+thousand yuan into Bitcoin,
+
+125
+00:04:01,690 --> 00:04:04,620
+but larger amounts would attract attention.
+
+126
+00:04:04,620 --> 00:04:05,740
+So why is there so much
+
+127
+00:04:05,750 --> 00:04:07,360
+Bitcoin trading in China?
+
+128
+00:04:07,360 --> 00:04:09,800
+Well, that brings us to the second reason
+
+129
+00:04:09,800 --> 00:04:11,630
+the Chinese regime is so interested
+
+130
+00:04:11,630 --> 00:04:13,390
+in Bitcoin.
+
+131
+00:04:13,390 --> 00:04:14,560
+Earlier I mentioned people speculating
+
+132
+00:04:14,560 --> 00:04:16,320
+in China's stock markets,
+
+133
+00:04:16,320 --> 00:04:17,320
+and since those markets
+
+134
+00:04:17,320 --> 00:04:18,910
+have cooled down,
+
+135
+00:04:18,910 --> 00:04:19,910
+guess where people
+
+136
+00:04:19,910 --> 00:04:21,200
+are putting their money now?
+
+137
+00:04:21,200 --> 00:04:22,870
+You see, in China,
+
+138
+00:04:22,870 --> 00:04:23,870
+there's not a lot of places
+
+139
+00:04:23,870 --> 00:04:25,730
+people can invest their money.
+
+140
+00:04:25,730 --> 00:04:26,889
+Which leads to things like
+
+141
+00:04:26,889 --> 00:04:28,700
+real estate bubbles.
+
+142
+00:04:28,700 --> 00:04:29,980
+Stock market bubbles.
+
+143
+00:04:29,980 --> 00:04:31,500
+And, naturally,
+
+144
+00:04:31,500 --> 00:04:33,600
+fish bladder bubbles.
+
+145
+00:04:33,600 --> 00:04:34,940
+It's like Chinese investors looked at
+
+146
+00:04:34,940 --> 00:04:36,370
+the Dutch tulip bulb craze,
+
+147
+00:04:36,370 --> 00:04:37,370
+and thought,
+
+148
+00:04:37,370 --> 00:04:38,370
+what a great idea,
+
+149
+00:04:38,370 --> 00:04:40,600
+but it needs more fish bladders.
+
+150
+00:04:40,600 --> 00:04:42,720
+Putting your money in an online cryptocurrency
+
+151
+00:04:42,720 --> 00:04:44,900
+stored on something called a blockchain
+
+152
+00:04:44,900 --> 00:04:47,060
+that can do something called forking
+
+153
+00:04:47,060 --> 00:04:48,060
+doesn't seem so crazy
+
+154
+00:04:48,060 --> 00:04:49,320
+now, does it?
+
+155
+00:04:49,320 --> 00:04:52,180
+Hmmm...Bitcoin or fish bladders?
+
+156
+00:04:52,180 --> 00:04:54,280
+Which will be the money of the future?
+
+157
+00:04:54,280 --> 00:04:56,240
+Anyway, speculation,
+
+158
+00:04:56,240 --> 00:04:57,280
+no matter the medium,
+
+159
+00:04:57,280 --> 00:04:59,220
+has the same result.
+
+160
+00:04:59,220 --> 00:05:00,260
+And many of the same things
+
+161
+00:05:00,260 --> 00:05:02,590
+that led to China's stock market collapse
+
+162
+00:05:02,590 --> 00:05:06,070
+are now happening in China's Bitcoin exchanges:
+
+163
+00:05:06,070 --> 00:05:07,070
+People dipping in and out
+
+164
+00:05:07,070 --> 00:05:08,260
+to make a quick buck,
+
+165
+00:05:08,260 --> 00:05:10,139
+leading to wild market fluctuations,
+
+166
+00:05:10,139 --> 00:05:12,280
+and risky margin trading.
+
+167
+00:05:12,280 --> 00:05:13,430
+Which is to say,
+
+168
+00:05:13,430 --> 00:05:16,210
+this will all end really well.
+
+169
+00:05:16,210 --> 00:05:17,270
+One of the Bitcoin investors
+
+170
+00:05:17,270 --> 00:05:18,710
+interviewed in this article
+
+171
+00:05:18,710 --> 00:05:21,310
+even says he can't lose money on Bitcoin
+
+172
+00:05:21,310 --> 00:05:23,480
+the same way he did on the stock market,
+
+173
+00:05:23,480 --> 00:05:24,910
+because Bitcoin's not controlled
+
+174
+00:05:24,910 --> 00:05:26,900
+by the Chinese regime.
+
+175
+00:05:26,900 --> 00:05:29,570
+Uhhhh....about that.
+
+176
+00:05:29,570 --> 00:05:31,071
+The third reason the Chinese Communist Party
+
+177
+00:05:31,071 --> 00:05:33,639
+has been targeting Bitcoin is control.
+
+178
+00:05:33,639 --> 00:05:37,120
+You see, the CCP is not out to kill Bitcoin—
+
+179
+00:05:37,120 --> 00:05:38,740
+at least not right now.
+
+180
+00:05:38,740 --> 00:05:42,139
+They just want to bend Bitcoin to their advantage.
+
+181
+00:05:42,139 --> 00:05:44,620
+But first, let’s talk about Bitcoin mining.
+
+182
+00:05:44,620 --> 00:05:45,780
+Simply put,
+
+183
+00:05:45,780 --> 00:05:47,150
+people can run powerful computers
+
+184
+00:05:47,150 --> 00:05:49,330
+to solve complex math problems
+
+185
+00:05:49,330 --> 00:05:51,990
+that validate Bitcoin transactions--
+
+186
+00:05:51,990 --> 00:05:52,990
+that's the cryptography
+
+187
+00:05:52,990 --> 00:05:54,639
+I was mentioning earlier--
+
+188
+00:05:54,639 --> 00:05:56,800
+and they're rewarded with Bitcoins.
+
+189
+00:05:56,800 --> 00:05:59,240
+This is how new Bitcoins are created.
+
+190
+00:05:59,240 --> 00:06:00,370
+But nowadays Bitcoin mining
+
+191
+00:06:00,370 --> 00:06:02,010
+requires powerful computers,
+
+192
+00:06:02,010 --> 00:06:03,240
+custom chips,
+
+193
+00:06:03,240 --> 00:06:05,390
+and lots of electricity.
+
+194
+00:06:05,390 --> 00:06:06,390
+And it turns out
+
+195
+00:06:06,390 --> 00:06:08,730
+China is home to 50 to 70 percent
+
+196
+00:06:08,730 --> 00:06:11,520
+of the world’s Bitcoin mining operations.
+
+197
+00:06:11,520 --> 00:06:12,889
+The Chinese government could, of course,
+
+198
+00:06:12,889 --> 00:06:14,200
+restrict Bitcoin mining,
+
+199
+00:06:14,200 --> 00:06:15,520
+but it doesn’t.
+
+200
+00:06:15,520 --> 00:06:16,840
+Quite the opposite.
+
+201
+00:06:16,840 --> 00:06:17,840
+In many instances
+
+202
+00:06:17,840 --> 00:06:20,420
+the government is actively supporting it.
+
+203
+00:06:20,420 --> 00:06:22,240
+According to Bitcoin Magazine,
+
+204
+00:06:22,240 --> 00:06:24,669
+major Bitcoin mines in China’s northwest
+
+205
+00:06:24,669 --> 00:06:27,290
+are being given, “access to government-supported,
+
+206
+00:06:27,290 --> 00:06:30,590
+low-cost wind and solar electricity.”
+
+207
+00:06:30,590 --> 00:06:31,900
+Powering the computer servers
+
+208
+00:06:31,900 --> 00:06:34,270
+is one of the biggest financial challenges
+
+209
+00:06:34,270 --> 00:06:36,320
+to Bitcoin mining.
+
+210
+00:06:36,320 --> 00:06:37,490
+The People’s Bank of China
+
+211
+00:06:37,490 --> 00:06:39,800
+could also be showing favor to Bitcoin.
+
+212
+00:06:39,800 --> 00:06:40,990
+A senior banking official
+
+213
+00:06:40,990 --> 00:06:43,650
+just recently published a detailed editorial
+
+214
+00:06:43,650 --> 00:06:45,460
+about all the advantages Bitcoin
+
+215
+00:06:45,460 --> 00:06:47,460
+can offer China.
+
+216
+00:06:47,460 --> 00:06:48,460
+Because if you look at it,
+
+217
+00:06:48,460 --> 00:06:50,330
+since China can have a huge impact
+
+218
+00:06:50,330 --> 00:06:51,729
+on the price of Bitcoin,
+
+219
+00:06:51,729 --> 00:06:53,580
+why wouldn’t the Chinese regime
+
+220
+00:06:53,580 --> 00:06:55,680
+use its influence over the market
+
+221
+00:06:55,680 --> 00:06:57,000
+to its advantage?
+
+222
+00:06:57,000 --> 00:06:59,659
+Here’s what the CCP could do.
+
+223
+00:06:59,659 --> 00:07:02,250
+Let’s say the Bank of China makes it known
+
+224
+00:07:02,250 --> 00:07:03,880
+they’ll be investigating
+
+225
+00:07:03,880 --> 00:07:06,770
+some major Bitcoin exchange.
+
+226
+00:07:06,770 --> 00:07:08,620
+Prices plummet.
+
+227
+00:07:08,620 --> 00:07:10,770
+Chinese officials then buy up Bitcoin
+
+228
+00:07:10,770 --> 00:07:12,480
+while the market is down.
+
+229
+00:07:12,480 --> 00:07:13,510
+And then they release a statement
+
+230
+00:07:13,510 --> 00:07:16,170
+that the Chinese government supports Bitcoin,
+
+231
+00:07:16,170 --> 00:07:19,600
+and the market skyrockets.
+
+232
+00:07:19,600 --> 00:07:20,600
+Again, that’s hypothetical,
+
+233
+00:07:20,600 --> 00:07:22,199
+but very possible.
+
+234
+00:07:22,199 --> 00:07:24,210
+Following China’s investigation earlier
+
+235
+00:07:24,210 --> 00:07:25,210
+this year,
+
+236
+00:07:25,210 --> 00:07:26,770
+the price of Bitcoin, “more than [doubled]
+
+237
+00:07:26,770 --> 00:07:29,800
+to about $2,900 over the last three months.”
+
+238
+00:07:29,800 --> 00:07:31,900
+And on top of that,
+
+239
+00:07:31,900 --> 00:07:32,900
+the Chinese regime has
+
+240
+00:07:32,900 --> 00:07:34,800
+the ultimate Sword of Damocles
+
+241
+00:07:34,800 --> 00:07:37,889
+over all Bitcoin operations in China.
+
+242
+00:07:37,889 --> 00:07:39,090
+According to CNN,
+
+243
+00:07:39,090 --> 00:07:41,870
+“Chinese regulators could clamp down on
+bitcoin
+
+244
+00:07:41,870 --> 00:07:44,639
+by classifying it as a foreign currency,
+
+245
+00:07:44,639 --> 00:07:45,900
+which would effectively limit
+
+246
+00:07:45,900 --> 00:07:47,910
+individual Bitcoin transactions
+
+247
+00:07:47,910 --> 00:07:50,699
+to $50,000 per year.”
+
+248
+00:07:50,699 --> 00:07:52,040
+So a lot of people feel they should buy
+
+249
+00:07:52,040 --> 00:07:54,990
+as much Bitcoin as they can right now.
+
+250
+00:07:54,990 --> 00:07:57,820
+Which will, of course, further drive up the
+price.
+
+251
+00:07:57,820 --> 00:08:01,090
+Possibly making some officials very rich.
+
+252
+00:08:01,090 --> 00:08:04,020
+Of course, China is not the only influence
+
+253
+00:08:04,020 --> 00:08:05,490
+on the Bitcoin market,
+
+254
+00:08:05,490 --> 00:08:07,990
+and there are also new cryptocurrencies like Ethereum,
+
+255
+00:08:07,990 --> 00:08:10,540
+that are gaining market share.
+
+256
+00:08:10,540 --> 00:08:11,540
+But the Chinese regime
+
+257
+00:08:11,540 --> 00:08:13,050
+still has a pretty big effect
+
+258
+00:08:13,050 --> 00:08:15,290
+on the global price of Bitcoin.
+
+259
+00:08:15,290 --> 00:08:16,290
+Which makes me think,
+
+260
+00:08:16,290 --> 00:08:17,820
+maybe the fish bladder market
+
+261
+00:08:17,820 --> 00:08:19,889
+is the way to go.
+
+262
+00:08:19,889 --> 00:08:20,889
+What do you think?
+
+263
+00:08:20,889 --> 00:08:22,389
+Leave your comments below.
+
+264
+00:08:22,389 --> 00:08:23,389
+And as you know,
+
+265
+00:08:23,389 --> 00:08:24,699
+China Uncensored is made possible
+
+266
+00:08:24,699 --> 00:08:27,180
+almost entirely through viewer contributions
+
+267
+00:08:27,180 --> 00:08:28,380
+and support.
+
+268
+00:08:28,380 --> 00:08:29,860
+A lot of viewers have asked us
+
+269
+00:08:29,860 --> 00:08:31,479
+to set up a Bitcoin address
+
+270
+00:08:31,479 --> 00:08:32,940
+for China Uncensored—
+
+271
+00:08:32,940 --> 00:08:34,870
+and now we have.
+
+272
+00:08:34,870 --> 00:08:35,870
+The money you contribute
+
+273
+00:08:35,870 --> 00:08:38,140
+will go to improving the show,
+
+274
+00:08:38,140 --> 00:08:39,440
+like hiring staff,
+
+275
+00:08:39,440 --> 00:08:40,440
+buying props,
+
+276
+00:08:40,440 --> 00:08:42,080
+renting studio equipment,
+
+277
+00:08:42,080 --> 00:08:44,149
+investing in fish bladders and so on.
+
+278
+00:08:44,149 --> 00:08:47,500
+The link to our Bitcoin page and address is
+below.
+
+279
+00:08:47,500 --> 00:08:48,500
+And after all,
+
+280
+00:08:48,500 --> 00:08:50,010
+if you’re putting Bitcoins into our hands,
+
+281
+00:08:50,010 --> 00:08:51,100
+it won’t be in the hands
+
+282
+00:08:51,100 --> 00:08:52,620
+of the Chinese Communist Party.
+
+283
+00:08:53,180 --> 00:08:54,540
+Once again, I’m your host, Chris Chappell.
+
+284
+00:08:54,540 --> 00:08:55,760
+See you next time.
+

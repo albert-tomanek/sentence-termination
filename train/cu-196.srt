@@ -1,0 +1,739 @@
+1
+00:00:00,280 --> 00:00:02,440
+On this episode of China Uncensored,
+
+2
+00:00:02,440 --> 00:00:05,200
+why Apple is giving in to Chinese censorship...
+
+3
+00:00:05,200 --> 00:00:06,280
+again.
+
+4
+00:00:10,560 --> 00:00:11,880
+Hi, welcome to China Uncensored.
+
+5
+00:00:11,889 --> 00:00:13,570
+I’m producer Matt Gnaizda,
+
+6
+00:00:13,570 --> 00:00:16,720
+in for Chris Chappell, who’s out on a family
+vacation.
+
+7
+00:00:16,720 --> 00:00:18,500
+Can't wait to see those photos.
+
+8
+00:00:18,500 --> 00:00:20,470
+Shot on iPhone 7.
+
+9
+00:00:20,470 --> 00:00:21,950
+Speaking of which: Apple.
+
+10
+00:00:21,950 --> 00:00:25,070
+It’s the world’s most valuable company.
+
+11
+00:00:25,070 --> 00:00:28,120
+Its iPhones are hugely popular in China.
+
+12
+00:00:28,120 --> 00:00:29,170
+But on December 23,
+
+13
+00:00:29,170 --> 00:00:31,580
+Apple made a move in China that tarnished
+
+14
+00:00:31,580 --> 00:00:32,899
+its international image.
+
+15
+00:00:32,899 --> 00:00:35,510
+Last month, government authorities asked Apple
+
+16
+00:00:35,510 --> 00:00:38,320
+to remove the English language and Chinese
+language
+
+17
+00:00:38,320 --> 00:00:39,800
+New York Times apps
+
+18
+00:00:39,800 --> 00:00:42,039
+from its Chinese iTunes store.
+
+19
+00:00:42,039 --> 00:00:43,109
+Come on!
+
+20
+00:00:43,109 --> 00:00:44,749
+First they remove the headphone jack.
+
+21
+00:00:44,749 --> 00:00:46,850
+And now, freedom of speech.
+
+22
+00:00:46,850 --> 00:00:48,100
+Not for everyone, of course.
+
+23
+00:00:48,100 --> 00:00:51,059
+Just for the one-fifth of the world’s population.
+
+24
+00:00:51,059 --> 00:00:55,010
+But this is a huge tragedy for people in China.
+
+25
+00:00:55,010 --> 00:00:57,059
+How are they going to access important news,
+
+26
+00:00:57,059 --> 00:00:58,879
+like this story about three New Yorkers
+
+27
+00:00:58,879 --> 00:01:01,070
+co-parenting a goldendoodle?
+
+28
+00:01:01,070 --> 00:01:02,070
+Or this one,
+
+29
+00:01:02,070 --> 00:01:03,550
+about how your teenager can help you pick
+
+30
+00:01:03,550 --> 00:01:06,490
+your next multimillion-dollar real estate
+property?
+
+31
+00:01:06,490 --> 00:01:07,490
+Actually,
+
+32
+00:01:07,490 --> 00:01:08,829
+with all of the rich Chinese trying to
+
+33
+00:01:08,829 --> 00:01:10,740
+park their money in US real estate,
+
+34
+00:01:10,740 --> 00:01:13,329
+that second article might actually be useful.
+
+35
+00:01:13,329 --> 00:01:14,430
+Anyway,
+
+36
+00:01:14,430 --> 00:01:15,600
+we could sit around
+
+37
+00:01:15,600 --> 00:01:17,750
+making fun of the New York Times all day.
+
+38
+00:01:17,750 --> 00:01:20,400
+And it would be so much fun.
+
+39
+00:01:20,400 --> 00:01:22,850
+But while we’ve criticized the Times in
+the past
+
+40
+00:01:22,850 --> 00:01:25,479
+for omitting certain sensitive stories
+
+41
+00:01:25,479 --> 00:01:26,840
+from its China coverage—
+
+42
+00:01:26,840 --> 00:01:30,009
+and even getting a few China stories wrong—
+
+43
+00:01:30,009 --> 00:01:32,899
+it is one of the few major US media companies
+
+44
+00:01:32,899 --> 00:01:34,750
+with reporters in China.
+
+45
+00:01:34,750 --> 00:01:37,000
+And they even publish a Chinese version.
+
+46
+00:01:37,000 --> 00:01:38,000
+Without it,
+
+47
+00:01:38,000 --> 00:01:39,409
+Chinese people lose an important perspective
+
+48
+00:01:39,409 --> 00:01:42,020
+on how the Western world views China.
+
+49
+00:01:42,020 --> 00:01:43,020
+The funny thing is,
+
+50
+00:01:43,020 --> 00:01:45,450
+this isn’t even the first time the New York
+Times
+
+51
+00:01:45,450 --> 00:01:47,869
+has been censored in China.
+
+52
+00:01:47,869 --> 00:01:49,760
+Authorities started blocking the New York
+Times website
+
+53
+00:01:49,760 --> 00:01:51,700
+back in 2012
+
+54
+00:01:51,700 --> 00:01:53,679
+after it published an exposé on the family
+
+55
+00:01:53,679 --> 00:01:55,880
+of the Chinese prime minister.
+
+56
+00:01:55,880 --> 00:01:58,570
+But Chinese censors were technologically unable
+
+57
+00:01:58,570 --> 00:02:01,719
+to block citizens from directly accessing
+New York Times articles
+
+58
+00:02:01,719 --> 00:02:03,179
+through its iPhone app.
+
+59
+00:02:03,179 --> 00:02:04,240
+Eventually, though,
+
+60
+00:02:04,240 --> 00:02:06,320
+the censors figured it out:
+
+61
+00:02:06,320 --> 00:02:08,739
+Just make Apple to do the censoring!
+
+62
+00:02:08,739 --> 00:02:10,440
+An Apple spokesman told the New York Times
+
+63
+00:02:10,440 --> 00:02:12,620
+that it removed their app because it was
+
+64
+00:02:12,620 --> 00:02:15,660
+in violation of local Chinese regulations.
+
+65
+00:02:15,660 --> 00:02:17,440
+Now you might be a bit surprised
+
+66
+00:02:17,440 --> 00:02:19,140
+that Apple would bend over backwards
+
+67
+00:02:19,140 --> 00:02:21,000
+for the Chinese authorities like this—
+
+68
+00:02:21,000 --> 00:02:22,000
+considering that,
+
+69
+00:02:22,000 --> 00:02:23,000
+last year,
+
+70
+00:02:23,000 --> 00:02:24,849
+Apple fought tooth and nail against US authorities
+
+71
+00:02:24,849 --> 00:02:26,180
+to protect user data.
+
+72
+00:02:26,180 --> 00:02:28,190
+That’s when the FBI wanted the company
+
+73
+00:02:28,190 --> 00:02:29,590
+to create a backdoor
+
+74
+00:02:29,590 --> 00:02:32,159
+so they could get into a suspect’s iPhone.
+
+75
+00:02:32,159 --> 00:02:33,940
+Eventually, Apple won.
+
+76
+00:02:33,940 --> 00:02:36,909
+In the sense that the Justice Department dropped
+the case.
+
+77
+00:02:36,909 --> 00:02:40,750
+Because the FBI figured out how to unlock
+the phone themselves.
+
+78
+00:02:40,750 --> 00:02:43,900
+After being on hold with Apple Customer Service
+for 32 days.
+
+79
+00:02:43,900 --> 00:02:45,180
+But, in China,
+
+80
+00:02:45,180 --> 00:02:49,069
+a fight with authorities wouldn’t just mean
+an expensive legal battle.
+
+81
+00:02:49,069 --> 00:02:53,370
+It would put Apple’s entire, multibillion-dollar
+future in jeopardy.
+
+82
+00:02:53,370 --> 00:02:57,080
+Because the Chinese Communist Party doesn’t
+play fair.
+
+83
+00:02:57,080 --> 00:02:58,220
+For example,
+
+84
+00:02:58,220 --> 00:02:59,900
+Apple is still fighting a ruling
+
+85
+00:02:59,900 --> 00:03:02,350
+that initially banned iPhone 6 sales
+
+86
+00:03:02,350 --> 00:03:04,150
+over a patent-infringement claim
+
+87
+00:03:04,150 --> 00:03:06,090
+by a Chinese company so small,
+
+88
+00:03:06,090 --> 00:03:08,780
+it doesn’t even have a website.
+
+89
+00:03:08,780 --> 00:03:11,790
+So in a country where the legal system is
+a joke,
+
+90
+00:03:11,790 --> 00:03:14,439
+Apple probably decided it’s easier to give
+in
+
+91
+00:03:14,439 --> 00:03:16,270
+than to fight its way out.
+
+92
+00:03:16,270 --> 00:03:18,439
+And the part Apple didn’t tell the public
+
+93
+00:03:18,439 --> 00:03:21,970
+is that it owes the Chinese regime a big favor.
+
+94
+00:03:21,970 --> 00:03:25,939
+You see, Apple and its China manufacturing
+partner Foxconn
+
+95
+00:03:25,939 --> 00:03:29,480
+took billions of dollars in government subsidies
+and perks.
+
+96
+00:03:29,480 --> 00:03:31,340
+That’s according to this damning piece
+
+97
+00:03:31,340 --> 00:03:33,290
+published in the New York Times—
+
+98
+00:03:33,290 --> 00:03:35,610
+six days after their app was removed.
+
+99
+00:03:35,610 --> 00:03:37,079
+Which is why you shouldn’t pick a fight
+
+100
+00:03:37,079 --> 00:03:38,940
+with investigative reporters.
+
+101
+00:03:38,940 --> 00:03:41,650
+Anyway, this isn’t even the first time Apple
+
+102
+00:03:41,650 --> 00:03:43,690
+has caved to the Chinese censors.
+
+103
+00:03:43,690 --> 00:03:45,140
+In 2013,
+
+104
+00:03:45,140 --> 00:03:47,541
+Apple removed an app from its Chinese App
+Store
+
+105
+00:03:47,541 --> 00:03:51,020
+that let users get around the Great Firewall
+of China.
+
+106
+00:03:51,020 --> 00:03:53,050
+They’ve also in the past removed other media
+apps
+
+107
+00:03:53,050 --> 00:03:54,050
+from their app store
+
+108
+00:03:54,050 --> 00:03:57,069
+that let Chinese people read uncensored information.
+
+109
+00:03:57,069 --> 00:04:00,770
+The New York Times is just the most high-profile
+example so far.
+
+110
+00:04:00,770 --> 00:04:05,380
+So what’s Apple’s motivation for kowtowing
+to the Chinese Communist Party?
+
+111
+00:04:05,380 --> 00:04:08,240
+This is gonna suprise you... just kidding. It's money.
+
+112
+00:04:08,250 --> 00:04:11,319
+And it’s more about sales than just the
+cheap manufacturing.
+
+113
+00:04:11,319 --> 00:04:12,629
+You see,
+
+114
+00:04:12,629 --> 00:04:15,709
+China is the world’s biggest consumer of
+iPhones.
+
+115
+00:04:15,709 --> 00:04:17,420
+As of a year ago,
+
+116
+00:04:17,420 --> 00:04:20,329
+there were 131 million iPhone users in China,
+
+117
+00:04:20,329 --> 00:04:23,330
+compared to just 110 million in the US.
+
+118
+00:04:23,330 --> 00:04:25,340
+But Apple hopes it still has a ways to go,
+
+119
+00:04:25,340 --> 00:04:28,730
+since that’s still only 17% of the Chinese
+smartphone market.
+
+120
+00:04:28,730 --> 00:04:31,570
+Yeah, there’s a lot of people in China.
+
+121
+00:04:31,570 --> 00:04:33,169
+So it seems poor Apple
+
+122
+00:04:33,169 --> 00:04:36,610
+has no choice but to do what the Chinese regime
+tells them,
+
+123
+00:04:36,610 --> 00:04:39,590
+under the excuse of following “local regulations”—
+
+124
+00:04:39,590 --> 00:04:41,030
+and to hope that keeps the door open
+
+125
+00:04:41,030 --> 00:04:43,520
+for future sales in China.
+
+126
+00:04:43,520 --> 00:04:45,100
+But if Apple thinks the Chinese regime
+
+127
+00:04:45,100 --> 00:04:47,680
+intends to let them continue to be the biggest
+smartphone
+
+128
+00:04:47,680 --> 00:04:48,840
+retailer in China,
+
+129
+00:04:48,840 --> 00:04:51,010
+they’re kidding themselves.
+
+130
+00:04:51,010 --> 00:04:54,970
+Like how eBay went to China in 2004 with big
+dreams,
+
+131
+00:04:54,970 --> 00:04:56,490
+but left with its tail between its legs
+
+132
+00:04:56,490 --> 00:04:58,419
+after Chinese website Taobao
+
+133
+00:04:58,419 --> 00:05:01,100
+pushed it out of the market.
+
+134
+00:05:01,100 --> 00:05:02,440
+Google had high hopes to be
+
+135
+00:05:02,440 --> 00:05:04,720
+the primary search engine in China,
+
+136
+00:05:04,720 --> 00:05:07,610
+and even agreed to the regime’s censorship
+requirements
+
+137
+00:05:07,610 --> 00:05:08,630
+initially—
+
+138
+00:05:08,630 --> 00:05:09,979
+only to be pushed out
+
+139
+00:05:09,979 --> 00:05:11,990
+by Chinese search engine Baidu,
+
+140
+00:05:11,990 --> 00:05:13,979
+whose co-founder is a member
+
+141
+00:05:13,979 --> 00:05:17,610
+of the Chinese government’s top advisory
+body.
+
+142
+00:05:17,610 --> 00:05:19,620
+Microsoft assumed it would keep expanding
+
+143
+00:05:19,620 --> 00:05:21,310
+Windows in China forever,
+
+144
+00:05:21,310 --> 00:05:25,210
+only to see the Chinese government take moves
+in 2014
+
+145
+00:05:25,210 --> 00:05:27,460
+to require that Windows 8 be replaced
+
+146
+00:05:27,460 --> 00:05:29,560
+with a Chinese knockoff.
+
+147
+00:05:29,560 --> 00:05:30,560
+And most recently,
+
+148
+00:05:30,560 --> 00:05:32,130
+Uber got taken for a ride
+
+149
+00:05:32,130 --> 00:05:33,270
+when it was suffocated
+
+150
+00:05:33,270 --> 00:05:34,910
+by Chinese government regulation,
+
+151
+00:05:34,910 --> 00:05:37,270
+and was forced to sell its China business
+
+152
+00:05:37,270 --> 00:05:39,290
+to a local competitor.
+
+153
+00:05:39,290 --> 00:05:42,389
+And Apple itself has gotten in trouble in
+China.
+
+154
+00:05:42,389 --> 00:05:44,509
+In addition to the iPhone 6 delay,
+
+155
+00:05:44,509 --> 00:05:46,770
+Apple’s own iTunes Movies and iBooks stores
+
+156
+00:05:46,770 --> 00:05:49,300
+were shut down by government regulators.
+
+157
+00:05:49,300 --> 00:05:52,810
+And state-run media has targeted the company
+as well.
+
+158
+00:05:52,810 --> 00:05:55,009
+So Apple already knows that their road in
+China
+
+159
+00:05:55,009 --> 00:05:56,640
+is going to be dangerous.
+
+160
+00:05:56,640 --> 00:05:58,570
+And Apple’s not exactly bulletproof—
+
+161
+00:05:58,570 --> 00:06:00,449
+unlike those Huawei phones.
+
+162
+00:06:00,449 --> 00:06:02,729
+But they’re still holding onto dreams
+
+163
+00:06:02,729 --> 00:06:04,449
+of a larger market share.
+
+164
+00:06:04,449 --> 00:06:05,449
+The thing is,
+
+165
+00:06:05,449 --> 00:06:07,410
+the Chinese regime almost certainly intends
+
+166
+00:06:07,410 --> 00:06:11,310
+to let homegrown Chinese smartphone makers
+like Huawei
+
+167
+00:06:11,310 --> 00:06:12,910
+rule in the long-term.
+
+168
+00:06:12,910 --> 00:06:14,060
+Which means that even if Apple
+
+169
+00:06:14,060 --> 00:06:16,789
+tosses its reputation into the garbage today
+
+170
+00:06:16,789 --> 00:06:19,139
+in exchange for a piece of the Chinese market,
+
+171
+00:06:19,139 --> 00:06:20,139
+in the end,
+
+172
+00:06:20,139 --> 00:06:22,150
+they’re going to get Shanghaied.
+
+173
+00:06:22,150 --> 00:06:23,150
+So what do you think?
+
+174
+00:06:23,150 --> 00:06:24,150
+Leave your comments below.
+
+175
+00:06:24,150 --> 00:06:25,830
+Once again, I’m Matt Gnaizda,
+
+176
+00:06:25,830 --> 00:06:27,510
+filling in for Chris Chappell.
+

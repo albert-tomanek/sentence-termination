@@ -1,0 +1,801 @@
+1
+00:00:00,150 --> 00:00:01,939
+On this episode of China Uncensored,
+
+2
+00:00:01,939 --> 00:00:04,170
+turns out, nuclear weapons might not be
+
+3
+00:00:04,170 --> 00:00:06,460
+North Korea’s most dangerous weapon.
+
+4
+00:00:06,460 --> 00:00:08,610
+Actually, they probably are,
+
+5
+00:00:08,610 --> 00:00:10,480
+but this is also concerning.
+
+6
+00:00:14,980 --> 00:00:16,320
+Hi, welcome to China Uncensored,
+
+7
+00:00:16,320 --> 00:00:17,970
+I’m your host Chris Chappell.
+
+8
+00:00:17,970 --> 00:00:20,119
+So you know how everyone’s been freaking
+out
+
+9
+00:00:20,119 --> 00:00:21,869
+that North Korea might develop
+
+10
+00:00:21,869 --> 00:00:24,060
+and launch a nuclear weapon?
+
+11
+00:00:24,060 --> 00:00:24,759
+Well, it turns out
+
+12
+00:00:24,759 --> 00:00:27,349
+you don’t need to worry about that.
+
+13
+00:00:27,349 --> 00:00:28,570
+You need to worry that about North Korea
+
+14
+00:00:28,570 --> 00:00:30,150
+launching a nuke
+
+15
+00:00:30,150 --> 00:00:31,349
+and possibly launching
+
+16
+00:00:31,349 --> 00:00:33,670
+global cyber attacks.
+
+17
+00:00:33,670 --> 00:00:35,760
+Since you're currently on the internet,
+
+18
+00:00:35,760 --> 00:00:38,100
+you've probably heard of the massive cyber
+attack
+
+19
+00:00:38,100 --> 00:00:40,180
+that began on May 11.
+
+20
+00:00:40,180 --> 00:00:42,190
+The magnitude of the attack here
+
+21
+00:00:42,190 --> 00:00:43,190
+is tremendous.
+
+22
+00:00:43,190 --> 00:00:44,980
+We’re talking 200,000 computers
+
+23
+00:00:44,980 --> 00:00:46,870
+across 150 different countries
+
+24
+00:00:46,870 --> 00:00:49,080
+so this is really the biggest cyber shakedown
+
+25
+00:00:49,080 --> 00:00:50,280
+in history.
+
+26
+00:00:50,280 --> 00:00:52,870
+The attack is called WannaCry,
+
+27
+00:00:52,870 --> 00:00:54,280
+which is how I feel every time
+
+28
+00:00:54,280 --> 00:00:56,600
+I look at the news these days.
+
+29
+00:00:56,600 --> 00:00:57,970
+Around the world,
+
+30
+00:00:57,970 --> 00:01:00,140
+university, business, and local government
+computers
+
+31
+00:01:00,140 --> 00:01:02,080
+were greeted with this:
+
+32
+00:01:02,080 --> 00:01:03,080
+Oops!
+
+33
+00:01:03,080 --> 00:01:05,070
+Your files have been encrypted!
+
+34
+00:01:05,070 --> 00:01:06,530
+Sorry, it was an honest mistake
+
+35
+00:01:06,530 --> 00:01:07,580
+the hackers made.
+
+36
+00:01:07,580 --> 00:01:09,140
+They’ll gladly fix it for you,
+
+37
+00:01:09,140 --> 00:01:12,510
+if you just pay them $300 in bitcoins.
+
+38
+00:01:12,510 --> 00:01:13,600
+However if you don’t,
+
+39
+00:01:13,600 --> 00:01:14,710
+three days later,
+
+40
+00:01:14,710 --> 00:01:17,330
+the price gets doubled to $600,
+
+41
+00:01:17,330 --> 00:01:18,360
+and after seven days,
+
+42
+00:01:18,360 --> 00:01:20,200
+the files are deleted.
+
+43
+00:01:20,200 --> 00:01:22,970
+It’s a type of attack called ransomware.
+
+44
+00:01:22,970 --> 00:01:25,070
+Like software, but with ransom.
+
+45
+00:01:25,070 --> 00:01:27,500
+I’m sure you understand.
+
+46
+00:01:27,500 --> 00:01:29,540
+Who’s to blame for this outrage?
+
+47
+00:01:29,540 --> 00:01:33,010
+Well, it might be North Korea.
+
+48
+00:01:33,010 --> 00:01:35,909
+Cybersecurity firm Symantec and Kaspersky
+Lab
+
+49
+00:01:35,909 --> 00:01:37,820
+have identified code in a version
+
+50
+00:01:37,820 --> 00:01:39,390
+of the WannaCry virus
+
+51
+00:01:39,390 --> 00:01:42,250
+that is linked to the Lazarus Group.
+
+52
+00:01:42,250 --> 00:01:43,479
+That's the same group that was behind
+
+53
+00:01:43,479 --> 00:01:46,640
+the Sony Pictures hack in 2014.
+
+54
+00:01:46,640 --> 00:01:49,340
+They're also known for stealing 81 million
+dollars
+
+55
+00:01:49,340 --> 00:01:51,320
+from Bangladesh's central bank.
+
+56
+00:01:51,320 --> 00:01:54,430
+And they work for North Korea.
+
+57
+00:01:54,430 --> 00:01:55,760
+That isn't enough to say this attack
+
+58
+00:01:55,760 --> 00:01:58,170
+was definitely done by North Korea.
+
+59
+00:01:58,170 --> 00:01:59,170
+For example,
+
+60
+00:01:59,170 --> 00:02:01,159
+some experts say this ransomware attack
+
+61
+00:02:01,159 --> 00:02:02,890
+isn't how North Korean hackers
+
+62
+00:02:02,890 --> 00:02:04,830
+usually operate.
+
+63
+00:02:04,830 --> 00:02:06,580
+Or that it's possible that other hackers
+
+64
+00:02:06,580 --> 00:02:09,619
+just borrowed the code from Lazarus.
+
+65
+00:02:09,619 --> 00:02:10,619
+Which makes the dark web
+
+66
+00:02:10,619 --> 00:02:13,370
+sound like the kind of friendly neighborhood
+
+67
+00:02:13,370 --> 00:02:16,739
+where your next-door hacker can ring your
+computer
+
+68
+00:02:16,739 --> 00:02:19,689
+and ask to borrow a cup of code.
+
+69
+00:02:19,689 --> 00:02:20,689
+The point is,
+
+70
+00:02:20,689 --> 00:02:22,799
+we don't know for certain that North Korea
+
+71
+00:02:22,799 --> 00:02:24,879
+is behind WannaCry.
+
+72
+00:02:24,879 --> 00:02:26,499
+But one good thing that's come out of this
+
+73
+00:02:26,499 --> 00:02:29,230
+is now people are paying way more attention
+
+74
+00:02:29,230 --> 00:02:32,669
+to the danger of North Korean cyber attacks,
+
+75
+00:02:32,669 --> 00:02:35,159
+thanks to the sudden media focus.
+
+76
+00:02:35,159 --> 00:02:36,379
+Unless you're talking about the focus
+
+77
+00:02:36,379 --> 00:02:38,359
+of Chinese state-run media.
+
+78
+00:02:38,359 --> 00:02:40,090
+Which are blaming another country f
+
+79
+00:02:40,090 --> 00:02:42,150
+or the cyber attacks.
+
+80
+00:02:42,150 --> 00:02:43,520
+Guess which one?
+
+81
+00:02:43,520 --> 00:02:44,980
+China Daily says,
+
+82
+00:02:44,980 --> 00:02:47,379
+“the US National Security Agency
+
+83
+00:02:47,379 --> 00:02:49,480
+must shoulder some of the blame.”
+
+84
+00:02:49,480 --> 00:02:50,560
+Oh great,
+
+85
+00:02:50,560 --> 00:02:52,349
+it involves the NSA.
+
+86
+00:02:52,349 --> 00:02:54,340
+That's so embarrassing.
+
+87
+00:02:54,340 --> 00:02:55,639
+My favorite state-run media,
+
+88
+00:02:55,639 --> 00:02:56,879
+the Global Times, said,
+
+89
+00:02:56,879 --> 00:02:58,819
+“Many criticized the U.S. government,
+
+90
+00:02:58,819 --> 00:03:00,260
+saying that it was responsible
+
+91
+00:03:00,260 --> 00:03:02,310
+for this spread of ransomware.
+
+92
+00:03:02,310 --> 00:03:05,860
+Obviously this accusation is reasonable.”
+
+93
+00:03:05,860 --> 00:03:07,060
+Obviously.
+
+94
+00:03:07,080 --> 00:03:09,280
+Just as reasonable as the People’s Daily
+
+95
+00:03:09,280 --> 00:03:15,480
+comparing it to the hacking scene in Die Hard 4.
+
+96
+00:03:15,489 --> 00:03:20,359
+Yes, they did.
+
+97
+00:03:20,359 --> 00:03:21,919
+How, you ask,
+
+98
+00:03:21,919 --> 00:03:23,620
+is the NSA responsible
+
+99
+00:03:23,620 --> 00:03:25,629
+for this cyber attack?
+
+100
+00:03:25,629 --> 00:03:28,239
+Apparently, the NSA has been exploiting
+
+101
+00:03:28,239 --> 00:03:31,120
+a flaw in Microsoft Windows for years,
+
+102
+00:03:31,120 --> 00:03:34,000
+with a hacking tool known as EternalBlue,
+
+103
+00:03:34,000 --> 00:03:35,499
+which is also how I feel every time
+
+104
+00:03:35,499 --> 00:03:36,840
+I look at the news.
+
+105
+00:03:36,840 --> 00:03:40,319
+Apparently, a hacking group called The Shadow
+Brokers
+
+106
+00:03:40,319 --> 00:03:41,659
+got their hands on it
+
+107
+00:03:41,659 --> 00:03:43,900
+and made it public last month.
+
+108
+00:03:43,900 --> 00:03:46,159
+And that’s how the alleged North Korean
+hackers
+
+109
+00:03:46,159 --> 00:03:48,359
+were able to pull this off.
+
+110
+00:03:48,359 --> 00:03:49,359
+Allegedly.
+
+111
+00:03:49,359 --> 00:03:51,620
+So, the NSA messed up.
+
+112
+00:03:51,620 --> 00:03:54,109
+But that’s not the whole story.
+
+113
+00:03:54,109 --> 00:03:55,409
+Let's back up for a moment
+
+114
+00:03:55,409 --> 00:03:58,040
+and talk about North Korean hackers.
+
+115
+00:03:58,040 --> 00:04:00,569
+The reason that hackers like the Lazarus Group
+
+116
+00:04:00,569 --> 00:04:03,430
+are able to pull off massive cyber attacks
+
+117
+00:04:03,430 --> 00:04:05,659
+is thanks to decades of training,
+
+118
+00:04:05,659 --> 00:04:06,659
+Internet access,
+
+119
+00:04:06,659 --> 00:04:07,879
+and office space
+
+120
+00:04:07,879 --> 00:04:10,159
+that was given to North Korea by—
+
+121
+00:04:10,159 --> 00:04:11,739
+you guessed it—
+
+122
+00:04:11,739 --> 00:04:12,790
+China.
+
+123
+00:04:12,790 --> 00:04:13,829
+Oops.
+
+124
+00:04:13,829 --> 00:04:16,979
+Yes, according to North Korean defectors,
+
+125
+00:04:16,979 --> 00:04:18,660
+China is largely responsible
+
+126
+00:04:18,660 --> 00:04:20,750
+for the growth of North Korea’s
+
+127
+00:04:20,750 --> 00:04:22,950
+cyber espionage abilities.
+
+128
+00:04:22,950 --> 00:04:24,780
+And they learned well.
+
+129
+00:04:24,780 --> 00:04:27,060
+According to the Korea Institute of Liberal
+Democracy
+
+130
+00:04:27,060 --> 00:04:28,069
+in Seoul,
+
+131
+00:04:28,069 --> 00:04:31,889
+“Today, an elite squad of 6,800 North Korean
+state hackers
+
+132
+00:04:31,889 --> 00:04:33,940
+are engaged in fraud, blackmail
+
+133
+00:04:33,940 --> 00:04:36,000
+and online gambling that together
+
+134
+00:04:36,000 --> 00:04:39,810
+generate annual revenue of $860 million.”
+
+135
+00:04:39,810 --> 00:04:42,250
+It’s the only way the poor,
+
+136
+00:04:42,250 --> 00:04:43,789
+starving leaders of North Korea
+
+137
+00:04:43,789 --> 00:04:45,050
+can fund themselves
+
+138
+00:04:45,050 --> 00:04:46,810
+with those mean old sanctions
+
+139
+00:04:46,810 --> 00:04:48,510
+the UN put on them.
+
+140
+00:04:48,510 --> 00:04:50,680
+That, plus gunrunning,
+
+141
+00:04:50,680 --> 00:04:51,879
+jewel smuggling, illegal gambling,
+
+142
+00:04:51,879 --> 00:04:53,610
+counterfeiting, and dealing drugs
+
+143
+00:04:53,610 --> 00:04:57,060
+out of its embassies worldwide.
+
+144
+00:04:57,060 --> 00:04:59,090
+And again, North Korea’s hacking skills
+
+145
+00:04:59,090 --> 00:05:01,840
+are thanks largely to decades of support
+
+146
+00:05:01,840 --> 00:05:04,270
+from the Chinese Communist Party.
+
+147
+00:05:04,270 --> 00:05:05,479
+So it’s ironic that the country
+
+148
+00:05:05,479 --> 00:05:07,430
+hardest hit by WannaCry—
+
+149
+00:05:07,430 --> 00:05:09,979
+which, even if not done by North Korea,
+
+150
+00:05:09,979 --> 00:05:12,330
+definitely used North Korean code—
+
+151
+00:05:12,330 --> 00:05:13,500
+was China!
+
+152
+00:05:13,500 --> 00:05:16,870
+I bet he does wanna cry.
+
+153
+00:05:16,870 --> 00:05:17,870
+The Global Times says
+
+154
+00:05:17,870 --> 00:05:20,180
+“about 40,000 [Chinese] institutions
+
+155
+00:05:20,180 --> 00:05:21,430
+have been affected;
+
+156
+00:05:21,430 --> 00:05:23,930
+of those, 4,000 were academic,
+
+157
+00:05:23,930 --> 00:05:25,330
+including Tsinghua University
+
+158
+00:05:25,330 --> 00:05:27,340
+and Peking University.”
+
+159
+00:05:27,340 --> 00:05:28,340
+So if the Chinese regime
+
+160
+00:05:28,340 --> 00:05:30,110
+gave so much support and training
+
+161
+00:05:30,110 --> 00:05:32,259
+to North Korean hackers in the past,
+
+162
+00:05:32,259 --> 00:05:34,729
+why would North Korea want to cyber attack
+
+163
+00:05:34,729 --> 00:05:36,380
+the hand that feeds it?
+
+164
+00:05:36,380 --> 00:05:37,819
+Isn’t that sort of evidence
+
+165
+00:05:37,819 --> 00:05:39,340
+it might not be North Korea
+
+166
+00:05:39,340 --> 00:05:40,759
+behind the attack?
+
+167
+00:05:40,759 --> 00:05:43,680
+Well, not necessarily.
+
+168
+00:05:43,680 --> 00:05:45,689
+Relations between China and North Korea
+
+169
+00:05:45,689 --> 00:05:48,080
+are increasingly bitter.
+
+170
+00:05:48,080 --> 00:05:49,080
+Former Chinese leader
+
+171
+00:05:49,080 --> 00:05:51,639
+and Super Ghouls and Ghosts wannabe, Jiang
+Zemin
+
+172
+00:05:51,639 --> 00:05:53,190
+was awkwardly close
+
+173
+00:05:53,190 --> 00:05:55,130
+with Kim Jong-Un’s daddy,
+
+174
+00:05:55,130 --> 00:05:57,460
+but current leaders Xi Jinping and Kim Jong-Un
+
+175
+00:05:57,460 --> 00:05:59,080
+are not even friends.
+
+176
+00:05:59,080 --> 00:06:03,039
+They haven’t even had a state visit.
+
+177
+00:06:03,039 --> 00:06:04,990
+And now Xi Jinping is apparently working
+
+178
+00:06:04,990 --> 00:06:06,740
+with President Trump,
+
+179
+00:06:06,740 --> 00:06:08,919
+so I wouldn’t be surprised if Kim
+
+180
+00:06:08,919 --> 00:06:11,509
+is a bit jealous.
+
+181
+00:06:11,509 --> 00:06:12,509
+But there could be
+
+182
+00:06:12,509 --> 00:06:14,129
+other explanations, too:
+
+183
+00:06:14,129 --> 00:06:15,430
+It could have been a cyber attack
+
+184
+00:06:15,430 --> 00:06:17,849
+that unexpectedly hit computers in China
+
+185
+00:06:17,849 --> 00:06:21,250
+in a way that North Korea didn’t intend.
+
+186
+00:06:21,250 --> 00:06:22,889
+Or it could possibly have not been
+
+187
+00:06:22,889 --> 00:06:24,560
+North Korea at all.
+
+188
+00:06:24,560 --> 00:06:25,639
+Either way,
+
+189
+00:06:25,639 --> 00:06:28,960
+it probably wasn’t a good long-term strategy
+for China
+
+190
+00:06:28,960 --> 00:06:32,030
+to be training North Korean hackers.
+
+191
+00:06:32,030 --> 00:06:33,939
+What do you think about North Korea’s new
+
+192
+00:06:33,939 --> 00:06:34,939
+weapon,
+
+193
+00:06:34,939 --> 00:06:35,939
+and the attack on China?
+
+194
+00:06:35,939 --> 00:06:37,689
+Leave your comments below.
+
+195
+00:06:37,689 --> 00:06:39,669
+Thanks for watching this episode of China
+Uncensored.
+
+196
+00:06:39,669 --> 00:06:41,210
+Once again I’m your host, Chris Chappell,
+
+197
+00:06:41,210 --> 00:06:42,340
+see you next time.
+

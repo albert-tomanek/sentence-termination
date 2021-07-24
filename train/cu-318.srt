@@ -1,0 +1,629 @@
+1
+00:00:14,340 --> 00:00:15,480
+Welcome back to China Uncensored.
+
+2
+00:00:15,480 --> 00:00:17,040
+I’m Chris Chappell.
+
+3
+00:00:17,040 --> 00:00:19,500
+This episode has been sponsored by Surfshark.
+
+4
+00:00:19,500 --> 00:00:21,220
+Protect your privacy online.
+
+5
+00:00:21,220 --> 00:00:24,720
+Now, my team of high-powered market researchers
+
+6
+00:00:24,720 --> 00:00:26,880
+has told me I need to make China Uncensored
+
+7
+00:00:26,880 --> 00:00:29,180
+more appealing to Generation Z.
+
+8
+00:00:29,180 --> 00:00:33,059
+And that’s why I joined “The Tick Tock.”
+
+9
+00:00:33,059 --> 00:00:35,340
+It’s just “TikTok.”
+
+10
+00:00:35,340 --> 00:00:36,870
+Fine. “TikTok.”
+
+11
+00:00:36,870 --> 00:00:40,650
+TikTok has 500 million active users worldwide,
+
+12
+00:00:40,650 --> 00:00:43,210
+including pretty much everyone under 25.
+
+13
+00:00:43,210 --> 00:00:44,210
+It’s...fire.
+
+14
+00:00:44,210 --> 00:00:51,350
+Who are you? How did you even get in here?
+
+15
+00:00:51,350 --> 00:00:57,920
+Look. I get that Tik Tok is the coolest new
+app.
+
+16
+00:00:57,920 --> 00:01:01,800
+Or littest. Or most Gucci, fam.
+
+17
+00:01:01,800 --> 00:01:04,170
+I hate myself right now.
+
+18
+00:01:04,170 --> 00:01:05,680
+But the biggest problem,
+
+19
+00:01:05,680 --> 00:01:07,580
+other than my own looming mortality,
+
+20
+00:01:07,580 --> 00:01:11,650
+is that TikTok is owned by a Chinese company.
+
+21
+00:01:11,650 --> 00:01:15,450
+Back in 2017, a Chinese company called ByteDance
+
+22
+00:01:15,450 --> 00:01:17,820
+bought the social media app Musical.ly
+
+23
+00:01:17,820 --> 00:01:20,130
+for close to one billion dollars.
+
+24
+00:01:20,130 --> 00:01:21,800
+Musical.ly was based in Shanghai,
+
+25
+00:01:21,800 --> 00:01:24,080
+but had its most users in the US,
+
+26
+00:01:24,080 --> 00:01:26,670
+where it caught on with American teens.
+
+27
+00:01:26,670 --> 00:01:30,510
+Then they merged Musical.ly’s userbase into
+TikTok,
+
+28
+00:01:30,510 --> 00:01:33,690
+and that allowed them to slide TikTok into
+the US market.
+
+29
+00:01:33,690 --> 00:01:34,950
+Now, you might think,
+
+30
+00:01:34,950 --> 00:01:37,730
+“So what if TikTok is owned by a Chinese
+company?”
+
+31
+00:01:37,730 --> 00:01:41,740
+Well, if you’re worried about “FBI Man”
+watching you...
+
+32
+00:01:41,740 --> 00:01:46,410
+...you should be way more concerned about
+“MSS Man” watching you.
+
+33
+00:01:46,410 --> 00:01:49,940
+MSS is China’s Ministry of State Security.
+
+34
+00:01:49,940 --> 00:01:53,060
+They’re seriously scary dudes.
+
+35
+00:01:53,060 --> 00:01:56,610
+Or whatever zoomers call dudes these days.
+
+36
+00:01:56,610 --> 00:02:00,140
+And China has very different laws about data
+privacy.
+
+37
+00:02:00,140 --> 00:02:04,010
+Namely, in China, there’s no privacy.
+
+38
+00:02:04,010 --> 00:02:07,209
+Chinese law says Chinese companies that collect
+user data
+
+39
+00:02:07,209 --> 00:02:11,530
+have to share that data with the Chinese government
+upon request.
+
+40
+00:02:11,530 --> 00:02:16,820
+It’s not that Chinese authorities actively
+monitor every user’s data in real time,
+
+41
+00:02:16,820 --> 00:02:21,440
+but “The reality is that if and when Beijing
+makes a demand,
+
+42
+00:02:21,440 --> 00:02:25,540
+it is hard for Chinese-based companies to
+say no.”
+
+43
+00:02:25,540 --> 00:02:29,400
+And that’s why it might be concerning that
+a Chinese company—
+
+44
+00:02:29,400 --> 00:02:31,750
+ByteDance—owns TikTok,
+
+45
+00:02:31,750 --> 00:02:36,180
+since TikTok collects so much user data.
+
+46
+00:02:36,180 --> 00:02:38,640
+That data includes your username,
+
+47
+00:02:38,640 --> 00:02:41,129
+what you like, where you are in the world,
+
+48
+00:02:41,129 --> 00:02:42,599
+what’s being recorded by your
+
+49
+00:02:42,599 --> 00:02:46,200
+camera and microphone, et cetera.
+
+50
+00:02:46,200 --> 00:02:50,069
+And it’s not just *me speculating* about
+security risks.
+
+51
+00:02:50,069 --> 00:02:55,739
+The US government has just opened a national
+security investigation into TikTok.
+
+52
+00:02:55,739 --> 00:02:58,379
+The investigation is led by CFIUS—
+
+53
+00:02:58,379 --> 00:03:01,730
+the Committee on Foreign Investment in the
+United States.
+
+54
+00:03:01,730 --> 00:03:05,380
+CFIUS is an interdepartmental group of federal
+government agencies.
+
+55
+00:03:05,380 --> 00:03:08,099
+It investigates—and sometimes blocks—
+
+56
+00:03:08,099 --> 00:03:12,090
+deals by foreign companies that might pose
+a risk to US national security.
+
+57
+00:03:12,090 --> 00:03:17,879
+For example, last year CFIUS blocked Chinese-owned
+Ant Financial
+
+58
+00:03:17,879 --> 00:03:21,450
+from buying financial services company MoneyGram.
+
+59
+00:03:21,450 --> 00:03:24,540
+CFIUS also blocked IDG Energy Investment
+
+60
+00:03:24,540 --> 00:03:28,300
+from buying a bunch of oil and gas assets
+in Texas.
+
+61
+00:03:28,300 --> 00:03:32,690
+And now CFIUS is forcing a Chinese company
+to sell Grindr,
+
+62
+00:03:32,690 --> 00:03:34,349
+a gay dating app.
+
+63
+00:03:34,349 --> 00:03:38,390
+Chinese gaming company Kunlun Tech had purchased
+Grindr last year,
+
+64
+00:03:38,390 --> 00:03:41,209
+without going through a CFIUS review.
+
+65
+00:03:41,209 --> 00:03:44,900
+CFIUS didn’t disclose specifically why the
+Chinese buyout of Grindr
+
+66
+00:03:44,900 --> 00:03:47,590
+was a national security concern.
+
+67
+00:03:47,590 --> 00:03:49,459
+But I can just imagine what would happen
+
+68
+00:03:49,459 --> 00:03:51,659
+if the Chinese intelligence service
+
+69
+00:03:51,659 --> 00:03:53,969
+knew private information about Americans—
+
+70
+00:03:53,969 --> 00:03:57,690
+like who’s gay, who’s HIV-positive,
+
+71
+00:03:57,690 --> 00:04:03,019
+and had access to the, um, “pics” that
+may *occasionally*
+
+72
+00:04:03,019 --> 00:04:06,639
+get sent by men using the Grindr app.
+
+73
+00:04:06,639 --> 00:04:09,159
+Imagine all the blackmail opportunities.
+
+74
+00:04:09,159 --> 00:04:11,689
+Anyway, back to TikTok.
+
+75
+00:04:11,689 --> 00:04:12,689
+Earlier this year,
+
+76
+00:04:12,689 --> 00:04:16,250
+there were also some concerns about TikTok’s
+censorship.
+
+77
+00:04:16,250 --> 00:04:18,320
+It came after the Guardian got its hands
+
+78
+00:04:18,320 --> 00:04:21,590
+on TikTok’s content moderation policy.
+
+79
+00:04:21,590 --> 00:04:24,040
+It showed TikTok had been censoring content
+
+80
+00:04:24,040 --> 00:04:27,020
+that was embarrassing to the Chinese regime.
+
+81
+00:04:27,020 --> 00:04:29,510
+For example, there were reports that videos
+about
+
+82
+00:04:29,510 --> 00:04:33,080
+the Hong Kong protests were being either blocked
+completely,
+
+83
+00:04:33,080 --> 00:04:36,030
+or quietly labeled as “visible to self”,
+
+84
+00:04:36,030 --> 00:04:38,040
+so other users couldn’t see them.
+
+85
+00:04:38,040 --> 00:04:40,780
+And this applied to the American app TikTok,
+
+86
+00:04:40,780 --> 00:04:42,210
+not the Chinese version,
+
+87
+00:04:42,210 --> 00:04:44,289
+which goes by a different name.
+
+88
+00:04:44,289 --> 00:04:47,150
+But it seems that since May this year,
+
+89
+00:04:47,150 --> 00:04:52,250
+TikTok has changed its policies to distance
+itself from Beijing.
+
+90
+00:04:52,250 --> 00:04:55,720
+TikTok now claims that it not censor content....
+
+91
+00:04:55,720 --> 00:04:59,389
+...while also not specifically admitting that
+they ever did.
+
+92
+00:04:59,389 --> 00:05:02,490
+In an official statement, TikTok said,
+
+93
+00:05:02,490 --> 00:05:06,730
+“[Their] data centers are located entirely
+outside of China,
+
+94
+00:05:06,730 --> 00:05:09,650
+and none of [their] data is subject to Chinese
+law.”
+
+95
+00:05:09,650 --> 00:05:11,949
+They also said, “[they] have never been
+asked
+
+96
+00:05:11,949 --> 00:05:14,910
+by the Chinese government to remove any content
+
+97
+00:05:14,910 --> 00:05:17,660
+and [they] would not do so if asked.”
+
+98
+00:05:17,660 --> 00:05:19,840
+Which is funny, because ByteDance,
+
+99
+00:05:19,840 --> 00:05:21,669
+the company that owns TikTok,
+
+100
+00:05:21,669 --> 00:05:25,270
+is completely governed by Chinese law.
+
+101
+00:05:25,270 --> 00:05:28,419
+That means the Chinese government could in
+theory
+
+102
+00:05:28,419 --> 00:05:33,490
+require ByteDance to require TikTok to give
+up user information.
+
+103
+00:05:33,490 --> 00:05:37,020
+Which means TikTok would give it to ByteDance,
+
+104
+00:05:37,020 --> 00:05:39,520
+which would give it to the Chinese government.
+
+105
+00:05:39,520 --> 00:05:41,830
+But I see no reason why the US government
+
+106
+00:05:41,830 --> 00:05:45,480
+should ban a Chinese-owned social media app.
+
+107
+00:05:45,480 --> 00:05:47,300
+Even though the *Chinese* government bans
+
+108
+00:05:47,300 --> 00:05:50,449
+pretty much all *American* social media apps,
+
+109
+00:05:50,449 --> 00:05:52,000
+like Twitter and Facebook.
+
+110
+00:05:52,000 --> 00:05:54,910
+But still, CFIUS is investigating TikTok
+
+111
+00:05:54,910 --> 00:05:58,190
+as a potential a national security risk.
+
+112
+00:05:58,190 --> 00:05:59,770
+CFIUS just won’t reveal why,
+
+113
+00:05:59,770 --> 00:06:05,220
+since they “[do not] comment on information
+relating to specific...cases.”
+
+114
+00:06:05,220 --> 00:06:07,639
+There are few things that could happen after
+this review process.
+
+115
+00:06:07,639 --> 00:06:09,710
+CFIUS could decide TikTok is a risk,
+
+116
+00:06:09,710 --> 00:06:13,040
+and ban it outright. That’s unlikely.
+
+117
+00:06:13,040 --> 00:06:15,550
+CFIUS could decide that TikTok’s owner,
+
+118
+00:06:15,550 --> 00:06:18,400
+Bytedance, needs to sell off TikTok to an
+American company.
+
+119
+00:06:18,400 --> 00:06:20,410
+That’s what happened with Grindr—
+
+120
+00:06:20,410 --> 00:06:21,960
+although the difference is that TikTok
+
+121
+00:06:21,960 --> 00:06:24,819
+wasn’t an American company to begin with.
+
+122
+00:06:24,819 --> 00:06:27,460
+Or CFIUS could decide there’s no problem.
+
+123
+00:06:27,460 --> 00:06:29,750
+And then TikTok would be free to do...
+
+124
+00:06:29,750 --> 00:06:31,090
+whatever TikTok does.
+
+125
+00:06:31,090 --> 00:06:34,970
+Because frankly, I still don’t get the appeal.
+
+126
+00:06:34,970 --> 00:06:37,440
+What are you still doing here?!
+
+127
+00:06:37,440 --> 00:06:41,789
+Anyway, this episode has been sponsored by
+Surfshark.
+
+128
+00:06:41,789 --> 00:06:44,120
+You should be using a VPN whenever you go
+online.
+
+129
+00:06:44,120 --> 00:06:46,300
+I mean, you don’t want Chinese companies
+
+130
+00:06:46,300 --> 00:06:50,199
+monitoring what you do on the internet, do
+you?
+
+131
+00:06:50,199 --> 00:06:51,750
+Surfshark can also help prevent hackers,
+
+132
+00:06:51,750 --> 00:06:53,260
+the US government,
+
+133
+00:06:53,260 --> 00:06:54,599
+or your internet service provider
+
+134
+00:06:54,599 --> 00:06:57,069
+from learning who or where you are.
+
+135
+00:06:57,069 --> 00:06:59,370
+And if you want to post subversive videos
+to TikTok
+
+136
+00:06:59,370 --> 00:07:01,770
+in a country that won’t let you...
+
+137
+00:07:01,770 --> 00:07:05,160
+you can use Surfshark’s NoBorders™ mode
+to get around it.
+
+138
+00:07:05,160 --> 00:07:08,639
+Plus with Surfshark, you can connect as many
+devices as you want.
+
+139
+00:07:08,639 --> 00:07:11,199
+Try it out with a 30-day money back guarantee.
+
+140
+00:07:11,199 --> 00:07:13,650
+Plus Surfshark has a special discount
+
+141
+00:07:13,650 --> 00:07:16,919
+for China Uncensored fans for Black Friday.
+
+142
+00:07:16,919 --> 00:07:21,389
+Go to Surfshark.com/uncensored and use the
+code UNCENSORED
+
+143
+00:07:21,389 --> 00:07:26,900
+to get 83% off a 2-year plan and three additional
+months free.
+
+144
+00:07:26,900 --> 00:07:28,960
+Protect yourself online. Click the link below.
+
+145
+00:07:28,960 --> 00:07:30,640
+Once again, I’m Chris Chappell.
+
+146
+00:07:30,640 --> 00:07:31,540
+See you next time.
+

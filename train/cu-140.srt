@@ -1,0 +1,1028 @@
+1
+00:00:00,120 --> 00:00:02,749
+The world is freaking out about Huawei
+
+2
+00:00:02,749 --> 00:00:05,040
+The Chinese telecom giant
+
+3
+00:00:05,040 --> 00:00:08,440
+Many countries are labelling it a national
+security risk.
+
+4
+00:00:12,620 --> 00:00:13,600
+Welcome to China Uncensored,
+
+5
+00:00:13,600 --> 00:00:15,009
+I’m Chris Chappell.
+
+6
+00:00:15,009 --> 00:00:17,470
+In December, at the US’s request,
+
+7
+00:00:17,470 --> 00:00:20,860
+Canada arrested the now infamous CFO of Huawei,
+
+8
+00:00:20,860 --> 00:00:22,120
+Meng Wanzhou.
+
+9
+00:00:22,120 --> 00:00:23,120
+Why?
+
+10
+00:00:23,120 --> 00:00:26,400
+Well, according to China’s ambassador to
+Canada,
+
+11
+00:00:26,400 --> 00:00:27,400
+white supremacy.
+
+12
+00:00:27,400 --> 00:00:29,440
+Ok, to be fair,
+
+13
+00:00:29,440 --> 00:00:31,660
+the ambassador said that the white supremacy
+
+14
+00:00:31,660 --> 00:00:33,630
+wasn’t about arresting Meng,
+
+15
+00:00:33,630 --> 00:00:36,699
+it was about arresting Meng and then complaining
+about
+
+16
+00:00:36,699 --> 00:00:40,190
+the Chinese regime arresting two Canadians.
+
+17
+00:00:40,190 --> 00:00:42,289
+Because if you respect the Canadian legal
+system
+
+18
+00:00:42,289 --> 00:00:44,670
+but don’t respect the Chinese legal system,
+
+19
+00:00:44,670 --> 00:00:47,839
+that’s definitely because you’re a white
+supremacist.
+
+20
+00:00:47,839 --> 00:00:51,609
+Or...maybe it’s because the Canadian legal
+system
+
+21
+00:00:51,609 --> 00:00:53,399
+looks like this:
+
+22
+00:00:53,399 --> 00:00:54,690
+While the Chinese legal system
+
+23
+00:00:54,690 --> 00:00:56,390
+looks like this:
+
+24
+00:00:56,390 --> 00:00:59,190
+Yeah, even the Chinese ambassador
+
+25
+00:00:59,190 --> 00:01:02,019
+would rather be arrested under the Canadian
+legal system
+
+26
+00:01:02,019 --> 00:01:03,929
+than the Chinese legal system.
+
+27
+00:01:03,929 --> 00:01:06,960
+He just can’t say that because he has to
+go back to China,
+
+28
+00:01:06,960 --> 00:01:09,020
+and...he doesn’t want to get arrested there.
+
+29
+00:01:09,020 --> 00:01:12,760
+Now, what’s been lost amid the diplomatic
+brouhaha
+
+30
+00:01:12,760 --> 00:01:15,400
+is the reason the US asked Canada
+
+31
+00:01:15,400 --> 00:01:18,410
+to extradite Meng Wanzhou in the first place:
+
+32
+00:01:18,410 --> 00:01:20,890
+that Meng and Huawei had tricked banks
+
+33
+00:01:20,890 --> 00:01:23,710
+into violating US sanctions on Iran
+
+34
+00:01:23,710 --> 00:01:26,890
+by using shell companies owned by Huawei
+
+35
+00:01:26,890 --> 00:01:29,340
+to secretly do business in Iran.
+
+36
+00:01:29,340 --> 00:01:32,920
+So when banks handled Huawei’s financial
+transactions,
+
+37
+00:01:32,920 --> 00:01:36,360
+they were accidentally doing business with
+Iran, too.
+
+38
+00:01:36,360 --> 00:01:37,700
+And after Meng’s arrest,
+
+39
+00:01:37,700 --> 00:01:39,390
+even more evidence has been found
+
+40
+00:01:39,390 --> 00:01:41,950
+tying Huawei to these companies.
+
+41
+00:01:41,950 --> 00:01:44,200
+Now countries around the world have known
+for years
+
+42
+00:01:44,200 --> 00:01:46,970
+about some of the sketchy dealings of Huawei.
+
+43
+00:01:46,970 --> 00:01:49,280
+Not the least of which are shady connections
+
+44
+00:01:49,280 --> 00:01:50,980
+to the Chinese Communist Party
+
+45
+00:01:50,980 --> 00:01:53,770
+and potential national security concerns.
+
+46
+00:01:53,770 --> 00:01:55,410
+But Huawei is also the world’s
+
+47
+00:01:55,410 --> 00:01:57,750
+largest telecommunications company,
+
+48
+00:01:57,750 --> 00:02:00,060
+which makes closing the door on Huawei
+
+49
+00:02:00,060 --> 00:02:03,970
+a little challenging when financial interest
+is on the line.
+
+50
+00:02:03,970 --> 00:02:10,100
+So here are how 8 different countries have
+dealt with Huawei.
+
+51
+00:02:10,100 --> 00:02:11,239
+Number 8
+
+52
+00:02:11,239 --> 00:02:12,400
+India
+
+53
+00:02:12,400 --> 00:02:14,799
+After the arrest of Huawei’s CFO,
+
+54
+00:02:14,799 --> 00:02:17,069
+India’s telecom export body requested
+
+55
+00:02:17,069 --> 00:02:20,430
+a ban on Huawei products for government services,
+
+56
+00:02:20,430 --> 00:02:22,769
+citing national security concerns.
+
+57
+00:02:22,769 --> 00:02:25,400
+But India’s telecom minister said the government
+
+58
+00:02:25,400 --> 00:02:27,209
+would not look into a ban.
+
+59
+00:02:27,209 --> 00:02:29,900
+I mean, you can’t ban a company
+
+60
+00:02:29,900 --> 00:02:33,389
+that could be building your country’s 5G
+network, right?!
+
+61
+00:02:33,389 --> 00:02:36,540
+Huawei will be one of several companies participating
+
+62
+00:02:36,540 --> 00:02:40,709
+in trials to secure permission to build India’s
+5G network.
+
+63
+00:02:40,709 --> 00:02:41,959
+Don’t worry,
+
+64
+00:02:41,959 --> 00:02:43,659
+an Indian official said they would put
+
+65
+00:02:43,659 --> 00:02:46,139
+all the necessary safeguards in place
+
+66
+00:02:46,139 --> 00:02:48,440
+before allowing access to core networks.
+
+67
+00:02:48,440 --> 00:02:51,340
+So India’s stance?
+
+68
+00:02:51,340 --> 00:02:53,629
+Officials are concerned about Huawei.
+
+69
+00:02:53,629 --> 00:02:57,340
+But the have no plans to block Huawei from
+government use,
+
+70
+00:02:57,340 --> 00:03:01,040
+or from their 5G network
+
+71
+00:03:01,040 --> 00:03:03,959
+Number 7
+
+72
+00:03:03,959 --> 00:03:04,959
+Germany
+
+73
+00:03:04,959 --> 00:03:05,959
+Germany’s technology watch dog
+
+74
+00:03:05,959 --> 00:03:07,560
+doesn’t think Huawei is a threat.
+
+75
+00:03:07,560 --> 00:03:08,560
+In fact,
+
+76
+00:03:08,560 --> 00:03:10,909
+all three of Germany’s major telecom companies
+
+77
+00:03:10,909 --> 00:03:12,959
+use Huawei equipment.
+
+78
+00:03:12,959 --> 00:03:14,140
+Later this year,
+
+79
+00:03:14,140 --> 00:03:16,220
+Germany will also be auctioning off contracts
+
+80
+00:03:16,220 --> 00:03:18,159
+to build its 5G network.
+
+81
+00:03:18,159 --> 00:03:20,859
+And Huawei wants to play a major role.
+
+82
+00:03:20,859 --> 00:03:23,359
+Nevertheless, some German officials have launched
+
+83
+00:03:23,359 --> 00:03:26,019
+a last ditch bid to convince the government
+
+84
+00:03:26,019 --> 00:03:28,829
+to ban Huawei from the 5G market.
+
+85
+00:03:28,829 --> 00:03:31,019
+But for now, the German government as a whole
+
+86
+00:03:31,019 --> 00:03:35,510
+is happy to have Huawei everywhere.
+
+87
+00:03:35,510 --> 00:03:36,540
+Number 6
+
+88
+00:03:36,540 --> 00:03:37,540
+France
+
+89
+00:03:37,540 --> 00:03:40,430
+When it comes to the war for 5G networks,
+
+90
+00:03:40,430 --> 00:03:42,269
+France has not surrendered.
+
+91
+00:03:42,269 --> 00:03:43,819
+According to Bloomberg,
+
+92
+00:03:43,819 --> 00:03:48,150
+France is considering targeting Huawei as
+a security concern.
+
+93
+00:03:48,150 --> 00:03:50,189
+France is also looking to build 5G networks.
+
+94
+00:03:50,189 --> 00:03:53,849
+And it’s moving to make parts of its telecoms
+infrastructure
+
+95
+00:03:53,849 --> 00:03:55,340
+inaccessible to Huawei.
+
+96
+00:03:55,340 --> 00:03:58,590
+“France’s largest telecoms operator, Orange,
+
+97
+00:03:58,590 --> 00:04:02,609
+won’t use Huawei equipment in its 5G network.”
+
+98
+00:04:02,609 --> 00:04:06,180
+Other major telecoms have said they’ll look
+into similar moves.
+
+99
+00:04:06,180 --> 00:04:12,439
+But as of now France has no internal government
+ban on Huawei.
+
+100
+00:04:12,439 --> 00:04:13,439
+Number 5
+
+101
+00:04:13,439 --> 00:04:14,709
+Japan
+
+102
+00:04:14,709 --> 00:04:16,229
+The nation that brought us Gundams
+
+103
+00:04:16,229 --> 00:04:18,579
+has decided it doesn’t need Huawei,
+
+104
+00:04:18,579 --> 00:04:21,290
+at least as far as government contracts go,
+
+105
+00:04:21,290 --> 00:04:23,389
+because of security risks.
+
+106
+00:04:23,389 --> 00:04:27,099
+The new Japanese guidelines don’t specifically
+mention Huawei,
+
+107
+00:04:27,099 --> 00:04:30,349
+but are designed to prevent leaks of sensitive
+information.
+
+108
+00:04:30,349 --> 00:04:31,560
+The guidelines cover,
+
+109
+00:04:31,560 --> 00:04:33,350
+“purchases of personal computers,
+
+110
+00:04:33,350 --> 00:04:35,419
+servers and telecommunications equipment
+
+111
+00:04:35,419 --> 00:04:37,660
+by the government and Self-Defense Forces
+
+112
+00:04:37,660 --> 00:04:41,400
+over concerns that viruses embedded in the
+equipment
+
+113
+00:04:41,400 --> 00:04:45,450
+could cause systems to fail or could leak
+sensitive information,
+
+114
+00:04:45,450 --> 00:04:48,820
+including military operations, to China.”
+
+115
+00:04:48,820 --> 00:04:53,009
+Japan’s telecom carriers are also saying
+no to Huawei.
+
+116
+00:04:53,009 --> 00:04:57,830
+So Huawei is not getting a lot of love in
+Japan.
+
+117
+00:04:57,830 --> 00:04:58,830
+Number 4
+
+118
+00:04:58,830 --> 00:04:59,830
+The United Kingdom
+
+119
+00:04:59,830 --> 00:05:04,120
+Huawei is also interested in the UK’s 5G
+network.
+
+120
+00:05:04,120 --> 00:05:06,509
+And a few days after Meng Wanzhou’s arrest,
+
+121
+00:05:06,509 --> 00:05:07,819
+Huawei agreed to address
+
+122
+00:05:07,819 --> 00:05:11,370
+the British government’s security concerns.
+
+123
+00:05:11,370 --> 00:05:14,330
+However, a major British telecom company,
+
+124
+00:05:14,330 --> 00:05:15,330
+BT Group,
+
+125
+00:05:15,330 --> 00:05:19,509
+said it won’t use Huawei equipment for its
+core 5G network
+
+126
+00:05:19,509 --> 00:05:23,819
+and has also begun removing Huawei equipment
+from its 4G network.
+
+127
+00:05:23,819 --> 00:05:25,270
+MI6—British intelligence—
+
+128
+00:05:25,270 --> 00:05:28,389
+has singled out Huawei as a potential security
+risk.
+
+129
+00:05:28,389 --> 00:05:30,610
+But officially, Huawei is not banned
+
+130
+00:05:30,610 --> 00:05:35,069
+for government officials or 5G networks.
+
+131
+00:05:35,069 --> 00:05:36,069
+Number 3
+
+132
+00:05:36,069 --> 00:05:37,930
+New Zealand
+
+133
+00:05:37,930 --> 00:05:40,169
+Just days before Meng’s arrest,
+
+134
+00:05:40,169 --> 00:05:43,490
+New Zealand banned Huawei from the nation’s
+5G network,
+
+135
+00:05:43,490 --> 00:05:45,920
+citing “significant national security risks.”
+
+136
+00:05:45,920 --> 00:05:47,909
+New Zealand’s intelligence agency
+
+137
+00:05:47,909 --> 00:05:50,520
+also rejected a proposal from Spark,
+
+138
+00:05:50,520 --> 00:05:52,940
+one of the country’s biggest telecom carriers,
+
+139
+00:05:52,940 --> 00:05:56,580
+to use Huawei gear in its 5G network.
+
+140
+00:05:56,580 --> 00:05:59,130
+Given that the Chinese regime is influencing
+New Zealand
+
+141
+00:05:59,130 --> 00:06:01,240
+‘at every level of society’,
+
+142
+00:06:01,240 --> 00:06:02,909
+It’s pretty impressive that New Zealand
+
+143
+00:06:02,909 --> 00:06:07,860
+is coming out strong against the use of Huawei.
+
+144
+00:06:07,860 --> 00:06:09,360
+Number 2
+
+145
+00:06:09,360 --> 00:06:10,729
+Australia
+
+146
+00:06:10,729 --> 00:06:12,750
+Australia is also very concerned.
+
+147
+00:06:12,750 --> 00:06:13,840
+Back in August,
+
+148
+00:06:13,840 --> 00:06:15,050
+Australia banned Huawei
+
+149
+00:06:15,050 --> 00:06:18,370
+and another major Chinese telecom company,
+ZTE,
+
+150
+00:06:18,370 --> 00:06:21,240
+from building its 5G network.
+
+151
+00:06:21,240 --> 00:06:22,930
+The initial statement targeted firms
+
+152
+00:06:22,930 --> 00:06:26,189
+“who are likely to be subject to extrajudicial
+directions
+
+153
+00:06:26,189 --> 00:06:27,699
+from a foreign government,”
+
+154
+00:06:27,699 --> 00:06:30,310
+but did not mention Huawei or ZTE by name.
+
+155
+00:06:30,310 --> 00:06:33,840
+I mean, it could be about any company, amirite?
+
+156
+00:06:33,840 --> 00:06:35,660
+Except that it’s pretty obvious,
+
+157
+00:06:35,660 --> 00:06:38,310
+and also an Australian government official
+told Reuters
+
+158
+00:06:38,310 --> 00:06:42,610
+that it was in fact targeted at Huawei and
+ZTE.
+
+159
+00:06:42,610 --> 00:06:47,500
+So Australia, also coming out strong.
+
+160
+00:06:47,500 --> 00:06:48,500
+Number 1
+
+161
+00:06:48,500 --> 00:06:49,500
+The United States
+
+162
+00:06:49,500 --> 00:06:51,930
+Amurica has always been number 1.
+
+163
+00:06:51,930 --> 00:06:54,970
+Especially when it comes to raising concerns
+over Huawei.
+
+164
+00:06:54,970 --> 00:06:57,640
+In fact, this whole case with Meng Wanzhou
+
+165
+00:06:57,640 --> 00:07:00,759
+came out of investigations into Huawei leadership
+
+166
+00:07:00,759 --> 00:07:04,680
+that the US government began way back in 2010.
+
+167
+00:07:04,680 --> 00:07:06,199
+And during those investigations
+
+168
+00:07:06,199 --> 00:07:09,740
+“F.B.I. agents grew concerned that company
+officers
+
+169
+00:07:09,740 --> 00:07:12,830
+were working on behalf of the Chinese government.”
+
+170
+00:07:12,830 --> 00:07:15,830
+Meanwhile US lawmakers have been calling Huawei
+
+171
+00:07:15,830 --> 00:07:19,780
+a security risk since at least 2012.
+
+172
+00:07:19,780 --> 00:07:21,530
+And laws restricting Huawei
+
+173
+00:07:21,530 --> 00:07:22,530
+from equipping government agencies
+
+174
+00:07:22,530 --> 00:07:25,430
+began in 2013.
+
+175
+00:07:25,430 --> 00:07:28,870
+Last year “six major U.S. intelligence heads—
+
+176
+00:07:28,870 --> 00:07:32,090
+including the FBI, CIA, and NSA—
+
+177
+00:07:32,090 --> 00:07:33,520
+warned Americans against using
+
+178
+00:07:33,520 --> 00:07:36,370
+products and services from Huawei.”
+
+179
+00:07:36,370 --> 00:07:40,050
+And the US has been pushing other countries
+to follow its lead.
+
+180
+00:07:40,050 --> 00:07:42,900
+And more of Huawei’s shady dealings are
+coming to light,
+
+181
+00:07:42,900 --> 00:07:45,360
+like Poland arresting a Huawei executive
+
+182
+00:07:45,360 --> 00:07:49,560
+for spying right before we recorded this episode.
+
+183
+00:07:49,560 --> 00:07:52,550
+And more and more countries are beginning
+to pay attention.
+
+184
+00:07:52,550 --> 00:07:53,550
+So America:
+
+185
+00:07:53,550 --> 00:07:55,060
+We’re number 1...
+
+186
+00:07:55,060 --> 00:07:56,419
+at blocking Huawei.
+
+187
+00:07:56,419 --> 00:07:58,560
+So what do you think about Huawei?
+
+188
+00:07:58,560 --> 00:08:01,069
+Should it be banned or allowed in your country?
+
+189
+00:08:01,069 --> 00:08:03,199
+And are you watching this on your Huawei phone?
+
+190
+00:08:03,199 --> 00:08:05,060
+Leave your comments below.
+
+191
+00:08:05,060 --> 00:08:06,870
+And don’t forget to subscribe to China Uncensored
+
+192
+00:08:06,870 --> 00:08:08,490
+and turn that notification bell on
+
+193
+00:08:08,490 --> 00:08:10,990
+so you get messages about new episodes.
+
+194
+00:08:10,990 --> 00:08:12,430
+But before you go.
+
+195
+00:08:12,430 --> 00:08:14,440
+Now it's the time when I answer a question
+
+196
+00:08:14,440 --> 00:08:17,560
+from a fan who makes China Uncensored possible
+
+197
+00:08:17,560 --> 00:08:21,409
+by contributing through the crowd funding
+website Patreon.
+
+198
+00:08:21,409 --> 00:08:22,979
+William Adderholdt asks,
+
+199
+00:08:22,979 --> 00:08:25,789
+“I was surprised to read in the newspapers
+
+200
+00:08:25,789 --> 00:08:29,319
+that the Chinese government forcibly suppressed
+observations
+
+201
+00:08:29,319 --> 00:08:34,370
+by Marxist student groups of Mao's December
+26 birthday.
+
+202
+00:08:34,370 --> 00:08:37,310
+What is the government's official position
+on Marxism and Mao,
+
+203
+00:08:37,310 --> 00:08:39,019
+and what is their actual position?”
+
+204
+00:08:39,019 --> 00:08:41,539
+Haha, that’s a good question.
+
+205
+00:08:41,539 --> 00:08:43,530
+In case you don’t know,
+
+206
+00:08:43,530 --> 00:08:45,519
+November saw a pretty big crackdown
+
+207
+00:08:45,519 --> 00:08:49,829
+on student Marxist groups in major cities
+throughout China.
+
+208
+00:08:49,829 --> 00:08:51,380
+Now officially, the Chinese Communist Party
+
+209
+00:08:51,380 --> 00:08:54,990
+loves and venerates Marx and Mao and Lenin
+
+210
+00:08:54,990 --> 00:08:57,200
+and all the other greats of Communism.
+
+211
+00:08:57,200 --> 00:08:58,200
+Except for Stalin.
+
+212
+00:08:58,200 --> 00:09:00,190
+It’s because of the mustache.
+
+213
+00:09:00,190 --> 00:09:03,220
+What is the Party’s actual position on Marxism?
+
+214
+00:09:03,220 --> 00:09:05,230
+I would say that it’s not that different
+
+215
+00:09:05,230 --> 00:09:07,100
+from their official position.
+
+216
+00:09:07,100 --> 00:09:09,650
+But the crackdown over the student Marxist
+groups
+
+217
+00:09:09,650 --> 00:09:12,050
+isn’t over who believes in communism more,
+
+218
+00:09:12,050 --> 00:09:13,050
+the state or the students.
+
+219
+00:09:13,050 --> 00:09:16,000
+It’s over the fact that only the Chinese
+Communist Party
+
+220
+00:09:16,000 --> 00:09:19,420
+is allowed to control communism in China.
+
+221
+00:09:19,420 --> 00:09:21,560
+If you’re going to protest in China,
+
+222
+00:09:21,560 --> 00:09:25,040
+doing it in the name of Marxism won’t protect
+you,
+
+223
+00:09:25,040 --> 00:09:27,670
+because you’re organizing outside of the
+party-state.
+
+224
+00:09:27,670 --> 00:09:31,200
+In the end, communism was never about creating
+
+225
+00:09:31,200 --> 00:09:33,380
+a better, more equal world.
+
+226
+00:09:33,380 --> 00:09:35,310
+That was just a facade to convince the masses
+
+227
+00:09:35,310 --> 00:09:37,100
+to overthrow the elite,
+
+228
+00:09:37,100 --> 00:09:39,950
+and ultimately give power to a small group
+of
+
+229
+00:09:39,950 --> 00:09:43,240
+what turned out to be incredibly bad people.
+
+230
+00:09:43,240 --> 00:09:45,260
+Every country that implemented communism
+
+231
+00:09:45,260 --> 00:09:48,590
+quickly became a brutal authoritarian state.
+
+232
+00:09:48,590 --> 00:09:51,110
+So remember, the only people in communist
+China
+
+233
+00:09:51,110 --> 00:09:54,060
+who can talk about overthrowing the elite
+are...
+
+234
+00:09:54,060 --> 00:09:55,720
+the communist elite.
+
+235
+00:09:55,720 --> 00:09:57,720
+Thanks for the question William.
+
+236
+00:09:57,720 --> 00:09:59,260
+And if you’d to have a shot at getting
+
+237
+00:09:59,260 --> 00:10:01,400
+your question answered on the show,
+
+238
+00:10:01,400 --> 00:10:04,470
+sign up to become a member of the China Uncensored
+50-cent army
+
+239
+00:10:04,470 --> 00:10:07,190
+by supporting the show with a dollar or more
+per episode
+
+240
+00:10:07,190 --> 00:10:09,610
+through the crowd funding website Patreon.
+
+241
+00:10:09,610 --> 00:10:11,180
+Thanks for watching China Uncensored.
+
+242
+00:10:11,180 --> 00:10:12,320
+Once again I’m Chris Chappell.
+
+243
+00:10:12,320 --> 00:10:13,440
+See you next time.
+

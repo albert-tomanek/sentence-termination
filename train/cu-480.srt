@@ -1,0 +1,515 @@
+1
+00:00:00,800 --> 00:00:03,200
+China declares war on Bitcoin.
+
+2
+00:00:03,840 --> 00:00:04,400
+Their reason?
+
+3
+00:00:05,040 --> 00:00:06,240
+Not what you’d expect...
+
+4
+00:00:12,640 --> 00:00:14,880
+Welcome to China Uncensored, I’m Chris Chappell.
+
+5
+00:00:15,680 --> 00:00:19,680
+Good news! The Chinese Communist\h
+Party has found something new\h\h
+
+6
+00:00:19,680 --> 00:00:25,920
+to declare war on. This time it’s\h
+crypto mining. Stirring wider fear...
+
+7
+00:00:26,560 --> 00:00:30,320
+...into a porridge of peril.
+
+8
+00:00:31,520 --> 00:00:35,680
+This is a big deal for Bitcoin, which\h
+is the most popular cryptocurrency.\h
+
+9
+00:00:36,400 --> 00:00:42,640
+That’s because “China accounts for around\h
+65% of all Bitcoin mining globally.”
+
+10
+00:00:42,640 --> 00:00:44,560
+“In comparison, the United States accounts\h\h
+
+11
+00:00:44,560 --> 00:00:48,080
+for 7.2% of global Bitcoin mining.” 
+I’ll explain why that is in a bit.\h
+
+12
+00:00:48,960 --> 00:00:52,640
+But the Chinese Communist\h
+Party is not a fan of Bitcoin.
+
+13
+00:00:53,520 --> 00:00:58,800
+“Bitcoin are created and moved around not\h
+by a central bank or financial institution\h\h
+
+14
+00:00:58,800 --> 00:01:04,000
+but by a broad and disparate network of\h
+computers,” on what’s called a blockchain.\h
+
+15
+00:01:04,560 --> 00:01:12,240
+Bitcoin operates entirely outside of China’s\h
+Central Bank or Communist Party control. It gives\h\h
+
+16
+00:01:12,240 --> 00:01:17,040
+Chinese people a way to use money completely\h
+free from oversight by the government.
+
+17
+00:01:17,760 --> 00:01:21,280
+So if you’re, say, a Chinese\h
+dissident, the Communist Party\h\h
+
+18
+00:01:21,280 --> 00:01:26,720
+can make the bank freeze your savings account.\h
+But they can’t freeze your Bitcoin assets.
+
+19
+00:01:27,920 --> 00:01:34,080
+But that’s not why the Communist Party is cracking\h
+down on Bitcoin mining. No, no, no. It's cracking\h\h
+
+20
+00:01:34,080 --> 00:01:40,320
+down, because the Communist Party wants to\h
+save the environment. More after the break.
+
+21
+00:01:42,880 --> 00:01:48,080
+Welcome back. Unless you didn’t see an ad,\h
+in which case YouTube may have demonetized\h\h
+
+22
+00:01:48,080 --> 00:01:54,240
+us. That’s why China Uncensored relies\h
+mainly on viewer support. Which reminds me,\h\h
+
+23
+00:01:54,240 --> 00:02:01,360
+did you know we accept Bitcoin? Visit\h
+chinauncensored.tv/support to learn more.
+
+24
+00:02:02,080 --> 00:02:05,840
+So China has declared war on crypto mining.
+
+25
+00:02:06,400 --> 00:02:10,720
+In order to help the environment,\h
+you see. You might be thinking—WHAT?!\h\h
+
+26
+00:02:13,120 --> 00:02:14,880
+Well, it makes total sense.
+
+27
+00:02:14,880 --> 00:02:20,080
+Simply put, Bitcoin mining is a process\h
+where people can run powerful computers\h\h
+
+28
+00:02:20,080 --> 00:02:24,720
+to solve complex math problems\h
+that validate Bitcoin transactions.\h\h
+
+29
+00:02:25,360 --> 00:02:29,360
+They're rewarded with Bitcoins. This\h
+is how new Bitcoins are created.\h
+
+30
+00:02:30,000 --> 00:02:36,160
+And the computers doing that Bitcoin\h
+mining requires a huge amount of energy,\h\h
+
+31
+00:02:36,160 --> 00:02:39,600
+more than entire countries\h
+like Ukraine and Argentina.
+
+32
+00:02:40,160 --> 00:02:45,520
+And as I said, China makes up about\h
+65% of all Bitcoin mining globally.\h
+
+33
+00:02:46,080 --> 00:02:53,680
+And the Chinese region of Inner Mongolia alone\h
+“accounts for about 8%, due to its cheap energy.”
+
+34
+00:02:53,680 --> 00:02:58,640
+Which is why Inner Mongolia is\h
+not only banning Bitcoin mining,\h\h
+
+35
+00:02:58,640 --> 00:03:02,000
+but also banning any new digital coin projects.
+
+36
+00:03:02,560 --> 00:03:05,440
+You see, Chinese leader Xi Jinping promised,\h\h
+
+37
+00:03:06,480 --> 00:03:14,400
+promised the UN that China will be\h
+carbon neutral within four decades.
+
+38
+00:03:15,120 --> 00:03:20,160
+You can make that kind of long-term promise\h
+when you have the power to rule indefinitely.
+
+39
+00:03:20,160 --> 00:03:22,880
+But becoming carbon neutral is going to be tough,\h\h
+
+40
+00:03:22,880 --> 00:03:27,520
+considering China burns more coal\h
+than the rest of the world combined.
+
+41
+00:03:28,640 --> 00:03:32,960
+So yeah, Xi could have reined in the\h
+number of new coal plants they’re building.
+
+42
+00:03:33,520 --> 00:03:37,040
+But banning Bitcoin mining instead—that\h
+just makes so much more sense.\h\h
+
+43
+00:03:37,760 --> 00:03:40,240
+For purely environmental reasons.\h
+
+44
+00:03:41,600 --> 00:03:48,160
+A few weeks ago, China’s top economic planner\h
+released this statement blasting Inner Mongolia\h\h
+
+45
+00:03:48,160 --> 00:03:50,000
+not meeting energy targets.
+
+46
+00:03:50,640 --> 00:03:54,480
+So they had to ban Bitcoin mining\h
+you see. For the environment.
+
+47
+00:03:55,680 --> 00:03:58,480
+This has led to a surge in the price of Bitcoin.
+
+48
+00:03:59,600 --> 00:04:01,600
+Did I mention we take Bitcoin?
+
+49
+00:04:02,800 --> 00:04:05,840
+So you can see, the Chinese\h
+Communist Party has nothing\h\h
+
+50
+00:04:05,840 --> 00:04:09,360
+at all against Bitcoin or other cryptocurrency.
+
+51
+00:04:10,000 --> 00:04:16,720
+In fact, they love the idea so much, the\h
+Party wants to make its own digital currency!
+
+52
+00:04:17,840 --> 00:04:18,960
+More after the break.
+
+53
+00:04:21,760 --> 00:04:22,480
+Welcome back.
+
+54
+00:04:23,360 --> 00:04:26,800
+So I wouldn’t want you to think the\h
+Chinese Communist Party has something\h\h
+
+55
+00:04:26,800 --> 00:04:31,120
+against Bitcoin. Sure they’ve\h
+declared war on Bitcoin mining.
+
+56
+00:04:31,680 --> 00:04:35,600
+And in 2017 they banned cryptocurrency exchanges.
+
+57
+00:04:36,640 --> 00:04:38,720
+For the environment…?
+
+58
+00:04:40,080 --> 00:04:42,560
+But as the New York Times recently reported,\h\h
+
+59
+00:04:42,560 --> 00:04:49,600
+China is charging ahead with a National Digital\h
+Currency, called the e-Chinese-yuan. (eCNY)
+
+60
+00:04:49,600 --> 00:04:53,360
+China’s central bank began testing\h
+it in four cities last year.
+
+61
+00:04:54,000 --> 00:04:58,720
+And now it’s being brought to bigger\h
+cities like Shanghai and Beijing.
+
+62
+00:04:59,360 --> 00:05:07,680
+“In my hand is the new digital RMB. It’s held\h
+inside a digital wallet on an app on my phone.”
+
+63
+00:05:07,680 --> 00:05:11,200
+Held by Mao Zedong, who’s\h
+watching you from the grave.
+
+64
+00:05:12,160 --> 00:05:16,400
+But China’s digital currency\h
+is like the anti-Bitcoin.
+
+65
+00:05:16,400 --> 00:05:21,360
+Because while Bitcoin uses blockchain\h
+technology that keeps transactions anonymous,\h\h
+
+66
+00:05:22,000 --> 00:05:27,520
+China’s digital currency...does not\h
+do that. In fact, Chinese authorities\h\h
+
+67
+00:05:27,520 --> 00:05:30,960
+can see every transaction you\h
+make with the digital yuan.\h
+
+68
+00:05:31,920 --> 00:05:39,600
+China’s digital currency is not actually a\h
+cryptocurrency. Cryptocurrencies by definition use\h\h
+
+69
+00:05:39,600 --> 00:05:45,680
+a decentralized system to record transactions.\h
+That keeps the records from being manipulated.
+
+70
+00:05:46,320 --> 00:05:52,400
+But China’s digital currency uses a\h
+centralized system. It’s controlled by\h\h
+
+71
+00:05:52,400 --> 00:05:58,480
+the Chinese Central Bank, and ultimately\h
+by the Chinese Communist Party itself.\h\h
+
+72
+00:05:59,520 --> 00:06:04,000
+But it *feels* kind of like cryptocurrency,\h
+so it’s the same thing, right?
+
+73
+00:06:05,360 --> 00:06:09,280
+The digital yuan could “give the\h
+Chinese government more power\h\h
+
+74
+00:06:09,280 --> 00:06:15,440
+to monitor finance flows because a digital\h
+currency system can record every transaction.”
+
+75
+00:06:16,000 --> 00:06:20,080
+“[It] can make it easier for governments\h
+to track financial transactions\h\h
+
+76
+00:06:20,080 --> 00:06:23,920
+to stamp out tax evasion and\h
+crack down on dissidents.”
+
+77
+00:06:24,560 --> 00:06:27,520
+Those two things definitely\h
+belong in the same sentence.
+
+78
+00:06:28,880 --> 00:06:31,680
+And believe it or not, it gets better.
+
+79
+00:06:32,800 --> 00:06:36,000
+“It will give the central\h
+bank new powers, including\h\h
+
+80
+00:06:36,560 --> 00:06:40,080
+novel types of monetary policy\h
+to help the economy grow.”\h
+
+81
+00:06:40,880 --> 00:06:46,160
+“In one possibility that economists have\h
+discussed, a central bank could program\h\h
+
+82
+00:06:46,160 --> 00:06:53,920
+its digital currency to slowly lose value so that\h
+consumers are encouraged to spend it immediately.”
+
+83
+00:06:54,720 --> 00:06:58,400
+Great! I hate wasting all my money on savings.\h\h
+
+84
+00:06:59,120 --> 00:07:02,400
+Well gosh, how long until we can\h
+have that in the United States?!\h
+
+85
+00:07:03,760 --> 00:07:07,680
+A bunch of countries are experimenting\h
+with a national digital currency,\h\h
+
+86
+00:07:08,240 --> 00:07:11,520
+“Yet no major power is as far along as China.\h\h
+
+87
+00:07:12,080 --> 00:07:17,040
+Its early moves could signal where the rest\h
+of the world goes with digital currencies.”
+
+88
+00:07:17,600 --> 00:07:21,200
+The New York Times always\h
+manages to fill me with hope.\h
+
+89
+00:07:22,320 --> 00:07:26,720
+You know, the Chinese Communist Party\h
+has for years been trying to weaponize\h\h
+
+90
+00:07:26,720 --> 00:07:32,800
+its currency and defeat the US dollar. And\h
+now some say the digital yuan could help.
+
+91
+00:07:33,360 --> 00:07:38,960
+But will the yuan be able to defeat the\h
+dollar as the global currency? That’s a whole\h\h
+
+92
+00:07:38,960 --> 00:07:43,840
+nother episode. Let me know in the comments\h
+below if you’d like to see us do that one.\h
+
+93
+00:07:44,560 --> 00:07:49,920
+And now it’s time for me to answer questions from\h
+a member of the China Uncensored 50 Cent Army,\h\h
+
+94
+00:07:50,480 --> 00:07:53,920
+fans who support China Uncensored on\h
+the crowd funding website Patreon.
+
+95
+00:07:54,800 --> 00:08:02,320
+James Wallberg asks, “Chris when the CCP falls\h
+do you think China will stay a single country\h\h
+
+96
+00:08:02,320 --> 00:08:07,280
+or split up into several smaller ones?\h
+To quote Romance of the Three Kingdoms.\h\h
+
+97
+00:08:07,280 --> 00:08:12,640
+"That which is divided must unite,\h
+that which is united must divide."
+
+98
+00:08:13,200 --> 00:08:17,760
+First of all James, Romance of the Three\h
+Kingdoms is one of my favorite books,\h\h
+
+99
+00:08:17,760 --> 00:08:20,560
+and definitely my favorite\h
+of the four Chinese classics.\h\h
+
+100
+00:08:21,200 --> 00:08:25,840
+I highly recommend reading it if you\h
+haven’t. Or at least play Dynasty Warriors.
+
+101
+00:08:26,880 --> 00:08:30,400
+But what happens after the CCP\h
+falls is a very good question.\h\h
+
+102
+00:08:31,360 --> 00:08:36,400
+China has existed for thousands of years.\h
+Despite so many different dynasties,\h\h
+
+103
+00:08:36,400 --> 00:08:41,920
+over the last two millennia there has always\h
+been something that eventually unified people\h\h
+
+104
+00:08:41,920 --> 00:08:48,240
+into the country we call China. That will\h
+surely continue even after the CCP falls.\h\h
+
+105
+00:08:48,960 --> 00:08:56,000
+However, regions like Inner Mongolia, Xinjiang,\h
+Tibet—places that have not always been\h\h
+
+106
+00:08:56,000 --> 00:09:00,800
+historically part of China—they might become\h
+their own independent countries again.
+
+107
+00:09:01,360 --> 00:09:03,120
+Thanks for your question James.
+
+108
+00:09:03,120 --> 00:09:07,840
+And thank you for watching. Once again\h
+I’m Chris Chappell, see you next time.
+

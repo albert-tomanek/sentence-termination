@@ -1,0 +1,1271 @@
+1
+00:00:00,140 --> 00:00:02,230
+On this episode of China Uncensored,
+
+2
+00:00:02,230 --> 00:00:04,400
+I miss Ask Jeeves.
+
+3
+00:00:08,850 --> 00:00:09,840
+Welcome back to China Uncensored,
+
+4
+00:00:09,850 --> 00:00:11,660
+I’m your host Chris Chappell.
+
+5
+00:00:11,660 --> 00:00:12,690
+Good news, everyone!
+
+6
+00:00:12,690 --> 00:00:15,780
+Google has finally taken the chains off.
+
+7
+00:00:15,780 --> 00:00:16,780
+Back in May,
+
+8
+00:00:16,780 --> 00:00:19,140
+Google removed its famous “don’t be evil”
+motto
+
+9
+00:00:19,140 --> 00:00:21,189
+from its code of conduct.
+
+10
+00:00:21,189 --> 00:00:23,089
+Google’s new motto is:
+
+11
+00:00:23,089 --> 00:00:25,909
+Don’t let anyone find out that you’re
+evil.
+
+12
+00:00:25,909 --> 00:00:28,310
+Moral relativism is cool.
+
+13
+00:00:28,310 --> 00:00:29,570
+What is evil, anyway?
+
+14
+00:00:29,570 --> 00:00:30,750
+Don’t be unprofitable.
+
+15
+00:00:30,750 --> 00:00:32,680
+Don’t learn from your mistakes.
+
+16
+00:00:32,680 --> 00:00:36,030
+No, history never repeats itself.
+
+17
+00:00:36,030 --> 00:00:40,120
+Or at least that’s what I assume from this
+article from the Intercept.
+
+18
+00:00:40,120 --> 00:00:43,410
+It turns out, there’s a tratorious Google
+employee who still hasn’t
+
+19
+00:00:43,410 --> 00:00:47,829
+gotten the hang of being evil but hiding it
+per company policy.
+
+20
+00:00:47,829 --> 00:00:51,769
+Because that employee revealed Google’s
+top secret project:
+
+21
+00:00:51,769 --> 00:00:55,980
+making a censored Android app for China that
+uses their search engine.
+
+22
+00:00:55,980 --> 00:00:58,379
+The secret project is called Dragonfly,
+
+23
+00:00:58,379 --> 00:01:02,210
+and it’s allegedly been in the works among
+a select number of employees
+
+24
+00:01:02,210 --> 00:01:05,000
+since the spring of 2017.
+
+25
+00:01:05,000 --> 00:01:08,780
+We reached out to Google for comment about
+their search engine in China.
+
+26
+00:01:08,780 --> 00:01:13,110
+Their “Google Spokesperson” said they
+do have mobile apps in China,
+
+27
+00:01:13,110 --> 00:01:16,840
+but they don’t comment on speculation about
+future plans.
+
+28
+00:01:16,840 --> 00:01:19,000
+It’s like if your wife asks,
+
+29
+00:01:19,000 --> 00:01:21,240
+“You’re not going to eat that entire box
+of Cheez-Its
+
+30
+00:01:21,240 --> 00:01:22,960
+in one sitting, are you?”
+
+31
+00:01:22,960 --> 00:01:23,960
+And you reply,
+
+32
+00:01:23,960 --> 00:01:25,450
+“There are things I’m going to eat,
+
+33
+00:01:25,450 --> 00:01:29,219
+but I don’t comment on specific future eating
+plans.”
+
+34
+00:01:29,219 --> 00:01:31,640
+So China has a pretty big internet market:
+
+35
+00:01:31,640 --> 00:01:33,600
+750 million Internet users.
+
+36
+00:01:33,600 --> 00:01:36,530
+That’s bigger than the entire population
+of Europe.
+
+37
+00:01:36,530 --> 00:01:37,719
+And it seems like,
+
+38
+00:01:37,719 --> 00:01:41,670
+well there’s a ton of money Google could
+be making in China.
+
+39
+00:01:41,670 --> 00:01:44,710
+And now that Google isn’t concerned about
+not being evil,
+
+40
+00:01:44,710 --> 00:01:46,680
+they can finally tap into it.
+
+41
+00:01:46,680 --> 00:01:49,870
+With the help of an “unnamed” Chinese
+partner company.
+
+42
+00:01:49,870 --> 00:01:51,549
+As you know, the Chinese Communist Party
+
+43
+00:01:51,549 --> 00:01:54,549
+likes to keep a tight grip on the Internet.
+
+44
+00:01:54,549 --> 00:01:57,750
+Otherwise Chinese citizens might learn dangerous
+things,
+
+45
+00:01:57,750 --> 00:02:00,290
+like how their government was totally willing
+to massacre
+
+46
+00:02:00,290 --> 00:02:03,230
+a bunch of students in Tiananmen Square.
+
+47
+00:02:03,230 --> 00:02:05,729
+With the new Google search engine app for
+Android,
+
+48
+00:02:05,729 --> 00:02:08,200
+Chinese people don’t need to know all that.
+
+49
+00:02:08,200 --> 00:02:10,000
+Because they won’t even be able to find
+links
+
+50
+00:02:10,000 --> 00:02:12,709
+to troubling informational websites with y
+
+51
+00:02:12,709 --> 00:02:13,709
+ou know, facts—
+
+52
+00:02:13,709 --> 00:02:15,950
+like the BBC or Wikipedia.
+
+53
+00:02:15,950 --> 00:02:17,769
+Now you might be concerned that Google’s
+
+54
+00:02:17,769 --> 00:02:20,569
+new alleged Chinese search engine would create
+
+55
+00:02:20,569 --> 00:02:22,030
+some kind of bad precedent.
+
+56
+00:02:22,030 --> 00:02:24,680
+That, if the biggest search engine in the
+world
+
+57
+00:02:24,680 --> 00:02:27,710
+is willing to cave to Chinese censorship demands,
+
+58
+00:02:27,710 --> 00:02:29,520
+why should any company resist?
+
+59
+00:02:29,520 --> 00:02:32,319
+It’s a fair point, but may I remind you
+
+60
+00:02:32,319 --> 00:02:35,800
+HOW MUCH MONEY IS ON THE LINE HERE, PEOPLE!
+
+61
+00:02:35,800 --> 00:02:38,570
+In fact, maybe Google’s new motto is actually:
+
+62
+00:02:38,570 --> 00:02:40,830
+Don’t be unprofitable.
+
+63
+00:02:40,830 --> 00:02:44,580
+After all, being evil can make you so much
+more money.
+
+64
+00:02:44,580 --> 00:02:48,099
+Clearly that important point was lost on the
+Google employee
+
+65
+00:02:48,099 --> 00:02:50,270
+who leaked the secret plan.
+
+66
+00:02:50,270 --> 00:02:51,270
+He told The Intercept,
+
+67
+00:02:51,270 --> 00:02:54,330
+“I’m against large companies and governments
+collaborating
+
+68
+00:02:54,330 --> 00:02:56,280
+in the oppression of their people,
+
+69
+00:02:56,280 --> 00:02:58,019
+and feel like transparency around
+
+70
+00:02:58,019 --> 00:03:00,670
+what’s being done is in the public interest,”
+
+71
+00:03:00,670 --> 00:03:03,379
+and that “what is done in China will become
+a template f
+
+72
+00:03:03,379 --> 00:03:04,739
+or many other nations.”
+
+73
+00:03:04,739 --> 00:03:05,739
+What?
+
+74
+00:03:05,739 --> 00:03:07,459
+Are you saying that this will embolden
+
+75
+00:03:07,459 --> 00:03:08,739
+other authoritarian nations
+
+76
+00:03:08,739 --> 00:03:10,390
+to further limit free information?
+
+77
+00:03:10,390 --> 00:03:11,819
+Well, don’t worry,
+
+78
+00:03:11,819 --> 00:03:13,709
+because other authoritarian nations don’t
+have
+
+79
+00:03:13,709 --> 00:03:17,010
+750 million internet users.
+
+80
+00:03:17,010 --> 00:03:18,120
+Cha-ching.
+
+81
+00:03:18,120 --> 00:03:20,990
+Google is a company with 88,000 employees.
+
+82
+00:03:20,990 --> 00:03:23,120
+You can’t expect them all to have jumped
+on
+
+83
+00:03:23,120 --> 00:03:25,860
+the evil is okay bandwagon.
+
+84
+00:03:25,860 --> 00:03:28,239
+So to minimize the chance of leaks,
+
+85
+00:03:28,239 --> 00:03:31,209
+only “a handful of top executives and managers,”
+
+86
+00:03:31,209 --> 00:03:33,840
+knew about project Dragonfly.
+
+87
+00:03:33,840 --> 00:03:36,069
+Executives like the current CEO.
+
+88
+00:03:36,069 --> 00:03:38,240
+Last December, he travelled to China
+
+89
+00:03:38,240 --> 00:03:40,549
+and met with top Communist Party officials,
+
+90
+00:03:40,549 --> 00:03:43,280
+who had great money-making ideas,
+
+91
+00:03:43,280 --> 00:03:45,720
+as communist officials always do.
+
+92
+00:03:45,720 --> 00:03:46,930
+That same month,
+
+93
+00:03:46,930 --> 00:03:49,100
+Google opened an artificial intelligence
+
+94
+00:03:49,100 --> 00:03:51,580
+research center in Beijing.
+
+95
+00:03:51,580 --> 00:03:53,769
+In May, they brought their file management
+app
+
+96
+00:03:53,769 --> 00:03:55,439
+to the Chinese market.
+
+97
+00:03:55,439 --> 00:03:57,610
+And in July, they launched a fun game
+
+98
+00:03:57,610 --> 00:04:00,700
+for the popular Chinese messaging app WeChat.
+
+99
+00:04:00,700 --> 00:04:04,769
+Let’s just say there are some privacy concerns
+about WeChat.
+
+100
+00:04:04,769 --> 00:04:06,520
+Clearly not a concern for Google, though!
+
+101
+00:04:06,520 --> 00:04:09,770
+In fact, I wouldn’t be surprised if Google’s
+unnamed
+
+102
+00:04:09,770 --> 00:04:12,140
+Chinese partner company is Tencent,
+
+103
+00:04:12,140 --> 00:04:13,459
+the maker of WeChat.
+
+104
+00:04:13,459 --> 00:04:16,470
+I wonder if this new app will also give user
+data
+
+105
+00:04:16,470 --> 00:04:18,620
+directly to the Chinese government,
+
+106
+00:04:18,620 --> 00:04:20,570
+just like WeChat does!
+
+107
+00:04:20,570 --> 00:04:22,690
+Now some people have compared Google’s move
+to
+
+108
+00:04:22,690 --> 00:04:25,830
+the shameful history of IBM in Nazi Germany.
+
+109
+00:04:25,830 --> 00:04:28,370
+I mean, I’m not making that comparison.
+
+110
+00:04:28,370 --> 00:04:30,600
+I’m just saying, some people have—
+
+111
+00:04:30,600 --> 00:04:32,060
+and now you know that.
+
+112
+00:04:32,060 --> 00:04:33,950
+But giving in to the Chinese regime
+
+113
+00:04:33,950 --> 00:04:36,230
+isn’t actually new for Google.
+
+114
+00:04:36,230 --> 00:04:37,650
+They were in China before.
+
+115
+00:04:37,650 --> 00:04:39,710
+In 2006, Google set up
+
+116
+00:04:39,710 --> 00:04:42,021
+a highly censored version of their search
+engine
+
+117
+00:04:42,021 --> 00:04:43,630
+for the Chinese market.
+
+118
+00:04:43,630 --> 00:04:45,950
+And Google got slammed for it.
+
+119
+00:04:45,950 --> 00:04:48,990
+Here’s a clip from a 2006 Congressional
+hearing about
+
+120
+00:04:48,990 --> 00:04:50,650
+American tech companies.
+
+121
+00:04:50,650 --> 00:04:54,110
+US Congressman Chris Smith was not too happy
+with Google.
+
+122
+00:04:54,110 --> 00:04:57,200
+“When a user enters a forbidden word,
+
+123
+00:04:57,200 --> 00:05:00,580
+such as ‘democracy’ or ‘Chinese torture’
+or ‘Falun Gong,’
+
+124
+00:05:00,580 --> 00:05:03,850
+the search results are blocked,
+
+125
+00:05:03,850 --> 00:05:07,050
+or you are redirected to a misleading site,
+
+126
+00:05:07,050 --> 00:05:09,100
+and the user’s computer can be frozen
+
+127
+00:05:09,100 --> 00:05:11,450
+for unspecified periods of time…”
+
+128
+00:05:11,450 --> 00:05:14,320
+“...It is hard not to draw the conclusion
+that Google
+
+129
+00:05:14,320 --> 00:05:17,670
+has seriously compromised its ‘Don’t Be
+Evil’ policy.”
+
+130
+00:05:17,670 --> 00:05:20,690
+Well guess what, foolish politician actually
+trying to call out
+
+131
+00:05:20,690 --> 00:05:23,500
+a big corporation for it shady behavior?
+
+132
+00:05:23,500 --> 00:05:27,070
+Google doesn’t have the “don’t be evil”
+policy anymore.
+
+133
+00:05:27,070 --> 00:05:28,220
+Take that!
+
+134
+00:05:28,220 --> 00:05:30,510
+Problem solved.
+
+135
+00:05:30,510 --> 00:05:33,160
+So what happened to that censored Chinese
+version of Google
+
+136
+00:05:33,160 --> 00:05:36,930
+that Congressman Smith was complaining about
+in 2006?
+
+137
+00:05:36,930 --> 00:05:39,840
+Four years later, Google backed out.
+
+138
+00:05:39,840 --> 00:05:43,190
+In a 2010 official blog post, they said:
+
+139
+00:05:43,190 --> 00:05:44,190
+Guess what?
+
+140
+00:05:44,190 --> 00:05:46,500
+The Chinese Communist Party hacked us.
+
+141
+00:05:46,500 --> 00:05:50,120
+And they targeted the gmail accounts of human
+rights activists.
+
+142
+00:05:50,120 --> 00:05:52,910
+Curse your sudden but inevitable betrayal.
+
+143
+00:05:52,910 --> 00:05:55,360
+Google stood up to the evil Chinese regime.
+
+144
+00:05:55,360 --> 00:05:58,660
+They announced that they were uncensoring
+their search engine,
+
+145
+00:05:58,660 --> 00:06:01,450
+and if that meant the regime kicked them out
+of China,
+
+146
+00:06:01,450 --> 00:06:02,750
+so be it.
+
+147
+00:06:02,750 --> 00:06:04,180
+And so it was.
+
+148
+00:06:04,180 --> 00:06:06,300
+Google co-founder Sergey Brin,
+
+149
+00:06:06,300 --> 00:06:08,440
+who partly grew up in the Soviet Union,
+
+150
+00:06:08,440 --> 00:06:10,960
+told the Wall Street Journal that he was worried
+about
+
+151
+00:06:10,960 --> 00:06:12,170
+China’s totalitarianism.
+
+152
+00:06:12,170 --> 00:06:13,440
+And, at the time,
+
+153
+00:06:13,440 --> 00:06:15,840
+I praised Google for doing the right thing.
+
+154
+00:06:15,840 --> 00:06:17,060
+It turned out later,
+
+155
+00:06:17,060 --> 00:06:18,740
+their pull-out might have been about
+
+156
+00:06:18,740 --> 00:06:21,260
+more than just doing what was right.
+
+157
+00:06:21,260 --> 00:06:23,060
+It was also maybe because they were
+
+158
+00:06:23,060 --> 00:06:25,780
+hardly making any money in China.
+
+159
+00:06:25,780 --> 00:06:26,780
+But don’t worry.
+
+160
+00:06:26,780 --> 00:06:28,490
+Google is under new leadership now!
+
+161
+00:06:28,490 --> 00:06:29,540
+And their new motto is:
+
+162
+00:06:29,540 --> 00:06:31,290
+Don’t learn from your mistakes.
+
+163
+00:06:31,290 --> 00:06:33,950
+Because, the lesson from this should have
+been:
+
+164
+00:06:33,950 --> 00:06:36,950
+It’s really hard for Google to make money
+in the Chinese market
+
+165
+00:06:36,950 --> 00:06:38,430
+because the Chinese regime will always
+
+166
+00:06:38,430 --> 00:06:41,630
+stack the cards against you in favor of Chinese
+companies
+
+167
+00:06:41,630 --> 00:06:45,650
+while also hacking you and stealing your intellectual
+property.
+
+168
+00:06:45,650 --> 00:06:48,790
+But the lesson the new Google CEO took was:
+
+169
+00:06:48,790 --> 00:06:50,090
+If at first you don’t succeed,
+
+170
+00:06:50,090 --> 00:06:52,070
+try, try again.
+
+171
+00:06:52,070 --> 00:06:53,850
+But now with more evil.
+
+172
+00:06:53,850 --> 00:06:54,850
+The sad part is,
+
+173
+00:06:54,850 --> 00:06:57,990
+Google is hardly alone in wanting to be in
+China:
+
+174
+00:06:57,990 --> 00:07:01,470
+Bing and Yahoo already have censored search
+engines there,
+
+175
+00:07:01,470 --> 00:07:03,280
+although they have a fraction of the market
+share
+
+176
+00:07:03,280 --> 00:07:05,530
+of Chinese companies like Baidu.
+
+177
+00:07:05,530 --> 00:07:08,680
+Apple has made a huge investment in China.
+
+178
+00:07:08,680 --> 00:07:10,100
+And we all know that Mark Zuckerberg
+
+179
+00:07:10,100 --> 00:07:12,750
+will literally run through the Beijing smog
+
+180
+00:07:12,750 --> 00:07:14,030
+to get Facebook there.
+
+181
+00:07:14,030 --> 00:07:16,530
+But at one point, Google was alone
+
+182
+00:07:16,530 --> 00:07:19,400
+in standing up to the Chinese Communist Party.
+
+183
+00:07:19,400 --> 00:07:21,640
+Which makes this new search engine thing
+
+184
+00:07:21,640 --> 00:07:23,740
+so much more disappointing.
+
+185
+00:07:23,740 --> 00:07:25,600
+And now the question on my mind is,
+
+186
+00:07:25,600 --> 00:07:28,480
+if Google does get back into the Chinese market,
+
+187
+00:07:28,480 --> 00:07:31,110
+and is desperate to make money there,
+
+188
+00:07:31,110 --> 00:07:33,320
+what happens if someday the Chinese Communist
+Party
+
+189
+00:07:33,320 --> 00:07:37,800
+decides it doesn’t like how Google operates
+outside China?
+
+190
+00:07:37,800 --> 00:07:40,060
+Like they do with, I don’t know,
+
+191
+00:07:40,060 --> 00:07:43,290
+international airlines that call Taiwan a
+country.
+
+192
+00:07:43,290 --> 00:07:44,730
+To get into the Chinese market,
+
+193
+00:07:44,730 --> 00:07:48,840
+would Google be more evil outside China, too?
+
+194
+00:07:48,840 --> 00:07:50,360
+As someone who hosts the world’s
+
+195
+00:07:50,360 --> 00:07:52,720
+most important English-language satirical
+news show
+
+196
+00:07:52,720 --> 00:07:54,680
+about China on YouTube,
+
+197
+00:07:54,680 --> 00:07:55,750
+which is owned by Google,
+
+198
+00:07:55,750 --> 00:07:58,470
+I’m a little bit concerned.
+
+199
+00:07:58,470 --> 00:08:00,500
+When you have a moment, try this.
+
+200
+00:08:00,500 --> 00:08:02,710
+Do a search for China Uncensored.
+
+201
+00:08:02,710 --> 00:08:05,150
+“China uncensorship pollution”!?
+
+202
+00:08:05,150 --> 00:08:07,960
+That’s a funny autocomplete!
+
+203
+00:08:07,960 --> 00:08:10,910
+Oddly enough, our newer, much smaller podcast,
+
+204
+00:08:10,910 --> 00:08:13,150
+China Unscripted, does come up.
+
+205
+00:08:13,150 --> 00:08:14,830
+We’ve also had fans of the show tell us
+
+206
+00:08:14,830 --> 00:08:16,710
+that they’ve stopped seeing China Uncensored
+
+207
+00:08:16,710 --> 00:08:18,520
+in recommended videos.
+
+208
+00:08:18,520 --> 00:08:21,370
+That they get no notification of new episodes,
+
+209
+00:08:21,370 --> 00:08:24,490
+even when they have the notification bell
+turned on.
+
+210
+00:08:24,490 --> 00:08:28,060
+We’re constantly having videos get demonetized.
+
+211
+00:08:28,060 --> 00:08:29,590
+And get this:
+
+212
+00:08:29,590 --> 00:08:31,680
+Some viewers have told me they were suddenly
+
+213
+00:08:31,680 --> 00:08:34,740
+unsubscribed from China Uncensored.
+
+214
+00:08:34,740 --> 00:08:36,140
+That even happened to Shelley,
+
+215
+00:08:36,140 --> 00:08:37,340
+who you know,
+
+216
+00:08:37,340 --> 00:08:38,340
+is on the show.
+
+217
+00:08:38,340 --> 00:08:41,479
+And I’m sure all of these problems will
+get much better
+
+218
+00:08:41,479 --> 00:08:44,840
+once Google has serious financial stakes in
+China.
+
+219
+00:08:44,840 --> 00:08:46,730
+There’s no evidence that Google
+
+220
+00:08:46,730 --> 00:08:49,760
+is intentionally targeting China Uncensored.
+
+221
+00:08:49,760 --> 00:08:51,890
+It could just be that Google is inept.
+
+222
+00:08:51,890 --> 00:08:53,970
+And that is completely possible.
+
+223
+00:08:53,970 --> 00:08:59,120
+You see, China is no less totalitarian than
+it was back in 2010,
+
+224
+00:08:59,120 --> 00:09:00,970
+when Google initially pulled out.
+
+225
+00:09:00,970 --> 00:09:04,450
+In fact, they are increasingly using online
+surveillance
+
+226
+00:09:04,450 --> 00:09:06,440
+to control Chinese people.
+
+227
+00:09:06,440 --> 00:09:09,430
+But even if Google doesn’t care about being
+evil anymore—
+
+228
+00:09:09,430 --> 00:09:12,600
+even if all they care about is making money
+for their shareholders,
+
+229
+00:09:12,600 --> 00:09:15,090
+or if they’re just drooling over the idea
+of getting a piece of
+
+230
+00:09:15,090 --> 00:09:17,560
+750 million internet users—
+
+231
+00:09:17,560 --> 00:09:20,740
+going in to China is a bad idea.
+
+232
+00:09:20,740 --> 00:09:21,810
+Having a Chinese partner company
+
+233
+00:09:21,810 --> 00:09:23,790
+may help Google make more money,
+
+234
+00:09:23,790 --> 00:09:26,060
+but there’s definitely a price to pay.
+
+235
+00:09:26,060 --> 00:09:28,250
+And it might be higher than they think.
+
+236
+00:09:28,250 --> 00:09:30,810
+Which is why Google should really change their
+motto to:
+
+237
+00:09:30,810 --> 00:09:32,570
+Don’t be stupid.
+
+238
+00:09:32,570 --> 00:09:35,430
+What do you think about Google’s re-entry
+into China?
+
+239
+00:09:35,430 --> 00:09:36,900
+What should their new motto be?
+
+240
+00:09:36,900 --> 00:09:38,540
+Leave your comments below.
+
+241
+00:09:38,540 --> 00:09:41,090
+And now, it’s time to answer questions from
+fans
+
+242
+00:09:41,090 --> 00:09:44,930
+who support the show on the crowd funding
+website Patreon.
+
+243
+00:09:44,930 --> 00:09:47,180
+Alfred Schneider aks,
+
+244
+00:09:47,180 --> 00:09:49,520
+“Chris, I've heard that PRC have built
+
+245
+00:09:49,520 --> 00:09:51,030
+some delightful vacation resorts
+
+246
+00:09:51,030 --> 00:09:52,810
+in the South China Sea.
+
+247
+00:09:52,810 --> 00:09:56,800
+Which one would you like to visit the most,
+and why?”
+
+248
+00:09:56,800 --> 00:09:58,820
+Oh Alfred, that is probably the toughest question
+
+249
+00:09:58,820 --> 00:09:59,820
+I’ve been asked so far.
+
+250
+00:09:59,820 --> 00:10:02,630
+There are so many; how can I choose?
+
+251
+00:10:02,630 --> 00:10:04,890
+Yes, the Chinese Communist Party is developing
+
+252
+00:10:04,890 --> 00:10:08,270
+a booming tourism industry in the South China
+Sea.
+
+253
+00:10:08,270 --> 00:10:10,050
+Particularly in disputed territories.
+
+254
+00:10:10,050 --> 00:10:13,460
+I mean, my favorite Chinese state-run media
+the Global Times
+
+255
+00:10:13,460 --> 00:10:16,240
+makes a vacation there sound so appealing.
+
+256
+00:10:16,240 --> 00:10:18,310
+Look at that beachfront view.
+
+257
+00:10:18,310 --> 00:10:22,270
+“Since 2013, around 10,000 Chinese tourists
+have been able
+
+258
+00:10:22,270 --> 00:10:25,280
+to enjoy the natural beauty of the Xisha Islands.”
+
+259
+00:10:25,280 --> 00:10:27,700
+Otherwise known as the Paracel Islands,
+
+260
+00:10:27,700 --> 00:10:31,050
+territory claimed by China, Vietnam, and Taiwan.
+
+261
+00:10:31,050 --> 00:10:33,670
+The best part about vacationing in these wonderful
+resorts
+
+262
+00:10:33,670 --> 00:10:38,140
+is probably the flybys from Chinese nuclear
+capable bombers.
+
+263
+00:10:38,140 --> 00:10:39,650
+Now if that doesn’t sound like a vacation,
+
+264
+00:10:39,650 --> 00:10:41,750
+I don’t know what does.
+
+265
+00:10:41,750 --> 00:10:44,150
+Just like the tourists in this Global Times
+article,
+
+266
+00:10:44,150 --> 00:10:48,430
+I too would love to travel to the Xisha-slash-Paracel
+Islands
+
+267
+00:10:48,430 --> 00:10:51,280
+on the Coconut-fragrance Princess,
+
+268
+00:10:51,280 --> 00:10:53,010
+watch a flag-raising ceremony
+
+269
+00:10:53,010 --> 00:10:56,340
+as the Chinese National Anthem is played over
+the water,
+
+270
+00:10:56,340 --> 00:10:58,270
+and talk about never giving up an inch
+
+271
+00:10:58,270 --> 00:11:00,460
+of China’s territorial integrity.
+
+272
+00:11:00,460 --> 00:11:02,730
+Thanks for your question Alfred.
+
+273
+00:11:02,730 --> 00:11:03,770
+And before we wrap up,
+
+274
+00:11:03,770 --> 00:11:05,900
+this is a good time to make a plug for your
+support.
+
+275
+00:11:05,900 --> 00:11:09,240
+This show is funded mainly not through Google
+ads,
+
+276
+00:11:09,240 --> 00:11:12,010
+but through contributions from viewers.
+
+277
+00:11:12,010 --> 00:11:14,020
+You can contribute a dollar or more per episode
+
+278
+00:11:14,020 --> 00:11:16,320
+through the crowdfunding website Patreon.
+
+279
+00:11:16,320 --> 00:11:17,680
+You’ll get cool rewards,
+
+280
+00:11:17,690 --> 00:11:19,920
+including a chance to have your questions
+for me
+
+281
+00:11:19,920 --> 00:11:22,090
+answered here on the show.
+
+282
+00:11:22,090 --> 00:11:25,160
+And even if you can’t support China Uncensored
+on Patreon,
+
+283
+00:11:25,160 --> 00:11:26,870
+you can make a huge difference by just
+
+284
+00:11:26,870 --> 00:11:29,300
+sharing the show with your friends and family.
+
+285
+00:11:29,300 --> 00:11:33,130
+Since Google is going to make that as hard
+as possible.
+
+286
+00:11:33,130 --> 00:11:35,230
+Thanks for watching this episode of China
+Uncensored.
+
+287
+00:11:35,230 --> 00:11:36,770
+Once again I’m your host Chris Chappell.
+
+288
+00:11:36,770 --> 00:11:37,760
+See you next time.
+
+289
+00:11:39,720 --> 00:11:42,240
+You know China Uncensored isn’t just on
+YouTube.
+
+290
+00:11:42,250 --> 00:11:43,410
+We have half-hour episodes
+
+291
+00:11:43,410 --> 00:11:45,490
+you can watch on cable in New York,
+
+292
+00:11:45,490 --> 00:11:47,360
+San Francisco, and Los Angeles.
+
+293
+00:11:47,360 --> 00:11:49,460
+Check your local listings.
+
+294
+00:11:49,460 --> 00:11:51,779
+You can also download our China Uncensored
+app
+
+295
+00:11:51,779 --> 00:11:54,980
+on Apple TV, Roku, or FireTV.
+
+296
+00:11:54,980 --> 00:11:59,280
+Or just visit www.ChinaUncensored.tv.
+
