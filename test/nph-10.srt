@@ -1,0 +1,444 @@
+1
+00:00:00,000 --> 00:00:04,680
+So let's just take a quick look - and
+honestly this very daring of me. I've
+
+2
+00:00:04,680 --> 00:00:09,090
+actually put out the routine that does
+this in C and will provide this for you
+
+3
+00:00:09,090 --> 00:00:13,049
+If you don't believe that this works
+just compile the program I give you and
+
+4
+00:00:13,049 --> 00:00:18,060
+run it and say "Wow! it does work, it
+doesn't crash!"  What I've done here is
+
+5
+00:00:18,060 --> 00:00:22,800
+I've just called it InsertThing. Those of you 
+who watched my previous [Pointer Power!] video
+
+6
+00:00:22,800 --> 00:00:27,060
+will say:  "Oh! but last time you had to
+have special cases. You had to say: "Is it
+
+7
+00:00:27,060 --> 00:00:31,050
+inserting at the front, inserting in the
+middle or inserting at the end? And are
+
+8
+00:00:31,050 --> 00:00:36,540
+we safe against inserting into a NULL list?"
+This is so magic it takes care
+
+9
+00:00:36,540 --> 00:00:42,510
+of all of them! I only need one routine -
+InsertThing. What it says, if you look
+
+10
+00:00:42,510 --> 00:00:47,219
+here, is the following:
+Give me a pointer to a pointer to the
+
+11
+00:00:47,219 --> 00:00:51,750
+start of the list, this time. Not just a
+pointer to the start. I want a pointer
+
+12
+00:00:51,750 --> 00:00:56,579
+to a pointer to the start. And also,
+behind the scenes, and before you ever call
+
+13
+00:00:56,579 --> 00:01:03,840
+me up, prepare a THING here (a THING *
+actually)  and this is going to be my
+
+14
+00:01:03,840 --> 00:01:09,540
+"burgers" object. I'm gonna feed that into
+this routine saying: go on, insert it. So
+
+15
+00:01:09,540 --> 00:01:13,380
+that second argument is the THING to be
+inserted, pre-prepared [tautology! apologies]
+
+16
+00:01:13,380 --> 00:01:18,299
+You can look in my coding and see the
+preparation routine that makes a new
+
+17
+00:01:18,299 --> 00:01:24,479
+THING for you. Here we go, look:
+THING **tracer = head; 
+
+18
+00:01:24,479 --> 00:01:30,960
+That's exactly what we were doing on the LEGO.
+We started off by making `tracer' point to
+
+19
+00:01:30,960 --> 00:01:36,270
+the head of the list at the beginning.
+And again, things in C are declared by
+
+20
+00:01:36,270 --> 00:01:45,360
+their contents. `tracer's contents are **THING
+So, Sean, what about `tracer'
+
+21
+00:01:45,360 --> 00:01:52,049
+itself? If I wanted to point at `tracer'
+even. What's the type of the *box* `tracer'
+
+22
+00:01:52,049 --> 00:01:59,000
+if its *contents* are ** THING?
+>> Sean: Well, it's gonna have three stars right?
+
+23
+00:01:59,000 --> 00:02:05,189
+>> DFB: Yeah! (in unison): " *** THING "
+Yes, we start off at the head and
+then this - it looks terrifying but it
+
+24
+00:02:05,189 --> 00:02:08,810
+actually is very straightforward.
+It's basically he's saying
+
+25
+00:02:08,810 --> 00:02:17,060
+"While the thing that `tracer' points at
+isn't a NULL" Now, if you look back on the
+
+26
+00:02:17,060 --> 00:02:22,810
+model, you start off by the `tracer'
+pointing at the contents of the start
+
+27
+00:02:22,810 --> 00:02:30,560
+element `head'. Right, so you forcibly
+dereference `tracer' once and you say: "That
+
+28
+00:02:30,560 --> 00:02:34,580
+blue box I'm pointing to at the moment. Let's
+look at its contents - are they NULL, because if
+
+29
+00:02:34,580 --> 00:02:39,709
+so I'm at the head of the list?" No if you're not
+NULL - remember this - this is the logical
+
+30
+00:02:39,709 --> 00:02:44,030
+double-& connector.  it says: "As long as
+the THING *, that `tracer' is pointing into
+
+31
+00:02:44,030 --> 00:02:50,360
+isn't NULL and as long as - the string
+compare is basically saying - and as long
+
+32
+00:02:50,360 --> 00:02:56,959
+as the new THING you want to put in is
+still later in the alphabet than what
+
+33
+00:02:56,959 --> 00:03:02,000
+you are looking at, then carry on going
+around this loop. But eventually what
+
+34
+00:03:02,000 --> 00:03:05,450
+should happen - if it's not a null list or
+you don't get to the end the list - is
+
+35
+00:03:05,450 --> 00:03:09,319
+eventually you'll find your string
+compare gives you the alphabetic
+
+36
+00:03:09,319 --> 00:03:15,110
+go-ahead. It's basically saying: "You've
+got "burgers", you're looking at "chips" on
+
+37
+00:03:15,110 --> 00:03:20,150
+the existing list and that's it, stop!
+"burgers" goes before "chips" so you come
+
+38
+00:03:20,150 --> 00:03:23,600
+out of the loop. If you don't come out
+the loop you keep on going around the loop.
+
+39
+00:03:23,600 --> 00:03:32,299
+And here is the absolutely amazing thing:
+it's that when at any stage you find
+
+40
+00:03:32,299 --> 00:03:36,260
+that the blue box you're pointing at
+doesn't lead to what you're interested
+
+41
+00:03:36,260 --> 00:03:41,180
+in - you've not gone far enough down the
+list and it's not NULL -  all you do is you move
+
+42
+00:03:41,180 --> 00:03:47,269
+that `tracer' pointer literally onto a
+[next] blue box. You get the address of the blue
+
+43
+00:03:47,269 --> 00:03:53,030
+box within the structure. And that is
+what this terrifying thing [in the program] does. 
+
+44
+00:03:53,030 --> 00:03:57,500
+Here, I shall say this very carefully, it's 
+not exactly C's finest hour; it's a bit
+
+45
+00:03:57,500 --> 00:04:03,019
+terrifying when you first see it: (*tracer)
+basically says "dereference `tracer'
+
+46
+00:04:03,019 --> 00:04:09,350
+once and go and look at the innards of a
+blue box". That is done by saying
+
+47
+00:04:09,350 --> 00:04:17,390
+dereference tracer once and take the
+next field of what you see. But, I don't
+
+48
+00:04:17,390 --> 00:04:23,319
+want the *contents* of the blue
+box - the next part of the THING -  I want
+
+49
+00:04:23,319 --> 00:04:27,969
+its *address*. So, right at the front of all
+this that single ampersand, means
+
+50
+00:04:27,969 --> 00:04:33,789
+"address of". So, as you're winding down
+the list you're making `tracer' point to
+
+51
+00:04:33,789 --> 00:04:39,189
+the address of the next box that is
+further along down the list. And you
+
+52
+00:04:39,189 --> 00:04:45,069
+keep on doing that until either you hit
+NULL or you find an alphabetically correct
+
+53
+00:04:45,069 --> 00:04:50,289
+insertion point inside the THING. But
+some people will say: "Surely it
+
+54
+00:04:50,289 --> 00:04:55,810
+matters which of those stopped the loop ?!"
+No, it doesn't! The really magic
+
+55
+00:04:55,810 --> 00:05:01,750
+thing about this is that here's your
+splicing routine at the end - just two
+
+56
+00:05:01,750 --> 00:05:07,810
+lines of code.  It's basically saying make
+your new pointer - make its next field be
+
+57
+00:05:07,810 --> 00:05:14,289
+dereferenced `tracer'. And make *tracer be
+the address of the new THING. It doesn't
+
+58
+00:05:14,289 --> 00:05:19,120
+matter if those THINGs are got to the
+bottom of the list and you've hit NULL.
+
+59
+00:05:19,120 --> 00:05:25,120
+Believe me, look at it, work it out for
+yourself. If I were to put in "zucchini" it
+
+60
+00:05:25,120 --> 00:05:29,979
+will put it in at the bottom of the list.
+It will cope with the NULL. It needs no extra
+
+61
+00:05:29,979 --> 00:05:34,690
+special-case coding! That's the story
+really that by going one level of
+
+62
+00:05:34,690 --> 00:05:39,430
+abstraction out, in terms of pointers and
+given that you close your eyes to the C
+
+63
+00:05:39,430 --> 00:05:44,259
+syntax of how it does it - you've got a
+really lovely thing which in one compact
+
+64
+00:05:44,259 --> 00:05:50,229
+routine takes care of all cases. So, why
+isn't this better known about? Well, my
+
+65
+00:05:50,229 --> 00:05:55,719
+friends tell me that if I only had had more
+exposure to assembler, in the 60s, I'd
+
+66
+00:05:55,719 --> 00:05:59,259
+have been taught this by somebody. It's
+been known for years - it's old hat,
+
+67
+00:05:59,259 --> 00:06:06,339
+nothing new. My reaction when I saw this
+was: "Well I wonder if other languages can
+
+68
+00:06:06,339 --> 00:06:11,560
+do it?"  Certainly our Algol 68 could, though.
+it was hideously difficult, even
+
+69
+00:06:11,560 --> 00:06:17,229
+harder than in C, to do it in Algol 68? 
+But it could do. In C we took one 
+
+70
+00:06:17,229 --> 00:06:21,339
+look at it said: "Yeah! it does it
+differently, and it's got this `address of',
+
+71
+00:06:21,339 --> 00:06:27,729
+it can do it. And we did and proved it. So,
+what about C++. Yeah! anything you can do
+
+72
+00:06:27,729 --> 00:06:32,330
+in C you can do in C++, because the one is 
+a superset of the other.
+
+73
+00:06:32,330 --> 00:06:38,180
+Java? No, when James Gosling invented Java he
+didn't like the idea of user-level
+
+74
+00:06:38,180 --> 00:06:42,620
+pointers because they're dangerous and
+you make mistakes. There's been a lot of
+
+75
+00:06:42,620 --> 00:06:45,139
+discussion about this already and
+actually I totally agree with that view
+
+76
+00:06:45,139 --> 00:06:50,240
+They can be dangerous but sometimes
+right down near the bare metal you love
+
+77
+00:06:50,240 --> 00:06:54,259
+and adore having techniques like this
+because they enable you to do things
+
+78
+00:06:54,259 --> 00:06:59,870
+quickly and compactly. OK, so Java
+can't do it and I don't think, having seen
+
+79
+00:06:59,870 --> 00:07:03,979
+the comments, that Apple's new Swift will
+be able to do it. If you ban pointers at
+
+80
+00:07:03,979 --> 00:07:08,979
+the user level you can't do it. Some
+old-timers may say:  "But what about Pascal?"
+
+81
+00:07:08,979 --> 00:07:14,620
+Yeah, Pascal has pointers but it won't
+let you have pointers to pointers.
+
+82
+00:07:14,620 --> 00:07:19,789
+I strongly suspect that in the end,
+frustratingly, it'll get so close in
+
+83
+00:07:19,789 --> 00:07:21,710
+Pascal but will not actually able to do it.
+
+84
+00:07:21,710 --> 00:07:27,110
+BCPL? That's where it came from [in C] anyway. 
+I am seeking confirmation of this from my
+
+85
+00:07:27,110 --> 00:07:31,400
+BCPL consultants and gurus but I think
+BCPL can do this all right it's got @
+
+86
+00:07:31,400 --> 00:07:38,060
+as the address operator, not &. 
+So, there we are folks. Bottom line is a
+
+87
+00:07:38,060 --> 00:07:41,810
+little bit of extra abstraction - and you
+think that's going to make it more
+
+88
+00:07:41,810 --> 00:07:47,990
+obscure and more non-obvious - but the
+thing is in the end it actually makes it
+
+89
+00:07:47,990 --> 00:07:52,990
+more compact, neat and general-purpose.
+

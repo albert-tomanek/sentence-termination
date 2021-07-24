@@ -1,0 +1,616 @@
+1
+00:00:00,000 --> 00:00:02,720
+>>What's the problem with quantum then?
+
+2
+00:00:02,720 --> 00:00:06,600
+OK, I think we probably... Probably we should talk about the opportunity
+
+3
+00:00:06,600 --> 00:00:08,420
+I mean what, what's the idea?
+
+4
+00:00:08,420 --> 00:00:11,200
+Why would we want to build a quantum computer?
+
+5
+00:00:13,820 --> 00:00:16,780
+We discovered... the first observation was
+
+6
+00:00:17,660 --> 00:00:22,060
+that it's actually quite difficult to simulate a quantum system.
+
+7
+00:00:22,160 --> 00:00:26,720
+and this could be illustrated with this famous double slit experiment
+
+8
+00:00:27,460 --> 00:00:30,740
+where you send electrons, or photons or whatever
+
+9
+00:00:30,880 --> 00:00:33,440
+through two slits, and then you notice
+
+10
+00:00:33,440 --> 00:00:38,500
+that you get this interference pattern. So it gets dark and light, dark and light
+
+11
+00:00:38,500 --> 00:00:42,960
+which we can understand if we think of electrons or photons as waves
+
+12
+00:00:42,960 --> 00:00:45,080
+'cause the waves interfere with each other
+
+13
+00:00:45,080 --> 00:00:51,220
+but at the same time we know that they are actually particles because we never have half a photon, we never have half an electron
+
+14
+00:00:51,220 --> 00:00:55,480
+so the question is, if each time we send only one electron through these slits
+
+15
+00:00:55,480 --> 00:00:58,160
+Which way does it go? Does it go left, or right?
+
+16
+00:00:58,160 --> 00:01:01,580
+and now you think you're clever, you put some detectors on the slits
+
+17
+00:01:02,480 --> 00:01:07,780
+You have to 'trick' nature, find out where it goes and as soon as you do this
+
+18
+00:01:07,780 --> 00:01:12,180
+they behave like particles, there's no interference pattern any more.
+
+19
+00:01:12,540 --> 00:01:16,380
+and that's called a measaurement, so all quantum systems
+
+20
+00:01:16,480 --> 00:01:21,320
+er they have this dual behaviour, they behave like waves as long as you don't look at them
+
+21
+00:01:21,520 --> 00:01:24,420
+and as soon as you look at them, they behave like particles
+
+22
+00:01:24,420 --> 00:01:27,580
+behaviour where this electron goes through,
+
+23
+00:01:27,580 --> 00:01:30,620
+seems to be going through both holes at the same time
+
+24
+00:01:30,620 --> 00:01:33,000
+it's really doing something in parallel
+
+25
+00:01:34,580 --> 00:01:39,480
+the one explanation is, er, one understanding is Everett's
+
+26
+00:01:39,660 --> 00:01:42,000
+er, multiple worlds interpretation
+
+27
+00:01:42,000 --> 00:01:46,440
+that there are parallel universes and in one universe the electron goes through this and the other one through this
+
+28
+00:01:46,440 --> 00:01:49,080
+and you don't determine which universe you are
+
+29
+00:01:49,080 --> 00:01:52,620
+unless you look at it, and then you are either in this one or in this one
+
+30
+00:01:54,080 --> 00:01:55,080
+OK, now,
+
+31
+00:01:55,580 --> 00:02:00,140
+quantum computing tries to exploit this
+
+32
+00:02:01,020 --> 00:02:03,500
+very weird nature of quantum physics
+
+33
+00:02:04,680 --> 00:02:09,920
+and using the mathematical models we have from physics
+
+34
+00:02:10,340 --> 00:02:15,140
+we can develop new computational paradigm, new...
+
+35
+00:02:15,280 --> 00:02:18,880
+programming language so to say, quantum programming
+
+36
+00:02:19,640 --> 00:02:25,160
+and in this language we can exploit this quantum parallelism
+
+37
+00:02:25,560 --> 00:02:28,620
+to have certain computations run faster
+
+38
+00:02:29,080 --> 00:02:33,940
+it's not completely easy because everything you do has to be
+
+39
+00:02:33,940 --> 00:02:36,500
+reversible, every computation you do
+
+40
+00:02:36,500 --> 00:02:40,340
+you also have to be able to do backwards so everything needs to be symmetric
+
+41
+00:02:40,340 --> 00:02:41,360
+>>Is it a Qubit?
+
+42
+00:02:41,400 --> 00:02:45,760
+Yes, a Qubit is a bit, and it has an amplitude, it can be
+
+43
+00:02:45,760 --> 00:02:48,000
+somewhere between zero and one, yes?
+
+44
+00:02:48,060 --> 00:02:50,840
+and a Qubit, which is maybe like, in the middle.
+
+45
+00:02:50,840 --> 00:02:56,020
+is like this electron going through the one slit and the other slit and we don't know which one
+
+46
+00:02:56,140 --> 00:02:58,900
+so while the Qubit is not observed
+
+47
+00:02:59,040 --> 00:03:02,520
+it's at the same time zero and one, so to say.
+
+48
+00:03:02,520 --> 00:03:10,260
+and all its interaction are based on this "it's two things at the same time," like Schrödinger's cat famously (alive and dead)
+
+49
+00:03:10,320 --> 00:03:12,560
+so as long as you don't open the box
+
+50
+00:03:13,020 --> 00:03:17,860
+the Qubit is in some super-position so to say
+
+51
+00:03:17,880 --> 00:03:21,880
+it can be just one but it can be also in a super-position
+
+52
+00:03:21,880 --> 00:03:23,800
+and that's the interesting case
+
+53
+00:03:23,800 --> 00:03:26,660
+but the rule is, you're not allowed to look at it while you do this
+
+54
+00:03:26,720 --> 00:03:28,400
+so it has to be unobserved
+
+55
+00:03:28,400 --> 00:03:31,600
+because once you observe it you determine which universe you are
+
+56
+00:03:31,760 --> 00:03:36,200
+then this multiple universe idea disappears, this paralellism disappears
+
+57
+00:03:36,200 --> 00:03:38,360
+>>The magic is let out of the box?
+
+58
+00:03:38,360 --> 00:03:41,080
+The magic yeah, once you look at it the magic is out
+
+59
+00:03:41,100 --> 00:03:42,860
+you have to close your eyes
+
+60
+00:03:42,860 --> 00:03:46,860
+for as long as you.... then at the end you can look because you want to know what the outcome is
+
+61
+00:03:46,860 --> 00:03:48,700
+and then you measure but not inbetween
+
+62
+00:03:48,780 --> 00:03:52,160
+There are some, very famous algorithms
+
+63
+00:03:53,340 --> 00:03:55,980
+which work on a quantum computer faster
+
+64
+00:03:56,060 --> 00:03:58,900
+than on any, known, classical
+
+65
+00:03:58,900 --> 00:04:01,560
+there's no known classical solution
+
+66
+00:04:01,560 --> 00:04:03,060
+a famous problem
+
+67
+00:04:03,420 --> 00:04:05,560
+is the problem of factoring a number
+
+68
+00:04:05,560 --> 00:04:09,180
+so for example 15 can be factored at 3 and 5
+
+69
+00:04:09,180 --> 00:04:11,640
+and this problem is actually quite important for
+
+70
+00:04:11,740 --> 00:04:14,780
+cryptography. The RSA algorithm
+
+71
+00:04:14,780 --> 00:04:18,060
+is based on this idea that you have the product of two prime numbers
+
+72
+00:04:18,060 --> 00:04:21,300
+but you don't tell anybody what the prime numbers are
+
+73
+00:04:21,720 --> 00:04:24,040
+so, it's called a one-way function
+
+74
+00:04:24,040 --> 00:04:28,540
+so it's actually surprising, it's easy, computationally to find out whether a number is a prime number
+
+75
+00:04:29,200 --> 00:04:32,440
+but it's hard to factor a number
+
+76
+00:04:32,640 --> 00:04:35,980
+it's hard (this by the way is not proven)
+
+77
+00:04:36,260 --> 00:04:41,620
+nobody knows a way to factor a number efficiently on a classical computer
+
+78
+00:04:41,880 --> 00:04:44,600
+but since Shor (The Shor Algorithm)
+
+79
+00:04:44,600 --> 00:04:49,400
+we know on a hypothetical quantum computer, that using this quantum paralellism
+
+80
+00:04:49,400 --> 00:04:51,020
+there is a clever way to do this
+
+81
+00:04:51,020 --> 00:04:53,980
+it uses a certain number theoretic function
+
+82
+00:04:54,580 --> 00:04:56,980
+which has a period (repeats itself)
+
+83
+00:04:57,440 --> 00:05:01,180
+and using this super-position of Qubits
+
+84
+00:05:01,180 --> 00:05:04,200
+you can actually, with a good probability measure,
+
+85
+00:05:04,200 --> 00:05:08,980
+this period, the repetition, and from this period you can then, find a factor
+
+86
+00:05:09,740 --> 00:05:12,740
+that's quite clever, yeah. So
+
+87
+00:05:13,160 --> 00:05:16,060
+it seems that quantum computing can...
+
+88
+00:05:17,060 --> 00:05:20,340
+can be much much faster than classical computing
+
+89
+00:05:21,240 --> 00:05:23,820
+now here's the problem
+
+90
+00:05:24,380 --> 00:05:27,180
+we haven't yet been able to build
+
+91
+00:05:27,180 --> 00:05:32,780
+a quantum computer of reasonable size, where there's anything interesting happening
+
+92
+00:05:32,780 --> 00:05:34,460
+and why is this a problem?
+
+93
+00:05:34,900 --> 00:05:36,260
+why is it difficult?
+
+94
+00:05:36,260 --> 00:05:39,700
+the challenge is to do computations without looking at it
+
+95
+00:05:40,620 --> 00:05:46,320
+while you have... Your Qubits are represented by some physical object
+
+96
+00:05:46,320 --> 00:05:49,020
+some ions or whatever
+
+97
+00:05:49,340 --> 00:05:50,780
+some particles, yeah
+
+98
+00:05:50,780 --> 00:05:55,600
+and you want these particles to interact with each other to do the quantum computation
+
+99
+00:05:56,380 --> 00:06:00,620
+But, they should not interact with the rest of the universe
+
+100
+00:06:00,620 --> 00:06:05,680
+So you basically have to make them interact with each other, without touching them
+
+101
+00:06:05,940 --> 00:06:09,460
+and, that could be possible. It may be
+
+102
+00:06:09,640 --> 00:06:13,040
+"an engineering problem" as one says
+
+103
+00:06:13,260 --> 00:06:16,620
+But we don't know whether
+
+104
+00:06:16,620 --> 00:06:19,720
+whether it's actually possible in principle
+
+105
+00:06:20,220 --> 00:06:27,000
+I think there is a mistake to extrapolate, we know in small systems
+
+106
+00:06:27,100 --> 00:06:30,060
+we have this quantum behaviour, and quantum
+
+107
+00:06:30,720 --> 00:06:35,280
+er, theory gives us very, very good predictions on how these systems behave
+
+108
+00:06:35,940 --> 00:06:37,400
+but we don't know
+
+109
+00:06:37,600 --> 00:06:41,040
+whether it actually scales up. Whether
+
+110
+00:06:41,340 --> 00:06:44,140
+I mean, there is this problem that you have
+
+111
+00:06:44,140 --> 00:06:47,660
+involuntary measurements, or involuntary observations
+
+112
+00:06:47,680 --> 00:06:49,360
+it's called decoherence
+
+113
+00:06:49,360 --> 00:06:53,580
+so when this system loses its quantum magic and becomes classical
+
+114
+00:06:54,240 --> 00:06:55,840
+and what we don't know is
+
+115
+00:06:56,500 --> 00:07:01,060
+whether we can actually avoid decoherence in a large quantum system
+
+116
+00:07:01,620 --> 00:07:05,900
+because in the end, in physics it's always like this:
+
+117
+00:07:06,360 --> 00:07:11,560
+"You should never assume an outcome of an experiment before you have done it"
+
+118
+00:07:11,840 --> 00:07:18,480
+so far, nobody has done this experiment which shows that large scale quantum computing is actually possible
+
+119
+00:07:19,360 --> 00:07:25,420
+so it may be that there is some hidden law we haven't yet been able to test ya?
+
+120
+00:07:25,760 --> 00:07:30,800
+which basically says "Once you do too much quantum parallelism, nature...
+
+121
+00:07:30,800 --> 00:07:33,980
+...shakes its head and says no that's getting too complicated I'm not doing this,
+
+122
+00:07:34,040 --> 00:07:37,660
+I'm going to put some decoherence in otherwise it gets too complicated
+
+123
+00:07:37,660 --> 00:07:42,220
+it could be, I'm not saying it is like this but we basically don't know
+
+124
+00:07:42,260 --> 00:07:46,680
+So I think research in quantum computing in this area
+
+125
+00:07:46,680 --> 00:07:50,640
+is very interesting, very exciting, because we have actually an open question
+
+126
+00:07:50,640 --> 00:07:53,520
+and either way the answer will be interesting
+
+127
+00:07:53,520 --> 00:07:59,560
+The answer is either, OK we can build a quantum computer, we can do all these cool algorithms, great.
+
+128
+00:07:59,620 --> 00:08:05,340
+Or the answer could be, Actually it's impossible we have discovered a new law of nature
+
+129
+00:08:05,340 --> 00:08:12,440
+which actually says that nature in the end is classical and this quantum stuff is only on a small scale
+
+130
+00:08:12,460 --> 00:08:14,840
+which would be very very exciting as well
+
+131
+00:08:15,320 --> 00:08:19,640
+Either way it's exciting, we should find out, but we shouldn't
+
+132
+00:08:19,640 --> 00:08:24,080
+assume now that we know the answer without having done the experiment
+
+133
+00:08:24,080 --> 00:08:27,100
+>>There's supposed to be some kind of computer that's been built
+
+134
+00:08:27,100 --> 00:08:27,600
+Yeah
+
+135
+00:08:27,600 --> 00:08:30,300
+>>Is it that we don't know if it is doing what we guess?
+
+136
+00:08:30,300 --> 00:08:35,360
+Yes there's this D-Wave and there are other projects, but as far as I know
+
+137
+00:08:35,680 --> 00:08:40,700
+we don't know yet whether really get quantum paralellism out of it
+
+138
+00:08:40,700 --> 00:08:45,280
+there are all sorts of claims and counter-claims and I don't think it has been decided yet
+
+139
+00:08:45,280 --> 00:08:49,880
+>>Is it possible to simulate a quantum computer on a classical computer?
+
+140
+00:08:49,900 --> 00:08:53,260
+Yes indeed, er, I've actually developed a library
+
+141
+00:08:53,580 --> 00:08:58,360
+doing exactly this, called Quantum IO Monad
+
+142
+00:08:58,360 --> 00:09:03,200
+Yes you can do this, the problem is, to simulate this quantum paralellism
+
+143
+00:09:03,720 --> 00:09:09,000
+you have to really go through all the possibilities and you have an overhead
+
+144
+00:09:09,040 --> 00:09:10,560
+exponential overhead
+
+145
+00:09:10,940 --> 00:09:14,520
+so yes you can simulate it, but it's inefficient
+
+146
+00:09:14,940 --> 00:09:19,260
+>>So could you do a very simple sum or something like that on this?
+
+147
+00:09:19,260 --> 00:09:23,240
+Yes we did this algorithm, the Shor algorithm
+
+148
+00:09:23,240 --> 00:09:29,340
+to factor a number and to factor 15 and it turns out, the answer is either 3 or 5...
+
+149
+00:09:29,380 --> 00:09:31,180
+[laugh]
+
+150
+00:09:33,940 --> 00:09:37,200
+>>Is that something we could link to, people could look at or is it err....
+
+151
+00:09:37,560 --> 00:09:38,120
+yes, yes
+
+152
+00:09:38,260 --> 00:09:42,060
+>>Cool well we'll put that in the description if anybody is interested in it
+
+153
+00:09:42,060 --> 00:09:46,320
+it's actually implemented in the programming language Haskell, the functional language
+
+154
+00:09:46,320 --> 00:09:50,440
+I hope you can still download the code!
+

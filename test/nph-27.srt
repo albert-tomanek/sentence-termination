@@ -1,0 +1,253 @@
+1
+00:00:00,000 --> 00:00:03,920
+[Sean, off camera]  If you're in the UK, and you know, you're using these services from abroad,
+
+2
+00:00:03,920 --> 00:00:06,880
+[Sean] how does that affect?
+[Professor Anderson] Well,
+
+3
+00:00:06,880 --> 00:00:09,740
+um, I have been speaking to people
+
+4
+00:00:09,740 --> 00:00:12,340
+in the big service companies, and an example
+
+5
+00:00:12,340 --> 00:00:14,840
+of the thing that they suffer, and that really bothers them
+
+6
+00:00:15,480 --> 00:00:17,740
+is this:  Suppose you're Google.
+
+7
+00:00:17,740 --> 00:00:19,740
+The sort of thing that turns up
+
+8
+00:00:19,740 --> 00:00:21,740
+is that a family court in India
+
+9
+00:00:21,740 --> 00:00:24,740
+grants an order saying that you must hand over the Gmail
+
+10
+00:00:24,740 --> 00:00:26,580
+of somebody living in Canada
+
+11
+00:00:26,580 --> 00:00:28,580
+who's never been in India, and you must
+
+12
+00:00:28,580 --> 00:00:30,580
+keep quiet about it forever.
+
+13
+00:00:30,580 --> 00:00:32,580
+And this really puts you in a bind, because
+
+14
+00:00:32,580 --> 00:00:34,580
+how can you simultaneously employ
+
+15
+00:00:34,580 --> 00:00:36,580
+engineers in India, and
+
+16
+00:00:36,580 --> 00:00:38,580
+give believable assurances of privacy
+
+17
+00:00:38,580 --> 00:00:40,380
+to your users in Canada?
+
+18
+00:00:40,380 --> 00:00:43,000
+If you're an international company, you want to do both.
+
+19
+00:00:43,000 --> 00:00:45,000
+Now, what's been happening up to now, is that
+
+20
+00:00:45,000 --> 00:00:47,860
+the service companies have been directing all these requests
+
+21
+00:00:47,860 --> 00:00:50,000
+to lawyers in California.
+
+22
+00:00:50,000 --> 00:00:53,200
+And this is really driving law enforcement, um,
+
+23
+00:00:53,520 --> 00:00:56,580
+blue in the face with frustration.
+
+24
+00:00:56,820 --> 00:00:58,700
+Because it means that to get hold of stuff,
+
+25
+00:00:58,700 --> 00:01:01,460
+they've got to fill out forms, submit them to the U.S. embassy,
+
+26
+00:01:01,460 --> 00:01:03,700
+wait for months, blah blah blah blah blah blah blah.
+
+27
+00:01:03,980 --> 00:01:06,120
+Now, in order to deal with this problem,
+
+28
+00:01:06,120 --> 00:01:09,500
+what we really need is a new Cyber Evidence convention,
+
+29
+00:01:09,500 --> 00:01:11,320
+like the Cybercrime Convention
+
+30
+00:01:11,320 --> 00:01:13,600
+That is, we need an international agreement
+
+31
+00:01:13,600 --> 00:01:16,160
+which says that if courts in country A
+
+32
+00:01:16,160 --> 00:01:18,160
+want access to data in country B,
+
+33
+00:01:18,160 --> 00:01:20,500
+they should be able to get it quickly,
+
+34
+00:01:20,500 --> 00:01:22,500
+but subject to some rules.
+
+35
+00:01:22,500 --> 00:01:24,500
+And these rules are gonna have to include
+
+36
+00:01:24,500 --> 00:01:26,500
+firstly, transparency; so that
+
+37
+00:01:26,500 --> 00:01:29,560
+you get to know who got access to what, when;
+
+38
+00:01:29,560 --> 00:01:32,400
+you know, once the case starts,
+
+39
+00:01:32,400 --> 00:01:34,400
+or once somebody gets arrested, or whatever.
+
+40
+00:01:34,400 --> 00:01:37,200
+Second, there's got to be respect for jurisdiction,
+
+41
+00:01:37,200 --> 00:01:39,200
+so if a court in India wants to
+
+42
+00:01:39,200 --> 00:01:41,440
+compel production of a Canadian's data,
+
+43
+00:01:41,440 --> 00:01:44,560
+it's got to be run past a court in Canada as well.
+
+44
+00:01:44,560 --> 00:01:47,020
+And thirdly, there's got to be judicial warrants.
+
+45
+00:01:47,020 --> 00:01:49,020
+Because, in many countries,
+
+46
+00:01:49,020 --> 00:01:50,840
+you can't get access to stuff
+
+47
+00:01:50,840 --> 00:01:54,200
+unless an independent party -- a judge or a magistrate --
+
+48
+00:01:54,200 --> 00:01:56,520
+has been convinced that there's probable cause
+
+49
+00:01:56,520 --> 00:01:58,960
+and has signed a piece of paper to that effect.
+
+50
+00:01:58,960 --> 00:02:02,540
+Now, the UK government doesn't like that,
+
+51
+00:02:02,540 --> 00:02:05,380
+because they want such things to be done secretly.
+
+52
+00:02:05,380 --> 00:02:08,080
+They want warrants to be signed by ministers,
+
+53
+00:02:08,080 --> 00:02:10,080
+rather than by judges.
+
+54
+00:02:10,080 --> 00:02:13,920
+And they don't want to be hidebound by jurisdiction.
+
+55
+00:02:13,920 --> 00:02:16,880
+They want to be able to get at stuff in other people's countries as well.
+
+56
+00:02:16,880 --> 00:02:18,560
+And that's because
+
+57
+00:02:18,560 --> 00:02:21,140
+interception and surveilance in Britain
+
+58
+00:02:21,140 --> 00:02:23,460
+is driven by the intelligence agencies
+
+59
+00:02:23,460 --> 00:02:25,160
+rather than by the police.
+
+60
+00:02:25,160 --> 00:02:26,920
+And so long as *their* priorities are
+
+61
+00:02:26,920 --> 00:02:29,160
+what drive policy, then the police are
+
+62
+00:02:29,160 --> 00:02:30,780
+gonna continue to lose out,
+
+63
+00:02:30,780 --> 00:02:32,780
+and law enforcement is going to suffer.
+

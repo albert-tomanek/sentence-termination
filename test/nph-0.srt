@@ -1,0 +1,432 @@
+1
+00:00:00,560 --> 00:00:03,580
+Some of us would really like to move towards where we have a lot of these
+
+2
+00:00:03,620 --> 00:00:05,620
+moving in parallel and indeed IBM...
+
+3
+00:00:07,000 --> 00:00:08,080
+quite some time ago, 15 years ago
+
+4
+00:00:08,080 --> 00:00:09,260
+had something called the millipede
+
+5
+00:00:09,560 --> 00:00:12,720
+where they had lots of little sensors moving across the surface
+
+6
+00:00:12,720 --> 00:00:16,720
+and actually instead of doing the individual atoms, they were looking at a plastic film
+
+7
+00:00:17,220 --> 00:00:21,200
+and they would push the sensors in and create a little hole
+
+8
+00:00:21,200 --> 00:00:26,380
+and then they were really clever so that was the write process
+
+9
+00:00:26,640 --> 00:00:28,640
+the delete or the erase process was
+
+10
+00:00:28,640 --> 00:00:33,360
+they put the probe in the hole, heat it up and then pull the probe out slowly.
+
+11
+00:00:33,360 --> 00:00:37,160
+and what would happen was that the plastic would extrude and fill up the hole, so that they could delete it
+
+12
+00:00:38,360 --> 00:00:42,200
+so that was... Unfortunately, they discontinued that project
+
+13
+00:00:42,200 --> 00:00:44,200
+largely because flash memory came along
+
+14
+00:00:44,200 --> 00:00:46,200
+and sort of blew that out of the water
+
+15
+00:00:46,200 --> 00:00:48,200
+but it's a fascinating idea to think about,
+
+16
+00:00:48,200 --> 00:00:51,320
+could we actually push all those probes working together all the way down to the atomic level
+
+17
+00:00:51,840 --> 00:00:55,840
+>>It does feels a bit like the difference between writing something out by hand and using photocopy
+
+18
+00:00:56,880 --> 00:00:57,380
+yea
+
+19
+00:00:57,380 --> 00:00:59,380
+yea, I gue.. yea, exactly, yea
+
+20
+00:00:59,380 --> 00:01:02,000
+I'm not thinking about the actual mechanics of how the photocopier works
+
+21
+00:01:02,420 --> 00:01:05,660
+in terms of a very serial process where you're doing this
+
+22
+00:01:05,900 --> 00:01:09,840
+compared to just snapshot all in one go
+
+23
+00:01:09,840 --> 00:01:11,180
+that's a really good analogy
+
+24
+00:01:12,460 --> 00:01:13,660
+ok, go down the lab
+
+25
+00:01:16,440 --> 00:01:16,940
+Good!
+
+26
+00:01:17,300 --> 00:01:20,200
+The reason Philip's here is because of Brady's channels
+
+27
+00:01:20,200 --> 00:01:23,780
+'cause of Sixty Symbols, Philip left a job
+
+28
+00:01:24,520 --> 00:01:25,160
+in Brazil
+
+29
+00:01:26,240 --> 00:01:26,960
+So, Philip
+
+30
+00:01:26,960 --> 00:01:30,760
+Philip's gona be working not on silicon as we've been discussing.
+
+31
+00:01:30,760 --> 00:01:32,760
+But actually on the other thing I've mentioned, which was gallium arsenide (GaAs)
+
+32
+00:01:32,760 --> 00:01:35,180
+the systems we use to manipulate atoms are these ones
+
+33
+00:01:35,180 --> 00:01:38,720
+actually, Alex over here is imaging individual molecules
+
+34
+00:01:38,940 --> 00:01:40,940
+each blob you can see on the screen
+
+35
+00:01:42,340 --> 00:01:44,340
+is an individual molecule on a surface
+
+36
+00:01:44,340 --> 00:01:46,340
+and it's scanning actually in real time at the moment
+
+37
+00:01:46,340 --> 00:01:48,340
+and behaving itself
+
+38
+00:01:48,340 --> 00:01:49,520
+pretty well
+
+39
+00:01:49,520 --> 00:01:51,520
+So, that's an island, you can see the edge on one side, see the coastline
+
+40
+00:01:51,520 --> 00:01:53,520
+that's the edge of the molecular island
+
+41
+00:01:53,520 --> 00:01:55,200
+and then it's on a metal surface
+
+42
+00:01:55,200 --> 00:01:58,580
+So on the left hand side you see the metal and on here you see the individual molecules.
+
+43
+00:01:58,800 --> 00:02:00,460
+the greys are Carbon (C)
+
+44
+00:02:00,460 --> 00:02:02,460
+the reds are oxygen (O)
+
+45
+00:02:02,460 --> 00:02:04,460
+and the whites are hydrogen (H)
+
+46
+00:02:05,180 --> 00:02:07,720
+but that's sort of off the point of what we were discussing
+
+47
+00:02:09,020 --> 00:02:11,020
+It's just to show you in action that
+
+48
+00:02:11,020 --> 00:02:13,580
+we can, just as you're standing here, we're talking
+
+49
+00:02:13,720 --> 00:02:15,720
+you can see those individual molecules
+
+50
+00:02:15,720 --> 00:02:17,220
+It's all happening in here
+
+51
+00:02:17,220 --> 00:02:19,920
+this system is... Why we got all the stainless steel is
+
+52
+00:02:19,920 --> 00:02:21,920
+it's an ultra high vacuum system
+
+53
+00:02:22,660 --> 00:02:25,180
+the pressure in there is comparable to that you'd get on the moon
+
+54
+00:02:25,180 --> 00:02:26,720
+on the surface of the moon
+
+55
+00:02:26,720 --> 00:02:28,720
+or if you're on a good day, in space
+
+56
+00:02:29,700 --> 00:02:32,180
+a good day in space, or a good day here?
+
+57
+00:02:33,460 --> 00:02:34,360
+Either!
+
+58
+00:02:35,840 --> 00:02:37,340
+so the one question we're asked a lot
+
+59
+00:02:37,340 --> 00:02:39,860
+(I don't know if the Computerphile audience will be interested)
+
+60
+00:02:41,080 --> 00:02:43,260
+"why the heck have you got all the tinfoil everywhere?"
+
+61
+00:02:44,020 --> 00:02:47,860
+and it's not just because times are tough in terms of funding
+
+62
+00:02:48,440 --> 00:02:52,880
+it's because if we were just to pump this system and do nothing else
+
+63
+00:02:52,880 --> 00:02:54,880
+even with the best pumps in the world, it would sit there
+
+64
+00:02:54,880 --> 00:02:56,880
+and we would get reasonable pressures and vacuum
+
+65
+00:02:56,880 --> 00:02:59,440
+but we'd get nowhere close to 'in space'
+
+66
+00:02:59,440 --> 00:03:01,820
+pressures and type of vacuum we have in space
+
+67
+00:03:02,460 --> 00:03:05,520
+and the reason for that is every surface around is is covered in a thin film of water
+
+68
+00:03:05,540 --> 00:03:07,540
+and that water just sits there
+
+69
+00:03:07,540 --> 00:03:09,540
+and when we pump this down, we pollute the vacuum
+
+70
+00:03:09,540 --> 00:03:11,540
+so what we need to do is drive off that water
+
+71
+00:03:11,540 --> 00:03:14,880
+to drive of that water we bake, we literally bake the system
+
+72
+00:03:14,940 --> 00:03:16,940
+we put a big oven around it
+
+73
+00:03:16,940 --> 00:03:18,940
+just as we put tinfoil around a turkey
+
+74
+00:03:18,940 --> 00:03:21,580
+we put tinfoil around it, and we heat it up to 150°C
+
+75
+00:03:21,580 --> 00:03:23,100
+drive off all the water
+
+76
+00:03:23,100 --> 00:03:24,080
+cool it down
+
+77
+00:03:24,080 --> 00:03:25,200
+and then you get a good pressure
+
+78
+00:03:27,240 --> 00:03:29,240
+I guess the poster right here, to finally get back to silicon
+
+79
+00:03:29,920 --> 00:03:31,360
+so each of these individual blobs
+
+80
+00:03:32,140 --> 00:03:33,040
+is a silicon atom
+
+81
+00:03:33,460 --> 00:03:35,460
+and so we can not only see those silicon atoms
+
+82
+00:03:35,460 --> 00:03:38,420
+by bringing a probe in above the silicon surface
+
+83
+00:03:38,420 --> 00:03:41,400
+and this is actually the lattice we saw upstairs
+
+84
+00:03:42,520 --> 00:03:45,540
+what we can do is, we can use the probe to manipulate the individual silicon atoms
+
+85
+00:03:45,540 --> 00:03:46,960
+and that's what's happening here
+
+86
+00:03:46,960 --> 00:03:51,120
+and in fact we got all the way down to 2 atoms
+
+87
+00:03:51,120 --> 00:03:53,120
+and making an electromechanical switch
+
+88
+00:03:53,120 --> 00:03:56,260
+from flipping those 2 atoms, and we did a SixtySymbols video on that
+
+89
+00:03:57,040 --> 00:04:00,540
+Oh my dear 5 years ago, 2011
+
+90
+00:04:00,540 --> 00:04:03,100
+So, next step is going to be some kind of circuit than?
+
+91
+00:04:03,100 --> 00:04:05,100
+so that's very interesting
+
+92
+00:04:05,100 --> 00:04:09,240
+I must admit, we are driven not so much technology, and technological application
+
+93
+00:04:09,240 --> 00:04:12,260
+really not at all about technology and  application
+
+94
+00:04:12,260 --> 00:04:15,580
+what's driving us like, because we're physicists
+
+95
+00:04:15,580 --> 00:04:20,420
+is what are the fundamental forces between those atoms
+
+96
+00:04:20,420 --> 00:04:22,900
+how do we control the interactions
+
+97
+00:04:22,900 --> 00:04:27,720
+how do we control the bonding and change
+
+98
+00:04:27,720 --> 00:04:29,740
+what the electrons are doing at the surface
+
+99
+00:04:29,740 --> 00:04:33,600
+from a very "what are the fundamental limits of manipulating matter"
+
+100
+00:04:33,600 --> 00:04:35,300
+that's really what's driving us
+
+101
+00:04:35,300 --> 00:04:37,300
+rather than can we get a device out in 2 years
+
+102
+00:04:37,300 --> 00:04:39,300
+because a device is not coming out
+
+103
+00:04:39,300 --> 00:04:43,080
+well, we also operate at 5 degrees above absolute zero
+
+104
+00:04:43,080 --> 00:04:48,540
+there aren't so many devices that you want a helium cryostat beside it operating
+
+105
+00:04:48,540 --> 00:04:50,400
+and that's a fairly big operating cost
+
+106
+00:04:50,400 --> 00:04:52,400
+so, it's very fundamental science
+
+107
+00:04:52,400 --> 00:04:55,220
+>>That's gonna drain your iPhone battery, isn't it?
+
+108
+00:04:55,220 --> 00:04:56,160
+yea indeed
+

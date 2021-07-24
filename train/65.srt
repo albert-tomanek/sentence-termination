@@ -1,0 +1,1263 @@
+1
+00:00:01,240 --> 00:00:03,540
+This is the Technical Difficulties, we're playing Citation Needed.
+
+2
+00:00:03,540 --> 00:00:05,640
+Joining me today, he reads books you know, it's Chris Joel.
+
+3
+00:00:05,720 --> 00:00:06,940
+[mumbles] I've got something in my teeth.
+
+4
+00:00:07,140 --> 00:00:09,440
+Everybody's favourite Gary Brannan, Gary Brannan.
+
+5
+00:00:09,660 --> 00:00:11,640
+Insert power cable here.
+
+6
+00:00:12,500 --> 00:00:13,260
+Where?
+
+7
+00:00:13,800 --> 00:00:14,680
+Oh, you know.
+
+8
+00:00:16,200 --> 00:00:18,460
+You committed to that.  I didn't think you 'd go for that one.
+
+9
+00:00:18,460 --> 00:00:19,480
+I didn't think you'd go right in it.
+
+10
+00:00:19,700 --> 00:00:20,200
+Urgh!
+
+11
+00:00:20,200 --> 00:00:22,340
+And the bounciest man on the Internet, Matt Gray.
+
+12
+00:00:22,340 --> 00:00:23,700
+Bienvenue, YouTube!
+
+13
+00:00:23,700 --> 00:00:27,260
+In front of me I have an article from Wikipedia and these folks can't see it.
+
+14
+00:00:27,260 --> 00:00:29,460
+Every fact they get right is a point and a ding [ding].
+
+15
+00:00:29,460 --> 00:00:33,180
+And there's a special prize for a particularly good answers, which is...
+
+16
+00:00:33,880 --> 00:00:37,660
+And today we are talking about Project Cybersyn.
+
+17
+00:00:37,900 --> 00:00:41,800
+Oh! Oh...! Oh... There are many cyber sins.
+
+18
+00:00:41,800 --> 00:00:45,880
+Is it a campaign by the Church of England to absolve robots of their sins?
+
+19
+00:00:45,880 --> 00:00:48,660
+No, and it is spelt S Y N.
+
+20
+00:00:48,660 --> 00:00:51,400
+Oh come on! This is a novel or something.
+
+21
+00:00:51,400 --> 00:00:55,840
+Nope. This is entirely real. But I'll admit it sounds a little bit science fictiony.
+
+22
+00:00:55,840 --> 00:00:57,920
+So is it sin or synthetic?
+
+23
+00:00:57,920 --> 00:01:00,300
+It's an abbreviation of something. I'll give you one point for that [ding].
+
+24
+00:01:00,300 --> 00:01:01,080
+Ah, synergy...
+
+25
+00:01:01,080 --> 00:01:02,040
+Point! [ding]
+
+26
+00:01:02,040 --> 00:01:02,540
+Wahey, uh-huh!
+
+27
+00:01:02,540 --> 00:01:06,220
+It is indeed a portmanteau of cybernetics and synergy.
+
+28
+00:01:06,820 --> 00:01:09,100
+Is it a government policy somewhere?
+
+29
+00:01:09,100 --> 00:01:11,020
+Ooh! Yes, have a point [ding].
+
+30
+00:01:11,020 --> 00:01:12,260
+Does anyone want to guess where in the world...
+
+31
+00:01:12,260 --> 00:01:13,800
+AMERICA!
+
+32
+00:01:13,920 --> 00:01:15,120
+Which bit?
+
+33
+00:01:15,120 --> 00:01:17,580
+[bad Southern US accent] The South.
+
+34
+00:01:17,780 --> 00:01:20,020
+Now... if I said the...
+
+35
+00:01:20,020 --> 00:01:22,960
+Whatever the answer was correct, is the one I meant.
+
+36
+00:01:22,960 --> 00:01:26,400
+Yes Gary, have a point. It's in South America. [ding]
+
+37
+00:01:26,400 --> 00:01:26,900
+Yea!
+
+38
+00:01:26,900 --> 00:01:27,640
+Chile.
+
+39
+00:01:27,640 --> 00:01:29,880
+No, I'm fine, I've got a jumper on.
+
+40
+00:01:30,360 --> 00:01:35,560
+I deliberately didn't pronounce it 'chilly', just so you wouldn't do that joke.
+
+41
+00:01:36,020 --> 00:01:36,720
+Sod it!
+
+42
+00:01:37,520 --> 00:01:39,120
+It's happening anyway. Deal with it.
+
+43
+00:01:39,120 --> 00:01:41,680
+I say, to be fair, all that did was to make you sound really pretentious.
+
+44
+00:01:41,680 --> 00:01:42,320
+Yes.
+
+45
+00:01:42,320 --> 00:01:43,800
+[Posh accent] Chile.
+
+46
+00:01:43,800 --> 00:01:46,040
+[Posh accent] Chile, I think you will find it's pronounced.
+
+47
+00:01:46,200 --> 00:01:48,200
+I think you'll find it's pronounced "CHYLE".
+
+48
+00:01:49,180 --> 00:01:51,180
+That's what Jimi Hendrix says.
+
+49
+00:01:51,460 --> 00:01:52,820
+That's what we does.
+
+50
+00:01:52,820 --> 00:01:55,680
+It's not Voodoo Chilli. Or maybe it should be that.
+
+51
+00:01:55,680 --> 00:01:56,860
+[Posh accent] It's Voodoo Chilé.
+
+52
+00:01:56,860 --> 00:01:57,500
+[Posh accent] Voodoo Chilé?
+
+53
+00:01:57,500 --> 00:01:58,520
+[Posh accent] Voodoo Chilé.
+
+54
+00:01:58,520 --> 00:01:59,900
+You know it's one of those sleeveless jackets.
+
+55
+00:01:59,900 --> 00:02:02,620
+But you become a zombie when you put it on.
+
+56
+00:02:02,620 --> 00:02:03,920
+A voodoo gilet!
+
+57
+00:02:04,660 --> 00:02:08,360
+I'm so puffy and warm and... BRAINS!
+
+58
+00:02:09,360 --> 00:02:11,580
+Chile is the far left of bottom America, right?
+
+59
+00:02:11,580 --> 00:02:12,940
+It is. For most of the way down.
+
+60
+00:02:12,940 --> 00:02:13,860
+Bottom America!
+
+61
+00:02:13,940 --> 00:02:16,900
+Far left of bottom America. You navigate like I do.
+
+62
+00:02:16,900 --> 00:02:18,280
+It's the long one, isn't it?
+
+63
+00:02:18,280 --> 00:02:18,780
+Yes.
+
+64
+00:02:18,780 --> 00:02:20,840
+It's the long thin one that goes all the way down one side.
+
+65
+00:02:20,840 --> 00:02:22,600
+We went to school you know.
+
+66
+00:02:22,900 --> 00:02:25,060
+About when are we talking about? When would you expect to see...
+
+67
+00:02:25,060 --> 00:02:25,680
+Lunch time!
+
+68
+00:02:25,680 --> 00:02:26,480
+2:30!
+
+69
+00:02:29,760 --> 00:02:31,840
+Two men swinging at the same ball there, eh?
+
+70
+00:02:33,420 --> 00:02:37,080
+It's like one of those out takes from a baseball game, where you see two people running for the same ball.
+
+71
+00:02:38,860 --> 00:02:39,740
+What decade...
+
+72
+00:02:40,480 --> 00:02:42,480
+would you expect to hear Project Cybersyn?
+
+73
+00:02:42,480 --> 00:02:45,120
+-- If this isn't '80s, I am disappointed.
+-- 70s?
+
+74
+00:02:45,120 --> 00:02:47,360
+You're going to be disappointed, it's the '70s. Have a point, Matt [ding]
+
+75
+00:02:48,000 --> 00:02:49,480
+Are we making South American robots?
+
+76
+00:02:49,480 --> 00:02:52,540
+1971 to 1973.
+
+77
+00:02:52,540 --> 00:02:54,320
+Is that when they took over and killed everyone?
+
+78
+00:02:54,320 --> 00:02:55,100
+No...
+
+79
+00:02:55,100 --> 00:02:57,740
+South America in that era. That's a dubious joke to be making.
+
+80
+00:02:57,740 --> 00:03:01,640
+That's what ended Project Cybersyn, was a military coup
+
+81
+00:03:01,640 --> 00:03:03,520
+that destroyed the control room.
+
+82
+00:03:03,520 --> 00:03:05,300
+So yes... but(!)
+
+83
+00:03:06,360 --> 00:03:08,360
+It was a military [pigeon noise]
+
+84
+00:03:08,360 --> 00:03:09,480
+Military coo...
+
+85
+00:03:09,480 --> 00:03:10,960
+Pigeons are coming! Release the robots!
+
+86
+00:03:10,980 --> 00:03:14,560
+Sir, the robots aren't finished. The pigeons are pecking them to pieces! Oh, what a world!
+
+87
+00:03:14,560 --> 00:03:16,520
+Sir. The robots...
+
+88
+00:03:16,520 --> 00:03:18,240
+...ARE pigeons.
+
+89
+00:03:18,240 --> 00:03:19,200
+[Pigeon coos]
+-- Oh my god!
+
+90
+00:03:19,200 --> 00:03:21,340
+I can't take my glasses off, I'm wearing contacts.
+
+91
+00:03:21,340 --> 00:03:22,300
+[Pigeon coos] [Robotic buzz]
+
+92
+00:03:22,300 --> 00:03:22,980
+My God!
+
+93
+00:03:22,980 --> 00:03:23,940
+[Robotic buzz] [Pigeon coos]
+
+94
+00:03:24,540 --> 00:03:25,560
+[Quietly] I don't like this.
+
+95
+00:03:25,560 --> 00:03:26,980
+What I'd like in a robot pigeon is two things.
+
+96
+00:03:26,980 --> 00:03:30,440
+One, someone would have to spend ages perfecting that pigeon walk...
+
+97
+00:03:30,440 --> 00:03:32,840
+so that their heads go back and forwards at the same speed they walk still.
+
+98
+00:03:32,840 --> 00:03:36,980
+That's easy. You just put another linkage across their of their neck and have it link to the back of their forehead.
+
+99
+00:03:36,980 --> 00:03:39,500
+That's a modern gyro that's got to try and not compensate for that.
+
+100
+00:03:39,500 --> 00:03:42,340
+And the other is, they'll still make it so they pick up cigarette butts.
+
+101
+00:03:42,920 --> 00:03:45,000
+Every pigeon in the square, moving in unison.
+
+102
+00:03:45,000 --> 00:03:45,640
+Aargh!
+
+103
+00:03:45,640 --> 00:03:46,320
+That would be creepy.
+
+104
+00:03:46,320 --> 00:03:48,080
+Oh, we've gone too far now.
+
+105
+00:03:48,640 --> 00:03:49,440
+Laser eyes.
+
+106
+00:03:49,440 --> 00:03:52,760
+Yeah, natch. Obviously. They can't hold one, they've got wings dammit!
+
+107
+00:03:52,760 --> 00:03:55,520
+It's not going to flap its wings to fly. It's going to have a rocket up its bum.
+
+108
+00:03:55,520 --> 00:04:00,620
+For those of you just tuning in, Project Cybersyn...
+is not robot pigeons.
+
+109
+00:04:00,620 --> 00:04:02,400
+I can just see a whole Trafalgar Square of pigeons...
+
+110
+00:04:02,400 --> 00:04:07,000
+just stopping, wings extending and just them all launching upwards...
+
+111
+00:04:07,160 --> 00:04:08,220
+in synergy.
+
+112
+00:04:08,220 --> 00:04:13,020
+Now that's a beaut... compared to them all turning round to look at you in synergy, that's a beautiful image.
+
+113
+00:04:13,160 --> 00:04:15,400
+Project Cybersyn... gentlemen.
+
+114
+00:04:15,400 --> 00:04:16,720
+Robot pigeons, wasn't it?
+
+115
+00:04:16,720 --> 00:04:20,500
+Robot, rocket-arsed pigeons.
+We've confirmed this already, Tom.
+
+116
+00:04:21,000 --> 00:04:21,820
+Chile.
+
+117
+00:04:21,820 --> 00:04:23,740
+1970s... early 1970s as well.
+
+118
+00:04:24,300 --> 00:04:26,620
+Was it a public computing project?
+
+119
+00:04:26,620 --> 00:04:27,420
+Ooh!
+
+120
+00:04:27,420 --> 00:04:30,000
+You can have a point [ding].
+But what do you mean by public?
+
+121
+00:04:30,000 --> 00:04:32,300
+A terminal in a cafe for someone -- for everyone to use.
+
+122
+00:04:32,300 --> 00:04:33,340
+No. Not quite.
+
+123
+00:04:33,340 --> 00:04:40,080
+One of these state sponsored, productivity drives, that is going to put robots in factories.
+
+124
+00:04:40,080 --> 00:04:41,820
+To make things more efficient.
+
+125
+00:04:41,820 --> 00:04:47,220
+Yeah, you keep doing this... 'Is it a state sponsored productivity... robots... in that...'
+
+126
+00:04:47,940 --> 00:04:49,940
+No.... no.
+
+127
+00:04:50,320 --> 00:04:55,180
+State sponsored. You know I will give you a point. State sponsored productivity [ding]. Because, you know, socialist government then.
+
+128
+00:04:55,180 --> 00:04:57,020
+What were they trying to do?
+
+129
+00:04:57,020 --> 00:04:58,100
+Get everyone computing?
+
+130
+00:04:58,100 --> 00:04:59,860
+Teach computer literacy?
+
+131
+00:04:59,860 --> 00:05:01,340
+Yeah, but that's too early. That's '70s.
+
+132
+00:05:01,340 --> 00:05:02,180
+Way too early.
+
+133
+00:05:02,180 --> 00:05:05,340
+The thing then was all about improving productivity in workplaces...
+
+134
+00:05:05,340 --> 00:05:08,220
+because that's where places ended up with, like, robotic shop floors and stuff.
+
+135
+00:05:08,220 --> 00:05:12,780
+So is it to do with shipping and transport and integrated movement of goods and stuff like that?
+
+136
+00:05:12,780 --> 00:05:14,240
+Yes! Have a point [ding]
+
+137
+00:05:14,240 --> 00:05:15,380
+Databases isn't it?
+
+138
+00:05:15,700 --> 00:05:17,320
+And you have a point as well [ding].
+
+139
+00:05:17,320 --> 00:05:20,600
+It was an attempt to plan the economy of Chile....
+
+140
+00:05:20,600 --> 00:05:23,220
+Using one massive computer system.
+
+141
+00:05:23,220 --> 00:05:26,680
+Now! As this had a very short period of time working.
+
+142
+00:05:26,680 --> 00:05:29,560
+Do I assume it wasn't entirely successful?
+
+143
+00:05:29,560 --> 00:05:32,200
+And everyone ended up burning down?
+
+144
+00:05:32,200 --> 00:05:35,160
+No, it did actually have a bit of success.
+
+145
+00:05:35,160 --> 00:05:37,940
+Did it declare humans as 'no longer essential'?
+
+146
+00:05:37,940 --> 00:05:42,260
+No, they managed to switch it on. To look at the errors in the code.
+
+147
+00:05:42,260 --> 00:05:45,200
+The screen flashes 'you're better off with a coup'.
+
+148
+00:05:46,940 --> 00:05:51,740
+I know nothing about the politicals here. I don't know if that's even appropriate.
+
+149
+00:05:51,740 --> 00:05:55,260
+"We've turned it on and all the screen says is 'Death!'"
+
+150
+00:05:55,700 --> 00:05:59,060
+All the state-run factories were given a computer terminal
+
+151
+00:05:59,060 --> 00:06:02,060
+where they typed all their details of what was happening.
+
+152
+00:06:02,220 --> 00:06:04,220
+And that got fed back to...?
+
+153
+00:06:04,340 --> 00:06:05,940
+The president's office.
+
+154
+00:06:05,940 --> 00:06:06,980
+The mainframe.
+
+155
+00:06:06,980 --> 00:06:09,560
+A fellow in very small glasses with a slide rule.
+
+156
+00:06:10,660 --> 00:06:11,780
+Matt's closer [ding].
+
+157
+00:06:11,780 --> 00:06:12,420
+America!
+
+158
+00:06:12,700 --> 00:06:15,920
+No. It was a central control room in Chile.
+
+159
+00:06:16,520 --> 00:06:17,960
+Complete with, what?
+
+160
+00:06:18,260 --> 00:06:19,180
+Coffee machine?
+
+161
+00:06:19,180 --> 00:06:20,000
+Toilets?
+
+162
+00:06:20,200 --> 00:06:21,480
+There was a lot of manu...
+
+163
+00:06:21,480 --> 00:06:23,200
+If this was the '70s, a strike!
+
+164
+00:06:23,480 --> 00:06:25,240
+I'll tell you what, have a point [ding].
+
+165
+00:06:26,760 --> 00:06:29,960
+It helped deal with striking truck workers.
+
+166
+00:06:29,960 --> 00:06:31,080
+By killing them?
+
+167
+00:06:31,080 --> 00:06:32,240
+No. By...
+
+168
+00:06:33,400 --> 00:06:33,900
+No.
+
+169
+00:06:34,540 --> 00:06:36,700
+"Computer, what is our solution?"
+
+170
+00:06:36,700 --> 00:06:38,620
+"It just says 'Death!' again."
+
+171
+00:06:39,060 --> 00:06:40,260
+"Whatever I press!"
+
+172
+00:06:40,820 --> 00:06:44,900
+Striking truck drivers blocked all the access streets going to the capital.
+
+173
+00:06:44,900 --> 00:06:47,340
+But they were able to work out what routes were free.
+
+174
+00:06:47,340 --> 00:06:51,740
+What factories still had some workers that could send things out. And they used this central computer for it.
+
+175
+00:06:51,740 --> 00:06:53,260
+Oh, it had Google Maps?
+
+176
+00:06:53,900 --> 00:06:55,420
+Not really back then?
+
+177
+00:06:55,560 --> 00:06:56,440
+No! Bing!
+
+178
+00:06:57,680 --> 00:06:58,640
+Oh God!
+
+179
+00:06:58,640 --> 00:07:02,880
+"Ah! I see you want to visit...
+the centre of the Atlantic Ocean."
+
+180
+00:07:02,880 --> 00:07:04,800
+"Here is a picture of France."
+
+181
+00:07:05,000 --> 00:07:05,880
+Thanks Bing!
+
+182
+00:07:05,880 --> 00:07:06,760
+Thanks Bing!
+
+183
+00:07:06,760 --> 00:07:09,600
+Bing would be so much better if it was voiced by Bing Crosby.
+
+184
+00:07:09,600 --> 00:07:13,840
+"So, I see you wanna find out more 'bout York in England do you...?"
+
+185
+00:07:13,840 --> 00:07:15,280
+"Well son, here you go."
+
+186
+00:07:15,980 --> 00:07:20,780
+Except it's Bing, So you'd just be given a map of the New York tube system.
+
+187
+00:07:20,780 --> 00:07:22,600
+"Son, why d'ya wanna go anywhere else?"
+
+188
+00:07:22,600 --> 00:07:26,880
+"Ah sir, that's all ya need to know about York... uh... you're not there."
+
+189
+00:07:26,880 --> 00:07:28,240
+"Swell game, fellas."
+
+190
+00:07:28,900 --> 00:07:33,320
+What did the central planning office have for the seven people, that were sat around...
+
+191
+00:07:33,320 --> 00:07:33,940
+Seats?
+
+192
+00:07:33,940 --> 00:07:37,020
+Super cool, lean back consoles with many screens and...
+
+193
+00:07:37,020 --> 00:07:38,300
+I'm going to give you the point [ding]. They had...
+
+194
+00:07:38,300 --> 00:07:40,860
+This is the '70s, whirling tape and lights, surely?
+
+195
+00:07:40,860 --> 00:07:41,700
+Oh yeah!
+
+196
+00:07:41,700 --> 00:07:46,500
+There we go. 1970s, Star Trek, science fiction style, command console chairs
+
+197
+00:07:46,500 --> 00:07:51,200
+for the seven people who took all this information and made the decisions.
+
+198
+00:07:51,780 --> 00:07:53,520
+A sign on the toilet, saying 'Captain's Log'.
+
+199
+00:07:55,220 --> 00:07:56,440
+Aww...
+
+200
+00:07:56,440 --> 00:07:59,300
+Which was fine, apart from the chaps in the very short dresses.
+
+201
+00:08:00,160 --> 00:08:01,180
+Oh yeah!
+
+202
+00:08:01,180 --> 00:08:02,720
+-- I'm thinking Star Trek uniforms here.
+-- Yeah.
+
+203
+00:08:02,720 --> 00:08:07,200
+Early Next Generation Star Trek had gender neutral uniforms
+
+204
+00:08:07,200 --> 00:08:09,280
+that were basically short dresses, down to about...
+
+205
+00:08:09,280 --> 00:08:10,500
+I believe they were called skants.
+
+206
+00:08:10,500 --> 00:08:11,560
+Skants. Yes.
+
+207
+00:08:11,560 --> 00:08:14,080
+I thought that sounds like a crisp based snack.
+
+208
+00:08:14,080 --> 00:08:14,900
+Skant!
+
+209
+00:08:14,900 --> 00:08:16,520
+-- Skants!
+-- New Skants!
+
+210
+00:08:16,520 --> 00:08:19,160
+You open the bag -- there's not much in.
+
+211
+00:08:20,540 --> 00:08:22,220
+Buy them today...
+
+212
+00:08:22,460 --> 00:08:24,460
+BECAUSE THE COMPUTER TOLD YOU!
+
+213
+00:08:24,800 --> 00:08:26,720
+Buy them or face the Pigeons!
+
+214
+00:08:30,860 --> 00:08:35,280
+You know in history, there are these people who have these grand dreams of socialist planning and computers
+
+215
+00:08:35,280 --> 00:08:36,740
+that are never made real.
+
+216
+00:08:36,740 --> 00:08:38,740
+This man's dream became real.
+
+217
+00:08:38,980 --> 00:08:39,720
+William Shatner!
+
+218
+00:08:39,720 --> 00:08:41,760
+He just wanted a real life Enterprise.
+
+219
+00:08:41,800 --> 00:08:45,500
+What country did Stafford Beer come from?
+
+220
+00:08:45,500 --> 00:08:46,560
+'Murica!
+
+221
+00:08:46,900 --> 00:08:47,540
+No.
+
+222
+00:08:47,540 --> 00:08:48,880
+The United Kingdom!
+
+223
+00:08:48,880 --> 00:08:50,160
+Yes he did! [ding].
+
+224
+00:08:50,840 --> 00:08:54,160
+A British management cybernetics consultant.
+
+225
+00:08:54,160 --> 00:08:56,440
+-- [BEEP]ing hell.
+-- What? In 70s...
+
+226
+00:08:56,440 --> 00:08:59,480
+-- In 1970s.
+-- You can't be that any more, can you?
+
+227
+00:08:59,480 --> 00:09:01,000
+Stafford Beer.
+
+228
+00:09:01,000 --> 00:09:03,980
+You have to be a startup to be one of those now.
+
+229
+00:09:03,980 --> 00:09:06,860
+He also sympathised with the Chilean socialists.
+
+230
+00:09:07,280 --> 00:09:09,120
+And that worked quite well!
+
+231
+00:09:09,120 --> 00:09:10,240
+I imagine it did.
+
+232
+00:09:10,240 --> 00:09:14,760
+He basically got, I don't know if it was a phone call in those days, but he got a message, out of the blue.
+
+233
+00:09:14,760 --> 00:09:16,360
+-- Probably a telex.
+-- A telex, surely?
+
+234
+00:09:16,360 --> 00:09:18,580
+From the COM-PU-TER!
+
+235
+00:09:18,580 --> 00:09:22,760
+From the wonderfully named Fernando Flores and he basically dropped all his other work and said
+
+236
+00:09:22,760 --> 00:09:23,960
+"Yes, I will go to Chile!"
+
+237
+00:09:23,960 --> 00:09:25,600
+Someone picked it up later. It would be all over the floor.
+
+238
+00:09:26,440 --> 00:09:28,120
+And help the socialists.
+
+239
+00:09:28,120 --> 00:09:29,280
+Did they have a five year plan?
+
+240
+00:09:29,280 --> 00:09:31,540
+Well they did. But it lasted about two years.
+
+241
+00:09:31,540 --> 00:09:33,400
+I was going to say, did that not work out?
+
+242
+00:09:33,400 --> 00:09:36,040
+That's the duration of most five year plans, in my experience. Actually, yeah.
+
+243
+00:09:36,040 --> 00:09:38,080
+Let me guess, they ****ed off, quite soon after.
+
+244
+00:09:38,080 --> 00:09:40,040
+No, they were given a military coup.
+
+245
+00:09:40,040 --> 00:09:42,580
+Given one?! ♫ Happy Birthday to you...
+
+246
+00:09:42,580 --> 00:09:44,080
+♫ Here's a military coup... ♫
+
+247
+00:09:46,140 --> 00:09:47,560
+♫ You've five minutes to leave
+
+248
+00:09:47,560 --> 00:09:49,280
+♫ And your family too! ♫
+
+249
+00:09:55,280 --> 00:09:58,880
+I mean Chris, you pressed the button there, but it was entirely justified.
+
+250
+00:09:59,840 --> 00:10:01,760
+Those are biscuits for Gary. Well done.
+
+251
+00:10:03,820 --> 00:10:07,220
+Yes. The 1973 Chilean coup d'etat.
+
+252
+00:10:07,220 --> 00:10:09,420
+Aren't those the little things you have at parties?
+
+253
+00:10:09,420 --> 00:10:11,540
+-- That's... that's...
+-- Crudités!
+
+254
+00:10:12,280 --> 00:10:13,880
+A crudités coup d'etat!
+
+255
+00:10:14,580 --> 00:10:16,580
+Ooh look! It's shaped like a tiny rifle.
+
+256
+00:10:18,120 --> 00:10:19,240
+How avant-garde!
+
+257
+00:10:19,240 --> 00:10:21,320
+Ooh! It's taken over my intestines!
+
+258
+00:10:22,360 --> 00:10:24,360
+Yes, the caviar was somewhat suspect.
+
+259
+00:10:25,520 --> 00:10:29,200
+Opens the fridge... Flags... Parade...
+
+260
+00:10:29,360 --> 00:10:32,520
+Tins of pilchards going round like nuclear missiles.
+
+261
+00:10:32,520 --> 00:10:37,260
+Than, many years later, people are wearing red t-shirts, with crudités on them.
+
+262
+00:10:38,400 --> 00:10:42,060
+Big pictures of a tin of sardines...
+
+263
+00:10:42,060 --> 00:10:45,740
+Being held. They were obviously airbrushed, to make them look a bit newer.
+
+264
+00:10:45,740 --> 00:10:46,540
+Yeah!
+
+265
+00:10:47,780 --> 00:10:49,220
+The smoked salmon ones are at the top
+
+266
+00:10:49,220 --> 00:10:52,820
+because although all men are born equal, some are more equal than others.
+
+267
+00:10:53,300 --> 00:10:56,800
+Apart from one really old one in the middle. Looks like it could fall off at any time.
+
+268
+00:10:56,800 --> 00:10:58,560
+With an awesome mustache.
+
+269
+00:10:58,560 --> 00:11:00,660
+It's a Chilean coup, so with a big hat, sunglasses.
+
+270
+00:11:01,440 --> 00:11:04,160
+Who backed the Chilean coup? In 1973?
+
+271
+00:11:04,160 --> 00:11:05,540
+The COM-PU-TER did!
+
+272
+00:11:05,540 --> 00:11:06,780
+It's got to be the States.
+
+273
+00:11:06,780 --> 00:11:09,320
+It's go to be the States. Richard Nixon's government. Yes [ding].
+
+274
+00:11:09,320 --> 00:11:11,960
+There is a name you might recognise, that came to power afterwards.
+
+275
+00:11:11,960 --> 00:11:13,440
+-- Pinochet!
+-- Pinochet! [ding]
+
+276
+00:11:13,440 --> 00:11:15,340
+Dammit! I would have been right. Ah well.
+
+277
+00:11:15,340 --> 00:11:17,880
+It was the coup in which Pinochet came to power.
+
+278
+00:11:17,880 --> 00:11:19,320
+And... you know...
+
+279
+00:11:19,320 --> 00:11:26,200
+As part of this, the massive infrastructure of socialism that Nixon and the U.S. were fighting against.
+
+280
+00:11:26,200 --> 00:11:30,120
+This massive computer orchestrated thing... destroyed.
+
+281
+00:11:30,120 --> 00:11:31,980
+It's worth pointing out, in less than...
+
+282
+00:11:32,740 --> 00:11:34,120
+Ooh hoo hoo hoo!
+
+283
+00:11:34,120 --> 00:11:35,720
+I didn't actually intend for that to connect.
+
+284
+00:11:35,720 --> 00:11:38,360
+-- Hel-lo!
+-- Handbags at dawn ladies!
+
+285
+00:11:38,360 --> 00:11:40,920
+He's right, it was worth pointing out.
+
+286
+00:11:40,920 --> 00:11:44,680
+That is the most 'shut that door' slap I've ever seen, Tom.
+
+287
+00:11:44,680 --> 00:11:46,060
+It really is.
+
+288
+00:11:47,420 --> 00:11:51,840
+It's worth mentioning that they actually did get to advanced prototype in under two years.
+
+289
+00:11:51,840 --> 00:11:56,020
+Which for a central government operation -- like, I don't know if Britain could do that
+
+290
+00:11:56,020 --> 00:11:59,560
+with one thing right now.
+Let alone a big national project.
+
+291
+00:11:59,560 --> 00:12:01,480
+So they went full-on startup?
+
+292
+00:12:01,480 --> 00:12:02,580
+Yeah. They...
+
+293
+00:12:02,580 --> 00:12:06,520
+They had a great idea. They burned out after two years, almost literally.
+
+294
+00:12:06,900 --> 00:12:08,120
+That's it. That's all I'm saying.
+
+295
+00:12:08,120 --> 00:12:09,460
+Yeah, they managed it.
+
+296
+00:12:09,460 --> 00:12:13,480
+And no-one really got any money at the end. And the person whose idea it was,
+
+297
+00:12:13,480 --> 00:12:17,340
+despite the fact it was technically a failure, went back and had a successful career doing other things.
+
+298
+00:12:17,340 --> 00:12:18,360
+And no-one's heard about it now!
+
+299
+00:12:18,360 --> 00:12:20,320
+Basically a tech startup. There you go.
+
+300
+00:12:20,340 --> 00:12:22,480
+The late '90s, documented, right there.
+
+301
+00:12:22,480 --> 00:12:23,180
+Yes!
+
+302
+00:12:23,180 --> 00:12:26,300
+So, congratulations at the end of that. I think Gary, you...
+
+303
+00:12:26,980 --> 00:12:28,080
+You very clearly win this one.
+
+304
+00:12:28,080 --> 00:12:35,080
+You win a restaurant that cooks lingerie over a box of hot coals, that was previously owned by a famous civil engineer...
+
+305
+00:12:37,100 --> 00:12:38,000
+Go on...
+
+306
+00:12:38,000 --> 00:12:41,440
+It's Brunel's Brassieres and Braziers Brasserie.
+
+307
+00:12:42,540 --> 00:12:44,260
+So congratulations, enjoy that.
+
+308
+00:12:44,260 --> 00:12:46,980
+With that we say good bye to Chris Joel...
+
+309
+00:12:46,980 --> 00:12:48,260
+To Gary Brannan...
+
+310
+00:12:48,260 --> 00:12:49,040
+To Matt Gray...
+
+311
+00:12:49,040 --> 00:12:50,520
+I've been Tom Scott and we'll see you next time.
+
+312
+00:12:51,540 --> 00:12:53,540
+[Translating these subtitles? Add your name here!]
+

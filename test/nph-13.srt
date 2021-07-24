@@ -1,0 +1,266 @@
+1
+00:00:00,000 --> 00:00:02,550
+>> Sean: It's interesting -- one thing that's kind of
+struck me straightaway is [that] you
+
+2
+00:00:02,550 --> 00:00:07,049
+mentioned linked lists.  I've got it ringing
+in my head that we did a video on linked lists
+
+3
+00:00:07,049 --> 00:00:13,410
+and people commented: "Nobody ever uses linked lists
+in real life."  Would you say they're used here
+
+4
+00:00:13,410 --> 00:00:17,220
+because this is just for one or two elements here and there?
+>> BWK: I think they're used here because it's
+
+5
+00:00:17,220 --> 00:00:21,390
+a data structure that expands gracefully.
+In other words if we don't know when we
+
+6
+00:00:21,390 --> 00:00:25,920
+create that original table how many
+items there are going to be in a
+
+7
+00:00:25,920 --> 00:00:29,970
+particular use of a particular slot in
+the table, and so the linked list has the
+
+8
+00:00:29,970 --> 00:00:35,100
+advantage that it grows very gracefully
+if something else, you know, if it keeps
+
+9
+00:00:35,100 --> 00:00:40,739
+going like this, the linked list adapts
+very nicely.  This, changing the size of an
+
+10
+00:00:40,739 --> 00:00:43,620
+array like this, is kind of a biggish
+operation, you don't want to do it very
+
+11
+00:00:43,620 --> 00:00:47,910
+often, but adding a single element to a
+linked list is really easy.  If it's a
+
+12
+00:00:47,910 --> 00:00:50,760
+hash table you could add it either at
+the end or you could add at the beginning;
+
+13
+00:00:50,760 --> 00:00:55,829
+doesn't matter what the order is in that
+sense.  So linked list actually makes a
+
+14
+00:00:55,829 --> 00:01:00,239
+lot of sense for this context, and it's
+only a singly linked list, which
+
+15
+00:01:00,239 --> 00:01:03,359
+is the easy one, because you don't
+have to go backwards; you're always just
+
+16
+00:01:03,359 --> 00:01:06,119
+looking down to see whether something is
+there or not.
+
+17
+00:01:06,119 --> 00:01:12,570
+So no, the linked list is an absolutely
+useful data structure for this.  But, and
+
+18
+00:01:12,570 --> 00:01:16,020
+this is one of these things are kind of
+intriguing and perhaps the reason why I
+
+19
+00:01:16,020 --> 00:01:19,590
+said that associative arrays are "if
+you're only going to have one data
+
+20
+00:01:19,590 --> 00:01:24,900
+structure it's the one to have": you can
+fake anything else with an associative
+
+21
+00:01:24,900 --> 00:01:28,680
+array.  So if that's your primitive
+operator as it is in a language like Awk
+
+22
+00:01:28,680 --> 00:01:34,259
+for example, then with that associative
+array you can make any other kind of
+
+23
+00:01:34,259 --> 00:01:38,939
+data structure that you want.  It may be a
+little clunky, it may not run very fast,
+
+24
+00:01:38,939 --> 00:01:42,630
+but it's perfectly fine.
+So for example suppose, and here I am
+
+25
+00:01:42,630 --> 00:01:48,960
+let's call it in Awk,
+I want to build an array whose indexes
+
+26
+00:01:48,960 --> 00:01:56,549
+are the integers from 0 to whatever, just as
+we're used to.  Well, gee, X of 0 --
+
+27
+00:01:56,549 --> 00:01:59,850
+that's a perfectly fine value.  I would
+probably want to convert it to a string.
+
+28
+00:01:59,850 --> 00:02:05,250
+And then X of 1 is a perfectly fine
+value.  It's like they're all there, no
+
+29
+00:02:05,250 --> 00:02:13,100
+cost, because this is really X of 0,
+like that, right?  So, no problem at all in
+
+30
+00:02:13,100 --> 00:02:18,350
+simulating ordinary indexed arrays in
+associative arrays or with an
+
+31
+00:02:18,350 --> 00:02:22,070
+associative array. 
+>> Sean>:  So this is like the Swiss Army knife 
+of arrays, right?
+
+32
+00:02:22,070 --> 00:02:25,700
+>> BWK:  It is the Swiss Army knife of data
+structures: you can build any darn thing
+
+33
+00:02:25,700 --> 00:02:31,670
+you want with it.  And like Swiss Army
+knives, it, you know, it doesn't work
+
+34
+00:02:31,670 --> 00:02:34,730
+perfectly for everything; if you want to
+go and kill people on the battlefield,
+
+35
+00:02:34,730 --> 00:02:39,890
+Swiss Army knife's not quite right.  But
+for this kind of thing, it's
+
+36
+00:02:39,890 --> 00:02:43,580
+absolutely wonderful data structure.
+>> Sean: We talked a lot about hashes in the
+
+37
+00:02:43,580 --> 00:02:47,390
+security realm and also kind of checking
+that things are what you think they are.
+
+38
+00:02:47,390 --> 00:02:52,630
+This is just the same, it's just a function, is it?
+>> BWK: It's a function that takes some input:
+
+39
+00:02:52,630 --> 00:02:56,720
+arbitrary thing.  I've been talking as if
+it were a string of characters; could be
+
+40
+00:02:56,720 --> 00:03:01,160
+a URL, could be people's names, or you
+know postcodes, anything you want, and
+
+41
+00:03:01,160 --> 00:03:06,170
+converts it into an integer in a
+particular range: zero to something.  And
+
+42
+00:03:06,170 --> 00:03:11,540
+then from that you can use that as a
+surrogate for the original.  But you have
+
+43
+00:03:11,540 --> 00:03:15,860
+to watch out for duplication, so if you
+have a lot of things, some of them are
+
+44
+00:03:15,860 --> 00:03:19,940
+necessarily going to hash to the same value.  
+>>  Sean: Yeah, because when things wrap
+
+45
+00:03:19,940 --> 00:03:23,150
+round and round and round you get these
+collisions?
+>> BWK: That's right. If I've got a
+
+46
+00:03:23,150 --> 00:03:26,799
+million things and I want to hash them
+into a hundred distinct values,
+
+47
+00:03:26,799 --> 00:03:31,310
+something's going to give.  But one of the
+things that happens in cryptographic
+
+48
+00:03:31,310 --> 00:03:35,450
+kinds of things where the hashing is
+more complicated of course, is that you
+
+49
+00:03:35,450 --> 00:03:39,500
+can't go backwards.  Here's the hash, it's
+a number between one and a hundred, you
+
+50
+00:03:39,500 --> 00:03:45,470
+have no idea which of the million things
+produced that hash.  Although you could go
+
+51
+00:03:45,470 --> 00:03:48,860
+and try the million things and see which one
+it was, but there's no guarantee that the
+
+52
+00:03:48,860 --> 00:03:52,310
+particular one that you picked was
+also the one that somebody else had
+
+53
+00:03:52,310 --> 00:03:54,610
+picked.
+

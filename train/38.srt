@@ -1,0 +1,1582 @@
+1
+00:00:01,300 --> 00:00:03,360
+This is the Technical Difficulties,
+we're playing Citation Needed.
+
+2
+00:00:03,360 --> 00:00:05,780
+Joining me today, he reads books you know,
+it's Chris Joel.
+
+3
+00:00:06,280 --> 00:00:08,260
+Everybody's favourite Gary Brannan,
+Gary Brannan.
+
+4
+00:00:08,260 --> 00:00:12,200
+"All I'm gonna tell you is the whole thing will need ripping out, burning, and starting again, Vicar."
+
+5
+00:00:12,460 --> 00:00:15,180
+And the bounciest man on the Internet, Matt Gray
+
+6
+00:00:15,180 --> 00:00:16,780
+Insert soliloquy here...
+
+7
+00:00:19,080 --> 00:00:19,960
+Thanks Matt.
+
+8
+00:00:19,960 --> 00:00:22,840
+In front of me I've got an article from 
+Wikipedia and these folks can't see it.
+
+9
+00:00:22,840 --> 00:00:24,660
+Every fact they get right is a a point and a ding [DING].
+
+10
+00:00:24,660 --> 00:00:27,120
+And there's a special prize for
+particularly good answers which is
+
+11
+00:00:29,500 --> 00:00:32,940
+And today was are talking about
+Camille Flammarion.
+
+12
+00:00:34,580 --> 00:00:36,140
+Hello foreign parts.
+
+13
+00:00:36,140 --> 00:00:37,240
+-Yes... absolutely.
+-Hello.
+
+14
+00:00:37,240 --> 00:00:38,680
+Any guesses as to which foreign part?
+
+15
+00:00:38,680 --> 00:00:39,560
+"France"?
+
+16
+00:00:39,560 --> 00:00:40,960
+Point. Straight off the bat. [DING] Yes.
+
+17
+00:00:40,960 --> 00:00:43,860
+And the wheel spins
+and lands on France!
+
+18
+00:00:43,860 --> 00:00:44,860
+Again!
+
+19
+00:00:45,280 --> 00:00:47,360
+The wheel is 50% France.
+
+20
+00:00:47,460 --> 00:00:49,380
+"France... rest of the world."
+
+21
+00:00:49,540 --> 00:00:50,420
+Flammarion?
+
+22
+00:00:50,420 --> 00:00:51,300
+Flammarion.
+
+23
+00:00:51,300 --> 00:00:53,380
+OK, we are going to need an occupation here.
+
+24
+00:00:53,380 --> 00:00:55,660
+Yeah, we are. Astronomer and author.
+
+25
+00:00:55,660 --> 00:00:57,740
+It's a long article, so I'm happy to give you that.
+
+26
+00:00:57,740 --> 00:00:58,640
+Astr-author?
+
+27
+00:00:58,640 --> 00:01:00,860
+Astr-author. Yes, he was a-str-author.
+
+28
+00:01:00,860 --> 00:01:04,340
+So he wrote books about astronomy, 
+that were either fact or fiction.
+
+29
+00:01:04,340 --> 00:01:08,120
+Well that's the thing. They were both. 
+I'm going to give you a point. [DING]
+
+30
+00:01:08,120 --> 00:01:08,900
+"Faction!"
+
+31
+00:01:08,900 --> 00:01:10,220
+Isn't that just lies?
+
+32
+00:01:10,220 --> 00:01:11,480
+Oh! Faction is already a word.
+
+33
+00:01:11,780 --> 00:01:14,780
+He wrote both science fiction and popular science
+
+34
+00:01:14,780 --> 00:01:16,400
+God, I hope he didn't get those two mixed up.
+
+35
+00:01:16,400 --> 00:01:20,080
+Ah! Yes, well, funny you should mention that, Gary.
+
+36
+00:01:20,080 --> 00:01:23,240
+"I have the manuscripts here of my
+important scientific work...
+
+37
+00:01:23,240 --> 00:01:26,180
+"and my one here about men with 
+bum-faces from Venus.
+
+38
+00:01:26,180 --> 00:01:30,520
+"But they both went to the same printer
+ on the same day, in the same envelope!"
+
+39
+00:01:30,520 --> 00:01:33,660
+"We can completely agree with Professor whatever..."
+
+40
+00:01:33,660 --> 00:01:35,400
+-Flammarion!
+-Flammarion.
+
+41
+00:01:35,400 --> 00:01:36,860
+He was not a professor.
+
+42
+00:01:36,860 --> 00:01:42,580
+"...on gravitational waves, but the bum faced goats from Mars, are a completely different concept."
+
+43
+00:01:42,580 --> 00:01:46,000
+I mean, I'm not going to give you
+ bum faced aliens from Mars
+
+44
+00:01:46,000 --> 00:01:48,000
+-But I will...
+-Well, there's a first!
+
+45
+00:01:48,000 --> 00:01:50,700
+I am going to give you a point for Mars [DING]
+He was one of the people who...
+
+46
+00:01:50,700 --> 00:01:52,080
+Canals on Mars?
+
+47
+00:01:52,080 --> 00:01:53,860
+-Point! [DING] Absolutely right.
+-There we go!
+
+48
+00:01:53,860 --> 00:01:57,360
+Percival Lowell in America, was the
+ one who came up with the theory.
+
+49
+00:01:57,360 --> 00:01:59,380
+But yes, he thought there were artificial canals on Mars.
+
+50
+00:01:59,380 --> 00:02:00,840
+What? For boating?
+
+51
+00:02:01,320 --> 00:02:03,800
+Yeah! Big, big canal boating system.
+
+52
+00:02:03,800 --> 00:02:06,220
+Big recreational holiday market out there, to be honest.
+
+53
+00:02:06,220 --> 00:02:09,220
+Go to Mars. Get a narrowboat.
+
+54
+00:02:09,220 --> 00:02:11,260
+Pootle along the canals of Mars.
+
+55
+00:02:11,260 --> 00:02:13,400
+At a gentle four miles per Mars hour.
+
+56
+00:02:13,400 --> 00:02:15,320
+The canals on Mars were actually what?
+
+57
+00:02:15,320 --> 00:02:16,300
+Motorways.
+
+58
+00:02:16,980 --> 00:02:20,140
+Just rain covered motorways. When they looked at them through the telescope, the light glinted off them.
+
+59
+00:02:20,140 --> 00:02:22,560
+-It was an easy mistake. Anyone could have made it.
+-Swans landing on it, all the time.
+
+60
+00:02:22,560 --> 00:02:23,760
+All the bloody time.
+
+61
+00:02:23,760 --> 00:02:24,960
+Cobwebs on the telescope?
+
+62
+00:02:26,500 --> 00:02:28,760
+Erm... not quite.
+
+63
+00:02:29,100 --> 00:02:30,060
+Not quite.
+
+64
+00:02:30,060 --> 00:02:32,020
+They were natural formations, weren't they?
+
+65
+00:02:32,320 --> 00:02:32,940
+No!
+
+66
+00:02:32,940 --> 00:02:35,860
+No, not at all. 
+And they weren't artificial formations either.
+
+67
+00:02:36,320 --> 00:02:37,980
+So they weren't formations at all!
+
+68
+00:02:39,180 --> 00:02:40,980
+I will give you a point. [DING]
+
+69
+00:02:40,980 --> 00:02:42,140
+Can you explain what they were?
+
+70
+00:02:42,140 --> 00:02:42,740
+No!
+
+71
+00:02:42,740 --> 00:02:44,580
+I was just being a pedant about what you'd said.
+
+72
+00:02:45,520 --> 00:02:47,580
+There are two possible explanations for the canals.
+
+73
+00:02:47,620 --> 00:02:49,380
+-One...
+-They're canals!
+
+74
+00:02:49,380 --> 00:02:50,720
+OK, there are three...
+
+75
+00:02:51,140 --> 00:02:55,080
+But one of them was definitely wrong.
+ There are still two, that are... possibly...
+
+76
+00:02:55,080 --> 00:02:59,320
+One is that there was a formation... 
+something they saw, they misinterpreted.
+
+77
+00:02:59,320 --> 00:03:00,180
+The other...
+
+78
+00:03:00,180 --> 00:03:01,540
+is an optical illusion.
+
+79
+00:03:01,920 --> 00:03:05,960
+Like the one when you go to the fair and you walk in and the mirror makes you look all small and fat?
+
+80
+00:03:06,660 --> 00:03:07,780
+Yeah, that it made a load of...
+
+81
+00:03:07,780 --> 00:03:10,880
+Watch it! Watch it, watch it... 
+Watch it!
+
+82
+00:03:12,280 --> 00:03:16,860
+It made a load of points look like lines that
+connected up, through a slightly dodgy telescope.
+
+83
+00:03:16,860 --> 00:03:18,520
+But! Why canals?
+
+84
+00:03:18,740 --> 00:03:20,820
+It could have been rivers or...
+
+85
+00:03:20,820 --> 00:03:22,260
+-They were straight lines.
+-They were very straight.
+
+86
+00:03:22,560 --> 00:03:23,780
+So they looked more like canals than rivers.
+
+87
+00:03:23,780 --> 00:03:25,560
+So they looked like irrigation canals.
+
+88
+00:03:26,180 --> 00:03:30,600
+You know what? If I had the ability to do
+one gigantic s***-stirring effort
+
+89
+00:03:30,820 --> 00:03:34,240
+I would now transport myself to Mars...
+with a canal boat!
+
+90
+00:03:35,860 --> 00:03:37,300
+Just be there waving.
+
+91
+00:03:37,560 --> 00:03:40,920
+No. Put it out on Mars and half bury it, 
+like it's been there a long time.
+
+92
+00:03:40,920 --> 00:03:44,400
+When the next Mars rover comes over the hill.
+"Holy s***!"
+
+93
+00:03:44,500 --> 00:03:48,100
+I suppose the Curiosity rover's the size of a big car.
+
+94
+00:03:48,100 --> 00:03:48,760
+Yeah!
+
+95
+00:03:48,760 --> 00:03:51,760
+So if you make it shorter and longer, 
+it's a narrowboat rover.
+
+96
+00:03:51,760 --> 00:03:53,460
+If you just put, I don't know, some...
+
+97
+00:03:53,780 --> 00:03:57,380
+expanding foam sealant around the windows and doors. I'm sure it would be airtight enough.
+
+98
+00:03:57,560 --> 00:04:01,500
+I mean let's face it, the moon lander was
+ made of tin foil. A canal boat's way stronger!
+
+99
+00:04:02,220 --> 00:04:03,020
+Hello NASA?
+
+100
+00:04:03,100 --> 00:04:04,460
+Yes, it's Matt Gray.
+
+101
+00:04:04,700 --> 00:04:06,380
+Put narrowboats on Mars.
+
+102
+00:04:07,220 --> 00:04:07,840
+They've gone.
+
+103
+00:04:08,480 --> 00:04:10,200
+See, this is how the world gets sorted.
+
+104
+00:04:10,200 --> 00:04:11,160
+Yeah! Matt Gray.
+
+105
+00:04:12,440 --> 00:04:14,940
+"Hello World Organisation, it is Matt Gray!"
+
+106
+00:04:16,780 --> 00:04:18,840
+So... Flammarion was...
+
+107
+00:04:24,040 --> 00:04:26,140
+I'm going to try...
+I'm going to try.
+
+108
+00:04:27,840 --> 00:04:30,080
+I'm not even off tangent. 
+We're talking about canals on Mars.
+
+109
+00:04:30,080 --> 00:04:31,340
+Yeah, yeah!
+
+110
+00:04:31,940 --> 00:04:32,620
+Oh yeah!
+
+111
+00:04:33,280 --> 00:04:34,540
+This is perfectly on stream!
+
+112
+00:04:34,540 --> 00:04:36,220
+How did we stay relevant?!
+
+113
+00:04:37,260 --> 00:04:37,980
+It's a skill!
+
+114
+00:04:39,500 --> 00:04:41,840
+I dunno? Six years later, how are we still relevant?
+
+115
+00:04:44,120 --> 00:04:48,100
+Flammarion was both scientist and...
+ very much not a scientist.
+
+116
+00:04:48,100 --> 00:04:51,380
+So he was exposed to
+two very different lines of thought.
+
+117
+00:04:51,980 --> 00:04:56,840
+One of them was very much scientific method.
+Who in his era would have been
+
+118
+00:04:56,840 --> 00:05:01,120
+the person, standing at the front of,
+"this is science against religion"?
+
+119
+00:05:01,120 --> 00:05:02,160
+The chief scientist?
+
+120
+00:05:02,160 --> 00:05:03,360
+Darwin!
+
+121
+00:05:03,360 --> 00:05:06,000
+Point. [DING] Exactly right. 
+And then on the other hand,
+
+122
+00:05:06,000 --> 00:05:11,660
+the rising popularity of what
+less scientific movement?
+
+123
+00:05:11,660 --> 00:05:12,580
+Roller skating?
+
+124
+00:05:13,700 --> 00:05:16,180
+Not really... 
+I mean, it is a movement!
+
+125
+00:05:16,180 --> 00:05:19,240
+Very movement! Straight line,
+forwards or backwards. Yes.
+
+126
+00:05:19,600 --> 00:05:20,220
+Bowel?
+
+127
+00:05:20,640 --> 00:05:22,940
+Not a bowel movement! No, we're not having...
+
+128
+00:05:24,540 --> 00:05:25,360
+Chris, save us!
+
+129
+00:05:25,360 --> 00:05:26,140
+Cubism?
+
+130
+00:05:28,420 --> 00:05:29,540
+Way too early.
+
+131
+00:05:32,200 --> 00:05:33,080
+I don't know!
+
+132
+00:05:33,260 --> 00:05:34,440
+Spiritualism.
+
+133
+00:05:35,900 --> 00:05:38,380
+-The idea that...
+-"Knock three times...."
+
+134
+00:05:38,380 --> 00:05:40,320
+Yes, the idea that you could talk to the dead.
+
+135
+00:05:40,320 --> 00:05:44,380
+So he was astronomer, mystic and story teller.
+In a time when...
+
+136
+00:05:44,380 --> 00:05:47,080
+Liar, liar... and liar!
+
+137
+00:05:47,260 --> 00:05:48,760
+No, astronomer!
+
+138
+00:05:50,080 --> 00:05:54,740
+This is the thing. This is where astronomy and astrology
+hadn't quite sorted each other out yet.
+
+139
+00:05:54,740 --> 00:05:55,760
+Diverged, yeah.
+
+140
+00:05:55,760 --> 00:06:02,480
+So in 1907, he wrote that dwellers on Mars
+had tried to communicate with the Earth.
+
+141
+00:06:02,480 --> 00:06:03,420
+Naturally.
+
+142
+00:06:03,420 --> 00:06:06,340
+And also that what was heading towards Earth?
+
+143
+00:06:06,720 --> 00:06:09,360
+-Cylinders...
+-Following cylinders!
+
+144
+00:06:13,120 --> 00:06:16,500
+No one would have believed in the last
+ years of the nineteenth century
+
+145
+00:06:16,500 --> 00:06:18,740
+that canals on Mars were being observed...
+
+146
+00:06:18,740 --> 00:06:22,460
+No. Not in this case.
+Something from a little bit further out.
+
+147
+00:06:23,080 --> 00:06:24,360
+Asteroid?
+
+148
+00:06:24,360 --> 00:06:24,860
+Asteroid.
+
+149
+00:06:24,860 --> 00:06:25,880
+Aste... Uranus?!
+
+150
+00:06:26,680 --> 00:06:27,680
+You're very close with asteroid.
+
+151
+00:06:27,680 --> 00:06:28,560
+Comet?
+
+152
+00:06:28,560 --> 00:06:30,540
+Point! [DING] for that. Comet is absolutely right.
+
+153
+00:06:30,540 --> 00:06:32,760
+A seven tailed comet.
+
+154
+00:06:33,020 --> 00:06:35,200
+Are you sure that's not just a very
+ badly focused telescope again?
+
+155
+00:06:35,200 --> 00:06:36,460
+Well that was the thing, yes!
+
+156
+00:06:37,940 --> 00:06:40,540
+It seems to be swirling in a spiral!
+
+157
+00:06:41,520 --> 00:06:43,860
+A small comet's seen, it did not have seven tails.
+
+158
+00:06:43,860 --> 00:06:45,840
+"He's using the kaleidoscope again, isn't he?"
+
+159
+00:06:46,360 --> 00:06:49,800
+They are in a formation, where there
+ is one at the top, one on each side...
+
+160
+00:06:49,800 --> 00:06:51,680
+and there is an upside down one at the bottom.
+
+161
+00:06:51,680 --> 00:06:54,280
+Oh ****ing hell! Giant spiders in space!
+
+162
+00:06:56,200 --> 00:06:59,980
+Along those lines, 1910, what
+astronomical event revisited us?
+
+163
+00:06:59,980 --> 00:07:00,760
+Halley's.
+
+164
+00:07:00,760 --> 00:07:02,860
+Yeah, you got there first again, have a point. [DING]
+
+165
+00:07:02,940 --> 00:07:05,660
+He caused a bit of a fuss, did Flammarion.
+
+166
+00:07:05,660 --> 00:07:09,440
+Earth was actually going to pass through
+ the tail of Halley's comet. For the first time.
+
+167
+00:07:09,440 --> 00:07:14,340
+And we also, for the first time, had
+spectroscopic data on what it was composed of.
+
+168
+00:07:14,340 --> 00:07:16,920
+So they looked at the light coming
+out of it, to find out what...
+
+169
+00:07:16,920 --> 00:07:20,600
+To find out what elements and what stuff
+was in the tail, that Earth was going to pass through.
+
+170
+00:07:20,600 --> 00:07:21,740
+I'm surprised they could do that then.
+
+171
+00:07:21,740 --> 00:07:22,860
+Yep! 1910.
+
+172
+00:07:22,860 --> 00:07:25,480
+It's the first time they were able to do it.
+ So it was a close approach.
+
+173
+00:07:25,480 --> 00:07:28,220
+We were passing through the tail.
+What did Flammarion say...
+
+174
+00:07:28,220 --> 00:07:29,740
+"We're all going to die!"
+
+175
+00:07:29,900 --> 00:07:30,700
+Point! [DING]
+
+176
+00:07:31,200 --> 00:07:32,160
+But how?
+
+177
+00:07:32,460 --> 00:07:35,380
+Bearing in mind they now knew what the tail was composed of and what some of the stuff...
+
+178
+00:07:35,380 --> 00:07:37,040
+Poisoning! Asphyxiation!
+
+179
+00:07:37,040 --> 00:07:39,540
+Yes! Absolutely right. Poison gas.
+ [DING]
+
+180
+00:07:39,540 --> 00:07:46,520
+There was a cyanogen, which is (CN)₂.
+There are brackets there, so it's 2 of each.
+
+181
+00:07:46,520 --> 00:07:48,480
+Colourless, toxic gas.
+
+182
+00:07:49,100 --> 00:07:51,380
+And apparently he thought
+"well that's in the tail of the comet."
+
+183
+00:07:51,380 --> 00:07:53,380
+"We're going to pass through the tail of the comet."
+
+184
+00:07:53,380 --> 00:07:55,480
+"WE'RE ALL GOING TO DIE!"
+
+185
+00:07:56,680 --> 00:07:57,780
+He was wrong.
+
+186
+00:07:58,720 --> 00:07:59,300
+Hello!
+
+187
+00:07:59,300 --> 00:08:00,640
+No way! Really?
+
+188
+00:08:01,500 --> 00:08:06,600
+He said it would impregnate the atmosphere and possibly snuff out all life on the planet.
+
+189
+00:08:06,600 --> 00:08:08,760
+Did he use the words 'snuff out'?
+
+190
+00:08:08,760 --> 00:08:09,360
+Erm, I...
+
+191
+00:08:09,360 --> 00:08:11,380
+-I hope so.
+-Being French...
+
+192
+00:08:11,960 --> 00:08:12,760
+"Ze snuff."
+
+193
+00:08:12,760 --> 00:08:14,400
+I would have thought he would have done that in French.
+
+194
+00:08:14,400 --> 00:08:15,820
+I believe that is a translation.
+
+195
+00:08:16,580 --> 00:08:17,980
+"C'est buggered!"
+
+196
+00:08:19,600 --> 00:08:21,040
+What did it cause?
+
+197
+00:08:21,480 --> 00:08:22,340
+PANIC!
+
+198
+00:08:22,340 --> 00:08:24,400
+To a certain extent. I'll give you a point. [DING]
+
+199
+00:08:24,400 --> 00:08:25,740
+MILD DISQUIET!
+
+200
+00:08:26,800 --> 00:08:28,220
+Witty headlines!
+
+201
+00:08:28,520 --> 00:08:30,340
+A jump in sale of wine.
+
+202
+00:08:30,340 --> 00:08:31,880
+A jump in the sale of something.
+
+203
+00:08:32,200 --> 00:08:32,760
+Lifeboats?
+
+204
+00:08:32,760 --> 00:08:33,480
+Umbrellas?
+
+205
+00:08:33,480 --> 00:08:34,080
+Wills?
+
+206
+00:08:34,780 --> 00:08:35,500
+Gas masks?
+
+207
+00:08:35,500 --> 00:08:36,880
+Point.
+[DING]
+
+208
+00:08:36,880 --> 00:08:41,560
+Absolutely right. So in 1910, he essentially
+caused a slight panic buy of gas masks.
+
+209
+00:08:41,560 --> 00:08:43,120
+Could be handy a few years later, eh?
+
+210
+00:08:44,700 --> 00:08:47,260
+-I refrained from making that joke.
+-That's not unfair...
+
+211
+00:08:48,080 --> 00:08:53,600
+But yes, that was one of the things.
+Then he wrote a series of science fiction books.
+
+212
+00:08:53,640 --> 00:08:57,160
+One of which was called 'Real and Imaginary Worlds'.
+
+213
+00:08:57,460 --> 00:09:03,600
+-I'm going to guess it was more imaginary than real.
+-I can only think of one real one he knew anything about.
+
+214
+00:09:03,600 --> 00:09:06,180
+And he was also wrong.
+
+215
+00:09:06,180 --> 00:09:09,680
+Now we have talked about psychics,
+ mediums and all this before
+
+216
+00:09:09,680 --> 00:09:10,520
+Several times.
+
+217
+00:09:10,520 --> 00:09:13,960
+Several times, but the approach 
+here was somewhat different.
+
+218
+00:09:13,960 --> 00:09:16,880
+So are we looking for the scientific analysis of ghosts?
+
+219
+00:09:16,880 --> 00:09:17,600
+Point. [DING]
+
+220
+00:09:17,600 --> 00:09:20,140
+Yes, he was looking at it from the scientific method.
+
+221
+00:09:20,740 --> 00:09:24,280
+And... for the time...  was remarkably skeptical.
+
+222
+00:09:24,380 --> 00:09:24,880
+OK.
+
+223
+00:09:25,500 --> 00:09:27,060
+There is a wonderful quote here.
+
+224
+00:09:27,060 --> 00:09:33,500
+"It is infinitely to be regretted that we cannot trust the loyalty of mediums. They almost always cheat."
+
+225
+00:09:35,880 --> 00:09:37,160
+How very dare he.
+
+226
+00:09:37,160 --> 00:09:39,640
+That doesn't mean he didn't believe it.
+
+227
+00:09:40,400 --> 00:09:42,040
+But he was certainly very skeptical about it.
+
+228
+00:09:42,040 --> 00:09:43,360
+He thought they were doing it the wrong way?
+
+229
+00:09:43,680 --> 00:09:45,740
+He thought it might be possible, but...
+
+230
+00:09:45,740 --> 00:09:48,120
+What he needed wasn't a medium.
+
+231
+00:09:48,120 --> 00:09:50,520
+And I know it would be very hard to find in France,
+
+232
+00:09:50,520 --> 00:09:52,520
+but he needed a well done.
+
+233
+00:09:56,180 --> 00:09:58,780
+I'm not biscuiting that! I'm just... I'm not!
+
+234
+00:09:58,780 --> 00:09:59,920
+Oh come on, that's beautiful.
+
+235
+00:09:59,920 --> 00:10:01,080
+That's good stuff.
+
+236
+00:10:01,860 --> 00:10:03,300
+It's a rare thing in France.
+
+237
+00:10:07,300 --> 00:10:10,140
+Have I mentioned before
+I've actually been to a spiritualist service?
+
+238
+00:10:10,140 --> 00:10:12,240
+-Is that like a church service?
+-Yeah.
+
+239
+00:10:12,240 --> 00:10:14,820
+No, no, he just took his spiritualist in for a tune up(!)
+
+240
+00:10:14,980 --> 00:10:16,320
+No... no!
+
+241
+00:10:16,560 --> 00:10:19,680
+-I actually meant...
+-"The readings are a bit off. They need..."
+
+242
+00:10:20,360 --> 00:10:22,920
+-I meant this as a valid question.
+-Yeah, as in...
+
+243
+00:10:23,240 --> 00:10:26,640
+I went to be serviced by a spiritualist?
+
+244
+00:10:26,720 --> 00:10:28,640
+No, no, I had a day...
+
+245
+00:10:28,640 --> 00:10:30,420
+That's very different, Matt!
+
+246
+00:10:32,180 --> 00:10:34,220
+I can tell you now, that's not what happened!
+
+247
+00:10:35,000 --> 00:10:39,660
+No, no. I'd been out with a friend of mine.
+I'd had a few. I will admit this. And I walked past.
+
+248
+00:10:39,660 --> 00:10:42,920
+And there is a Spiritualist church, near where I lived.
+ And there was a sign in the window saying...
+
+249
+00:10:43,080 --> 00:10:45,280
+"Display of Mediumship Tonight".
+
+250
+00:10:45,540 --> 00:10:47,700
+And I thought... in for a laugh!
+
+251
+00:10:47,980 --> 00:10:48,620
+Yeah, OK.
+
+252
+00:10:48,620 --> 00:10:52,540
+So I snuck in. I went up, and in the first
+ row of this building. It was like this... church!
+
+253
+00:10:52,540 --> 00:10:55,800
+They had fitted it out with pews
+ and a pulpit and an altar and the lot!
+
+254
+00:10:56,060 --> 00:10:58,560
+And this bloke was stood in the pulpit, doing...
+
+255
+00:10:58,900 --> 00:11:03,180
+effectively, live spiritualist... this was the big religion of the early 20th century.
+
+256
+00:11:03,180 --> 00:11:06,280
+This even took in Rudyard Kipling
+ after his son was killed.
+
+257
+00:11:06,640 --> 00:11:10,180
+There were thousands. People were really
+ into it and it still hangs on in certain parts.
+
+258
+00:11:10,180 --> 00:11:11,260
+Is this like the American stuff?
+
+259
+00:11:11,260 --> 00:11:14,480
+Yeah, exactly the same, yeah.
+But he's doing live. It was...
+
+260
+00:11:14,980 --> 00:11:15,720
+s***!
+
+261
+00:11:16,020 --> 00:11:20,140
+I can't put it any different, it was ####!
+
+262
+00:11:20,140 --> 00:11:22,620
+I was expecting any other word there.
+
+263
+00:11:22,620 --> 00:11:28,440
+I walked in. I thought, "OK, I'm... You know, there's lots of older ladies in there". And I thought, well, as the new...
+
+264
+00:11:28,860 --> 00:11:30,220
+bloke in the room...
+
+265
+00:11:30,520 --> 00:11:32,200
+if he wants to show off...
+
+266
+00:11:32,600 --> 00:11:33,500
+he's going to pick on me.
+
+267
+00:11:33,500 --> 00:11:39,180
+He could... I'd had a few. I'm open to anything,
+ and if he could pick something out that...
+
+268
+00:11:39,380 --> 00:11:43,740
+he doesn't know, I'll be genuinely impressed.
+If nothing else, in his skill at cold reading.
+
+269
+00:11:43,740 --> 00:11:46,980
+He just stood there, and this is a
+mill town in the north of England...
+
+270
+00:11:47,120 --> 00:11:53,520
+right, and goes... "Now, I'm... I'm getting the vision of someone... who worked... in a factory."
+
+271
+00:11:54,160 --> 00:11:57,420
+"Maybe on some kind of cloth... machine?"
+
+272
+00:11:58,040 --> 00:11:59,880
+"They were called... Edith."
+
+273
+00:11:59,900 --> 00:12:03,980
+And at one point, someone would go "Oh yeah! Yeah, that's my sister's friend, when I was younger."
+
+274
+00:12:04,080 --> 00:12:06,880
+That...  far away...  a link!
+
+275
+00:12:07,220 --> 00:12:09,580
+"Now! He's saying something about money."
+
+276
+00:12:10,040 --> 00:12:12,580
+I mean... I could do this s***!
+
+277
+00:12:13,360 --> 00:12:15,660
+"Is there a problem with..."
+There was one were he said something like
+
+278
+00:12:15,660 --> 00:12:17,580
+"Is there a problem with a child?"
+
+279
+00:12:17,900 --> 00:12:19,360
+And she's kinda, "No!"
+
+280
+00:12:19,920 --> 00:12:23,220
+"Erm? Oh, the readings are very fuzzy
+ from the other side."
+
+281
+00:12:23,520 --> 00:12:26,380
+"Is there a problem with children or young people at all?"
+
+282
+00:12:26,760 --> 00:12:27,540
+"No?"
+
+283
+00:12:28,540 --> 00:12:29,840
+"It's for the future!"
+
+284
+00:12:30,220 --> 00:12:31,820
+Oh yes!
+
+285
+00:12:31,820 --> 00:12:33,540
+And that's how you do it!
+
+286
+00:12:34,260 --> 00:12:37,240
+At that point, I gave an audible "HA!" from the back.
+
+287
+00:12:39,760 --> 00:12:41,460
+It was terrible. I could do it.
+
+288
+00:12:41,460 --> 00:12:44,660
+Stand in front of a room. Say some old people's
+ names. And if you get it wrong, just go
+
+289
+00:12:44,660 --> 00:12:47,120
+"Oh, it'll make sense one day." and carry on!
+
+290
+00:12:47,440 --> 00:12:48,720
+Is this a religion?
+
+291
+00:12:48,720 --> 00:12:51,240
+Yeah! They sang hymns and everything at the end.
+
+292
+00:12:51,240 --> 00:12:54,540
+Then had a glass of orange squash. wobbled out and got a samosa butty on the way home.
+
+293
+00:12:54,540 --> 00:12:55,280
+And got what?
+
+294
+00:12:55,280 --> 00:12:56,180
+A samosa butty.
+
+295
+00:12:57,100 --> 00:13:00,040
+How northern is that phrase?
+
+296
+00:13:00,740 --> 00:13:05,100
+It's a deep fried pastry, with spiced meat inside.
+
+297
+00:13:05,100 --> 00:13:05,880
+The Empire...
+
+298
+00:13:06,080 --> 00:13:07,180
+In a bap!
+
+299
+00:13:07,180 --> 00:13:07,680
+Yeah!
+
+300
+00:13:07,680 --> 00:13:10,020
+-Bread roll, for those...
+-In a bread roll, with a bit of mint sauce.
+
+301
+00:13:10,020 --> 00:13:12,060
+The Empire made it to the north.
+
+302
+00:13:12,060 --> 00:13:14,340
+That sounds nice. I want to try that now.
+
+303
+00:13:14,340 --> 00:13:15,360
+It's beautiful!
+
+304
+00:13:15,360 --> 00:13:18,720
+Don't!  No... that's... no, that's double carbs, which I...
+
+305
+00:13:18,720 --> 00:13:19,560
+Chip butty!
+
+306
+00:13:19,560 --> 00:13:20,520
+Burrito.
+
+307
+00:13:20,520 --> 00:13:21,400
+Yeah, never mind.
+
+308
+00:13:21,400 --> 00:13:21,900
+Yeah!
+
+309
+00:13:21,900 --> 00:13:23,820
+-It's three!
+-I withdraw my objection.
+
+310
+00:13:23,820 --> 00:13:26,980
+The number of times I've come back, with a big
+ splodge of yogurt sauce down my front after one.
+
+311
+00:13:26,980 --> 00:13:28,100
+I'm sorry, what?
+
+312
+00:13:29,180 --> 00:13:32,300
+-At least that's what I told the rest of you.
+-After he'd been serviced by the Spiritualist.
+
+313
+00:13:33,700 --> 00:13:39,660
+Seriously, Flammarion was simultaneously
+ quite a believer and quite a skeptic.
+
+314
+00:13:39,660 --> 00:13:41,780
+He was sure there was something.
+
+315
+00:13:42,120 --> 00:13:45,500
+But, as he looked at it, he kept finding
+ it can't be that, it can't be that.
+
+316
+00:13:45,500 --> 00:13:46,520
+Martians!
+
+317
+00:13:46,520 --> 00:13:48,160
+Or... or Martians!
+
+318
+00:13:48,160 --> 00:13:49,560
+Martian canal boat dwellers.
+
+319
+00:13:49,620 --> 00:13:52,120
+Beaming their thoughts down.
+
+320
+00:13:52,120 --> 00:13:56,580
+Buy me a new pot plant or one of
+ those nicely painted watering cans...
+
+321
+00:13:56,580 --> 00:13:57,520
+Gonna say that.
+
+322
+00:13:57,540 --> 00:13:59,580
+With a... with a plant in it.
+
+323
+00:13:59,760 --> 00:14:01,920
+That's obviously from the north of Mars.
+
+324
+00:14:02,880 --> 00:14:04,920
+Every planet has a north!
+What can I tell you?
+
+325
+00:14:06,640 --> 00:14:10,960
+It's kinda sad really, because he seems to
+have had the scientific method and really...
+
+326
+00:14:10,960 --> 00:14:14,180
+both wants to prove it properly. Scientifically.
+
+327
+00:14:14,180 --> 00:14:16,440
+And also really wants to believe, and is going,
+
+328
+00:14:16,440 --> 00:14:18,720
+"I'm just... there must be something there!"
+
+329
+00:14:18,720 --> 00:14:20,640
+And I'm going really high pitched. But you know?
+
+330
+00:14:20,840 --> 00:14:23,620
+Yep, that's absolutely the case.
+
+331
+00:14:23,940 --> 00:14:27,140
+Had a massive influence on a number of people.
+
+332
+00:14:27,540 --> 00:14:30,340
+And has quite a few things named after him.
+
+333
+00:14:30,580 --> 00:14:31,500
+Any ideas?
+
+334
+00:14:32,080 --> 00:14:32,760
+Stars?
+
+335
+00:14:33,800 --> 00:14:35,460
+- No...
+- Comets?
+
+336
+00:14:36,220 --> 00:14:37,840
+-Er... Asteroids?
+-Yes! [DING]
+
+337
+00:14:37,920 --> 00:14:38,680
+A ghost?!
+
+338
+00:14:38,900 --> 00:14:39,400
+Ah...
+
+339
+00:14:39,800 --> 00:14:40,500
+Well...
+
+340
+00:14:40,500 --> 00:14:41,220
+His own ghost?!
+
+341
+00:14:41,220 --> 00:14:41,720
+Yeah!
+
+342
+00:14:41,920 --> 00:14:43,420
+It was incredibly convenient.
+
+343
+00:14:44,040 --> 00:14:48,200
+Asteroids also named after his sister,
+his niece, perhaps his first wife.
+
+344
+00:14:48,200 --> 00:14:49,280
+Did he name them?
+
+345
+00:14:49,460 --> 00:14:50,100
+Er... No!
+
+346
+00:14:50,220 --> 00:14:50,720
+Oh!
+
+347
+00:14:50,720 --> 00:14:55,340
+No he's just very well respected for what he did for astronomy and for science.
+
+348
+00:14:55,580 --> 00:14:59,440
+And also, not canals on Mars,
+what else is named on Mars?
+
+349
+00:14:59,440 --> 00:15:00,100
+Mountains?
+
+350
+00:15:01,480 --> 00:15:02,300
+Volcanoes?
+
+351
+00:15:02,300 --> 00:15:03,620
+-The opposite...
+-Valleys?
+
+352
+00:15:04,140 --> 00:15:05,100
+-There's a word...
+-Craters?
+
+353
+00:15:05,100 --> 00:15:06,720
+-Point [DING] Craters. Absolutely right.
+-Holes!
+
+354
+00:15:06,720 --> 00:15:07,640
+Upside down hills.
+
+355
+00:15:08,500 --> 00:15:09,700
+-Holes!
+-Oh yes.
+
+356
+00:15:09,960 --> 00:15:10,780
+Oh yes.
+
+357
+00:15:10,920 --> 00:15:13,800
+As we Martians... I've said too much already!
+
+358
+00:15:16,060 --> 00:15:18,980
+With that, congratulations Matt.
+ You win this week's show.
+
+359
+00:15:18,980 --> 00:15:20,060
+Yeah!
+
+360
+00:15:20,060 --> 00:15:24,640
+You win a highly expensive summary
+of the life of an American horror actor.
+
+361
+00:15:26,120 --> 00:15:28,440
+It's Vincent Price's very pricey précis.
+
+362
+00:15:31,920 --> 00:15:34,100
+With that, we say thank you to Chris Joel.
+
+363
+00:15:34,440 --> 00:15:35,220
+Gary Brannan.
+
+364
+00:15:35,780 --> 00:15:36,720
+Matt Gray.
+
+365
+00:15:36,940 --> 00:15:38,440
+I've been Tom Scott and we'll see you next time.
+
+366
+00:15:39,280 --> 00:15:40,580
+Just hit myself in the face.
+
+367
+00:15:41,960 --> 00:15:42,600
+Worth it.
+
+368
+00:15:42,760 --> 00:15:44,380
+Whole day, worth it for that!
+
+369
+00:15:44,380 --> 00:15:46,380
+[Translating these subtitles? Add your name here!]
+
