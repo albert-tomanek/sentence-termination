@@ -11,7 +11,7 @@ import gensim.downloader as api
 import dataset
 import re
 
-path = api.load('glove-twitter-25', True)
+path = api.load('glove-twitter-50', True)
 vecs = KeyedVectors.load_word2vec_format(path)
 
 BATCH_SIZE = 32
@@ -23,13 +23,14 @@ class Punctuator:
     def __init__(self):
         self.model, self.trainable_model = self.make_model()
         self.model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-        self.model.summary()
+        self.trainable_model.summary()
 
     @staticmethod
     def make_model():
         trainable_model = keras.models.Sequential([
-            Dense(50, activation='relu', input_shape=(MAX_LEN, 25)),
-            Bidirectional(LSTM(100, activation='tanh', return_sequences=True), merge_mode='mul'),    # We want to see the output for each letter, not just the last.
+            Dense(50, activation='relu', input_shape=(MAX_LEN, 50)),
+            Dense(30),
+            Bidirectional(LSTM(20, activation='tanh', return_sequences=True), merge_mode='mul'),    # We want to see the output for each letter, not just the last.
             Dense(10, activation='relu'),
             Dense(*dataset.OUTPUT_SHAPE, activation='softmax'),
         ])
