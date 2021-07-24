@@ -11,13 +11,21 @@ def load_sentences(dirpath) -> str:
 
 SENTENCE_END = '\.\.\.|…|\.|\!|\?'
 
+# OUTPUTS = {
+#     '':    [1, 0, 0, 0],    # For when there's no punctuation after the word
+#     '.':   [0, 1, 0, 0],
+#     '...': [0, 1, 0, 0],
+#     '…':   [0, 1, 0, 0],
+#     '!':   [0, 0, 1, 0],
+#     '?':   [0, 0, 0, 1],
+# }
 OUTPUTS = {
     '':    [1, 0, 0, 0],    # For when there's no punctuation after the word
     '.':   [0, 1, 0, 0],
     '...': [0, 1, 0, 0],
     '…':   [0, 1, 0, 0],
-    '!':   [0, 0, 1, 0],
-    '?':   [0, 0, 0, 1],
+    '!':   [0, 1, 0, 0],
+    '?':   [0, 1, 0, 0],
 }
 OUTPUT_SHAPE = (4,)
 OUTPUT_MAP = ['', '.', '!', '?']    # This is used to convert the indices from the above table back into punctuaiton.
@@ -43,5 +51,7 @@ def make_data(text):
         # Append a negative for all the words in the sentence
         y += [OUTPUTS['']] * (len(sentence.split()) - 1)
         y.append(OUTPUTS[matches[i].group()])
+
+    y = [OUTPUTS['.']] + y[:-1]  # Shift the data by one. We want it to guess if punctuation comes *before* the word.
 
     return x, y

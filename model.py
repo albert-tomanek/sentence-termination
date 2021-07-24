@@ -1,5 +1,5 @@
 from tensorflow import keras
-from tensorflow.keras.layers import Embedding, Dense, LSTM
+from tensorflow.keras.layers import Embedding, Dense, LSTM, Bidirectional
 from tensorflow.keras.callbacks import LambdaCallback
 
 import numpy as np
@@ -14,26 +14,32 @@ import re
 path = api.load('glove-twitter-25', True)
 vecs = KeyedVectors.load_word2vec_format(path)
 
-BATCH_SIZE = 8
+BATCH_SIZE = 32
 
 MEAN_LEN = 7    # words
 MAX_LEN = 70    # Max length of a sentence in words
 
 class Punctuator:
     def __init__(self):
-        self.model = self.make_model()
+        self.model, self.trainable_model = self.make_model()
         self.model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
         self.model.summary()
 
     @staticmethod
     def make_model():
-        return keras.models.Sequential([
-            get_keras_embedding(vecs),     # Embedding layer. int -> 25 float  $ https://stackoverflow.com/questions/51492778/how-to-properly-use-get-keras-embedding-in-gensim-s-word2vec
-            Dense(200, activation='relu', input_shape=(MAX_LEN, 25)),
-            LSTM(200, activation='relu', return_sequences=True),    # We want to see the output for each letter, not just the last.
-            Dense(20, activation='relu'),
+        trainable_model = keras.models.Sequential([
+            Dense(50, activation='relu', input_shape=(MAX_LEN, 25)),
+            Bidirectional(LSTM(100, activation='tanh', return_sequences=True), merge_mode='mul'),    # We want to see the output for each letter, not just the last.
+            Dense(10, activation='relu'),
             Dense(*dataset.OUTPUT_SHAPE, activation='softmax'),
         ])
+
+        full_model = keras.models.Sequential([
+            get_keras_embedding(vecs),     # Embedding layer. int -> 25 float  $ https://stackoverflow.com/questions/51492778/how-to-properly-use-get-keras-embedding-in-gensim-s-word2vec
+            trainable_model,
+        ])
+
+        return full_model, trainable_model
 
     def train(self, gen, valgen=None):
         self.model.fit(
@@ -106,7 +112,7 @@ class Punctuator:
             if np.argmax(probabilities[i - 1]) != 0:    # If the previous word had a terminator after it
                 word = word.title()
 
-            output += ' ' + word + punct
+            output += punct + ' ' + word
 
         return output
 
@@ -132,18 +138,18 @@ if __name__ == '__main__':
     p = Punctuator()
 
     if opts.load:
-        p.model.load_weights('punctuator.h5')
+        p.trainable_model.load_weights('punctuator.h5')
 
     x, y = dataset.make_data(dataset.load_sentences('train'))
     x_val, y_val = dataset.make_data(dataset.load_sentences('test'))
 
     if opts.test:
         while True:
-            text = input(' > ')
+            text = input(' > ').lower()
             result = p.predict(re.sub('(?!\w| ).', '', text).split())
             print(f'-> {result}\n')
     else:
         try:
             p.train(Punctuator.generator(x, y), valgen=Punctuator.generator(x_val, y_val))
         finally:
-            p.model.save('punctuator.h5')
+            p.trainable_model.save('punctuator.h5')
