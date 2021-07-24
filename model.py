@@ -1,5 +1,6 @@
 from tensorflow import keras
 from tensorflow.keras.layers import Embedding, Dense, LSTM
+from tensorflow.keras.callbacks import LambdaCallback
 
 import numpy as np
 import random
@@ -8,6 +9,7 @@ from gensim.models import KeyedVectors
 import gensim.downloader as api
 
 import dataset
+import re
 
 path = api.load('glove-twitter-25', True)
 vecs = KeyedVectors.load_word2vec_format(path)
@@ -20,20 +22,49 @@ MAX_LEN = 70    # Max length of a sentence in words
 class Punctuator:
     def __init__(self):
         self.model = self.make_model()
-        self.model.compile(loss='categorical_crossentropy', optimizer='adam')
+        self.model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
         self.model.summary()
 
     @staticmethod
     def make_model():
         return keras.models.Sequential([
             get_keras_embedding(vecs),     # Embedding layer. int -> 25 float  $ https://stackoverflow.com/questions/51492778/how-to-properly-use-get-keras-embedding-in-gensim-s-word2vec
-            Dense(20, input_shape=(MAX_LEN, 25)),
-            LSTM(20, return_sequences=True),    # We want to see the output for each letter, not just the last.
+            Dense(200, activation='relu', input_shape=(MAX_LEN, 25)),
+            LSTM(200, activation='relu', return_sequences=True),    # We want to see the output for each letter, not just the last.
+            Dense(20, activation='relu'),
             Dense(*dataset.OUTPUT_SHAPE, activation='softmax'),
         ])
 
     def train(self, gen, valgen=None):
-        self.model.fit(gen, steps_per_epoch=21000//BATCH_SIZE, epochs=10)
+        self.model.fit(
+            gen,
+            steps_per_epoch=21000//BATCH_SIZE,
+            epochs=100,
+            validation_data=valgen,
+            validation_steps=1,         # else it would loop infinitely on the val generator
+            callbacks=[LambdaCallback(
+                on_batch_start=lambda *args: self.on_epoch_start(*args, valgen=valgen),
+            )]
+        )
+
+    def on_epoch_start(self, epoch, logs, valgen=None):
+        test_words = [vecs.index2word[idx] for idx in next(valgen)[0][0]]   # The generator already tokenizes it, so we have to untokenize it again.
+        test_prediction = self.predict(test_words)
+        print({
+        "loss": logs['loss'],
+        "val_loss": logs['val_loss'],
+        "val_acc": logs['val_acc'],
+        "test_words": ' '.join(test_words),
+        "test_prediction": test_prediction,
+        })
+
+        wandb.log({
+            "loss": logs['loss'],
+            "val_loss": logs['val_loss'],
+            "val_acc": logs['val_acc'],
+            "test_words": ' '.join(test_words),
+            "test_prediction": test_prediction,
+        })
 
     @staticmethod
     def generator(x, y):
@@ -58,7 +89,26 @@ class Punctuator:
     @staticmethod
     def encode(text: [str]) -> [int]:
         placeholder = vecs.vocab['hmm']   # should be pretty neutral
-        return [vecs.vocab.get(word, placeholder).index for word in text]
+        return [vecs.vocab.get(word, placeholder).index for word in text]   # https://stackoverflow.com/questions/51492778/how-to-properly-use-get-keras-embedding-in-gensim-s-word2vec
+
+    def predict(self, words: [str]):
+        if len(words) > MAX_LEN:
+            raise Exception(f'Length of string to punctuate must be less than {MAX_LEN} words.')
+
+        encoded = np.array([self.encode(words)])
+        probabilities = self.model.predict(encoded)[0]  # shape: (1, MAX_LEN, 4)
+
+        output = ''
+        for i in range(len(words)):
+            word = words[i]
+            punct = dataset.OUTPUT_MAP[np.argmax(probabilities[i])]
+
+            if np.argmax(probabilities[i - 1]) != 0:    # If the previous word had a terminator after it
+                word = word.title()
+
+            output += ' ' + word + punct
+
+        return output
 
 # Code comes from [here]. We just had to copy it so that it uses the tf.keras and not keras. https://github.com/RaRe-Technologies/gensim/blob/a811a231747ba5b089d74c4bc22e8f419874baa1/gensim/models/keyedvectors.py#L1386
 def get_keras_embedding(v, train_embeddings=False, word_index=None):
@@ -69,18 +119,31 @@ def get_keras_embedding(v, train_embeddings=False, word_index=None):
     )
     return layer
 
-
 if __name__ == '__main__':
+    import wandb
+    wandb.init('sentence-termination')
+
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--load', action='store_true')
+    parser.add_argument('--test', action='store_true')
     opts=parser.parse_args()
 
     p = Punctuator()
+
+    if opts.load:
+        p.model.load_weights('punctuator.h5')
+
     x, y = dataset.make_data(dataset.load_sentences('train'))
     x_val, y_val = dataset.make_data(dataset.load_sentences('test'))
 
-    try:
-        p.train(Punctuator.generator(x, y), valgen=Punctuator.generator(x, y))
-    finally:
-        p.model.save('punctuator.h5')
+    if opts.test:
+        while True:
+            text = input(' > ')
+            result = p.predict(re.sub('(?!\w| ).', '', text).split())
+            print(f'-> {result}\n')
+    else:
+        try:
+            p.train(Punctuator.generator(x, y), valgen=Punctuator.generator(x_val, y_val))
+        finally:
+            p.model.save('punctuator.h5')

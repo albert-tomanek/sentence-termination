@@ -20,6 +20,7 @@ OUTPUTS = {
     '?':   [0, 0, 0, 1],
 }
 OUTPUT_SHAPE = (4,)
+OUTPUT_MAP = ['', '.', '!', '?']    # This is used to convert the indices from the above table back into punctuaiton.
 
 def make_data(text):
     text = re.sub('(?!\w| |'+SENTENCE_END+').', '', text.lower())    # Get rid of commas, they're too nuanced for prediction
